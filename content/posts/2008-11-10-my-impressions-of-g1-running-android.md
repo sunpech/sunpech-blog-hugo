@@ -12,7 +12,6 @@ tags:
   - Android
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s600/g1officialnewnew.jpg
 title: My Impressions of the G1 running Android
-url: /2008/11/10/my-impressions-of-g1-running-android/
 ---
 
 

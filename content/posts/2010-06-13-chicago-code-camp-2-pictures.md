@@ -12,7 +12,6 @@ tags:
   - Code Camp
 thumbnail: http://3.bp.blogspot.com/-Nke0rU7WhHw/S95NA89AsII/AAAAAAAAPmA/Xy74BEHWndk/s600/2010-05-01+08.48.30.jpg
 title: Chicago Code Camp 2 Pictures
-url: /2010/06/13/chicago-code-camp-2-pictures/
 ---
 
 

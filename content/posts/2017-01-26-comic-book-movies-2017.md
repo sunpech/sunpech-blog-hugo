@@ -10,7 +10,6 @@ tags:
   - Movies
 thumbnail: /images/blog/tn_comic-book-movies-2017.jpg
 title: Comic Book Movies of 2017
-url: /2017/01/26/comic-book-movies-2017/
 ---
 
 

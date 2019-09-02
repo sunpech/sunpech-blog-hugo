@@ -10,7 +10,6 @@ tags:
   - Software Development
   - Code Camp
 title: SoCal Code Camp is tomorrow
-url: /2012/01/27/socal-code-camp-is-tomorrow/
 ---
 
 

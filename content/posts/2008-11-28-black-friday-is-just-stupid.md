@@ -9,7 +9,6 @@ tags:
   - Personal
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/STA1GJdqx8I/AAAAAAAAIXg/GqO1waJAekQ/s600/shopping_lines.jpg
 title: Black Friday is just Stupid
-url: /2008/11/28/black-friday-is-just-stupid/
 ---
 
 

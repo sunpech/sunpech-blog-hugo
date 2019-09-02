@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: /images/blog/tn_thoughts_on_apple_event.jpg
 title: Thoughts on Apple's Event
-url: /2015/09/10/thoughts-on-apples-event/
 ---
 
 

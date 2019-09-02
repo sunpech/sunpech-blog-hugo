@@ -12,7 +12,6 @@ tags:
   - Google
 thumbnail: http://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s600/IMG_0115.JPG
 title: 'My New Phone: Google''s Nexus One'
-url: /2010/01/06/my-new-phone-googles-nexus-one/
 ---
 
 

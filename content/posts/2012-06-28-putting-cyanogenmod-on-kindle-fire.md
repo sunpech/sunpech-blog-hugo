@@ -11,7 +11,6 @@ tags:
   - Android
 thumbnail: http://1.bp.blogspot.com/-yU7gPhRWdPg/T-wtYgHP_BI/AAAAAAABOks/dvPzH189ZBg/s600/Nexus7_tablets.jpg
 title: Putting CyanogenMod on the Kindle Fire
-url: /2012/06/28/putting-cyanogenmod-on-kindle-fire/
 ---
 
 

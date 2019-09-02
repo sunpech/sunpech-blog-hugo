@@ -12,7 +12,6 @@ tags:
   - Code Camp
 thumbnail: http://3.bp.blogspot.com/-c0HUzw7CqWw/UIIIhnLmWBI/AAAAAAABVOc/J2Fu10yEWNc/s600/2012-10-14+at+09-35-38.jpg
 title: SoCal Code Camp at USC
-url: /2012/10/20/socal-code-camp-at-usc/
 ---
 
 

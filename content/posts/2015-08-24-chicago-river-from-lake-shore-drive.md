@@ -10,7 +10,6 @@ tags:
   - Photography
 thumbnail: /images/blog/tn_chicago_river_from_lsd.jpg
 title: Chicago River from Lake Shore Drive
-url: /2015/08/24/chicago-river-from-lake-shore-drive/
 ---
 
 

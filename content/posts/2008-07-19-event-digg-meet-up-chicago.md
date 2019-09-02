@@ -11,7 +11,6 @@ tags:
   - Meetup
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SHQq7sxM-8I/AAAAAAAAAks/lcoBl4SRTVI/s600/digg_chicago.jpg
 title: 'Event: Digg Meet-Up Chicago'
-url: /2008/07/19/event-digg-meet-up-chicago/
 ---
 
 

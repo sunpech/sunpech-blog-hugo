@@ -11,7 +11,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_wonder-woman-sword-2017.jpg
 title: Wonder Woman
-url: /2017/06/07/wonder-woman/
 ---
 
 

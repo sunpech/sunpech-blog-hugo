@@ -10,7 +10,6 @@ tags:
   - Movies
 thumbnail: /images/blog/tn_2016_superhero_movies_posters.jpg
 title: Super Hero Movies of 2016
-url: /2016/01/25/super-hero-movies-of-2016/
 ---
 
 

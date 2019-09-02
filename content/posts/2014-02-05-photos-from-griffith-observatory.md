@@ -11,7 +11,6 @@ tags:
   - Photography
 thumbnail: http://2.bp.blogspot.com/-NkvvpZOgOgE/UvCCLn6JzVI/AAAAAAABmNA/4fjFbzC6Smc/s600/2014-02-03+at+06-15-00.jpg
 title: Photos from Griffith Observatory
-url: /2014/02/05/photos-from-griffith-observatory/
 ---
 
 

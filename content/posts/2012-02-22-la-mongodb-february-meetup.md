@@ -11,7 +11,6 @@ tags:
   - Meetup
 thumbnail: http://4.bp.blogspot.com/-340-cksRhXc/T0SDaqOVMwI/AAAAAAAA6ZM/9jPe-nmBbHk/s600/2012-02-21+at+19-12-50.jpg
 title: LA MongoDB February Meetup
-url: /2012/02/22/la-mongodb-february-meetup/
 ---
 
 

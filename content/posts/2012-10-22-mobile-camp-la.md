@@ -12,7 +12,6 @@ tags:
   - Code Camp
 thumbnail: http://2.bp.blogspot.com/-NipS80fmeFk/UIIM1UjScTI/AAAAAAABVRs/O-DGSIDMLjM/s600/2012-10-18+at+11-24-25.jpg
 title: Mobile Camp LA
-url: /2012/10/22/mobile-camp-la/
 ---
 
 

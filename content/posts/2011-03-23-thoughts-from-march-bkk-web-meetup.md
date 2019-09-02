@@ -14,7 +14,6 @@ tags:
   - Bangkok
 thumbnail: http://1.bp.blogspot.com/-dBG2xj67XC8/TYl8qTHcaqI/AAAAAAAAkOU/60YDaID1JPw/s600/IMG_5097.JPG
 title: Thoughts from the March BKK Web Meetup
-url: /2011/03/23/thoughts-from-march-bkk-web-meetup/
 ---
 
 

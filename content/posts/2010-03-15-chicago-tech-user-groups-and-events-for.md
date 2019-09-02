@@ -10,7 +10,6 @@ tags:
   - Chicago
   - Software Development
 title: Chicago Tech User Groups and Events for March 2010
-url: /2010/03/15/chicago-tech-user-groups-and-events-for/
 ---
 
 

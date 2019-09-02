@@ -11,7 +11,6 @@ tags:
   - Events
 thumbnail: http://2.bp.blogspot.com/-9E3ZzvtHbTk/UQHd5KVuODI/AAAAAAABYZU/oAVNDhWpGGI/s600/IMG_20130124_163545.jpg
 title: The Stanley Kubrick Exhibit at LACMA
-url: /2013/01/24/the-stanley-kubrick-exhibit-at-lacma/
 ---
 
 

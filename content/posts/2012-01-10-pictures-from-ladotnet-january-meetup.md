@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://3.bp.blogspot.com/-wzvm8pH0tBM/TxokjAnVSKI/AAAAAAAA2zU/l-BMG3ZCH34/s600/2012-01-09+at+18-34-30.jpg
 title: Pictures from LADOTNET January Meetup
-url: /2012/01/10/pictures-from-ladotnet-january-meetup/
 ---
 
 

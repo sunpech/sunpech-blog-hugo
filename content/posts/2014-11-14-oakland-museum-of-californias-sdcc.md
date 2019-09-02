@@ -14,7 +14,6 @@ tags:
   - San Francisco
 thumbnail: http://4.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAAB0Ag/Q2GTo5K5VUg/s600/2013-07-18%2Bat%2B17-23-17.jpg
 title: Oakland Museum of California's SDCC Exhibit
-url: /2014/11/14/oakland-museum-of-californias-sdcc/
 ---
 
 

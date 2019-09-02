@@ -13,7 +13,6 @@ tags:
   - Bangkok
 thumbnail: http://1.bp.blogspot.com/-rLGnZkN3LLU/TZyzokx6FbI/AAAAAAAAlKU/Jef39GJ7jWk/s600/IMG_5316.JPG
 title: Stack Overflow Meetup in Bangkok
-url: /2011/04/08/stack-overflow-meetup-in-bangkok/
 ---
 
 

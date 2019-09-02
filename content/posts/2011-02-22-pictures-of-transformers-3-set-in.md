@@ -11,7 +11,6 @@ tags:
   - Movies
 thumbnail: http://3.bp.blogspot.com/-uYsvUKhyzLg/TWOHIoUIjvI/AAAAAAAAg3A/acnXcX2HpG8/s600/IMG_0479.JPG
 title: Pictures of Transformers 3 Set in Chicago
-url: /2011/02/22/pictures-of-transformers-3-set-in/
 ---
 
 

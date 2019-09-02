@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://1.bp.blogspot.com/-mQ_mE8LWKKM/TnGB6qLKqnI/AAAAAAAAucU/7ElGf42YqLY/s600/2011-09-14+at+16-28-37.jpg
 title: Pictures from Objective-C and iOS for .NET Developers
-url: /2011/09/15/pictures-from-objective-c-and-ios-for/
 ---
 
 

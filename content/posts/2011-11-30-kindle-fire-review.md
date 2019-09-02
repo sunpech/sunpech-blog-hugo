@@ -12,7 +12,6 @@ tags:
   - Android
 thumbnail: http://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s600/www-3.jpeg
 title: Kindle Fire Review
-url: /2011/11/30/kindle-fire-review/
 ---
 
 

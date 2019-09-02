@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/SKJv-gJLYkI/AAAAAAAAAlQ/VNgf9rCJw1I/s600/datacenter.gif
 title: Tapping into the Cloud
-url: /2008/08/12/tapping-into-cloud/
 ---
 
 

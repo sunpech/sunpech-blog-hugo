@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: /images/blog/tn_blogger-to-jekyll.jpg
 title: Moved from Blogger to Jekyll
-url: /2015/05/25/moved-from-blogger-to-jekyll/
 ---
 
 

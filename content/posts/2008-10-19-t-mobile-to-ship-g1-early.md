@@ -11,7 +11,6 @@ tags:
   - Android
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SPvKJ1MI4gI/AAAAAAAAIJE/LamGf5KMYTs/s600/tmobile_g1_arrive_early.jpg
 title: T-mobile to ship G1 early?
-url: /2008/10/19/t-mobile-to-ship-g1-early/
 ---
 
 

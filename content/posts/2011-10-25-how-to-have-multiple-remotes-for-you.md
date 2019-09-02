@@ -10,7 +10,6 @@ tags:
   - Software Development
   - Guide
 title: How to have multiple remotes for you Git project
-url: /2011/10/25/how-to-have-multiple-remotes-for-you/
 ---
 
 

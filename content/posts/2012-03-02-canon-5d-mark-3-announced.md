@@ -10,7 +10,6 @@ tags:
   - Photography
 thumbnail: http://1.bp.blogspot.com/-WjZ3XJWGLf4/T1FvjdqGx4I/AAAAAAAA7QQ/mj03W3OqIKc/s600/canon_5d_mark3.png
 title: Canon 5D Mark 3 Announced
-url: /2012/03/02/canon-5d-mark-3-announced/
 ---
 
 

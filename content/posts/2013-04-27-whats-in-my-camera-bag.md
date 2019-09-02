@@ -10,7 +10,6 @@ tags:
   - Photography
 thumbnail: http://4.bp.blogspot.com/-itgDoYkpqyw/UXw5PYB4hxI/AAAAAAABbvo/f3YFiG4A5XA/s600/IMG_20130427_134020.jpg
 title: What's In My Camera Bag
-url: /2013/04/27/whats-in-my-camera-bag/
 ---
 
 

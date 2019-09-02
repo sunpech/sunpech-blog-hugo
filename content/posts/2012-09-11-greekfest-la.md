@@ -10,7 +10,6 @@ tags:
   - Los Angeles
 thumbnail: http://4.bp.blogspot.com/-II83ENaAySk/UE5z2Zw1AVI/AAAAAAABTzQ/JBqFaiTADEI/s400/2012-09-07.jpg
 title: Greekfest LA
-url: /2012/09/11/greekfest-la/
 ---
 
 

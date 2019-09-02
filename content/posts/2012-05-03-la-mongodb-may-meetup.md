@@ -12,7 +12,6 @@ tags:
   - Software Development
 thumbnail: http://1.bp.blogspot.com/-aCmnzVo3uiw/T6JzVtgHskI/AAAAAAABH7c/zsaOYWt3MG0/s600/2012-05-02+at+19-28-21.jpg
 title: LA MongoDB May Meetup
-url: /2012/05/03/la-mongodb-may-meetup/
 ---
 
 

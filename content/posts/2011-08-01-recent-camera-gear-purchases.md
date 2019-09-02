@@ -10,7 +10,6 @@ tags:
   - Photography
 thumbnail: http://1.bp.blogspot.com/-gbYBh-CCb7M/Tjb-jG8YLTI/AAAAAAAAs2I/lLZ68CJEAyE/s600/IMAG0035.jpg
 title: Recent Camera Gear Purchases
-url: /2011/08/01/recent-camera-gear-purchases/
 ---
 
 

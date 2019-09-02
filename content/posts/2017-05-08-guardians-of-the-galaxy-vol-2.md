@@ -11,7 +11,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_guardians-of-the-galaxy-vol-2.jpg
 title: Guardians of the Galaxy Vol. 2
-url: /2017/05/08/guardians-of-the-galaxy-vol-2/
 ---
 
 

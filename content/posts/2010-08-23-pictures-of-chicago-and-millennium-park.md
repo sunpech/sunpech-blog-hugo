@@ -11,7 +11,6 @@ tags:
   - Photography
 thumbnail: http://2.bp.blogspot.com/-UiNG3-k_BY0/TG4QoafrZsI/AAAAAAAAVJw/W3ld86ABlxs/s600/IMG_1883.jpg
 title: Pictures of Chicago and the Millennium Park Bean
-url: /2010/08/23/pictures-of-chicago-and-millennium-park/
 ---
 
 

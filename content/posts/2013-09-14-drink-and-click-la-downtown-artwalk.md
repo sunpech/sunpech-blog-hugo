@@ -11,7 +11,6 @@ tags:
   - Los Angeles
 thumbnail: http://3.bp.blogspot.com/-iE17riuDdCA/UjM0MhyCZYI/AAAAAAAByzk/kgqHbG0vXVA/s600/2013-09-12%2Bat%2B20-32-38.jpg
 title: Drink and Click LA Downtown Artwalk
-url: /2013/09/14/drink-and-click-la-downtown-artwalk/
 ---
 
 

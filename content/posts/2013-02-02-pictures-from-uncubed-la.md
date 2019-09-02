@@ -11,7 +11,6 @@ tags:
   - Events
 thumbnail: http://1.bp.blogspot.com/--h90gI86ngk/UQujbs79HbI/AAAAAAABYjk/uTbcvf8c3X8/s600/2013-01-31+at+13-07-49.jpg
 title: Pictures from UnCubed LA
-url: /2013/02/02/pictures-from-uncubed-la/
 ---
 
 

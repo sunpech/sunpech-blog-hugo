@@ -11,7 +11,6 @@ tags:
   - Photography
 thumbnail: http://4.bp.blogspot.com/-kWmgKh2VP3c/UteDJfhJZ0I/AAAAAAABl4c/KLz7N_h1A84/s600/2014-01-12+at+16-56-36.jpg
 title: Photos from Chicago's Adler Planetarium
-url: /2014/01/17/photos-from-chicagos-adler-planetarium/
 ---
 
 

@@ -10,7 +10,6 @@ tags:
   - Photography
 thumbnail: /images/blog/tn_the_chicago_theatre.jpg
 title: The Chicago Theatre
-url: /2015/08/06/the-chicago-theatre/
 ---
 
 

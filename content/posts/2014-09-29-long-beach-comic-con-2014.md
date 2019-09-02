@@ -14,7 +14,6 @@ tags:
   - Long Beach Comic Con
 thumbnail: http://3.bp.blogspot.com/-AGuoADBTcug/VCf9IO-eH-I/AAAAAAABxug/Cs8flcjwxIo/s600/2014-09-27%2Bat%2B10-13-16.jpg
 title: Long Beach Comic Con 2014
-url: /2014/09/29/long-beach-comic-con-2014/
 ---
 
 

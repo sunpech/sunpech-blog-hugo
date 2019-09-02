@@ -10,7 +10,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_warcraft-movie.jpg
 title: Warcraft Movie
-url: /2016/06/14/warcraft-movie/
 ---
 
 

@@ -11,7 +11,6 @@ tags:
   - Software Development
   - Meetup
 title: Upcoming Meetups for Spring and Summer 2011
-url: /2011/05/01/upcoming-meetups-for-spring-and-summer/
 ---
 
 

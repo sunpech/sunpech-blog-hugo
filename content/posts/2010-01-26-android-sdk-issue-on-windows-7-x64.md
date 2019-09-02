@@ -13,7 +13,6 @@ tags:
   - Guide
 thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/S1-JuvXb-TI/AAAAAAAAOEc/-7CpDZMLDBA/s600/Android_error_message_64bit.jpg
 title: Android SDK issue on Windows 7 x64
-url: /2010/01/26/android-sdk-issue-on-windows-7-x64/
 ---
 
 

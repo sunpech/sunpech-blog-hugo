@@ -11,7 +11,6 @@ tags:
   - Google
 thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SaAN3S0UM7I/AAAAAAAAIlY/N6u2xBcHWg0/s600/google_reader_screenshot.png
 title: 'My Favorite Web App: Google Reader'
-url: /2009/02/21/my-favorite-web-app-google-reader/
 ---
 
 

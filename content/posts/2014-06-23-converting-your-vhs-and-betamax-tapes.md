@@ -11,7 +11,6 @@ tags:
   - Technology
 thumbnail: http://3.bp.blogspot.com/-RtQGUkd8Rfg/U6XaaRYqaGI/AAAAAAABs5Q/mPNDpV1RyZI/s600/2014-06-21+at+14-07-46.jpg
 title: Converting Your VHS and Betamax Tapes to Digital
-url: /2014/06/23/converting-your-vhs-and-betamax-tapes/
 ---
 
 

@@ -9,7 +9,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_the_martian.jpg
 title: The Martian
-url: /2015/08/14/the-martian/
 ---
 
 

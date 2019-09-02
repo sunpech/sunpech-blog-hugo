@@ -9,7 +9,6 @@ tags:
   - Review
   - Books
 title: Rework by Jason Fried and David Heinemeier Hansson
-url: /2010/03/21/rework-by-jason-fried-and-david/
 ---
 
 

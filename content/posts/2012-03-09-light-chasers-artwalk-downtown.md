@@ -13,7 +13,6 @@ tags:
   - Photowalk
 thumbnail: http://1.bp.blogspot.com/-S8eTy0FsAwA/T1ns0pEdC8I/AAAAAAAA7qk/VlH4yBH4Fng/s600/2012-03-08+at+19-03-56.jpg
 title: Light Chasers Artwalk Downtown
-url: /2012/03/09/light-chasers-artwalk-downtown/
 ---
 
 

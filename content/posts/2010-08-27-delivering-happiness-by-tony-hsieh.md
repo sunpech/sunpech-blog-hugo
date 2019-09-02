@@ -9,7 +9,6 @@ tags:
   - Review
   - Books
 title: Delivering Happiness by Tony Hsieh
-url: /2010/08/27/delivering-happiness-by-tony-hsieh/
 ---
 
 

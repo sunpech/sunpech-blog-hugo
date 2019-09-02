@@ -11,7 +11,6 @@ tags:
   - Technology
 thumbnail: http://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s600/Cloud_Storage_Apps.jpg
 title: Cloud Storage Services Review
-url: /2013/06/21/cloud-storage-services-review/
 ---
 
 

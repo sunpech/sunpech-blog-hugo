@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: /images/blog/tn_lastpass_logo.jpg
 title: LastPass Password Manager
-url: /2015/06/19/lastpass-password-manager/
 ---
 
 

@@ -9,7 +9,6 @@ redirect_from: /2009/01/basic-combinatorial-mathematics.html
 tags:
   - Technology
 title: Basic Combinatorial Mathematics
-url: /2009/01/02/basic-combinatorial-mathematics/
 ---
 
 

@@ -11,7 +11,6 @@ tags:
   - Technology
 thumbnail: http://2.bp.blogspot.com/-BYQ46aWVEJ4/U-DxKnCEGDI/AAAAAAABv6I/qq2oO4rI48M/s600/InstagramTwitter.jpg
 title: Instagram, the Better Twitter?
-url: /2014/08/06/instagram-better-twitter/
 ---
 
 

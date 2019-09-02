@@ -14,7 +14,6 @@ tags:
   - Photography
 thumbnail: http://3.bp.blogspot.com/-wgPuwK1I6v4/VKbvlZ5ekfI/AAAAAAAB06Q/Wr2DtMebZcE/s600/2014-01-12%2Bat%2B17-51-42.jpg
 title: My Favorite Photos of 2014
-url: /2015/01/02/my-favorite-photos-of-2014/
 ---
 
 

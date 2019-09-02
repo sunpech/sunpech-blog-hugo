@@ -12,7 +12,6 @@ tags:
   - Events
 thumbnail: http://4.bp.blogspot.com/-1gQgmuWo4JM/T4LS5Hg1EYI/AAAAAAABCYY/mfy1mqqBGs0/s600/2012-04-08+at+11-52-05.jpg
 title: The Original Renaissance Pleasure Faire
-url: /2012/04/10/original-renaissance-pleasure-faire/
 ---
 
 

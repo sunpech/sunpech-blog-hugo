@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://1.bp.blogspot.com/-3c9eM45Hc24/TjDjycmckJI/AAAAAAAAsrY/goiIaQnBwi0/s600/2011-07-27+at+18-34-09.jpg
 title: Pictures from July's Refresh and Ignite Chicago
-url: /2011/07/29/pictures-from-july-refresh-and-ignite/
 ---
 
 

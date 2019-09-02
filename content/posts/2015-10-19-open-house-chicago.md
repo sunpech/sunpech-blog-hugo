@@ -11,7 +11,6 @@ tags:
   - Photowalk
 thumbnail: /images/blog/tn_open_house_chicago_2015.jpg
 title: Pictures from Open House Chicago 2015
-url: /2015/10/19/open-house-chicago/
 ---
 
 

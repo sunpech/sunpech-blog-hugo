@@ -16,7 +16,6 @@ tags:
   - San Diego
 thumbnail: http://2.bp.blogspot.com/-3ixYxkBE-y4/T4zIO8wS0QI/AAAAAAABEik/P5hTKN4pEao/s600/GooglePlus_Conference.jpg
 title: Upcoming Summer Conventions
-url: /2012/04/16/upcoming-summer-conventions/
 ---
 
 

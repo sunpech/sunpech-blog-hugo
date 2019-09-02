@@ -11,7 +11,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_dr-strange.jpg
 title: Doctor Strange
-url: /2016/11/14/doctor-strange/
 ---
 
 

@@ -11,7 +11,6 @@ tags:
   - Technology
 thumbnail: /images/blog/tn_exfat.jpg
 title: How to Format your Hard Drive into exFAT
-url: /2015/12/01/how-to-format-drive-in-exfat/
 ---
 
 

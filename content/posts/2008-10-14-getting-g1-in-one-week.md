@@ -11,7 +11,6 @@ tags:
   - Android
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SPU7xQYooGI/AAAAAAAAIIg/wbhjqnijWfE/s600/g1.jpg
 title: Getting the G1 in one week
-url: /2008/10/14/getting-g1-in-one-week/
 ---
 
 

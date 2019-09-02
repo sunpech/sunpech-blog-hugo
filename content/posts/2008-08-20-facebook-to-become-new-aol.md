@@ -11,7 +11,6 @@ tags:
   - Social Media
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SKuMp6JQvsI/AAAAAAAAAmQ/4waYOTE3SV8/s600/prodigy.png
 title: Facebook to become the new AOL?
-url: /2008/08/20/facebook-to-become-new-aol/
 ---
 
 

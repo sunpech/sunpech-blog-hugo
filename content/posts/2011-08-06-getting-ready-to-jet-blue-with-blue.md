@@ -11,7 +11,6 @@ tags:
   - Travel
 thumbnail: http://1.bp.blogspot.com/-IqWzGKfEWEs/TxVmCbV3RJI/AAAAAAAA2og/A0qiVuWc3nw/s600/IMG_20100920_084235.jpeg
 title: Getting ready to Jet Blue with Blue Pass
-url: /2011/08/06/getting-ready-to-jet-blue-with-blue/
 ---
 
 

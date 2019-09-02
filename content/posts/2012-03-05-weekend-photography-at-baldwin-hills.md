@@ -11,7 +11,6 @@ tags:
   - Los Angeles
 thumbnail: http://1.bp.blogspot.com/-yTFbhEK0kGI/T1LmvFjx01I/AAAAAAAA7SY/q416XmLmDDE/s600/2012-03-03+at+17-52-11.jpg
 title: Weekend Photography at Baldwin Hills and LACMA
-url: /2012/03/05/weekend-photography-at-baldwin-hills/
 ---
 
 

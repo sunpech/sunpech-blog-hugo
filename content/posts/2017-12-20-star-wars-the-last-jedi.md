@@ -10,7 +10,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_star-wars-the-last-jedi.jpg
 title: Star Wars The Last Jedi
-url: /2017/12/20/star-wars-the-last-jedi/
 ---
 
 

@@ -12,7 +12,6 @@ tags:
   - Personal
 thumbnail: http://2.bp.blogspot.com/-6D5Og5RH0Ig/TxVmC40SSpI/AAAAAAAA2os/kWZWK6GL8y4/s600/JfGCq.jpeg
 title: Purchased a Herman Miller Aeron Chair
-url: /2011/08/05/purchased-herman-miller-aeron-chair/
 ---
 
 

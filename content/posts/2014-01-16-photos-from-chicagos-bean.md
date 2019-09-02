@@ -11,7 +11,6 @@ tags:
   - Photography
 thumbnail: http://3.bp.blogspot.com/-50djAaDv4Pg/Us8CvGqedSI/AAAAAAABl4E/HJOo2KUgzaU/s600/2014-01-04+at+07-33-31.jpg
 title: Photos from Chicago's Bean
-url: /2014/01/16/photos-from-chicagos-bean/
 ---
 
 

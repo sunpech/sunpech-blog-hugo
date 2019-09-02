@@ -12,7 +12,6 @@ tags:
   - Comics
 thumbnail: http://2.bp.blogspot.com/-PraOGmGUarU/Tf99e3a7QWI/AAAAAAAApOU/dxpnXotOs6o/s600/Green+Lantern+Poster.jpeg
 title: Green Lantern Movie Review
-url: /2011/06/20/green-lantern-movie-review/
 ---
 
 

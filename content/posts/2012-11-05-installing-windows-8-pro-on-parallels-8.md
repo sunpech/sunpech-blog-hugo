@@ -11,7 +11,6 @@ tags:
   - Guide
 thumbnail: http://4.bp.blogspot.com/-l3pToD2O5l0/UJhCTG6KgvI/AAAAAAABVlQ/jYSsgAd8pow/s600/IMG_20121105_144324.jpeg
 title: Installing Windows 8 Pro on Parallels Desktop 8
-url: /2012/11/05/installing-windows-8-pro-on-parallels-8/
 ---
 
 

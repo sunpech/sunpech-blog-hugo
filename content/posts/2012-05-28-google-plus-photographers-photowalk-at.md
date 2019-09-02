@@ -14,7 +14,6 @@ tags:
   - Photowalk
 thumbnail: http://1.bp.blogspot.com/-r_t2-7m_nZE/T77KYkVOvsI/AAAAAAABL5I/wqLW_xzYwm8/s600/2012-05-21+at+17-00-02.jpg
 title: Google Plus Photographer's Photowalk at Golden Gate Park
-url: /2012/05/28/google-plus-photographers-photowalk-at/
 ---
 
 

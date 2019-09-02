@@ -9,7 +9,6 @@ redirect_from: /2009/12/hooked-on-tech-podcasts.html
 tags:
   - Software Development
 title: Hooked on Tech Podcasts
-url: /2009/12/08/hooked-on-tech-podcasts/
 ---
 
 

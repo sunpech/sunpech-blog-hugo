@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://2.bp.blogspot.com/-N_2PXu0zwmE/TkM-aoAp9nI/AAAAAAAAtNI/yorZqGndvo0/s600/2011-08-10+at+18-34-11.jpg
 title: 'Pictures from Chicago Alt.net: Coffeescript'
-url: /2011/08/10/pictures-from-chicago-altnet/
 ---
 
 

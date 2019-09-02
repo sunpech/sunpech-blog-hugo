@@ -13,7 +13,6 @@ tags:
   - Technology
 thumbnail: http://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s600/IMG_20150408_153732.jpg
 title: Map Your Mouse's Back and Forward Buttons on a Mac
-url: /2015/04/09/map-your-mouses-back-and-forward/
 ---
 
 

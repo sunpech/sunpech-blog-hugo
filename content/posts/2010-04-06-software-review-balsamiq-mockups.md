@@ -11,7 +11,6 @@ tags:
   - Review
   - Software Development
 title: 'Software Review: Balsamiq Mockups'
-url: /2010/04/06/software-review-balsamiq-mockups/
 ---
 
 

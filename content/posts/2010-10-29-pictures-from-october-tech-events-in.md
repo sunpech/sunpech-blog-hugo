@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://3.bp.blogspot.com/-O0lbvGCN9P0/TLZpPDAMokI/AAAAAAAAa1Y/p3lDcp2iYAk/s600/IMG_3133.jpg
 title: Pictures from October Tech Events in Chicago
-url: /2010/10/29/pictures-from-october-tech-events-in/
 ---
 
 

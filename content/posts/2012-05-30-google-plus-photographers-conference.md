@@ -13,7 +13,6 @@ tags:
   - Google
 thumbnail: http://4.bp.blogspot.com/-rCRq_EeCNVU/T77SZMTcUcI/AAAAAAABL8c/U-Fd4sTGRe8/s600/2012-05-22+at+05-16-11.jpg
 title: Google Plus Photographer's Conference
-url: /2012/05/30/google-plus-photographers-conference/
 ---
 
 

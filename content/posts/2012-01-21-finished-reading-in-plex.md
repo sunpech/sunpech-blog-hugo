@@ -11,7 +11,6 @@ tags:
   - Books
   - Google
 title: 'Finished reading: In The Plex'
-url: /2012/01/21/finished-reading-in-plex/
 ---
 
 

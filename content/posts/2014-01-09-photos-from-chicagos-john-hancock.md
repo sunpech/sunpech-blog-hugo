@@ -11,7 +11,6 @@ tags:
   - Photography
 thumbnail: http://4.bp.blogspot.com/-2EVzL7RoP7o/Us8C1EVO0WI/AAAAAAABly4/xWQXxmc-EHQ/s600/2014-01-08+at+21-37-31.jpg
 title: Photos from Chicago's John Hancock Observatory
-url: /2014/01/09/photos-from-chicagos-john-hancock/
 ---
 
 

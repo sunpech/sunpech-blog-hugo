@@ -12,7 +12,6 @@ tags:
   - Technology
 thumbnail: http://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s600/Screen+Shot+2013-06-13+at+1.26.39+AM.png
 title: Apple Compatible External Hard Drives Are Over-Priced
-url: /2013/06/13/apple-compatible-external-hard-drives/
 ---
 
 

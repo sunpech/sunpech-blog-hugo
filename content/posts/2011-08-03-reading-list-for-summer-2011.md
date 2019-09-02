@@ -9,7 +9,6 @@ tags:
   - Books
 thumbnail: http://3.bp.blogspot.com/-F1-5WattxEk/TxVmEghOsFI/AAAAAAAA2pc/Z5S18kuDhXw/s600/www-4.jpeg
 title: Reading List for Summer 2011
-url: /2011/08/03/reading-list-for-summer-2011/
 ---
 
 

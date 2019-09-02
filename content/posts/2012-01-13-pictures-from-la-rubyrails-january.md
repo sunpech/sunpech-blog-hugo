@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://1.bp.blogspot.com/-Yy58_MljGs0/Txok9EKT07I/AAAAAAAA24Q/0cJ6sUCHgMg/s600/2012-01-12+at+19-36-24.jpg
 title: Pictures from LA Ruby/Rails January Meetup
-url: /2012/01/13/pictures-from-la-rubyrails-january/
 ---
 
 

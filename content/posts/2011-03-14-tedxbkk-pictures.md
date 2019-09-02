@@ -12,7 +12,6 @@ tags:
   - Bangkok
 thumbnail: https://lh3.googleusercontent.com/-VjBD7Li-SdM/TX2vnTjIE6I/AAAAAAAAhxo/QvaAmkTLvpM/s600/IMG_20110303_134105.jpg
 title: TEDxBKK Pictures
-url: /2011/03/14/tedxbkk-pictures/
 ---
 
 

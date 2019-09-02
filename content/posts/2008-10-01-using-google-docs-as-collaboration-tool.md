@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SORXyukPKJI/AAAAAAAAIHs/mn5kb3gxf64/s600/google_doc.jpg
 title: Using Google Docs as a Collaboration Tool
-url: /2008/10/01/using-google-docs-as-collaboration-tool/
 ---
 
 

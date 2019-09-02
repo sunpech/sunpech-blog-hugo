@@ -9,7 +9,6 @@ redirect_from: /2012/01/sopa-blackout-set-for-january-18-2012.html
 tags:
   - Technology
 title: SOPA Blackout set for January 18 2012
-url: /2012/01/17/sopa-blackout-set-for-january-18-2012/
 ---
 
 

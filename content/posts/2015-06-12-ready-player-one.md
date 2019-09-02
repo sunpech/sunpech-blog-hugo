@@ -9,7 +9,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_ready_player_one_book.jpg
 title: Ready Player One
-url: /2015/06/12/ready-player-one/
 ---
 
 

@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://1.bp.blogspot.com/-rWqazTtf9iA/TH8rs73uKrI/AAAAAAAAWgw/4K_p-sF0oVw/s600/IMG_2267.jpg
 title: Pictures from September Tech Events in Chicago
-url: /2010/10/11/pictures-from-september-tech-events-in/
 ---
 
 

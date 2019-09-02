@@ -13,7 +13,6 @@ tags:
   - San Diego
 thumbnail: http://2.bp.blogspot.com/-5Efz3YK1MKc/TEe39nW4D4I/AAAAAAAASi4/LPrSKE5oPl8/s600/IMG_0989.JPG
 title: San Diego Comic Con 2010
-url: /2010/07/26/san-diego-comic-con-2010-pictures/
 ---
 
 

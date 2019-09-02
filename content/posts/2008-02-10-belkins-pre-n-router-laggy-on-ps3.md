@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/R69A6AhSFhI/AAAAAAAAAds/Jl8Jn6m7-Xg/s600/belkin-pre-n-250x250.JPG
 title: Belkin's Pre N Router Laggy on PS3 network
-url: /2008/02/10/belkins-pre-n-router-laggy-on-ps3/
 ---
 
 

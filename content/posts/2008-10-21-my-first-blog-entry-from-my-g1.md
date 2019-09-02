@@ -10,7 +10,6 @@ tags:
   - Technology
   - Android
 title: My First Blog Entry from my G1
-url: /2008/10/21/my-first-blog-entry-from-my-g1/
 ---
 
 

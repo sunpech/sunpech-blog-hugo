@@ -12,7 +12,6 @@ tags:
   - Events
 thumbnail: http://3.bp.blogspot.com/-9Cn53uE3Nso/T3kAPSmkN5I/AAAAAAAA_a4/6-CgD9nFMfY/s600/2012-04-01+at+10-52-11.jpg
 title: Songkran Festival in LA's Thaitown
-url: /2012/04/02/songkran-festival-in-las-thaitown/
 ---
 
 

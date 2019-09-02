@@ -10,7 +10,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_spider-man-homecoming.jpg
 title: Spider-Man Homecoming
-url: /2017/07/10/spider-man-homecoming/
 ---
 
 

@@ -8,7 +8,6 @@ redirect_from: /2008/01/looking-forward-to-2008.html
 tags:
   - Personal
 title: Looking forward to 2008
-url: /2008/01/01/looking-forward-to-2008/
 ---
 
 

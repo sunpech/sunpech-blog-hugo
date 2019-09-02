@@ -12,7 +12,6 @@ tags:
   - San Diego Comic Con
 thumbnail: /images/blog/tn_san_diego_comic_con_2015.jpg
 title: San Diego Comic Con 2015
-url: /2015/07/16/san-diego-comic-con-2015/
 ---
 
 

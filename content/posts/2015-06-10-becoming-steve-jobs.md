@@ -12,7 +12,6 @@ tags:
   - Technology
 thumbnail: /images/blog/tn_becoming-steve-jobs.jpg
 title: Becoming Steve Jobs
-url: /2015/06/10/becoming-steve-jobs/
 ---
 
 

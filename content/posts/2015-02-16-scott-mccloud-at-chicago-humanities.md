@@ -13,7 +13,6 @@ tags:
   - Events
 thumbnail: http://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo/s600/B9byWCtCAAEa_L_.jpg
 title: Scott McCloud at Chicago Humanities Festival
-url: /2015/02/16/scott-mccloud-at-chicago-humanities/
 ---
 
 

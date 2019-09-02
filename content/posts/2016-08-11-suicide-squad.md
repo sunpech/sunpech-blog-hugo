@@ -11,7 +11,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_suicide-squad.jpg
 title: Suicide Squad
-url: /2016/08/11/suicide-squad/
 ---
 
 

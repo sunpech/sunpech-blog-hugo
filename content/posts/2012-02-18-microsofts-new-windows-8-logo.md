@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: http://2.bp.blogspot.com/-BmC11EGm9FY/Tz_zb7mpX0I/AAAAAAAA6QY/vTKHaLa55XE/s600/windows_old.jpg
 title: Microsoft's New Windows 8 Logo
-url: /2012/02/18/microsofts-new-windows-8-logo/
 ---
 
 

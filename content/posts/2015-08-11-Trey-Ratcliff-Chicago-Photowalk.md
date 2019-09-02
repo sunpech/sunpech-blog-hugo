@@ -11,7 +11,6 @@ tags:
   - Photowalk
 thumbnail: /images/blog/tn_chicago_skyline_buckingham_fountain.jpg
 title: Chicago Photowalk with Trey Ratcliff
-url: /2015/08/11/Trey-Ratcliff-Chicago-Photowalk/
 ---
 
 

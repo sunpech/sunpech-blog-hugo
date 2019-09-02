@@ -11,7 +11,6 @@ tags:
   - Events
 thumbnail: http://4.bp.blogspot.com/-BtnMgir62Xg/UMWpmjz_dQI/AAAAAAABWcg/DzdG4Z-RWI0/s400/2012-12-09+at+16-09-04.jpg
 title: Dark Knight Legend Exhibit at LA Live
-url: /2012/12/10/dark-knight-legend-exhibit-at-la-live/
 ---
 
 

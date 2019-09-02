@@ -8,7 +8,6 @@ tags:
   - TV Shows
 thumbnail: /images/blog/tn_comicbookgirl19-GameofThrones.jpg
 title: Game of Thrones Epic History
-url: /2015/05/26/game-of-thrones-epic-history/
 ---
 
 

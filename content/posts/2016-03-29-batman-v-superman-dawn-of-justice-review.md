@@ -11,7 +11,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_batman-v-superman.jpg
 title: Batman v Superman Dawn of Justice Review
-url: /2016/03/29/batman-v-superman-dawn-of-justice-review/
 ---
 
 

@@ -9,7 +9,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_elon_musk.jpg
 title: 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future'
-url: /2015/06/24/elon-musk-tesla-spacex/
 ---
 
 

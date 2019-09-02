@@ -10,7 +10,6 @@ tags:
   - Chicago
   - Google
 title: Thoughts on Digg Meetup Chicago
-url: /2008/07/25/thoughts-on-digg-meetup-chicago/
 ---
 
 

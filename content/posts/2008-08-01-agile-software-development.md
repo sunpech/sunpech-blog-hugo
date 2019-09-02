@@ -9,7 +9,6 @@ redirect_from: /2008/08/agile-software-development.html
 tags:
   - Software Development
 title: Agile Software Development
-url: /2008/08/01/agile-software-development/
 ---
 
 

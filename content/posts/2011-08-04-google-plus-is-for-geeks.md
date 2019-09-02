@@ -12,7 +12,6 @@ tags:
   - Google
 thumbnail: http://2.bp.blogspot.com/-PypiOuIp3sE/TxVmBkEDhxI/AAAAAAAA2oM/vnv1_j3PTY0/s600/GooglPlus_SocialNetworks.png
 title: Google Plus is for Geeks
-url: /2011/08/04/google-plus-is-for-geeks/
 ---
 
 

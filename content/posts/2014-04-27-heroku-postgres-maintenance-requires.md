@@ -10,7 +10,6 @@ tags:
   - Software Development
 thumbnail: http://1.bp.blogspot.com/-vENWaWgHtA0/U1zvgEuumLI/AAAAAAABoJE/bYnxnmERa7Y/s600/Screen_Shot_2014-04-27_at_4_50_28_AM.jpg
 title: Heroku Postgres Maintenance Requires Manually Updating DATABASE_URL
-url: /2014/04/27/heroku-postgres-maintenance-requires/
 ---
 
 

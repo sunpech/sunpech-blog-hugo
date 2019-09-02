@@ -12,7 +12,6 @@ tags:
   - San Diego Comic Con
 thumbnail: /images/blog/tn_cosplay_culture_magazine.jpg
 title: My Photos in Cosplay Culture Magazine
-url: /2015/09/07/my-photos-in-cosplay-culture-magazine/
 ---
 
 

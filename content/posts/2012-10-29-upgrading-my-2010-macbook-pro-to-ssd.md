@@ -12,7 +12,6 @@ tags:
   - Apple
 thumbnail: http://4.bp.blogspot.com/-FBVfhSHJKIM/UI4eGVAOCtI/AAAAAAABVfU/ZWbZfflKTAQ/s600/2012-10-23+at+15-35-39.jpg
 title: Upgrading my 2010 Macbook Pro to SSD
-url: /2012/10/29/upgrading-my-2010-macbook-pro-to-ssd/
 ---
 
 

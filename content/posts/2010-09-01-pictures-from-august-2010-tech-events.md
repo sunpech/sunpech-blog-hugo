@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://4.bp.blogspot.com/-sc46VNkERnw/TFjFkiFetVI/AAAAAAAAUzc/qpO0N8edO9U/s600/IMG_1799.JPG
 title: Pictures from the August 2010 Tech Events in Chicago
-url: /2010/09/01/pictures-from-august-2010-tech-events/
 ---
 
 

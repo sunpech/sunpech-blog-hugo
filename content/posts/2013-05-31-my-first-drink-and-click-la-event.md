@@ -12,7 +12,6 @@ tags:
   - Photowalk
 thumbnail: http://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s600/2013-05-30+at+19-48-35.jpg
 title: My First Drink and Click LA Event
-url: /2013/05/31/my-first-drink-and-click-la-event/
 ---
 
 

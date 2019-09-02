@@ -11,7 +11,6 @@ tags:
   - Photography
 thumbnail: http://4.bp.blogspot.com/-qOzeWRvkWp4/Ut7zFjZJN8I/AAAAAAABl_g/lMz5WbG8z8E/s600/2014-01-18+at+17-58-51.jpg
 title: Photos from Downtown Los Angeles
-url: /2014/01/22/photos-from-downtown-los-angeles/
 ---
 
 

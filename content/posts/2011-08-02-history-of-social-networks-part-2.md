@@ -11,7 +11,6 @@ tags:
   - Social Media
 thumbnail: http://2.bp.blogspot.com/--Q7AUWyN2UM/TjV_vAVfb6I/AAAAAAAAs10/YcroxbpbNm0/s600/theSocialNetwork_logo.jpeg
 title: The History of Social Networks Part 2
-url: /2011/08/02/history-of-social-networks-part-2/
 ---
 
 

@@ -11,7 +11,6 @@ tags:
   - Review
   - Books
 title: Finished reading the Groundswell
-url: /2008/07/18/finished-reading-groundswell/
 ---
 
 

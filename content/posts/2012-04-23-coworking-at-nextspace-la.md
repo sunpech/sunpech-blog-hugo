@@ -11,7 +11,6 @@ tags:
   - Meetup
 thumbnail: http://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s600/2012-04-20+at+10-17-56.jpg
 title: Coworking at NextSpace LA
-url: /2012/04/23/coworking-at-nextspace-la/
 ---
 
 

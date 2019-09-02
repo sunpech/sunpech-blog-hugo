@@ -13,7 +13,6 @@ tags:
   - Apple
 thumbnail: http://3.bp.blogspot.com/-7MB6rrGMwsI/TwI19FKW7gI/AAAAAAAA2E8/ZFF4p7AnwoQ/s600/IMG_0088.JPG
 title: Steve Jobs biography
-url: /2012/01/04/steve-jobs-biography/
 ---
 
 

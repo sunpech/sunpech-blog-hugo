@@ -11,7 +11,6 @@ tags:
   - Software Development
   - Meetup
 title: June 2010 Tech Events in Chicago
-url: /2010/06/02/june-2010-tech-events-in-chicago/
 ---
 
 

@@ -13,7 +13,6 @@ tags:
   - Photowalk
 thumbnail: http://2.bp.blogspot.com/-Ikb_KJoxdDc/T0tbxm5CYiI/AAAAAAAA6tQ/54DmXWcT1tE/s600/2012-02-26+at+16-18-14.jpg
 title: LA Photowalk with Trey Ratcliff and Tom Anderson
-url: /2012/02/28/la-photowalk-with-trey-ratcliff-and-tom/
 ---
 
 

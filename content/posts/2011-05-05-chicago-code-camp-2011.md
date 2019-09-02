@@ -12,7 +12,6 @@ tags:
   - Code Camp
 thumbnail: http://4.bp.blogspot.com/-GO8zdM4suwo/TcwN0B7fOpI/AAAAAAAAnss/T1nD2L7lmJc/s600/logo-horizontal.png
 title: Chicago Code Camp 2011
-url: /2011/05/05/chicago-code-camp-2011/
 ---
 
 

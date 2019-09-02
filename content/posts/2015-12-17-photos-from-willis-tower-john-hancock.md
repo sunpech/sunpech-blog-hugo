@@ -10,7 +10,6 @@ tags:
   - Photography
 thumbnail: /images/blog/tn_chicago_willis_tower_lights_north_view.jpg.jpg
 title: Photos from Willis Tower and John Hancock Observatory
-url: /2015/12/17/photos-from-willis-tower-john-hancock/
 ---
 
 

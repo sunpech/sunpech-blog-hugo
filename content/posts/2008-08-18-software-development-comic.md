@@ -11,7 +11,6 @@ tags:
   - Funny
 thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SKm5e1gA9iI/AAAAAAAAAlg/crpgqO6Ooms/s600/software_development.jpg
 title: Software Development Comic
-url: /2008/08/18/software-development-comic/
 ---
 
 

@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/R8HwfwhSFsI/AAAAAAAAAgI/DUh0vPPHiSg/s600/ydl_logo.jpg
 title: Yellow Dog Linux on my PS3
-url: /2008/02/24/yellow-dog-linux-on-my-ps3/
 ---
 
 

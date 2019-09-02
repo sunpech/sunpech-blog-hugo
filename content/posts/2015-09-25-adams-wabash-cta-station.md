@@ -10,7 +10,6 @@ tags:
   - Photography
 thumbnail: /images/blog/tn_adams-wabash-cta-station.jpg
 title: Adams/Wabash CTA Station
-url: /2015/09/25/adams-wabash-cta-station/
 ---
 
 

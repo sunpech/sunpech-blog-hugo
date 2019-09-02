@@ -11,7 +11,6 @@ tags:
   - Cosplay
 thumbnail: /images/blog/tn_2019-star-wars-celebration-chicago.jpg
 title: Star Wars Celebration
-url: /2019/04/17/star-wars-celebration-chicago/
 ---
 
 

@@ -9,7 +9,6 @@ tags:
   - Personal
 thumbnail: http://1.bp.blogspot.com/-8tLJ84y31BE/TEze0DUpkEI/AAAAAAAAUHA/6a5d4SBGIqY/s600/IMG_1625.JPG
 title: My visit to Blizzard Entertainment HQ
-url: /2010/07/26/my-visit-to-blizzard-entertainment-hq/
 ---
 
 

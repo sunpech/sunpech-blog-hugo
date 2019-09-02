@@ -11,7 +11,6 @@ tags:
   - Software Development
 thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s600/microsoft_dreamspark.png
 title: Free Microsoft Development Tools for Students on DreamSpark
-url: /2009/02/28/free-microsoft-development-tools-for/
 ---
 
 

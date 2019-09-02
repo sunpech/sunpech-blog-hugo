@@ -13,7 +13,6 @@ tags:
   - Social Media
 thumbnail: http://4.bp.blogspot.com/-43oWAaB2058/VVP6WIYsGlI/AAAAAAAB5ac/51I-ngg8GOU/s600/Top-5-YouTubes-for-Comic-Geeks.jpg
 title: Top 5 YouTube Channels for Comic Geeks
-url: /2015/05/14/top-5-youtube-channels-for-comic-geeks/
 ---
 
 

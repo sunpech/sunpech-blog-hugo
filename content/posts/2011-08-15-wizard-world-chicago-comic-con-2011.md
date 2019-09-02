@@ -12,7 +12,6 @@ tags:
   - Comic Con
 thumbnail: http://2.bp.blogspot.com/-DpM_DZxtaiw/TkdDIQLUtuI/AAAAAAAAtRM/dO48OHyomiI/s600/2011-08-13+at+11-47-40.jpg
 title: Wizard World Chicago Comic Con 2011
-url: /2011/08/15/wizard-world-chicago-comic-con-2011/
 ---
 
 

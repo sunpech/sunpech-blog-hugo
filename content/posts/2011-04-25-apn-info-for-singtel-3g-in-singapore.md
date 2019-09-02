@@ -11,7 +11,6 @@ tags:
   - Singapore
 thumbnail: http://4.bp.blogspot.com/-GPlnDEX8OyY/TbTb--h4vBI/AAAAAAAAnCg/6u5Y_2GY-Bw/s600/IMG_20110425_102052.jpg
 title: APN Info for Singtel's 3G in Singapore
-url: /2011/04/25/apn-info-for-singtel-3g-in-singapore/
 ---
 
 

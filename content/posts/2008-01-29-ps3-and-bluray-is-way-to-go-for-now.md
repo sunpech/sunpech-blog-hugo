@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/R6E-JOQ-KLI/AAAAAAAAAcA/_w8mLZ-fudk/s600/bluray.jpg
 title: PS3 and Bluray is the way to go... for now
-url: /2008/01/29/ps3-and-bluray-is-way-to-go-for-now/
 ---
 
 

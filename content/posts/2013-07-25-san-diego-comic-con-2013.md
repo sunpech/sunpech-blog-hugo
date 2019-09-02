@@ -13,7 +13,6 @@ tags:
   - San Diego Comic Con
 thumbnail: http://2.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAABg6M/ZHHW9sGZQDM/s600/2013-07-18+at+17-23-17.jpg
 title: San Diego Comic Con 2013
-url: /2013/07/25/san-diego-comic-con-2013/
 ---
 
 

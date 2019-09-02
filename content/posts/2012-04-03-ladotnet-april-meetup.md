@@ -12,7 +12,6 @@ tags:
   - Software Development
 thumbnail: http://3.bp.blogspot.com/-wAM9-h8i18I/T3qFDq9-UzI/AAAAAAABAFk/3XDwXNNf1WU/s600/2012-04-02+at+17-52-57.jpg
 title: LADOTNET April Meetup
-url: /2012/04/03/ladotnet-april-meetup/
 ---
 
 

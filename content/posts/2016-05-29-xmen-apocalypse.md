@@ -11,7 +11,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_x-men-apocalypse.jpg
 title: X-Men Apocalypse
-url: /2016/05/29/xmen-apocalypse/
 ---
 
 

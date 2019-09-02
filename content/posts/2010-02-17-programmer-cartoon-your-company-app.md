@@ -11,7 +11,6 @@ tags:
   - Funny
 thumbnail: http://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s600/intapplications.jpg
 title: 'Programmer Cartoon: Your Company App'
-url: /2010/02/17/programmer-cartoon-your-company-app/
 ---
 
 

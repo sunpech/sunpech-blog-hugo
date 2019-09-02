@@ -11,7 +11,6 @@ tags:
   - Review
   - Books
 title: 'Food Photography: From Snapshots to Great Shots'
-url: /2012/02/06/food-photography-from-snapshots-to/
 ---
 
 

@@ -11,7 +11,6 @@ tags:
   - Photography
 thumbnail: http://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s600/2014-02-15+at+19-45-14.jpg
 title: Photos from 6th St Bridge
-url: /2014/02/21/photos-from-6th-st-bridge/
 ---
 
 

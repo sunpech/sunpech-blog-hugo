@@ -9,7 +9,6 @@ tags:
   - Personal
 thumbnail: https://lh3.googleusercontent.com/-0hSDcQ2NkWc/TWySjHAavKI/AAAAAAAAhBg/s-7Ytz4ee5g/s600/steven_icon.jpg
 title: Food Is Happiness
-url: /2011/03/01/food-is-happiness/
 ---
 
 

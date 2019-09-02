@@ -11,7 +11,6 @@ tags:
   - Photography
 thumbnail: http://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s600/2014-02-13+at+20-13-11.jpg
 title: Photos from Project Hearts
-url: /2014/02/15/photos-from-project-hearts/
 ---
 
 

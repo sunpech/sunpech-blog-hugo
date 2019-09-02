@@ -10,7 +10,6 @@ tags:
   - Technology
   - Social Media
 title: 'What''s next for Social Media?:  GPS-enabled applications'
-url: /2009/02/07/what-next-for-social-media-gps-enabled/
 ---
 
 

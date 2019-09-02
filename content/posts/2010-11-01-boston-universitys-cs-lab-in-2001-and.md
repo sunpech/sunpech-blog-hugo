@@ -10,7 +10,6 @@ tags:
   - Funny
 thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SMSIl-Lcz5I/AAAAAAAAcTg/0IsD2RutCFo/s600/nt_side.jpg
 title: Boston University's CS lab in 2001 and 2010
-url: /2010/11/01/boston-universitys-cs-lab-in-2001-and/
 ---
 
 

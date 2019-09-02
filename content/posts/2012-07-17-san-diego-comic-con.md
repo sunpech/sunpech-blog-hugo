@@ -14,7 +14,6 @@ tags:
   - San Diego
 thumbnail: http://4.bp.blogspot.com/-o3QWHkq9UKw/UATSbXIBiII/AAAAAAABQBo/FS8166mfs2g/s600/2012-07-13+at+17-49-31.jpg
 title: San Diego Comic Con 2012
-url: /2012/07/17/san-diego-comic-con/
 ---
 
 

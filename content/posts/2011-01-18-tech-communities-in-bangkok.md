@@ -15,7 +15,6 @@ tags:
   - Bangkok
 thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/TTLBFEe0h1I/AAAAAAAAfNc/7bkqHeyGPcg/s600/IMG_20101109_195137.jpg
 title: Tech communities in Bangkok
-url: /2011/01/18/tech-communities-in-bangkok/
 ---
 
 

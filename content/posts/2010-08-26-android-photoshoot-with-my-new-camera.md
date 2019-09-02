@@ -12,7 +12,6 @@ tags:
   - Android
 thumbnail: http://2.bp.blogspot.com/-il8rnMQNWH0/THW4cqvg3KI/AAAAAAAAV_Y/J5s28A1dNks/s600/daylight-2141.jpg
 title: An Android Photoshoot with my new Camera Lens
-url: /2010/08/26/android-photoshoot-with-my-new-camera/
 ---
 
 

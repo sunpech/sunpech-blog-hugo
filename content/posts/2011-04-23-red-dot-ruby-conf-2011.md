@@ -13,7 +13,6 @@ tags:
   - Singapore
 thumbnail: http://4.bp.blogspot.com/-94TOg8r0A2w/TbLxe-82AXI/AAAAAAAAmQI/gnzrrMj8CvE/s600/2011-04-22+at+08-17-45.jpg
 title: Red Dot Ruby Conf 2011
-url: /2011/04/23/red-dot-ruby-conf-2011/
 ---
 
 

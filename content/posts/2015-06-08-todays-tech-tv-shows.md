@@ -11,7 +11,6 @@ tags:
   - TV Shows
 thumbnail: /images/blog/tn_silicon-valley_halt-and-catch-fire.jpg
 title: Today's Tech TV Shows
-url: /2015/06/08/todays-tech-tv-shows/
 ---
 
 

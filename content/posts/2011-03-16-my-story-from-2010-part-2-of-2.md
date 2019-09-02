@@ -11,7 +11,6 @@ tags:
   - Travel
 thumbnail: https://lh5.googleusercontent.com/-kYujSGtsMMw/TPZjHudQV1I/AAAAAAAAez0/8Ehhxmk3b7A/s600/IMG_20101107_090206.jpg
 title: My Story from 2010 (Part 2 of 2)
-url: /2011/03/16/my-story-from-2010-part-2-of-2/
 ---
 
 

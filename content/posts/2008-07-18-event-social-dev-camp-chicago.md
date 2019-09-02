@@ -11,7 +11,6 @@ tags:
   - Software Development
   - Meetup
 title: 'Event: Social Dev Camp Chicago'
-url: /2008/07/18/event-social-dev-camp-chicago/
 ---
 
 

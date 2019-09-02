@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://2.bp.blogspot.com/-pCkOKh6JiaQ/Tt25R0BSYTI/AAAAAAAAxtg/4ZTwhQ45MVM/s600/2011-12-05+at+19-31-47.jpg
 title: Pictures from LA DotNet December Meetup
-url: /2011/12/06/pictures-from-la-dotnet-december-meetup/
 ---
 
 

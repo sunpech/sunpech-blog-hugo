@@ -9,7 +9,6 @@ tags:
   - Design
 thumbnail: http://3.bp.blogspot.com/-75gF8jF6mAU/U02pJ4uoXVI/AAAAAAABoHo/TQxJMKrEmFw/s600/2560x1440_wallpaper.jpg
 title: Different Screen Resolutions Wallpaper Project
-url: /2014/04/15/different-screen-resolutions-wallpaper/
 ---
 
 

@@ -11,7 +11,6 @@ tags:
   - Photography
 thumbnail: http://2.bp.blogspot.com/-sNtVFyyx-tw/T6J0lxH9-mI/AAAAAAABIBY/kgRy6Jq2zvs/s600/20120429-13-47-33.jpg
 title: Muir Woods Hike Photos
-url: /2012/05/10/muir-woods-hike-photos/
 ---
 
 

@@ -11,7 +11,6 @@ tags:
   - Social Media
 thumbnail: http://3.bp.blogspot.com/-7HCppjKGTCY/TiE5fFqGMqI/AAAAAAAAsj4/Aa2FsIbulr4/s600/asian_avenue.png
 title: The History of Social Networks Part 1
-url: /2011/07/31/history-of-social-networks-part-1/
 ---
 
 

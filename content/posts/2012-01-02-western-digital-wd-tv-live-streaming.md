@@ -10,7 +10,6 @@ tags:
   - Technology
   - Review
 title: Western Digital WD TV Live Streaming Media Player
-url: /2012/01/02/western-digital-wd-tv-live-streaming/
 ---
 
 

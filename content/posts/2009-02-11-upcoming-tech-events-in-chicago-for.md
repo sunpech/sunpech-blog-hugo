@@ -10,7 +10,6 @@ tags:
   - Chicago
   - Meetup
 title: Upcoming Tech Events in Chicago for February
-url: /2009/02/11/upcoming-tech-events-in-chicago-for/
 ---
 
 

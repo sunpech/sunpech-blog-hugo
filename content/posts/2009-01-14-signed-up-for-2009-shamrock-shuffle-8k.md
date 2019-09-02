@@ -11,7 +11,6 @@ tags:
   - Personal
 thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s600/shamrock_shuffle_2009_8k_map.png
 title: Signed up for the 2009 Shamrock Shuffle 8k run
-url: /2009/01/14/signed-up-for-2009-shamrock-shuffle-8k/
 ---
 
 

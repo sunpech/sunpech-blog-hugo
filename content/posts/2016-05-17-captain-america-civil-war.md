@@ -11,7 +11,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_captain-america-civil-war.jpg
 title: 'Captain America: Civil War'
-url: /2016/05/17/captain-america-civil-war/
 ---
 
 

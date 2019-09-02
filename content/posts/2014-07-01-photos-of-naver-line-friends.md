@@ -10,7 +10,6 @@ tags:
   - Photography
 thumbnail: http://1.bp.blogspot.com/-wvPKw4iOnD0/U7JW1630loI/AAAAAAABs_M/JYHSWFn-sFQ/s600/01-Gimme-a-Call_600px.jpg
 title: Photos of Naver Line Friends
-url: /2014/07/01/photos-of-naver-line-friends/
 ---
 
 

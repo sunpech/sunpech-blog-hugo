@@ -13,7 +13,6 @@ tags:
   - Travel
 thumbnail: http://4.bp.blogspot.com/-qBBZTqYZz-8/VHbtQnX5ziI/AAAAAAAB0nY/sJXuGH_3zSE/s600/Screen%2BShot%2B2014-11-27%2Bat%2B3.20.55%2BAM.png
 title: My Road Trip From LA to Chicago
-url: /2014/11/28/my-road-trip-from-la-to-chicago/
 ---
 
 

@@ -9,7 +9,6 @@ redirect_from: /2008/01/best-free-software-of-2008-so-far.html
 tags:
   - Technology
 title: Best Free Software of 2008 (so far)
-url: /2008/01/27/best-free-software-of-2008-so-far/
 ---
 
 

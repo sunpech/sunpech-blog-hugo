@@ -9,7 +9,6 @@ tags:
   - Music
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/Ry30XI_pzwI/AAAAAAAAAMk/AbpH5ogrTNk/s600/sansa_e280.jpg
 title: 'My new mp3 player: Sansa e280'
-url: /2007/11/04/my-new-mp3-player-sansa-e280/
 ---
 
 

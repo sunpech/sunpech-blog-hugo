@@ -11,7 +11,6 @@ tags:
   - Software Development
 thumbnail: http://1.bp.blogspot.com/-WuLnoARIQSA/TxVm8julanI/AAAAAAAA2qw/QJGYhDm_jo0/s600/IMG_1101.jpeg
 title: Some Thoughts on Photography, Blogging, and Coding
-url: /2011/08/12/some-thoughts-on-photography-blogging/
 ---
 
 

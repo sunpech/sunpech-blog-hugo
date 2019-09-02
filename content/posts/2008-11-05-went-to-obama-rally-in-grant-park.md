@@ -11,7 +11,6 @@ tags:
   - Personal
 thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vvHvJ0/s600/1225833347830.jpg
 title: Went to the Obama Rally in Grant Park
-url: /2008/11/05/went-to-obama-rally-in-grant-park/
 ---
 
 

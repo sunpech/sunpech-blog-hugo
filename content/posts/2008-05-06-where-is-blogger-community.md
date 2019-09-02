@@ -9,7 +9,6 @@ redirect_from: /2008/05/where-is-blogger-community.html
 tags:
   - Technology
 title: Where is the Blogger Community?
-url: /2008/05/06/where-is-blogger-community/
 ---
 
 

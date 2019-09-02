@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://3.bp.blogspot.com/-BKXOiiJjuhM/TuHUhCE8KkI/AAAAAAAAxwk/Ec4lm6ePbjk/s600/2011-12-07+at+19-06-17.jpg
 title: Pictures from SF Ruby December Meetup
-url: /2011/12/09/pictures-from-sf-ruby-december-meetup/
 ---
 
 

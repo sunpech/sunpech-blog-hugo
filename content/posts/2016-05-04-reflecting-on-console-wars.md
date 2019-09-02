@@ -10,7 +10,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_console_wars.jpg
 title: Reflecting on Console Wars
-url: /2016/05/04/reflecting-on-console-wars/
 ---
 
 

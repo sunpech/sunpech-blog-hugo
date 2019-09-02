@@ -12,7 +12,6 @@ tags:
   - Photography
 thumbnail: http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png
 title: Why I Recommend Adobe Photoshop Lightroom
-url: /2015/01/19/why-i-recommend-adobe-photoshop/
 ---
 
 

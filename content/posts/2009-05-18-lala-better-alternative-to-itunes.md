@@ -12,7 +12,6 @@ tags:
   - Review
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/ShGPRxWqbBI/AAAAAAAAIn4/QkHHq1JcEFo/s600/screenshot_LALA.png
 title: 'LaLa.com: A Better Alternative to iTunes'
-url: /2009/05/18/lala-better-alternative-to-itunes/
 ---
 
 

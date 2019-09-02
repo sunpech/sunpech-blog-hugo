@@ -12,7 +12,6 @@ tags:
   - Comic Con
 thumbnail: http://3.bp.blogspot.com/-3ArVU-G9lYU/UJjpm9yQ5fI/AAAAAAABVmM/axhhXKnhwYM/s600/2012-11-04+at+11-22-19.jpg
 title: Long Beach Comic Con 2012
-url: /2012/11/06/long-beach-comic-con-2012/
 ---
 
 

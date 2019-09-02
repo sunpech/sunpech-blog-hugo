@@ -13,7 +13,6 @@ tags:
   - Comic Con
 thumbnail: http://2.bp.blogspot.com/-aQ1CJve_G_Q/UFasCiz-O-I/AAAAAAABUpk/HdBWXzud--4/s600/2012-09-16-79.jpg
 title: Comikaze Expo 2012
-url: /2012/09/17/comikaze-expo/
 ---
 
 

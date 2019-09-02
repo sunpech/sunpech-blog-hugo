@@ -14,7 +14,6 @@ tags:
   - Photography
 thumbnail: http://1.bp.blogspot.com/--DhAbdzwuqA/U4ovzD7Dx_I/AAAAAAABsIA/rk_aFy9AB9M/s600/Heroes_of_Cosplay-Steven_01.jpg
 title: My Brief Appearance on Heroes of Cosplay
-url: /2014/06/02/my-brief-appearance-on-heroes-of-cosplay/
 ---
 
 

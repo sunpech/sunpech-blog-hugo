@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://1.bp.blogspot.com/-n_AlCTGRQ78/TmxS8JqYPvI/AAAAAAAAuV0/A1cQMkbqcx8/s600/2011-09-08+at+19-19-26.jpg
 title: Pictures from Los Angeles Ruby/Rails Meetup
-url: /2011/09/12/pictures-from-los-angeles-rubyrails/
 ---
 
 

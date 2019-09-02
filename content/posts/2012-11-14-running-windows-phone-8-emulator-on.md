@@ -11,7 +11,6 @@ tags:
   - Guide
 thumbnail: http://1.bp.blogspot.com/-zmyacljuX2g/UKN_RJcTrtI/AAAAAAABVvU/68s9SzlJNw0/s600/VMF5_WinPhone8.jpg
 title: Setting up Windows Phone 8 Emulator on a Virtual Machine
-url: /2012/11/14/running-windows-phone-8-emulator-on/
 ---
 
 

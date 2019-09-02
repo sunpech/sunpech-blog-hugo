@@ -11,7 +11,6 @@ tags:
   - San Diego
 thumbnail: http://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s600/2014-07-22+at+21-32-55.jpg
 title: San Diego Skyline
-url: /2014/08/02/san-diego-skyline/
 ---
 
 

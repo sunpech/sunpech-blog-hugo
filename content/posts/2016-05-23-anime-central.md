@@ -11,7 +11,6 @@ tags:
   - Comic Con
 thumbnail: /images/blog/tn_anime-central-2016.jpg
 title: Anime Central 2016
-url: /2016/05/23/anime-central/
 ---
 
 

@@ -10,7 +10,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_thor-ragnarok-blue.jpg
 title: Thor Ragnarok
-url: /2017/11/08/thor-ragnarok/
 ---
 
 

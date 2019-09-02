@@ -10,7 +10,6 @@ tags:
   - Travel
 thumbnail: http://3.bp.blogspot.com/-m2Js1R3pBLk/TdwEHwTmU1I/AAAAAAAAo38/KXGgdGHylxs/s600/IMG_20110516_015143.jpg
 title: Trip to Baltimore
-url: /2011/05/24/trip-to-baltimore/
 ---
 
 

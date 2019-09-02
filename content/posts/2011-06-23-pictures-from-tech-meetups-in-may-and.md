@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://4.bp.blogspot.com/-ZTq8a5zkdh8/TgL6yQ66bZI/AAAAAAAApPc/v386yfypqi4/s600/2011-05-25+at+19-13-45.jpg
 title: Pictures from Tech Meetups in May and June
-url: /2011/06/23/pictures-from-tech-meetups-in-may-and/
 ---
 
 

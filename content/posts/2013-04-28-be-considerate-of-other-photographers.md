@@ -11,7 +11,6 @@ tags:
   - Travel
 thumbnail: http://3.bp.blogspot.com/-dSsewRaCBs4/UXw5SGYDdsI/AAAAAAABbvw/F96m8A4vlJI/s600/2013-04-19+at+12-23-23.jpg
 title: Be Considerate of Other Photographers
-url: /2013/04/28/be-considerate-of-other-photographers/
 ---
 
 

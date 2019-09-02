@@ -9,7 +9,6 @@ redirect_from: /2008/09/math-behind-tinyurl.html
 tags:
   - Technology
 title: The Math behind TinyURL
-url: /2008/09/30/math-behind-tinyurl/
 ---
 
 

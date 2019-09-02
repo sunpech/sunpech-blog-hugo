@@ -13,7 +13,6 @@ tags:
   - Software Development
 thumbnail: http://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s600/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png
 title: Building my own Photography Site
-url: /2014/09/22/building-my-own-photography-site/
 ---
 
 

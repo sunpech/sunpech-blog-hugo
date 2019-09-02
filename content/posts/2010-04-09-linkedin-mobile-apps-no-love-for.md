@@ -11,7 +11,6 @@ tags:
   - Android
 thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/S77EJIvaBsI/AAAAAAAAOIw/9EPHSPihs2s/s600/linkedin_mobile_no_love_for_android.png
 title: 'LinkedIn Mobile Apps: No Love for Android'
-url: /2010/04/09/linkedin-mobile-apps-no-love-for/
 ---
 
 

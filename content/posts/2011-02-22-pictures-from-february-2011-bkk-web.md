@@ -14,7 +14,6 @@ tags:
   - Bangkok
 thumbnail: http://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s600/IMG_4802.JPG
 title: Pictures from February 2011 BKK Web Meetup
-url: /2011/02/22/pictures-from-february-2011-bkk-web/
 ---
 
 

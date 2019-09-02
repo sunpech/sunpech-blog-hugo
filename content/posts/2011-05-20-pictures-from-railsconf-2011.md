@@ -11,7 +11,6 @@ tags:
   - Events
 thumbnail: http://3.bp.blogspot.com/-BP1lylbW4YA/TdH7PV3ZKnI/AAAAAAAAoE0/k9CP913T07g/s600/2011-05-16+at+14-29-18.jpg
 title: Pictures from RailsConf 2011
-url: /2011/05/20/pictures-from-railsconf-2011/
 ---
 
 

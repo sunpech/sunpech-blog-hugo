@@ -9,7 +9,6 @@ tags:
   - Social Media
 thumbnail: http://3.bp.blogspot.com/-0u0hAs9jI6k/UOqVkz_QO8I/AAAAAAABX_g/ijuyfQp5cDg/s600/trash-can-icon.jpg
 title: Cleaning Up Old Social Accounts
-url: /2013/01/07/cleaning-up-old-social-accounts/
 ---
 
 

@@ -10,7 +10,6 @@ tags:
   - Meetup
 thumbnail: http://1.bp.blogspot.com/-obx1ka9-pv8/T0qZc7_CUgI/AAAAAAAA6sE/HYsQE1rOZdo/s600/meetup_fight_club.jpg
 title: I am a Meetup Junkie
-url: /2012/02/27/i-am-meetup-junkie/
 ---
 
 

@@ -12,7 +12,6 @@ tags:
   - Apple
 thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/TS1a-9DgV7I/AAAAAAAAfLg/B20G9RlSsFs/s600/IMG_2979.jpg
 title: My journey from Windows to Mac
-url: /2011/01/12/my-journey-from-windows-to-mac/
 ---
 
 

@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://1.bp.blogspot.com/-Kcp9ikdCPh0/TxlS9ycaiCI/AAAAAAAA2sA/HHwSnU_FCbk/s600/2012-01-19+at+19-50-48.jpg
 title: Designer's Hub Meet and Greet
-url: /2012/01/20/designers-hub-meet-and-greet/
 ---
 
 

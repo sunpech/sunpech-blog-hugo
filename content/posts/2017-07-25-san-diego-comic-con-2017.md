@@ -12,7 +12,6 @@ tags:
   - San Diego Comic Con
 thumbnail: /images/blog/tn_san-diego-comic-con-2017.jpg
 title: San Diego Comic Con 2017
-url: /2017/07/25/san-diego-comic-con-2017/
 ---
 
 

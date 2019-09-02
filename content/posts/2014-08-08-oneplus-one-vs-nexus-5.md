@@ -13,7 +13,6 @@ tags:
   - Review
 thumbnail: http://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg
 title: OnePlus One vs Nexus 5
-url: /2014/08/08/oneplus-one-vs-nexus-5/
 ---
 
 

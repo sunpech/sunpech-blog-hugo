@@ -12,7 +12,6 @@ tags:
   - San Diego Comic Con
 thumbnail: /images/blog/tn_2018-sdcc-banner.jpg
 title: San Diego Comic Con 2018
-url: /2018/07/27/san-diego-comic-con-2018/
 ---
 
 

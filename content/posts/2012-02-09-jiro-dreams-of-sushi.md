@@ -12,7 +12,6 @@ tags:
   - Movies
 thumbnail: http://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s600/2012-02-08+at+23-15-52.jpg
 title: Jiro Dreams of Sushi
-url: /2012/02/09/jiro-dreams-of-sushi/
 ---
 
 

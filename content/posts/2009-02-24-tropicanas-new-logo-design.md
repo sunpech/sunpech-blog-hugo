@@ -11,7 +11,6 @@ tags:
   - Design
 thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s600/1235483922047.jpg
 title: Tropicana's New Logo Design
-url: /2009/02/24/tropicanas-new-logo-design/
 ---
 
 

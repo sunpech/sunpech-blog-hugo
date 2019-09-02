@@ -12,7 +12,6 @@ tags:
   - Comics
 thumbnail: http://2.bp.blogspot.com/-ovArPrDyoUQ/UafznelRNiI/AAAAAAABc3k/uLnxDACopuk/s600/IMG_20130530_174718.jpg
 title: 'Y: The Last Man Review'
-url: /2013/05/30/y-last-man-review/
 ---
 
 

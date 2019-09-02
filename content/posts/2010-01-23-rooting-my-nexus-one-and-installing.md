@@ -11,7 +11,6 @@ tags:
   - Android
   - Guide
 title: Rooting my Nexus One and installing Thai fonts
-url: /2010/01/23/rooting-my-nexus-one-and-installing/
 ---
 
 

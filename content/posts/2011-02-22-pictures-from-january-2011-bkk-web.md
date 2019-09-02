@@ -13,7 +13,6 @@ tags:
   - Bangkok
 thumbnail: http://1.bp.blogspot.com/-c2trlmdmRC8/TT8b8vGnfwI/AAAAAAAAfQ4/_6MYU9_qZfM/s600/IMG_4772.jpg
 title: Pictures from January 2011 BKK Web Meetup
-url: /2011/02/22/pictures-from-january-2011-bkk-web/
 ---
 
 

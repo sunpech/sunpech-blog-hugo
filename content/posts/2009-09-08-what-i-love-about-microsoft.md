@@ -10,7 +10,6 @@ tags:
   - Technology
   - Software Development
 title: What I love about Microsoft
-url: /2009/09/08/what-i-love-about-microsoft/
 ---
 
 

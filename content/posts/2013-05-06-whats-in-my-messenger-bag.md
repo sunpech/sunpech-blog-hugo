@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: http://1.bp.blogspot.com/-Cj7bH46Csqg/UYGjcgSyDUI/AAAAAAABbz0/k62j6FJQKJU/s600/2013-05-01+at+15-16-14.jpg
 title: What's In My Messenger Bag
-url: /2013/05/06/whats-in-my-messenger-bag/
 ---
 
 

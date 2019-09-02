@@ -12,7 +12,6 @@ tags:
   - Funny
 thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SZzbaX6EZ2I/AAAAAAAAIks/UHThbD6zBb0/s600/vending_machine.jpg
 title: The Vending Machine at Work
-url: /2009/02/18/vending-machine-at-work/
 ---
 
 

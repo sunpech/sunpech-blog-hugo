@@ -11,7 +11,6 @@ tags:
   - Technology
 thumbnail: http://4.bp.blogspot.com/-naqk30TbIqI/Uu9flsWw4bI/AAAAAAABmLk/4yDNxg8VWTI/s600/2014-02-03+at+01-13-03.jpg
 title: Removing a HDD from a Western Digital Elements USB Drive
-url: /2014/02/03/removing-hdd-from-western-digital/
 ---
 
 

@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://2.bp.blogspot.com/-IZagZyoKMww/TzzPjsaPG9I/AAAAAAAA6NU/SwIIgLGYlcc/s600/2012-02-15+at+19-18-12.jpg
 title: Small Business Web Guide Meetup
-url: /2012/02/16/small-business-web-guide-meetup/
 ---
 
 

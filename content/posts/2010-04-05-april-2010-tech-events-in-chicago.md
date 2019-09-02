@@ -10,7 +10,6 @@ tags:
   - Chicago
   - Software Development
 title: April 2010 Tech Events in Chicago
-url: /2010/04/05/april-2010-tech-events-in-chicago/
 ---
 
 

@@ -12,7 +12,6 @@ tags:
   - Google
 thumbnail: http://3.bp.blogspot.com/-m620JTXukHw/UUHa9S71IdI/AAAAAAABZdg/GRdIKXEEb6I/s600/GR_v_GPlus.jpg
 title: Why I love Google Reader
-url: /2013/03/14/why-i-love-google-reader/
 ---
 
 

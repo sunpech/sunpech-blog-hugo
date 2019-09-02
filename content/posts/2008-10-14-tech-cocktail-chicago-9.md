@@ -13,7 +13,6 @@ tags:
   - Meetup
 thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s600/112682035.jpg
 title: Tech Cocktail Chicago 9
-url: /2008/10/14/tech-cocktail-chicago-9/
 ---
 
 

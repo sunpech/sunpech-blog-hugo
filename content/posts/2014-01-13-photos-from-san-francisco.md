@@ -11,7 +11,6 @@ tags:
   - San Francisco
 thumbnail: http://4.bp.blogspot.com/-QAlcGfJnzzc/UqDAM7t7FBI/AAAAAAABlNw/IA-90HenTwA/s600/2013-11-30+at+19-37-15.jpg
 title: Photos from San Francisco
-url: /2014/01/13/photos-from-san-francisco/
 ---
 
 

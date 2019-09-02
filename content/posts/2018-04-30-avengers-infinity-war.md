@@ -10,7 +10,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_avengers-infinity-war.jpg
 title: Avengers Infinity War
-url: /2018/04/30/avengers-infinity-war/
 ---
 
 

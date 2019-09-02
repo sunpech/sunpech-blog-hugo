@@ -11,7 +11,6 @@ tags:
   - Travel
 thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/TPZiwLFT7yI/AAAAAAAAezo/5Rj8fo8H0Y0/s600/IMG_20101005_164504.jpg
 title: Traveling with eBags
-url: /2010/12/01/traveling-with-ebags/
 ---
 
 

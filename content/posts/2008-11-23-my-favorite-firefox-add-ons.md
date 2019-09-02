@@ -9,7 +9,6 @@ redirect_from: /2008/11/my-favorite-firefox-add-ons.html
 tags:
   - Technology
 title: My Favorite Firefox Add-ons
-url: /2008/11/23/my-favorite-firefox-add-ons/
 ---
 
 

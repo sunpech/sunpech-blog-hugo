@@ -12,7 +12,6 @@ tags:
   - San Diego Comic Con
 thumbnail: /images/blog/tn_san-diego-comic-con-2016.jpg
 title: San Diego Comic Con 2016
-url: /2016/07/26/san-diego-comic-con-2016/
 ---
 
 

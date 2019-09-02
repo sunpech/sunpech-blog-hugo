@@ -9,7 +9,6 @@ redirect_from: /2010/01/my-favorite-tech-and-programming-news.html
 tags:
   - Software Development
 title: My Favorite Tech and Programming News Feeds
-url: /2010/01/08/my-favorite-tech-and-programming-news/
 ---
 
 

@@ -11,7 +11,6 @@ tags:
   - Personal
 thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SY-8UnHUnsI/AAAAAAAAIhs/iXyFIUA2EJ0/s600/nintendo_power_set.png
 title: I got  a Roomba for Christmas
-url: /2009/02/08/i-got-roomba-for-christmas/
 ---
 
 

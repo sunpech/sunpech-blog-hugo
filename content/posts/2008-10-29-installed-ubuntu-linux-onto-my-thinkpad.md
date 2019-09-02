@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SQknkFkDphI/AAAAAAAAIQw/9D8L3k8Sdwg/s600/IMG_0076.JPG
 title: Installed Ubuntu Linux onto my Thinkpad T60
-url: /2008/10/29/installed-ubuntu-linux-onto-my-thinkpad/
 ---
 
 

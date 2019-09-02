@@ -11,7 +11,6 @@ tags:
   - Travel
 thumbnail: http://4.bp.blogspot.com/-WF8jU2_jjQg/TxVmCDQyByI/AAAAAAAA2oc/8Y87Up7S0fg/s600/IMG_4121.jpeg
 title: Some Thoughts on Traveling
-url: /2011/08/10/some-thoughts-on-traveling/
 ---
 
 

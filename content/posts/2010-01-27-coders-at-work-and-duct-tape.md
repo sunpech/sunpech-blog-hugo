@@ -11,7 +11,6 @@ tags:
   - Software Development
   - Books
 title: Coders at Work and Duct Tape Programming
-url: /2010/01/27/coders-at-work-and-duct-tape/
 ---
 
 

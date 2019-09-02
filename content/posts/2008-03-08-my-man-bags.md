@@ -9,7 +9,6 @@ tags:
   - Personal
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/R9NZa__IjYI/AAAAAAAAAg8/CmnXYhGEx1E/s600/31LvL228ARL._AA280_.jpg
 title: My Man Bags
-url: /2008/03/08/my-man-bags/
 ---
 
 

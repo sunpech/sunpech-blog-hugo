@@ -10,7 +10,6 @@ tags:
   - Technology
 thumbnail: http://1.bp.blogspot.com/-USx-cqUYusQ/UXuk3exJ-6I/AAAAAAABbu0/q2JKWVMrkGc/s600/2013-04-27+at+02-05-06.jpg
 title: Laptop Warranties are Worth It
-url: /2013/04/29/laptop-warranties-are-worth-it/
 ---
 
 

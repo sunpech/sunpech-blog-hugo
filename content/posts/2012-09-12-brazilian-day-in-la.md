@@ -10,7 +10,6 @@ tags:
   - Los Angeles
 thumbnail: http://3.bp.blogspot.com/-6l8X5Wzm_Ho/UE7klloXqPI/AAAAAAABT6I/hnD7OFgRGkI/s400/2012-09-08-2.jpg
 title: Brazilian Day in LA
-url: /2012/09/12/brazilian-day-in-la/
 ---
 
 

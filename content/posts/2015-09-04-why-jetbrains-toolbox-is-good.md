@@ -9,7 +9,6 @@ tags:
   - Software Development
 thumbnail: /images/blog/tn_why_jetbrains_toolbox_is_good.jpg
 title: Why Jetbrains Toolbox is Good
-url: /2015/09/04/why-jetbrains-toolbox-is-good/
 ---
 
 

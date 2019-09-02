@@ -10,7 +10,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_black-panther-2018.jpg
 title: Black Panther
-url: /2018/02/19/black-panther/
 ---
 
 

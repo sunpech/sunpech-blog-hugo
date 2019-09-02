@@ -12,7 +12,6 @@ tags:
   - Singapore
 thumbnail: http://3.bp.blogspot.com/-YqGssZIltHs/TbQt1qQRk0I/AAAAAAAAm6U/lJ3I9xCjPxg/s600/IMG_6276.JPG
 title: Trip to Singapore
-url: /2011/04/30/trip-to-singapore/
 ---
 
 

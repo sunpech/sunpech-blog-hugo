@@ -11,7 +11,6 @@ tags:
   - Meetup
 thumbnail: http://3.bp.blogspot.com/-JQi0iKrv5Js/ThpxKmxHdJI/AAAAAAAAscU/Ki9EZUFycQo/s600/2011-07-09+at+14-17-28.jpg
 title: Barcamp Chicago at Pumping Station One
-url: /2011/07/27/barcamp-chicago-at-pumping-station-one/
 ---
 
 

@@ -10,7 +10,6 @@ tags:
   - Photography
 thumbnail: http://2.bp.blogspot.com/-GPnCprSblqo/UnJeV0Ib2KI/AAAAAAABi2s/jenw0b9_upY/s600/2013-10-27+at+20-10-06.jpg
 title: Photos from Toronto
-url: /2014/01/10/photos-from-toronto/
 ---
 
 

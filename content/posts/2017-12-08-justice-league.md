@@ -10,7 +10,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_justice-league-team.jpg
 title: Justice League
-url: /2017/12/08/justice-league/
 ---
 
 

@@ -11,7 +11,6 @@ tags:
   - Photography
 thumbnail: http://4.bp.blogspot.com/-1mbREOOesug/T2eR0ZoprQI/AAAAAAAA81s/F6ZNs0DCUXw/s600/2012-03-18+at+03-48-06.jpg
 title: Weekend Chicago HDR Photography
-url: /2012/03/19/weekend-chicago-hdr-photography/
 ---
 
 

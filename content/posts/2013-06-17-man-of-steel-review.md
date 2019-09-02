@@ -12,7 +12,6 @@ tags:
   - Review
 thumbnail: http://2.bp.blogspot.com/-b7Y5eWJwih0/Ub7XDQr14EI/AAAAAAABeaw/Kbe3Jp2udyY/s600/Screen+Shot+2013-06-17+at+2.29.29+AM.png
 title: Man of Steel Review
-url: /2013/06/17/man-of-steel-review/
 ---
 
 

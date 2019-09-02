@@ -9,7 +9,6 @@ tags:
   - Music
 thumbnail: http://2.bp.blogspot.com/-9PGs5zr-3k0/TxVmDMws0pI/AAAAAAAA2o0/ByIR-2Y4ymA/s600/music_logos.png
 title: Why I'm excited about Spotify
-url: /2011/08/08/why-im-excited-about-spotify/
 ---
 
 

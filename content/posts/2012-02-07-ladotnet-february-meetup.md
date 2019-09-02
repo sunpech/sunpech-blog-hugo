@@ -12,7 +12,6 @@ tags:
   - Meetup
 thumbnail: http://3.bp.blogspot.com/-jitl_GPSx3o/TzDqRVlAABI/AAAAAAAA5xM/HVj9IsMtvQE/s600/2012-02-06+at+18-29-34.jpg
 title: LADOTNET February Meetup
-url: /2012/02/07/ladotnet-february-meetup/
 ---
 
 

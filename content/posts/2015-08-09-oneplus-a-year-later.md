@@ -11,7 +11,6 @@ tags:
   - Review
 thumbnail: /images/blog/tn_oneplus_a_year_later.jpg
 title: OnePlus, A Year Later
-url: /2015/08/09/oneplus-a-year-later/
 ---
 
 

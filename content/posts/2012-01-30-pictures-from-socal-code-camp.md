@@ -12,7 +12,6 @@ tags:
   - Code Camp
 thumbnail: http://3.bp.blogspot.com/-Hu-zgSKY4QE/TyZ2Zd4z_MI/AAAAAAAA3OM/ZtxUI_ruawc/s600/2012-01-28+at+08-41-11.jpg
 title: Pictures from SoCal Code Camp
-url: /2012/01/30/pictures-from-socal-code-camp/
 ---
 
 

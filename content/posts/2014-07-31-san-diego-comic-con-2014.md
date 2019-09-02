@@ -13,7 +13,6 @@ tags:
   - San Diego Comic Con
 thumbnail: http://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s600/2014-07-23+at+13-48-44.jpg
 title: San Diego Comic Con 2014
-url: /2014/07/31/san-diego-comic-con-2014/
 ---
 
 
