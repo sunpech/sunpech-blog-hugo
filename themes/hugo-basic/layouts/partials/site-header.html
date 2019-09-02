@@ -12,7 +12,11 @@
     <div class="row">
       <div class="col-lg-12 col-md-12 mx-auto">
         <div class="site-heading">
-          <h1>{{ .Title | default .Site.Title }}</h1>
+          {{ $title := .Site.Title }}
+          {{ if not (eq .Title "Home") }}
+            {{ $title = .Title }}
+          {{ end }}
+          <h1>{{ $title }}</h1>
           <span class="subheading">{{ .Description | default .Site.Params.Description }}</span>
         </div>
       </div>

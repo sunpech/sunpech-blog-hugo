@@ -21,8 +21,7 @@
             {{ $len := len $taglist }}
             <i class="fa fa-tags"></i>
             {{ range $index, $element := $taglist }}
-              <a href="/tags/{{ . | urlize }}" style="color: #FFF">{{ . }}</a>
-              {{ if not (eq (add $index 1) $len) }},&nbsp;{{ end }}
+              <a href="/tags/{{ . | urlize }}" style="color: #FFF">{{ . }}</a>{{ if not (eq (add $index 1) $len) }},&nbsp;{{ end }}
             {{ end }}
           </span>
         </div>

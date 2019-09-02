@@ -41,6 +41,11 @@ author = "Steven Suwatanapongched"
     url = "/posts/"
     weight = 30
   [[menu.main]]
+    identifier = "best"
+    name = "Best"
+    url = "/best/"
+    weight = 35
+  [[menu.main]]
     identifier = "affiliates"
     name = "Affiliates"
     url = "/affiliates/"
