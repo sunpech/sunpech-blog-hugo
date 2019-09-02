@@ -9,6 +9,7 @@ redirect_from: /2008/09/c-code-solution-for-fizzbuzz.html
 tags:
   - Software Development
 title: A C# Code Solution for FizzBuzz
+url: /2008/09/c-code-solution-for-fizzbuzz
 ---
 
 
