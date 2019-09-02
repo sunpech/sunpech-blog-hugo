@@ -2,15 +2,15 @@
 author: Steven Suwatanapongched
 date: '2016-07-26T01:00:00.000-05:00'
 description: My thoughts and photos from San Diego Comic Con 2016.
-header-img: /public/images/headers/san-diego-comic-con-2016.jpg
-image: /public/images/blog/san-diego-comic-con-2016.jpg
+headerimage: /images/headers/san-diego-comic-con-2016.jpg
+image: /images/blog/san-diego-comic-con-2016.jpg
 modified_time: '2016-07-26T01:00:00.000-05:00'
 tags:
   - Comic Con
   - Cosplay
   - San Diego
   - San Diego Comic Con
-thumbnail: /public/images/blog/tn_san-diego-comic-con-2016.jpg
+thumbnail: /images/blog/tn_san-diego-comic-con-2016.jpg
 title: San Diego Comic Con 2016
 url: /2016/07/26/san-diego-comic-con-2016/
 ---
@@ -20,7 +20,7 @@ Just got back from [San Diego Comic Con](http://www.comic-con.org/cci) and I'm s
 
 The weather was hot as the sun was unforgiving most of the time during the day. I mostly stayed inside taking photos and walking the floor. So I don't have many pics of the off-site and outside events, as it was just too damn hot!
 
-![San Diego Comic Con 2016](/public/images/blog/san-diego-comic-con-2016.jpg)
+![San Diego Comic Con 2016](/images/blog/san-diego-comic-con-2016.jpg)
 
 ## The Good
 
@@ -29,7 +29,7 @@ The weather was hot as the sun was unforgiving most of the time during the day. 
 
 [Pokemon Go](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/) was an extremely popular mobile game at Comic Con this year. I'd guess that about a third of the people were playing it. At many of the pokestops, lure modules were going off non-stop. I personally enjoyed catching a bunch of new Pokemon and leveling up to 23 doing some mass evolves with a lucky egg.
 
-![Pokemon Go](/public/images/blog/2016-sdcc-screenshot-pokemon-go.jpg)
+![Pokemon Go](/images/blog/2016-sdcc-screenshot-pokemon-go.jpg)
 
 I went to the Niantic Labs panel, *Re-Imaging Reality: Bringing Games Into the Real World With Ingress and Pokemon Go*, in Hall H on Sunday where the founde, John Hanke, revealed the team leaders. There was [a rumor](https://twitter.com/nerdist/status/757299843362455552) that a *legendary Pokemon* would drop in Hall H-- which turned out to be just that, a rumor. The vibe I got was that they wouldn't make such Pokemon available until the game is fully released worldwide.
 
@@ -43,7 +43,7 @@ Marvel did well too with a new [Doctor Strange trailer](https://www.youtube.com/
 
 Netflix is rocking it with [Luke Cage](https://www.youtube.com/watch?v=Ymw5uvViqPU), [Iron Fist](https://www.youtube.com/watch?v=QCSPda7xQ3s), and [The Defenders](https://www.youtube.com/watch?v=wBZtM8q2Z1g) teasers.
 
-![Hardwick at Hall H](/public/images/blog/hardwick_IG_Marvel.jpg)
+![Hardwick at Hall H](/images/blog/hardwick_IG_Marvel.jpg)
 
 Source: [@hardwick](https://www.instagram.com/p/BIOzMQLjLtD/)
 
@@ -82,19 +82,19 @@ The collages below are just some of my favorites I picked out. I posted the rest
 
 The amount of off site events is growing-- essentially making the entire city of San Diego a comic convention. However, because it was so hot, I did not go to visit many of the sites because waiting in line in sun for hours is just a bad idea.
 
-![SDCC 2016 Out and About](/public/images/blog/2016-sdcc-collage-out-and-about.jpg)
+![SDCC 2016 Out and About](/images/blog/2016-sdcc-collage-out-and-about.jpg)
 
 ### Cosplay
 
 The quality of the cosplay is improving, but there doesn't seem to be as many people cosplaying like in previous years. This might just be because Comic Con is becoming more mainstream and many cosplayers are unable to get tickets like before.
 
-![SDCC 2016 Cosplay](/public/images/blog/2016-sdcc-collage-cosplay.jpg)
+![SDCC 2016 Cosplay](/images/blog/2016-sdcc-collage-cosplay.jpg)
 
 ### Celebrities
 
 I enjoy taking photos of TV and movie stars. Of course they are beautiful and are there to promote their new work. But one of the things I notice is that some stars are there and are really happy to be there. They are grateful to fans and do what they so everyone is having a good time. Then there are others that may just be tired, or are just there because they are obligated to be there and put forth minimum effort. I thank everyone for greeting and signing posters to fans, but extra kudos to those that put in more because it really shows.
 
-![SDCC 2016 Celebrities](/public/images/blog/2016-sdcc-collage-celebrities.jpg)
+![SDCC 2016 Celebrities](/images/blog/2016-sdcc-collage-celebrities.jpg)
 
 ## Photo Albums
 

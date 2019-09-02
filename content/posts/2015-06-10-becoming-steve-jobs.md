@@ -2,15 +2,15 @@
 author: Steven Suwatanapongched
 date: '2015-06-10T09:00:00.000-05:00'
 description: 'I review the latest Steve Jobs biography, Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader, by Brent Schlender and Rick Tetzeli.'
-header-img: /public/images/headers/apple_galaxy.jpg
-image: /public/images/blog/becoming-steve-jobs.jpg
+headerimage: /images/headers/apple_galaxy.jpg
+image: /images/blog/becoming-steve-jobs.jpg
 modified_time: '2015-06-10T09:00:00.000-05:00'
 tags:
   - Apple
   - Books
   - Review
   - Technology
-thumbnail: /public/images/blog/tn_becoming-steve-jobs.jpg
+thumbnail: /images/blog/tn_becoming-steve-jobs.jpg
 title: Becoming Steve Jobs
 url: /2015/06/10/becoming-steve-jobs/
 ---
@@ -18,7 +18,7 @@ url: /2015/06/10/becoming-steve-jobs/
 
 A few years ago, I finished the [Steve Jobs biography](http://www.amazon.com/gp/product/1451648537?ie=UTF8&tag=sunpech-20&linkCode=shr&camp=213733&creative=393185&creativeASIN=1451648537&ref_=sr_1_1&qid=1325418866&sr=8-1) by [Walter Isaacson](http://www.amazon.com/Walter-Isaacson/e/B000APFLB8/) and I wrote [a blog post](/2012/01/steve-jobs-biography) too. For the time it was released, I would say the published book collected the most information on Steve Jobs out there. Isaacson generally gives a negative review of Jobs with multiple repetitions of <i>[reality distortion field](https://en.wikipedia.org/wiki/Reality_distortion_field)</i> throughout the book. The book focuses a little more on the bad relationships than the good ones. He's not wrong, but the biography somehow feels a little incomplete, and even an over-simplification in describing a complex person that is Steve Jobs.
 
-![Steve Jobs biographies](/public/images/blog/becoming-steve-jobs.jpg)
+![Steve Jobs biographies](/images/blog/becoming-steve-jobs.jpg)
 
 I recently finished reading [Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader](http://www.amazon.com/gp/product/0385347405/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0385347405&linkCode=as2&tag=sunpech-20&linkId=M5L3XZ5VJ4MUVL4M) by [Brent Schlender](http://www.amazon.com/Brent-Schlender/e/B00J01WHLK/) and [Rick Tetzeli](http://www.amazon.com/Rick-Tetzeli/e/B00J01W41I/), the most recent Jobs book, and I found it to be the best material on Jobs to date. The book covers more recent talks with those close to Jobs, and even the author, Brent Schlender, has a longer relationship with Jobs than probably any writer out there. It feels more intimate and authentic in describing Jobs.
 

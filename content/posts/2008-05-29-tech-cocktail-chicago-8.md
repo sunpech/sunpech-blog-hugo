@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2387330688297963811
 blogger_orig_url: http://www.sunpech.com/2008/05/tech-cocktail-chicago-8.html
 date: '2008-05-29T08:56:00.007-05:00'
-header-img: /public/images/headers/chicago_skyline.jpg
+headerimage: /images/headers/chicago_skyline.jpg
 modified_time: '2011-04-30T16:32:06.108-05:00'
 redirect_from: /2008/05/tech-cocktail-chicago-8.html
 tags:

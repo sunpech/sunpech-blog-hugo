@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6588025767771779402
 blogger_orig_url: http://www.sunpech.com/2011/08/some-thoughts-on-traveling.html
 date: '2011-08-10T13:02:00.000-05:00'
-header-img: /public/images/headers/joshua_tree.jpg
+headerimage: /images/headers/joshua_tree.jpg
 modified_time: '2013-08-18T03:19:52.471-05:00'
 redirect_from: /2011/08/some-thoughts-on-traveling.html
 tags:

@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7557647617734760650
 blogger_orig_url: http://www.sunpech.com/2012/11/running-windows-phone-8-emulator-on.html
 date: '2012-11-14T11:00:00.000-06:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:44:52.111-05:00'
 redirect_from: /2012/11/running-windows-phone-8-emulator-on.html
 tags:

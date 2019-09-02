@@ -1,0 +1,55 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "sunpech.com"
+theme = "hugo-basic"
+Paginate = 10
+timezone = "America/Chicago"
+googleAnalytics = "UA-126684-2"
+author = "Steven Suwatanapongched"
+
+[params]
+  mainSections = ["posts"]
+  copyrighthtml = "Copyright &copy; 2019 Sunpech Suwatanapongched"
+  headerimage = "/images/books.jpg"
+  # Open Graph and Twitter Cards
+  description = ""
+  images = ["/images/default-image.jpg"]
+  title = "sunpech.com"
+  # Social
+  facebook = "sunpechphotography"
+  twitter = "sunpech"
+  instagram = "sunpech"
+  github = "sunpech"
+  bitbucket = "sunpech"
+  gitlab = "sunpech"
+  flickr = "sunpech"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 20
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 30
+  [[menu.main]]
+    identifier = "affiliates"
+    name = "Affiliates"
+    url = "/affiliates/"
+    weight = 40
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"

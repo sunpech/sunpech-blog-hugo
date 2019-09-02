@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6068246519995194049
 blogger_orig_url: http://www.sunpech.com/2009/02/upcoming-tech-events-in-chicago-for.html
 date: '2009-02-11T23:10:00.000-06:00'
-header-img: /public/images/headers/chicago_skyline.jpg
+headerimage: /images/headers/chicago_skyline.jpg
 modified_time: '2012-01-11T03:54:09.576-06:00'
 redirect_from: /2009/02/upcoming-tech-events-in-chicago-for.html
 tags:

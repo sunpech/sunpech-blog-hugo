@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1087262992477565695
 blogger_orig_url: http://www.sunpech.com/2008/09/c-code-solution-for-fizzbuzz.html
 date: '2008-09-15T22:20:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-01T23:03:53.750-06:00'
 redirect_from: /2008/09/c-code-solution-for-fizzbuzz.html
 tags:

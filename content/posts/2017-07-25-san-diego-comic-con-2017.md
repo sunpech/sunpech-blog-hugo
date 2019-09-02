@@ -2,15 +2,15 @@
 author: Steven Suwatanapongched
 date: '2017-07-25T01:00:00.000-05:00'
 description: My thoughts and photos from San Diego Comic Con 2017.
-header-img: /public/images/headers/san-diego-comic-con-2017.jpg
-image: /public/images/blog/san-diego-comic-con-2017.jpg
+headerimage: /images/headers/san-diego-comic-con-2017.jpg
+image: /images/blog/san-diego-comic-con-2017.jpg
 modified_time: '2017-07-25T01:00:00.000-05:00'
 tags:
   - Comic Con
   - Cosplay
   - San Diego
   - San Diego Comic Con
-thumbnail: /public/images/blog/tn_san-diego-comic-con-2017.jpg
+thumbnail: /images/blog/tn_san-diego-comic-con-2017.jpg
 title: San Diego Comic Con 2017
 url: /2017/07/25/san-diego-comic-con-2017/
 ---
@@ -18,13 +18,13 @@ url: /2017/07/25/san-diego-comic-con-2017/
 
 [San Diego Comic Con](https://secure.comic-con.org/cci) (SDCC) has come and gone. This year marks my seventh year going to SDCC! Each year I have a good time, but every year it becomes less about the convention floor, offsite experiences, and buying stuff. Going to the con is now more about taking photos and attending panels.
 
-![San Diego Comic Con](/public/images/blog/san-diego-comic-con-2017.jpg)
+![San Diego Comic Con](/images/blog/san-diego-comic-con-2017.jpg)
 
 ### Cosplay
 
 I love taking photos of cosplayers, but it's really difficult to be at the right place at the right time to catch some of the awesome cosplay. Unlike [Anime Expo](http://www.anime-expo.org/), SDCC doesn't have central locations that are great for photos. It's too much about walking around and hoping you run into something amazing.
 
-![San Diego Comic Con - Cosplay Collage](/public/images/blog/2017-san-diego-comic-con-collage-cosplay.jpg)
+![San Diego Comic Con - Cosplay Collage](/images/blog/2017-san-diego-comic-con-collage-cosplay.jpg)
 
 ### Celebrities
 
@@ -34,7 +34,7 @@ Like previous years, the crowds at these signings are getting bigger, and more u
 
 I still take issue with some rude security guards that throws their hands in front of your cameras, but I also empathize with them a bit for putting up with large crowds that stay in unsafe numbers in an area.
 
-![San Diego Comic Con - Celebrities Collage](/public/images/blog/2017-san-diego-comic-con-collage-celebrities.jpg)
+![San Diego Comic Con - Celebrities Collage](/images/blog/2017-san-diego-comic-con-collage-celebrities.jpg)
 
 ### Misc
 
@@ -42,7 +42,7 @@ The show floor is more or less the same it's been for the past few years. This y
 
 Lines are still a big problem. Hall H and Ballroom 20 lines can still be pretty crazy long. Fans still camp out to get in and are essentially camping out at night through morning at times. Then there's the lines for the off site areas that are also generally mismanaged. In short, unless you really really want to experience something, you'd better be prepared to wait in line in the sun.
 
-![San Diego Comic Con - Misc Collage](/public/images/blog/2017-san-diego-comic-con-collage-misc.jpg)
+![San Diego Comic Con - Misc Collage](/images/blog/2017-san-diego-comic-con-collage-misc.jpg)
 
 ## Pictures
 

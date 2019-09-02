@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5149944125992155695
 blogger_orig_url: http://www.sunpech.com/2010/04/april-2010-tech-events-in-chicago.html
 date: '2010-04-05T00:26:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-11T04:06:18.227-06:00'
 redirect_from: /2010/04/april-2010-tech-events-in-chicago.html
 tags:

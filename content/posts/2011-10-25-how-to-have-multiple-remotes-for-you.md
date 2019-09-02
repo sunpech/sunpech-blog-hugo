@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-913905597106831886
 blogger_orig_url: http://www.sunpech.com/2011/10/how-to-have-multiple-remotes-for-you.html
 date: '2011-10-25T12:40:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:51:54.686-05:00'
 redirect_from: /2011/10/how-to-have-multiple-remotes-for-you.html
 tags:

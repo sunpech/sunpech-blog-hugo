@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7257599362438747856
 blogger_orig_url: http://www.sunpech.com/2008/08/facebook-to-become-new-aol.html
 date: '2008-08-20T06:00:00.000-05:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-07T20:05:12.694-05:00'
 redirect_from: /2008/08/facebook-to-become-new-aol.html
 tags:

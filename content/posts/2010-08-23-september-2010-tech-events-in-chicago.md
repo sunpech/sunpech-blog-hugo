@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4210171024398973483
 blogger_orig_url: http://www.sunpech.com/2010/08/september-2010-tech-events-in-chicago.html
 date: '2010-08-23T10:00:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-11T03:43:33.686-06:00'
 redirect_from: /2010/08/september-2010-tech-events-in-chicago.html
 tags:

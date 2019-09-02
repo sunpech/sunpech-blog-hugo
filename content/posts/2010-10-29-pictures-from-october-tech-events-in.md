@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6908950202589082197
 blogger_orig_url: http://www.sunpech.com/2010/10/pictures-from-october-tech-events-in.html
 date: '2010-10-29T21:50:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:23:36.332-05:00'
 redirect_from: /2010/10/pictures-from-october-tech-events-in.html
 tags:

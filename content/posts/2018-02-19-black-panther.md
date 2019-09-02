@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2018-02-19T09:00:00.000-05:00'
 description: My review of the Black Panther Movie.
-header-img: /public/images/headers/black-panther-2018.jpg
-image: /public/images/blog/black-panther-2018.jpg
+headerimage: /images/headers/black-panther-2018.jpg
+image: /images/blog/black-panther-2018.jpg
 modified_time: '2018-02-19T09:00:00.000-05:00'
 tags:
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_black-panther-2018.jpg
+thumbnail: /images/blog/tn_black-panther-2018.jpg
 title: Black Panther
 url: /2018/02/19/black-panther/
 ---
@@ -16,13 +16,13 @@ url: /2018/02/19/black-panther/
 
 I enjoyed the Black Panther movie. The story, the characters, and especially the villain was well balanced and defined in this Marvel movie. This is my spoilery review.
 
-![Black Panther](/public/images/blog/black-panther-2018.jpg)
+![Black Panther](/images/blog/black-panther-2018.jpg)
 
 ## The Good
 
 The characters were really solid. It's an all-star cast!
 
-![Black Panther cast](/public/images/blog/black-panther-cast.jpg)
+![Black Panther cast](/images/blog/black-panther-cast.jpg)
 
 [Letitia Wright](http://www.imdb.com/name/nm4004793/) is amazing as Black Panther's sister, Shuri. She was having fun and it really showed. She's also starred in an episode of Black Mirror: [Black Museum](http://www.imdb.com/title/tt5058700/).
 
@@ -35,7 +35,7 @@ The problem is that these two individual not only have enhanced physical abiliti
 
 I'm being nit-picky here, but the *movie physics* didn't make sense. If vibranium is virtually indestructible and aborbs the kinetic energy of objects that hits the suit, then what on earth can knock down Black Panther? I just didn't understand how Erik Killmonger was able to blast down BP during the scene where Klaw was being broken out.
 
-![Black Panther vs Erik Killmonger](/public/images/blog/black-panther-vs-erik-killmonger.jpg)
+![Black Panther vs Erik Killmonger](/images/blog/black-panther-vs-erik-killmonger.jpg)
 ## Final Thoughts
 
 The movie is a Shakesperean tragedy. 
@@ -48,6 +48,6 @@ There's a lot to unpack in the movie. It can be analzyed for quite some time, an
 
 I pointed out more "bad things" I disliked than I liked only because there's a lot going for the movie. It's a good movie with small imperfections that were easy to point out. But overall I loved the movie and look forward to director [Ryan Coogler](http://www.imdb.com/name/nm3363032/)'s future work.
 
-![Erik Killmonger and Black Panther](/public/images/blog/black-panther-erik-killmonger.jpg)
+![Erik Killmonger and Black Panther](/images/blog/black-panther-erik-killmonger.jpg)
 
 *Images for this post were lifted from [wall.alphacoders.com](https://wall.alphacoders.com).*

@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6665102534805821074
 blogger_orig_url: http://www.sunpech.com/2010/08/installing-thai-fonts-onto-android.html
 date: '2010-08-30T09:00:00.110-05:00'
-header-img: /public/images/headers/android.jpg
+headerimage: /images/headers/android.jpg
 modified_time: '2014-08-07T20:13:45.291-05:00'
 redirect_from: /2010/08/installing-thai-fonts-onto-android.html
 tags:

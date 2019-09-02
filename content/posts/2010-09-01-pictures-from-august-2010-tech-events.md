@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1407528637372318382
 blogger_orig_url: http://www.sunpech.com/2010/09/pictures-from-august-2010-tech-events.html
 date: '2010-09-01T09:00:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:23:46.032-05:00'
 redirect_from: /2010/09/pictures-from-august-2010-tech-events.html
 tags:

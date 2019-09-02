@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7339358075956505310
 blogger_orig_url: http://www.sunpech.com/2014/04/heroku-postgres-maintenance-requires.html
 date: '2014-04-27T08:30:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-04-29T23:29:48.433-05:00'
 redirect_from: /2014/04/heroku-postgres-maintenance-requires.html
 tags:

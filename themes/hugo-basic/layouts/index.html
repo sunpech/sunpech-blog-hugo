@@ -1,0 +1,35 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ $pages := first 9 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+  <div class="row">
+    {{ range $pages }}
+      {{ $link := .Permalink }}
+      {{ $title := .Title}}
+      {{ $image := .Params.image }}
+      {{ $thumbnail := .Params.thumbnail }}
+      <div class="col-xl-4 col-lg-6 col-md-12 col-sm-12 col-sm-12 col-xs-12 pt-3">
+        <div class="card">
+          <div class="card-header">
+            <h4><a href="{{ $link }}">{{ .Title }}</a></h4>
+          </div>
+          {{ with .Params.image }}
+          <a href="{{ $link }}"><img class="card-img-top img-fluid" src="{{ $image }}"  alt="{{ $title }}" /></a>
+          {{ else }}
+          <a href="{{ $link }}"><img class="card-img-top post-img-thumb img-fluid" src="{{ $thumbnail }}"  alt="{{ $title }}" /></a>
+          {{ end }}
+          <div class="card-body">
+            {{ .Date.Format "January 2, 2006" }}
+          </div>
+          <div class="card-footer text-muted">
+            {{ $taglist := .Params.tags }}
+            {{ $len := len $taglist}}
+            <i class="fa fa-tags"></i>
+              {{ range $index, $element := $taglist }}
+                <a href="/tags/{{ . | urlize }}">{{ . }}</a>{{ if not (eq (add $index 1) $len) }},&nbsp;{{ end }}
+              {{ end }}
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

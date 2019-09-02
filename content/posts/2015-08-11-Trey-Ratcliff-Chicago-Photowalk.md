@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2015-08-11T09:00:00.000-05:00'
 description: My thoughts and photos from Trey Ratcliff's Chicago Photowalk.
-header-img: /public/images/headers/chicago_skyline_buckingham_fountain.jpg
-image: /public/images/blog/chicago_skyline_buckingham_fountain.jpg
+headerimage: /images/headers/chicago_skyline_buckingham_fountain.jpg
+image: /images/blog/chicago_skyline_buckingham_fountain.jpg
 modified_time: '2015-08-11T09:00:00.000-05:00'
 tags:
   - Chicago
   - Photography
   - Photowalk
-thumbnail: /public/images/blog/tn_chicago_skyline_buckingham_fountain.jpg
+thumbnail: /images/blog/tn_chicago_skyline_buckingham_fountain.jpg
 title: Chicago Photowalk with Trey Ratcliff
 url: /2015/08/11/Trey-Ratcliff-Chicago-Photowalk/
 ---
@@ -31,17 +31,17 @@ Here is the [Facebook album](https://www.facebook.com/media/set/?set=a.929592023
 
 My collage of the evening.
 
-![Trey Ratcliff Chicago Photowalk Collage](/public/images/blog/trey_ratcliff_chicago_photowalk_collage.jpg)
+![Trey Ratcliff Chicago Photowalk Collage](/images/blog/trey_ratcliff_chicago_photowalk_collage.jpg)
 
 My photo with Trey Ratcliff.
 
-![Photo with Trey Ratcliff](/public/images/blog/trey_ratcliff_chicago_photowalk.jpg)
+![Photo with Trey Ratcliff](/images/blog/trey_ratcliff_chicago_photowalk.jpg)
 
 ### Chicago from Buckingham Fountain
 
 My favorite photo of the night taken at Buckingham Fountain.
 
-![Chicago from Buckingham Fountain](/public/images/blog/chicago_skyline_buckingham_fountain.jpg)
+![Chicago from Buckingham Fountain](/images/blog/chicago_skyline_buckingham_fountain.jpg)
 
 You can purchase photo products at the sites below:
 

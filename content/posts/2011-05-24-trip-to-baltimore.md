@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5189826723904649781
 blogger_orig_url: http://www.sunpech.com/2011/05/trip-to-baltimore.html
 date: '2011-05-24T15:04:00.001-05:00'
-header-img: /public/images/headers/joshua_tree.jpg
+headerimage: /images/headers/joshua_tree.jpg
 modified_time: '2014-08-18T09:02:37.781-05:00'
 redirect_from: /2011/05/trip-to-baltimore.html
 tags:

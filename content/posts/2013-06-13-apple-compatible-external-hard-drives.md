@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-80238894314867501
 blogger_orig_url: http://www.sunpech.com/2013/06/apple-compatible-external-hard-drives.html
 date: '2013-06-13T11:00:00.000-05:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T16:43:20.770-05:00'
 redirect_from: /2013/06/apple-compatible-external-hard-drives.html
 tags:

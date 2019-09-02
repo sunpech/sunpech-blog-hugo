@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-9098924218094536148
 blogger_orig_url: http://www.sunpech.com/2010/02/programmer-cartoon-your-company-app.html
 date: '2010-02-17T19:16:00.000-06:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-18T09:07:47.251-05:00'
 redirect_from: /2010/02/programmer-cartoon-your-company-app.html
 tags:

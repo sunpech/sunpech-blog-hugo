@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3574999474847350356
 blogger_orig_url: http://www.sunpech.com/2014/06/converting-your-vhs-and-betamax-tapes.html
 date: '2014-06-23T11:00:00.000-05:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-06-23T11:00:00.631-05:00'
 redirect_from: /2014/06/converting-your-vhs-and-betamax-tapes.html
 tags:

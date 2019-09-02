@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-166231571625593307
 blogger_orig_url: http://www.sunpech.com/2010/07/july-2010-tech-events-in-chicago.html
 date: '2010-07-06T09:05:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-11T03:43:33.627-06:00'
 redirect_from: /2010/07/july-2010-tech-events-in-chicago.html
 tags:

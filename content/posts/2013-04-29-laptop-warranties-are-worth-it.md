@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-877258152395510777
 blogger_orig_url: http://www.sunpech.com/2013/04/laptop-warranties-are-worth-it.html
 date: '2013-04-29T11:00:00.000-05:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-09T19:52:22.755-05:00'
 redirect_from: /2013/04/laptop-warranties-are-worth-it.html
 tags:

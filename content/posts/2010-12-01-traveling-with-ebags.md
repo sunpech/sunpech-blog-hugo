@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-988457410436302548
 blogger_orig_url: http://www.sunpech.com/2010/12/traveling-with-ebags.html
 date: '2010-12-01T09:30:00.001-06:00'
-header-img: /public/images/headers/joshua_tree.jpg
+headerimage: /images/headers/joshua_tree.jpg
 modified_time: '2014-01-23T13:46:23.372-06:00'
 redirect_from: /2010/12/traveling-with-ebags.html
 tags:

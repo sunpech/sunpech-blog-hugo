@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7725967953957464778
 blogger_orig_url: http://www.sunpech.com/2009/02/vending-machine-at-work.html
 date: '2009-02-18T22:08:00.003-06:00'
-header-img: /public/images/headers/chicago_skyline.jpg
+headerimage: /images/headers/chicago_skyline.jpg
 modified_time: '2014-08-08T17:00:46.863-05:00'
 redirect_from: /2009/02/vending-machine-at-work.html
 tags:

@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5477450420295405387
 blogger_orig_url: http://www.sunpech.com/2013/03/why-i-love-google-reader.html
 date: '2013-03-14T10:12:00.000-05:00'
-header-img: /public/images/headers/google_chicago.jpg
+headerimage: /images/headers/google_chicago.jpg
 modified_time: '2015-02-10T23:31:15.992-06:00'
 redirect_from: /2013/03/why-i-love-google-reader.html
 tags:

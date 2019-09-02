@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2015-08-24T09:00:00.000-05:00'
 description: My first visit to the Chicago River on Lake Shore Drive. I share my photo taking experience there.
-header-img: /public/images/headers/chicago_river_from_lsd.jpg
-image: /public/images/blog/chicago_river_from_lsd.jpg
+headerimage: /images/headers/chicago_river_from_lsd.jpg
+image: /images/blog/chicago_river_from_lsd.jpg
 modified_time: '2015-08-24T09:00:00.000-05:00'
 tags:
   - Chicago
   - Photography
-thumbnail: /public/images/blog/tn_chicago_river_from_lsd.jpg
+thumbnail: /images/blog/tn_chicago_river_from_lsd.jpg
 title: Chicago River from Lake Shore Drive
 url: /2015/08/24/chicago-river-from-lake-shore-drive/
 ---
@@ -18,7 +18,7 @@ I had some spare time before dinner near Navy Pier to take some pictures of the 
 
 This was my favorite shot I took.
 
-![Chicago River from Lake Shore Drive](/public/images/blog/chicago_river_from_lsd.jpg)
+![Chicago River from Lake Shore Drive](/images/blog/chicago_river_from_lsd.jpg)
 
 There were some challenges to getting this photo. For one, it was taken on the lower portion of Lake Shore Drive bridge, where most of the time it was shaking from all the rush hour traffic. So having a tripod was nice, but I had to time it for when it shook the least. Of course I used a remote release to help further reduce shake.
 

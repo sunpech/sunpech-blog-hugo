@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5345695750799205786
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-chicagos-bean.html
 date: '2014-01-16T11:00:00.000-06:00'
-header-img: /public/images/headers/chicago_bean.jpg
+headerimage: /images/headers/chicago_bean.jpg
 modified_time: '2014-11-09T14:46:14.559-06:00'
 redirect_from: /2014/01/photos-from-chicagos-bean.html
 tags:

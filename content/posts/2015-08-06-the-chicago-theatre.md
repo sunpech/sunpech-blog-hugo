@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2015-08-06T09:00:00.000-05:00'
 description: My first trip to take photos of the iconic Chicago Theatre. I talk about the problems and what I did to take this photo.
-header-img: /public/images/headers/chicago_theatre.jpg
-image: /public/images/blog/the_chicago_theatre.jpg
+headerimage: /images/headers/chicago_theatre.jpg
+image: /images/blog/the_chicago_theatre.jpg
 modified_time: '2015-08-06T09:00:00.000-05:00'
 tags:
   - Chicago
   - Photography
-thumbnail: /public/images/blog/tn_the_chicago_theatre.jpg
+thumbnail: /images/blog/tn_the_chicago_theatre.jpg
 title: The Chicago Theatre
 url: /2015/08/06/the-chicago-theatre/
 ---
@@ -34,7 +34,7 @@ Other settings I set was an ISO of 100, and an aperture of f/22. And these are j
 
 So after some editing in [Adobe Lightroom](http://www.amazon.com/gp/product/B00VWCKJVA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VWCKJVA&linkCode=as2&tag=sunpech-20&linkId=N6FUCC5ZPTDPFYRS), I got the image below.
 
-![The Chicago Theatre](/public/images/blog/the_chicago_theatre.jpg)
+![The Chicago Theatre](/images/blog/the_chicago_theatre.jpg)
 
 I'm pretty happy with the shot, but I would love to revisit this location. This was my first time there and I only came when it was very dark already around 9pm. I'd love to visit when there's some color in the sky, but the trade off would be that there would be even more people and cars.
 

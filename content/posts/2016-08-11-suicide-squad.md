@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2016-08-11T09:00:00.000-05:00'
 description: My review of the Suicide Squad movie. A movie that has problems, but has promise.
-header-img: /public/images/headers/suicide-squad.jpg
-image: /public/images/blog/suicide_squad.jpg
+headerimage: /images/headers/suicide-squad.jpg
+image: /images/blog/suicide_squad.jpg
 modified_time: '2016-08-11T09:00:00.000-05:00'
 tags:
   - Comics
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_suicide-squad.jpg
+thumbnail: /images/blog/tn_suicide-squad.jpg
 title: Suicide Squad
 url: /2016/08/11/suicide-squad/
 ---
@@ -23,31 +23,31 @@ I went in with low expectations, overall, **the movie was just okay**. I was ent
 
 Everything below is my *spoiler filled review* of the movie.
 
-![Suicide Squad](/public/images/blog/suicide-squad-logo.jpg)
+![Suicide Squad](/images/blog/suicide-squad-logo.jpg)
 
 ## The Good
 
 [Viola Davis](http://www.imdb.com/name/nm0205626/) killed it as Amanda Waller. She was absolutely ruthless and I swear the temperature of the theater dropped a few degrees whenever she was on screen.
 
-![Amanda Waller](/public/images/blog/suicide-squad-amanda-waller.jpg)
+![Amanda Waller](/images/blog/suicide-squad-amanda-waller.jpg)
 
 [Cara Delevingne](http://www.imdb.com/name/nm5353321/) looks amazing as the Enchantress. I've always been fascinated with creepy witch-based characters in super hero movies-- the first of which was Scarlett Witch in [Avengers: Age of Ultron](http://www.imdb.com/title/tt2395427/) when she stood behind Tony Stark at the beginning of the movie. Throughout the movie I wanted to see more of her and I loved the dark aura they put on her. I wasn't a fan of her *dance* while she was channeling her energy to build the world ending contraption.
 
-![Enchantress](/public/images/blog/suicide-squad-enchantress.jpg)
+![Enchantress](/images/blog/suicide-squad-enchantress.jpg)
 
 The scene where Dr. Moone summons Enchantress was one of my favorites. The hand flip was both creepy and amazing!
 
-![Summoning Enchantress](/public/images/blog/suicide-squad-enchantress-summon.jpg)
+![Summoning Enchantress](/images/blog/suicide-squad-enchantress-summon.jpg)
 
 ## The Okay
 
 **Joker and Harley Quinn were just okay.** It's hard for [Jared Leto](http://www.imdb.com/name/nm0001467/) to follow [Heath Ledger](http://www.imdb.com/name/nm0005132/)'s rendition in [Christopher Nolan](http://www.imdb.com/name/nm0634240/)'s Batman movies. To add to that, it's also hard for the crazy duo to follow the voice actings of [Mark Hamill](http://www.imdb.com/name/nm0000434/) and [Tara Strong](http://www.imdb.com/name/nm0152839/) for Joker/Quinn. Although I must say that [Margot Robbie](http://www.imdb.com/name/nm3053338/) really does look like Harley, but there could be another movie to explore their toxic crazy relationship. It's got potential to be great though.
 
-![Joker and Harely Quinn](/public/images/blog/suicide-squad-joker-harley.jpg)
+![Joker and Harely Quinn](/images/blog/suicide-squad-joker-harley.jpg)
 
 **Diablo was a nice touch** and had a good final battle. I think it would have been better if as the demon, he sacrificed himself to take out the Enchantress' brother rather than the underground explosive device. The demon versus monster should have been played up more. I just didn't buy into him believing that his Suicide Squad was his family-- perhaps there was more to it in another edit/version of the film?
 
-![El Diablo](/public/images/blog/suicide-squad-el-diablo.jpg)
+![El Diablo](/images/blog/suicide-squad-el-diablo.jpg)
 
 ## The Bad
 
@@ -61,7 +61,7 @@ The scene where Joker deactivates the explosive tracker in Harley's neck and res
 
 [Ocean's Eleven](http://www.imdb.com/title/tt0240772/) is an example of how to handle a big cast and deliver a great well paced story where everyone has their moment and backstory told.
 
-![Ocean's Eleven](/public/images/blog/oceans-eleven-cast.jpg)
+![Ocean's Eleven](/images/blog/oceans-eleven-cast.jpg)
 
 Suicide Squad shouldn't have to deal with end-of-the-world type threats. The team dynamics would function better as a heist movie where so many things go wrong and they have to adapt. Anything where the focus is on action and moving the story along instead of slow breaks for flashbacks. The movie has a simple plot, but it's filled with lines from Deadshot, and an abundance of Joker/Harley flashbacks.
 

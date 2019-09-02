@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1451340704159923701
 blogger_orig_url: http://www.sunpech.com/2012/11/fixing-android-error-message-error.html
 date: '2012-11-15T11:00:00.000-06:00'
-header-img: /public/images/headers/android.jpg
+headerimage: /images/headers/android.jpg
 modified_time: '2014-08-09T19:52:59.212-05:00'
 redirect_from: /2012/11/fixing-android-error-message-error.html
 tags:

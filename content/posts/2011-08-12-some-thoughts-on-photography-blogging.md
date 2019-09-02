@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8512560648169804312
 blogger_orig_url: http://www.sunpech.com/2011/08/some-thoughts-on-photography-blogging.html
 date: '2011-08-12T09:46:00.000-05:00'
-header-img: /public/images/headers/old_cameras.jpg
+headerimage: /images/headers/old_cameras.jpg
 modified_time: '2012-01-17T06:18:25.600-06:00'
 redirect_from: /2011/08/some-thoughts-on-photography-blogging.html
 tags:

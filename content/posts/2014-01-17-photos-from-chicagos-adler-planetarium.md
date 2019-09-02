@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7715400429929590653
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-chicagos-adler-planetarium.html
 date: '2014-01-17T11:00:00.000-06:00'
-header-img: /public/images/headers/chicago_skyline.jpg
+headerimage: /images/headers/chicago_skyline.jpg
 modified_time: '2014-11-09T14:45:56.563-06:00'
 redirect_from: /2014/01/photos-from-chicagos-adler-planetarium.html
 tags:

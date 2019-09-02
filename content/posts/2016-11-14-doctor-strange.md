@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2016-11-14T09:00:00.000-05:00'
 description: My spoiler-y review of Marvel's Doctor Strange movie.
-header-img: /public/images/headers/dr-strange.jpg
-image: /public/images/blog/dr-strange.jpg
+headerimage: /images/headers/dr-strange.jpg
+image: /images/blog/dr-strange.jpg
 modified_time: '2016-11-14T09:00:00.000-05:00'
 tags:
   - Comics
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_dr-strange.jpg
+thumbnail: /images/blog/tn_dr-strange.jpg
 title: Doctor Strange
 url: /2016/11/14/doctor-strange/
 ---
@@ -17,7 +17,7 @@ url: /2016/11/14/doctor-strange/
 
 The last [MCU](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe) movie for 2016, [Doctor Strange](http://www.imdb.com/title/tt1211837/) came out last week. This is my *spoilery* review which covers some plot points and my thoughts of it's potential impact on the movie universe.
 
-![Dr. Strange](/public/images/blog/dr-strange.jpg)
+![Dr. Strange](/images/blog/dr-strange.jpg)
 
 I really enjoyed the movie. It was an origin movie that formally introduced **magic** and the **multiverse** into Marvel's cinematic universe. This is a big deal because it opens the door to infinite possibilities for how they wish to expand or even link universes together-- I'm looking at Fox's Deadpool/X-Men franchise here. *Hey, I can dream can't I?*
 
@@ -31,11 +31,11 @@ I like how they elevated [Wong](https://en.wikipedia.org/wiki/Wong_(comics)) to 
 
 Wong confirmed that the [Eye of Agamotto](https://en.wikipedia.org/wiki/Eye_of_Agamotto) is an Infinity Stone, as many comic fans suspected. Thanos is coming for it!
 
-![Eye of Agamotto](/public/images/blog/dr-strange-eye-of-agamotto.jpg)
+![Eye of Agamotto](/images/blog/dr-strange-eye-of-agamotto.jpg)
 
 I was pretty excited when Baron Mordo mentions that his weapon is the *staff of the Living Tribunal*. [The Living Tribunal](https://en.wikipedia.org/wiki/Living_Tribunal) is a cosmic entity that is considered the second most powerful entity in Marvel comics. Although I don't think they will fully translate this from the comics, it was a nice nod for comics fans. But if they do, oh my gawd!
 
-![The Living Tribunal](/public/images/blog/living-tribunal.jpg)
+![The Living Tribunal](/images/blog/living-tribunal.jpg)
 
 I really liked how Doctor Strange dealt with Dormammu at the end. It became apparent that he couldn't win the battle by brute force or stronger magic against a more experienced Kaecilius. The path to victory was for Strange to enter a time loop where he would fail time and again in sacrifice for planet Earth, something his character has a hard time admitting.
 
@@ -47,7 +47,7 @@ There's not many things that's bad about the movie, this is more me being nit pi
 
 Disney/Marvel often glosses over background stories to their villains and focus their stories on heroes. This movie is no exception. Yes, I get it that it's a movie for mass appeal, but not developing major characters keeps those movie from being timeless for the ages. I would have liked to have 5 more minutes on how Kaecilius fell and turned against the Acient One.
 
-![Kaecilius](/public/images/blog/dr-strange-kaecilius.jpg)
+![Kaecilius](/images/blog/dr-strange-kaecilius.jpg)
 
 I would have wanted the Doctor Strange movie to be, well, more strange. I mean this in the sense that I wish it went full on Harry Potter magic/fantasy with significant stories and background on artifacts, books, weapons, capes, etc. For example, the [Cloak of Levitation](https://en.wikipedia.org/wiki/Cloak_of_Levitation) seemed to choose it's host, much like Aladdin's magic carpet. Just a few more lines, a paragraph going into this would have satisfied me.
 
@@ -57,7 +57,7 @@ The movie is a great addition to MCU, as it's a good movie on it's own, but also
 
 They haven't granted Doctor Strange the title of Sorcerer Supreme yet, so there's more story, conflict, and learning to come. As Baron Mordo said, there are *consequences* to come from breaking the laws of nature.
 
-![MCU Infinity War](/public/images/blog/mcu-avengers-infinity-war.jpg)
+![MCU Infinity War](/images/blog/mcu-avengers-infinity-war.jpg)
 
 ### youTube Reviews
 

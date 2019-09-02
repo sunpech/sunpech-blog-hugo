@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2017-05-26T09:00:00.000-05:00'
 description: Photos and thoughts from Anime Central 2017.
-header-img: /public/images/headers/anime-central.jpg
-image: /public/images/blog/2017-anime-central-entrance.jpg
+headerimage: /images/headers/anime-central.jpg
+image: /images/blog/2017-anime-central-entrance.jpg
 modified_time: '2017-05-26T09:00:00.000-05:00'
 tags:
   - Anime Central
   - Chicago
   - Comic Con
-thumbnail: /public/images/blog/tn_2017-anime-central-entrance.jpg
+thumbnail: /images/blog/tn_2017-anime-central-entrance.jpg
 title: Anime Central 2017
 url: /2017/05/26/anime-central/
 ---
@@ -19,7 +19,7 @@ Last weekend I was at [Anime Central](https://www.acen.org) (ACen) which was hos
 
 I stuck around the main entrance hall/lobby for most of the convention hoping to catch cosplayers on their way in or out of the exhibit hall. It seemed this year a lot of cosplayers were more casual and spent more time in the exhibit hall than the entrance. That, or they were hanging out more at the [Hyatt Regency Hotel](https://ohare.regency.hyatt.com), which is a hotspot for cosplayers.
 
-![Anime Central Entrance](/public/images/blog/2017-anime-central-entrance.jpg)
+![Anime Central Entrance](/images/blog/2017-anime-central-entrance.jpg)
 
 Music and dancing are a big part of ACen. There are always groups or individuals dancing or practicing moves somewhere in the main lobby. There's also a few musicians playing a flute or violin somewhere while they hang out with friends.
 
@@ -33,24 +33,24 @@ It rained during this year's ACen, so the cosplay gatherings moved inside for ha
 
 **The cosplay gatherings are becoming more organized every year.** Just about every cosplay gathering will have someone designated as a *countdown person*, who's job it is to countdown from five or ten how long the cosplayers and photographers have to to hold poses or take pictures before the next set will start.
 
-![Cosplay Gatherings](/public/images/blog/2017-anime-central-cosplay-gathering.jpg)
+![Cosplay Gatherings](/images/blog/2017-anime-central-cosplay-gathering.jpg)
 
 I was lucky enough to grab this panorama shot of the DC cosplay gathering on Friday when it wasn't too crowded yet. Most other gatherings, especially on Saturday, are way too crowded to jump in for a quick shots-- getting there early is encouraged.
 
-![DC Cosplay group panorama](/public/images/blog/2017-anime-central-dc-cosplay-group-pano.jpg)
+![DC Cosplay group panorama](/images/blog/2017-anime-central-dc-cosplay-group-pano.jpg)
 
 
 #### Cosplay Day 1 Favorites
 
-![2017 Anime Central Day 1 Cosplay Collage](/public/images/blog/2017-anime-central-day-1-cosplay-collage.jpg)
+![2017 Anime Central Day 1 Cosplay Collage](/images/blog/2017-anime-central-day-1-cosplay-collage.jpg)
 
 #### Cosplay Day 2 Favorites
 
-![2017 Anime Central Day 2 Cosplay Collage](/public/images/blog/2017-anime-central-day-2-cosplay-collage.jpg)
+![2017 Anime Central Day 2 Cosplay Collage](/images/blog/2017-anime-central-day-2-cosplay-collage.jpg)
 
 #### Cosplay Day 3 Favorites
 
-![2017 Anime Central Day 3 Cosplay Collage](/public/images/blog/2017-anime-central-day-3-cosplay-collage.jpg)
+![2017 Anime Central Day 3 Cosplay Collage](/images/blog/2017-anime-central-day-3-cosplay-collage.jpg)
 
 ### Photo Albums
 

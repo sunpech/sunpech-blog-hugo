@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2016-05-29T09:00:00.000-05:00'
 description: My review of X-Men Apocalypse. It contains spoilers and it won't be pretty.
-header-img: /public/images/headers/x-men-apocalypse.jpg
-image: /public/images/blog/x-men-apocalypse.jpg
+headerimage: /images/headers/x-men-apocalypse.jpg
+image: /images/blog/x-men-apocalypse.jpg
 modified_time: '2016-05-29T09:00:00.000-05:00'
 tags:
   - Comics
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_x-men-apocalypse.jpg
+thumbnail: /images/blog/tn_x-men-apocalypse.jpg
 title: X-Men Apocalypse
 url: /2016/05/29/xmen-apocalypse/
 ---
@@ -25,7 +25,7 @@ The problem is it's a movie where things happen, has characters from the X-Men u
 
 [Bryan Singer](http://www.imdb.com/name/nm0001741/) seems to ground his super heroes in reality and avoids anything over-the-top or similar to the comics. The action sequences are all rather plain by today's standards. In the final battle, the heroes were launching a stream of energy and projectiles at Apocalypse for ten minutes. It's not exciting to see someone stand in place with their arms up with the computer graphics (CG) doing most of the work.
 
-![X-Men Apocalypse](/public/images/blog/x-men-apocalypse.jpg)
+![X-Men Apocalypse](/images/blog/x-men-apocalypse.jpg)
 
 **The appearance of Wolverine as Weapon X is a gimmick**. His appearance wasn't a surprise as it was shown in [the trailer](https://youtu.be/Jer8XjMrUB4). It's used to help boost interest with a beloved character, but isn't a main character in the movie. He was a misused plot device to get the inexperienced mutants out of a heavily guarded base. If they can't fight against human guards, how are they supposed to fight against Apocalypse and his Four Horsemen later? It should have been an opportunity to show them work together to overcome obstacles rather than to easily stumble upon Weapon X.
 
@@ -45,7 +45,7 @@ The post credits scene with Essex Corp hints at Mr. Sinister and possibly X-23. 
 
 [Evan Peters](http://www.imdb.com/name/nm1404239/)' QuickSilver was the most fun part about the movie. **QuickSilver is a good example of how they can have fun with characters and their powers.** On top of that, he's is actually more powerful than what I've seen in the comics. It's interesting that Peters and [Aaron Taylor-Johnson](http://www.imdb.com/name/nm1093951/) were both in [Kick Ass](http://www.imdb.com/title/tt1250777/), and they both play QuickSilver for different studios.
 
-![Evan Peters and Aaron Taylor-Johnson](/public/images/blog/quicksilver-evan-peters-aaron-taylor-johnson.jpg)
+![Evan Peters and Aaron Taylor-Johnson](/images/blog/quicksilver-evan-peters-aaron-taylor-johnson.jpg)
 
 #### Other Issues
 
@@ -80,7 +80,7 @@ There have been nine X-Men movies thus far, *and I'm being generous and counting
 
 [X-Men: Apocalypse (2015)](http://www.imdb.com/title/tt3385516/) is on par with X3 in terms of crappiness.
 
-![X-Men Movies](/public/images/blog/x-men-movie-posters.jpg)
+![X-Men Movies](/images/blog/x-men-movie-posters.jpg)
 
 ## Epic History X-Men
 
@@ -106,7 +106,7 @@ If you want to understand and appreciate the history of the X-Men more, check ou
 
 I remember when the [Heroes TV series](http://www.imdb.com/title/tt0813715/) came out and was really excited. It was a show about individuals with special powers and how they deal with it spread across an entire season. It was a huge hit until season 2, when the writing quality just went downhill.
 
-![Heroes TV Series](/public/images/blog/heroes-tv-series.jpg)
+![Heroes TV Series](/images/blog/heroes-tv-series.jpg)
 
 I can imagine an X-Men show being about mutants discovering their ability and being recruited to the Xavier School for Gifted Youngsters. There they are taught how to use their powers to find others, solve problems, and common things that you can parallel between those in real life that feel discriminated against or left out. Stories don't have to be about the end of the world every time!
 

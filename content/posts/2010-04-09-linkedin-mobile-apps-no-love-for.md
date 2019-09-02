@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4303756699493903794
 blogger_orig_url: http://www.sunpech.com/2010/04/linkedin-mobile-apps-no-love-for.html
 date: '2010-04-09T01:10:00.000-05:00'
-header-img: /public/images/headers/android.jpg
+headerimage: /images/headers/android.jpg
 modified_time: '2014-08-07T19:36:22.297-05:00'
 redirect_from: /2010/04/linkedin-mobile-apps-no-love-for.html
 tags:

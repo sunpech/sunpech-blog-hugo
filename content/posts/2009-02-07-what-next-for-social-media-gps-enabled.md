@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7555505675634684381
 blogger_orig_url: http://www.sunpech.com/2009/02/what-next-for-social-media-gps-enabled.html
 date: '2009-02-07T19:17:00.000-06:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T17:00:23.695-05:00'
 redirect_from: /2009/02/what-next-for-social-media-gps-enabled.html
 tags:

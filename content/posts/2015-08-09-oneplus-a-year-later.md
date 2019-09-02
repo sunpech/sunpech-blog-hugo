@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2015-08-09T09:00:00.000-05:00'
 description: My thoughts on OnePlus and Cyanogen OS after one year of using the OnePlus One and Cyanogen 12S. I talk about the hardware, software, and how these two companies disappoint me.
-header-img: /public/images/headers/android.jpg
-image: /public/images/blog/oneplus_a_year_later.jpg
+headerimage: /images/headers/android.jpg
+image: /images/blog/oneplus_a_year_later.jpg
 modified_time: '2015-08-09T09:00:00.000-05:00'
 tags:
   - Android
   - Google
   - Review
-thumbnail: /public/images/blog/tn_oneplus_a_year_later.jpg
+thumbnail: /images/blog/tn_oneplus_a_year_later.jpg
 title: OnePlus, A Year Later
 url: /2015/08/09/oneplus-a-year-later/
 ---
@@ -23,7 +23,7 @@ I'm also a bit of a hacker, in that I refuse to wait for any over-the-air (OTA) 
 
 However, it's not all sunshine and rainbows with my OnePlus One (OPO). Outside the actual device hardware, there are things I dislike about the companies and software behind it.
 
-![OnePlus One](/public/images/blog/oneplus_a_year_later.jpg)
+![OnePlus One](/images/blog/oneplus_a_year_later.jpg)
 
 ### OnePlus and Cyanogen Problems
 
@@ -33,11 +33,11 @@ Cyanogen can't keep their word about having an Android port within 90 days (3 mo
 
 OnePlus's invite and marketing buzz is rather atrocious. **Their marketing is backwards. You need to deliver a product and make customers happy to get brand loyalty, not ask for it first and then sell customers a product.** The invite system was cute last year, but they're doing it again this year for the [OnePlus Two](https://oneplus.net/invites?kolid=NN0HB5). On top of that, a student developer [hacked their invite system](https://medium.com/@JakeCooper/so-nice-i-did-it-twice-hacking-the-oneplus-reservation-system-again-2e8226c45f9a), twice just to jump the queue. The count of actual individuals interested in their is no where near what is stated.
 
-![OnePlus Two Invite count](/public/images/blog/screenshot_oneplus_two_invite_count.jpg)
+![OnePlus Two Invite count](/images/blog/screenshot_oneplus_two_invite_count.jpg)
 
 It's almost as if OnePlus took their marketing plan from [South Park's Cartmanland](https://youtu.be/crosjxD4XaI). Trying to create buzz by showing something interesting, but that most people can't have. Lame.
 
-![Cartmanland](/public/images/blog/cartmanland.jpg)
+![Cartmanland](/images/blog/cartmanland.jpg)
 
 ### Final Thoughts
 

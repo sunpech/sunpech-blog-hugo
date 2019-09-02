@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7628044174949162487
 blogger_orig_url: http://www.sunpech.com/2011/07/history-of-social-networks-part-1.html
 date: '2011-07-31T09:00:00.000-05:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-09T20:02:59.428-05:00'
 redirect_from: /2011/07/history-of-social-networks-part-1.html
 tags:

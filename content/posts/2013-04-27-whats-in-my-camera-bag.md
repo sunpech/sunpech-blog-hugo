@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7004941695709937630
 blogger_orig_url: http://www.sunpech.com/2013/04/whats-in-my-camera-bag.html
 date: '2013-04-27T16:29:00.000-05:00'
-header-img: /public/images/headers/old_cameras.jpg
+headerimage: /images/headers/old_cameras.jpg
 modified_time: '2013-04-27T19:13:01.730-05:00'
 redirect_from: /2013/04/whats-in-my-camera-bag.html
 tags:

@@ -4,7 +4,7 @@ blogger_id: tag:blogger.com,1999:blog-6841384.post-2172027407015331839
 blogger_orig_url: http://www.sunpech.com/2014/09/long-beach-comic-con-2014.html
 date: '2014-09-29T11:00:00.000-05:00'
 description: I visit Long Beach Comic Con, a very hassle-free convention that's family friendly.
-header-img: /public/images/headers/long_beach_comic_con.jpg
+headerimage: /images/headers/long_beach_comic_con.jpg
 image: http://3.bp.blogspot.com/-AGuoADBTcug/VCf9IO-eH-I/AAAAAAABxug/Cs8flcjwxIo/s600/2014-09-27%2Bat%2B10-13-16.jpg
 modified_time: '2014-09-29T17:25:56.468-05:00'
 redirect_from: /2014/09/long-beach-comic-con-2014.html

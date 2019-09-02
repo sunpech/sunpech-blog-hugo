@@ -2,15 +2,15 @@
 author: Steven Suwatanapongched
 date: '2015-09-07T09:00:00.000-05:00'
 description: My photos appear in the Halloween edition of Cosplay Culture magazine. The article covers San Diego Comic Con 2015.
-header-img: /public/images/headers/cosplay_culture_halloween.jpg
-image: /public/images/blog/cosplay_culture_magazine.jpg
+headerimage: /images/headers/cosplay_culture_halloween.jpg
+image: /images/blog/cosplay_culture_magazine.jpg
 modified_time: '2015-09-07T09:00:00.000-05:00'
 tags:
   - Comic Con
   - Cosplay
   - Photography
   - San Diego Comic Con
-thumbnail: /public/images/blog/tn_cosplay_culture_magazine.jpg
+thumbnail: /images/blog/tn_cosplay_culture_magazine.jpg
 title: My Photos in Cosplay Culture Magazine
 url: /2015/09/07/my-photos-in-cosplay-culture-magazine/
 ---
@@ -20,7 +20,7 @@ Last week, the Halloween edition of [Cosplay Culture magazine](http://www.cospla
 
 You can find this magazine at Barnes and Noble, Target, Walmart, Ralph's, Walgreens, CVS, and other major newsstands and comic shops. I found my copies at B&N.
 
-![Cosplay Culture Magazine 2015 Halloween Edition](/public/images/blog/cosplay_culture_magazine.jpg)
+![Cosplay Culture Magazine 2015 Halloween Edition](/images/blog/cosplay_culture_magazine.jpg)
 
 ### Thank you cosplayers
 
@@ -41,7 +41,7 @@ I want to give credit to these cosplayers for letting me take their photo at com
 
 Here's a little behind-the-scenes of what it looks like when I edited and compiled photos before final submission.
 
-![Editing Photos](/public/images/blog/editing_cosplay_culture_photos.jpg)
+![Editing Photos](/images/blog/editing_cosplay_culture_photos.jpg)
 
 ### San Diego Comic Con 2015 Albums
 

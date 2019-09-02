@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4137235649584689527
 blogger_orig_url: http://www.sunpech.com/2011/02/pictures-from-february-2011-bkk-web.html
 date: '2011-02-22T21:33:00.000-06:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:23:36.299-05:00'
 redirect_from: /2011/02/pictures-from-february-2011-bkk-web.html
 tags:

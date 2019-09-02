@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2017-07-10T09:00:00.000-05:00'
 description: My spoilery review of the Spider-man Homecoming movie.
-header-img: /public/images/headers/spider-man-homecoming.jpg
-image: /public/images/blog/spider-man-homecoming.jpg
+headerimage: /images/headers/spider-man-homecoming.jpg
+image: /images/blog/spider-man-homecoming.jpg
 modified_time: '2017-07-10T09:00:00.000-05:00'
 tags:
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_spider-man-homecoming.jpg
+thumbnail: /images/blog/tn_spider-man-homecoming.jpg
 title: Spider-Man Homecoming
 url: /2017/07/10/spider-man-homecoming/
 ---
@@ -16,13 +16,13 @@ url: /2017/07/10/spider-man-homecoming/
 
 [Spider-Man: Homecoming](http://www.imdb.com/title/tt2250912/) is a good, coming-of-age movie aimed at younger fans and those young at heart. I liked it on a few levels, but also felt distant because I'm older and watched other Spidey and superhero films since the early 1990s.
 
-![Spider-Man: Homecoming](/public/images/blog/spider-man-homecoming.jpg)
+![Spider-Man: Homecoming](/images/blog/spider-man-homecoming.jpg)
 
 ## The Good
 
 I like how [Tom Holland](https://en.wikipedia.org/wiki/Tom_Holland_(actor)) actually looks like a teenager. I've always preferred the younger teen Spider-Man that makes quips in battles. [Toby Maquire](http://www.imdb.com/name/nm0001497/) looked too old for high school and [Andrew Garfield](http://www.imdb.com/name/nm1940449/) too handsome/hipster/cool to be Peter Parker. Tom is young and can keep playing Spider-Man for at least the next 5-8 years.
 
-![Spider-Man History](/public/images/blog/spider-man-character-history.jpg)
+![Spider-Man History](/images/blog/spider-man-character-history.jpg)
 
 The casting of [Marisa Tomei](http://www.imdb.com/name/nm0000673/) as Aunt May is a big step away from the traditional white haired elderly woman. And it makes sense to make Peter's aunt to be younger since she's his mom/dad's sister, not grandmother!
 
@@ -30,7 +30,7 @@ Although Michelle, played by [Zendaya](http://www.imdb.com/name/nm3918035/), had
 
 [Michael Keaton](http://www.imdb.com/name/nm0000474/) as the Vulture was amazing! The first three minutes of the film established him as the regular hardworking guy trying to make things work that got crushed by the government and corporation. They didn't even ever call him the Vulture throughout the movie! The car scene before the Homecoming dropoff was brilliant. Seeing how Keaton was putting together how Parker was secretly Spider-Man was so well written and acted.
 
-![Michael Keaton as the Vulture](/public/images/blog/spider-man-michael-keaton-vulture.jpg)
+![Michael Keaton as the Vulture](/images/blog/spider-man-michael-keaton-vulture.jpg)
 
 ## The Bad, or Small Issues
 
@@ -42,7 +42,7 @@ It was interesting to see [Tony Revolori](http://www.imdb.com/name/nm1727825/) t
 
 Peter's friend Ned, played by [Jacon Batalon](http://www.imdb.com/name/nm8188622/), was someone I had issue with as it just feels as though he absorbed some characteristics from the traditional Spider-Man with his tech hacking ability. He's an obvious comedic sidekick-- but I like those traits in Peter Parker.
 
-![Spider-Man and Ned](/public/images/blog/spider-man-homecoming-ned.jpg)
+![Spider-Man and Ned](/images/blog/spider-man-homecoming-ned.jpg)
 
 ## Final Thoughts
 

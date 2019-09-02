@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5527383971101594263
 blogger_orig_url: http://www.sunpech.com/2014/08/oneplus-one-vs-nexus-5.html
 date: '2014-08-08T11:00:00.000-05:00'
-header-img: /public/images/headers/android.jpg
+headerimage: /images/headers/android.jpg
 image: http://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg
 modified_time: '2014-08-15T08:03:49.472-05:00'
 redirect_from: /2014/08/oneplus-one-vs-nexus-5.html

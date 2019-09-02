@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6008116428342228532
 blogger_orig_url: http://www.sunpech.com/2012/11/long-beach-comic-con-2012.html
 date: '2012-11-06T11:00:00.000-06:00'
-header-img: /public/images/headers/long_beach_comic_con.jpg
+headerimage: /images/headers/long_beach_comic_con.jpg
 modified_time: '2014-09-29T17:25:24.456-05:00'
 redirect_from: /2012/11/long-beach-comic-con-2012.html
 tags:

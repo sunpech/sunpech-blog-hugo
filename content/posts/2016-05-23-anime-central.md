@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2016-05-23T09:00:00.000-05:00'
 description: My photos and thoughts from attending Anime Central in Chicago.
-header-img: /public/images/headers/anime-central.jpg
-image: /public/images/blog/anime-central-2016.jpg
+headerimage: /images/headers/anime-central.jpg
+image: /images/blog/anime-central-2016.jpg
 modified_time: '2016-05-23T09:00:00.000-05:00'
 tags:
   - Anime Central
   - Chicago
   - Comic Con
-thumbnail: /public/images/blog/tn_anime-central-2016.jpg
+thumbnail: /images/blog/tn_anime-central-2016.jpg
 title: Anime Central 2016
 url: /2016/05/23/anime-central/
 ---
@@ -23,7 +23,7 @@ I was surprised by the number of people after the formal con hours. It seems as 
 
 **ACen's gaming rooms are incredible.** They had rooms for a [League of Legends](https://www.leagueoflegends.com) tournament, a *free* arcade room, retro games/gaming consoles, as well as more classical board and card game rooms. ACen offers games for which ever kind of gamer you are-- and if not, you can bring your own and find people to play with you. What was also pretty sweet was the community of people willing to teach you how to play a particular game such as Go.
 
-![Anime Central - Misc](/public/images/blog/2016-anime-central-misc.jpg)
+![Anime Central - Misc](/images/blog/2016-anime-central-misc.jpg)
 
 ## Cosplay
 
@@ -35,14 +35,14 @@ One of the things I love about cosplay at anime conventions is how it encompasse
 
 ### Cosplay Day 1 Favorites
 
-![Anime Central - Cosplay Day 1](/public/images/blog/2016-anime-central-cosplay-day-1.jpg)
+![Anime Central - Cosplay Day 1](/images/blog/2016-anime-central-cosplay-day-1.jpg)
 
 ### Cosplay Day 2 Favorites
 
-![Anime Central - Cosplay Day 2](/public/images/blog/2016-anime-central-cosplay-day-2.jpg)
+![Anime Central - Cosplay Day 2](/images/blog/2016-anime-central-cosplay-day-2.jpg)
 
 ### Cosplay Day 3 Favorites
-![Anime Central - Cosplay Day 3](/public/images/blog/2016-anime-central-cosplay-day-3.jpg)
+![Anime Central - Cosplay Day 3](/images/blog/2016-anime-central-cosplay-day-3.jpg)
 
 ## Photo Albums
 
@@ -57,7 +57,7 @@ Here are links to my full photo albums on my [Facebook page](https://www.faceboo
 
 The vehicle traffic can be pretty bad at times. **If you're going North on I-294** and are looking to do drop-offs or pick-ups, **exit Balmoral Ave** instead of exiting River Road like most people. There's less traffic and lets you get to the convention center faster.
 
-![Anime Central Drop Off](/public/images/blog/anime-central-map.jpg)
+![Anime Central Drop Off](/images/blog/anime-central-map.jpg)
 
 ## Final Thoughts
 
@@ -71,4 +71,4 @@ There are a few things that I think they could do to improve the overall con exp
 
 Anime Central is a great convention. I'd like to see it grow and offer anime, comic, and entertainment fans even more great panels, guests, and shows. I am reminded every time I attend a convention that I'm getting old. My first comic convention was in 1995, more than twenty years ago! Back then, it was just a comic convention for mostly guys that didn't cater to girls or families. The only girls you saw back in the 90s were booth babes. ACen and other conventions today are bridging the gender gap and being more family-friendly. Being a geek today has never been so good, and it keeps getting better.
 
-![Anime Central 2016](/public/images/blog/anime-central-2016.jpg)
+![Anime Central 2016](/images/blog/anime-central-2016.jpg)

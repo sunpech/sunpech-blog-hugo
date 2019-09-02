@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2017-05-08T09:00:00.000-05:00'
 description: My review of Marvel's Guardians of the Galaxy Volume 2. It's very good, just don't read too far down if you haven't watched the movie yet.
-header-img: /public/images/headers/guardians-of-the-galaxy-vol-2.jpg
-image: /public/images/blog/guardians-of-the-galaxy-vol-2.jpg
+headerimage: /images/headers/guardians-of-the-galaxy-vol-2.jpg
+image: /images/blog/guardians-of-the-galaxy-vol-2.jpg
 modified_time: '2017-05-08T09:00:00.000-05:00'
 tags:
   - Comics
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_guardians-of-the-galaxy-vol-2.jpg
+thumbnail: /images/blog/tn_guardians-of-the-galaxy-vol-2.jpg
 title: Guardians of the Galaxy Vol. 2
 url: /2017/05/08/guardians-of-the-galaxy-vol-2/
 ---
@@ -19,7 +19,7 @@ I enjoyed watching [Guardians of the Galaxy Vol 2](http://www.imdb.com/title/tt3
 
 The movie has FIVE post credit scenes, yes 5, so be sure to stay through the entire credit scroll to catch them all. **This is my spoiler filled review of the movie, so read no further if you haven't watched the movie yet!**
 
-![Guardians of the Galaxy vol 2](/public/images/blog/guardians-of-the-galaxy-vol-2.jpg)
+![Guardians of the Galaxy vol 2](/images/blog/guardians-of-the-galaxy-vol-2.jpg)
 
 As director [James Gunn](http://www.imdb.com/name/nm0348181/) has said, the movie is about family. The relationships between [Peter Quill](https://en.wikipedia.org/wiki/Star-Lord) and his father, [Ego](https://en.wikipedia.org/wiki/Ego_the_Living_Planet) was explored as the main story arc. But the sister relationship between  [Gamora](https://en.wikipedia.org/wiki/Gamora) and [Nebula](https://en.wikipedia.org/wiki/Nebula_(comics)),  as well as [Yondu](https://en.wikipedia.org/wiki/Yondu) and his former crew, were also explored briefly. I loved this character stories, but there were a lot of characters.
 
@@ -42,11 +42,11 @@ There were two scenes that had [The Watchers](https://en.wikipedia.org/wiki/Watc
 
 I'm surprised they were even in the MCU, because [Watcher Uatu](https://en.wikipedia.org/wiki/Uatu) is part of the Fantastic Four comics, which Fox owns as part of their movie contract. **I'm guessing Marvel probably has rights to use their race, and specifically not Uatu.** Perhaps that is the reason it had to be reduced to a cameo rather than the Watcher looking upon Earth's sector from the moon, because that would have to be Uatu specifically.
 
-![The Watchers](/public/images/blog/the-watchers.jpg)
+![The Watchers](/images/blog/the-watchers.jpg)
 
 [Adam Warlock](https://en.wikipedia.org/wiki/Adam_Warlock) was teased in the second to last post credit scene in the cocoon that Ayesha had created. In the comics his character is deeply tied into the Soul Gem, but I think he's going to be saved for later, post Infinity War movies (Avengers 3 and 4). This character is kind of a big deal as he's pretty much the leader of heroes in the cosmic universe-- when big things happens, he's there leading and strategizing the team.
 
-![Adam Warlock](/public/images/blog/adam-warlock.jpg)
+![Adam Warlock](/images/blog/adam-warlock.jpg)
 
 The original Guardians of the Galaxy from the comics were in the movie:
 

@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2108045336801953071
 blogger_orig_url: http://www.sunpech.com/2012/02/food-photography-from-snapshots-to.html
 date: '2012-02-06T11:00:00.000-06:00'
-header-img: /public/images/headers/old_cameras.jpg
+headerimage: /images/headers/old_cameras.jpg
 modified_time: '2014-08-09T19:56:35.141-05:00'
 redirect_from: /2012/02/food-photography-from-snapshots-to.html
 tags:

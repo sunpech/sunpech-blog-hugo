@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3752641313520283111
 blogger_orig_url: http://www.sunpech.com/2011/09/pictures-from-objective-c-and-ios-for.html
 date: '2011-09-15T09:00:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:23:36.292-05:00'
 redirect_from: /2011/09/pictures-from-objective-c-and-ios-for.html
 tags:

@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2154108763861035678
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-downtown-los-angeles.html
 date: '2014-01-22T11:00:00.000-06:00'
-header-img: /public/images/headers/old_cameras.jpg
+headerimage: /images/headers/old_cameras.jpg
 modified_time: '2014-11-09T14:45:20.280-06:00'
 redirect_from: /2014/01/photos-from-downtown-los-angeles.html
 tags:

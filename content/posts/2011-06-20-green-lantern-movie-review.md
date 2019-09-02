@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2543556610536716114
 blogger_orig_url: http://www.sunpech.com/2011/06/green-lantern-movie-review.html
 date: '2011-06-20T13:24:00.002-05:00'
-header-img: /public/images/headers/best_graphic_novels.jpg
+headerimage: /images/headers/best_graphic_novels.jpg
 modified_time: '2014-08-07T20:09:44.912-05:00'
 redirect_from: /2011/06/green-lantern-movie-review.html
 tags:

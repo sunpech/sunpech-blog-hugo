@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3358468108721289778
 blogger_orig_url: http://www.sunpech.com/2008/01/best-free-software-of-2008-so-far.html
 date: '2008-01-27T10:29:00.004-06:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2012-01-03T03:43:02.293-06:00'
 redirect_from: /2008/01/best-free-software-of-2008-so-far.html
 tags:

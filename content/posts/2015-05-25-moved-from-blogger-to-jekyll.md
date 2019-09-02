@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2015-05-25T09:00:00.000-05:00'
 description: I moved my blog from Blogger to Jekyll.
-header-img: /public/images/headers/software_development.jpg
-image: /public/images/blog/blogger-to-jekyll.jpg
+headerimage: /images/headers/software_development.jpg
+image: /images/blog/blogger-to-jekyll.jpg
 modified_time: '2015-05-25T09:00:04.552-05:00'
 tags:
   - Software Development
   - Technology
-thumbnail: /public/images/blog/tn_blogger-to-jekyll.jpg
+thumbnail: /images/blog/tn_blogger-to-jekyll.jpg
 title: Moved from Blogger to Jekyll
 url: /2015/05/25/moved-from-blogger-to-jekyll/
 ---
@@ -18,7 +18,7 @@ I recently made the move from [Blogger](http://www.blogger.com) to [Jekyll](http
 
 I've had a blog since 1999. I've used just about every known blogging technology/platform out there. I've used perl, php, mysql, ASP, MS Access, ASP.NET, C#, MS SQL, Postgres, Ruby on Rails, Heroku, Apache Web Server, IIS, etc to write my own blogging software. I've also used Wordpress, Posterous, Tumblr, Medium, and Blogger, etc as a blogging platform at some point.
 
-![Blogger to Jekyll](/public/images/blog/blogger-to-jekyll.jpg)
+![Blogger to Jekyll](/images/blog/blogger-to-jekyll.jpg)
 
 ### A Cyle of Technologies
 
@@ -53,7 +53,7 @@ If you want to host Jekyll for free on [Github Pages](https://pages.github.com),
 
 There is a way to [export Blogger](http://import.jekyllrb.com/docs/blogger/) into an xml document containing all your posts. See screenshot below.
 
-![Export Blogger](/public/images/blog/screenshot_export-blogger.jpg)
+![Export Blogger](/images/blog/screenshot_export-blogger.jpg)
 
 Jekyll has some great documenation on [blog migrations](http://jekyllrb.com/docs/migrations/). Specifically, just use [this one](http://import.jekyllrb.com/docs/blogger/) to import from Blogger.
 

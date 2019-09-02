@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7285875603607456810
 blogger_orig_url: http://www.sunpech.com/2013/05/y-last-man-review.html
 date: '2013-05-30T20:30:00.001-05:00'
-header-img: /public/images/headers/best_graphic_novels.jpg
+headerimage: /images/headers/best_graphic_novels.jpg
 modified_time: '2014-08-09T19:51:50.157-05:00'
 redirect_from: /2013/05/y-last-man-review.html
 tags:

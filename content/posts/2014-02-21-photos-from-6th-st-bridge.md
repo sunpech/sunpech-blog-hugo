@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2960241080145268119
 blogger_orig_url: http://www.sunpech.com/2014/02/photos-from-6th-st-bridge.html
 date: '2014-02-21T11:54:00.004-06:00'
-header-img: /public/images/headers/old_cameras.jpg
+headerimage: /images/headers/old_cameras.jpg
 modified_time: '2014-11-09T14:44:06.586-06:00'
 redirect_from: /2014/02/photos-from-6th-st-bridge.html
 tags:

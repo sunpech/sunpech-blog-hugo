@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6781926858766975955
 blogger_orig_url: http://www.sunpech.com/2011/04/red-dot-ruby-conf-2011.html
 date: '2011-04-23T21:18:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-18T09:04:54.624-05:00'
 redirect_from: /2011/04/red-dot-ruby-conf-2011.html
 tags:

@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4089127591301387426
 blogger_orig_url: http://www.sunpech.com/2012/10/socal-code-camp-at-usc.html
 date: '2012-10-20T11:00:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:21:11.827-05:00'
 redirect_from: /2012/10/socal-code-camp-at-usc.html
 tags:

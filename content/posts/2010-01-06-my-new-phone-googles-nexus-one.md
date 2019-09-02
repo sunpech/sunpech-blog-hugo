@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5169324682668914058
 blogger_orig_url: http://www.sunpech.com/2010/01/my-new-phone-googles-nexus-one.html
 date: '2010-01-06T22:41:00.001-06:00'
-header-img: /public/images/headers/android.jpg
+headerimage: /images/headers/android.jpg
 modified_time: '2014-08-09T09:26:10.883-05:00'
 redirect_from: /2010/01/my-new-phone-googles-nexus-one.html
 tags:

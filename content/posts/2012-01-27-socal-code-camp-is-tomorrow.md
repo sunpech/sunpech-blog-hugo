@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5783205170973058067
 blogger_orig_url: http://www.sunpech.com/2012/01/socal-code-camp-is-tomorrow.html
 date: '2012-01-27T19:58:00.000-06:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-30T07:49:29.140-06:00'
 redirect_from: /2012/01/socal-code-camp-is-tomorrow.html
 tags:

@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2016-05-17T09:00:00.000-05:00'
 description: My review of Captain America Civil War movie along with predictions for Phase 3 of the MCU. I also talk about Disney's The Incredibles. Spoilers will be everywhere.
-header-img: /public/images/headers/captain-america-civil-war.jpg
-image: /public/images/blog/captain-america-civil-war.jpg
+headerimage: /images/headers/captain-america-civil-war.jpg
+image: /images/blog/captain-america-civil-war.jpg
 modified_time: '2016-05-17T09:00:00.000-05:00'
 tags:
   - Comics
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_captain-america-civil-war.jpg
+thumbnail: /images/blog/tn_captain-america-civil-war.jpg
 title: 'Captain America: Civil War'
 url: /2016/05/17/captain-america-civil-war/
 ---
@@ -21,7 +21,7 @@ I've watched the movie *twice* now and I really like it. I even enjoyed it more 
 
 The [Russo brothers](https://en.wikipedia.org/wiki/Russo_brothers) did an excellent job directing some of the best comic book based movies of all time and I can't wait for them to start with the Avengers Infinity War series. I'm amazed with how they handled action movies, considering that they are known for doing episodes of [Arrested Development](http://www.imdb.com/title/tt0367279/) and [Community](http://www.imdb.com/title/tt1439629/).
 
-![Captain America Civil War](/public/images/blog/captain-america-civil-war.jpg)
+![Captain America Civil War](/images/blog/captain-america-civil-war.jpg)
 
 ### Team Captain America
 
@@ -35,7 +35,7 @@ The United Nations is run by people with agendas that change. Signing the papers
 
 I agree with Steve Rogers, *the safest hands are always your own.*
 
-![MCU Hydra](/public/images/blog/mcu-hydra.jpg)
+![MCU Hydra](/images/blog/mcu-hydra.jpg)
 
  During the Battle of New York, the WSC's decision was to nuke the city to save the world. In [Captain America: The Winter Soldier](http://www.imdb.com/title/tt1843866/), the helicarriers were taken over by Hydra and were repurposed into global massive killing flying battleships. Both were terrible ideas that Iron Man and Captain America each had to fix.
 
@@ -47,7 +47,7 @@ The Sokovia Accords seem to conflict with [the Good Samaritan law](https://en.wi
 
 The issues present in Civil War are found in [Disney's The Incredibles](http://www.imdb.com/title/tt0317705/). The government is paying for all the court cases and probably all the damage caused in the altercations by *the Supers*. There is also the cost of injuries sustained by the survivors, not to mention the loss of lives. If the Supers didn't reveal their secret identities, the government relocated them and gave them new identities and amnesty so long as they never resume *hero work*.
 
-![The Incredibles](/public/images/blog/the-incredibles.jpg)
+![The Incredibles](/images/blog/the-incredibles.jpg)
 
 In office scene with Gilbert Huph (Mr. Incredible) and his boss Bob, there are two sets of dialogue that show just what can happen when a business or institution has its own agenda against helping people.
 
@@ -83,7 +83,7 @@ In office scene with Gilbert Huph (Mr. Incredible) and his boss Bob, there are t
 
 Here's the [source for quotes](http://www.imdb.com/title/tt0317705/quotes) above.
 
-![The Incredibles - Office Scene](/public/images/blog/the-incredibles-office-scene.jpg)
+![The Incredibles - Office Scene](/images/blog/the-incredibles-office-scene.jpg)
 
 An insurance company is an example of an organization that is run by people. They're supposed to help their customers, but they have an agenda to be profitable and keep their stockholders happy. Mr. Incredible is torn between his moral compass and the limitations set on him by his superior.
 
@@ -97,13 +97,13 @@ In the literature, the X-Men, Fantastic Four, Avengers, and other lesser known t
 
 What makes the comics situation more compelling is that there are more catastrophic incidents with more heroes, villains, and victims at play. The New Warriors were running a reality TV show and took on more than they could handle, didn't have sufficient training, and their action only made things worse. Their goal was to look good for TV and celebrity status, not save people.
 
-![Marvel Civil War Comic](/public/images/blog/marvel-civl-war-comic.jpg)
+![Marvel Civil War Comic](/images/blog/marvel-civl-war-comic.jpg)
 
 ### Iron Man
 
 In 2008, the [first Iron Man movie](http://www.imdb.com/title/tt0371746/) started us all down a path towards the formation of the Avengers and the MCU we all love. In [Iron Man 2](http://www.imdb.com/title/tt1228705/), the US government wants the Iron Man suit, weapons, and technologies. Tony flat out tells them, "You want my property, you can't have it!" At the end of the movie, S.H.I.E.L.D.'s assessment approved Iron Man for the Avengers Initiative, but not Tony Stark because he had compulsive behavior, self-destructive tendencies, and textbook narcissism.
 
-![Iron Man 2 Senate hearing](/public/images/blog/iron-man-2-senate-hearing-2.jpg)
+![Iron Man 2 Senate hearing](/images/blog/iron-man-2-senate-hearing-2.jpg)
 
 Tony Stark sings to a different tune in Civil War. His character has gone through some changes and I can see why he would support the Sokovia Accords. It's his way of making amends for some serious mis-steps from Stark Industries creating weapons for enemies to his AI gone wrong, Ultron, that led to the Battle of Sokovia. He's also seen some serious shit in the Chitauri invasion in New York City, flying a nuke through a wormhole with no plan of returning, and all his enemies coming after him in three of his own movies. It's no wonder he's suffering [PTSD](https://en.wikipedia.org/wiki/Posttraumatic_stress_disorder).
 
@@ -139,7 +139,7 @@ What better way is there to resolve super hero conflict than the death of friend
 
 Tony Stark had a vision of the fallen Avengers in space in Age of Ultron. The scene where a mortally wounded Captain America says to Tony, "You could have saved us...", is going to happen. Team Cap is going to confront a big threat without UN approval, and Team Iron Man is not going to join, resulting in at least the deaths of Hulk, Thor, Scarlett Witch, and Hawkeye.
 
-![Iron Man's vision in Age of Ultron](/public/images/blog/iron-man-captain-america-age-of-ultron.jpg)
+![Iron Man's vision in Age of Ultron](/images/blog/iron-man-captain-america-age-of-ultron.jpg)
 
 I predict that Spider-Man is going to switch to Team Cap by the end of his own movie. Tony Stark irresponsibly brought in a teenage Peter Parker, who had no formal training into the airport battle. Imagine if he had hurt someone or was seriously hurt himself? He was told everything by an agenda-driven Tony Stark. *Go for Cap's legs. He's wrong.* Peter Parker was just fed this without a chance to think about it himself.
 
@@ -147,13 +147,13 @@ The idea for regulation of enhanced beings by the UN isn't outright wrong. The c
 
 The Avengers' initiative was formed because the planet would need Earth's mightiest heroes to help them in times of great crisis. There will be a time when a greater threat comes along and the UN Council will not know what to do. They may not be able to see beyond Earth when the fate of the universe is at hand.
 
-![Thanos with the Infinity Guantlet](/public/images/blog/mcu-thanos-infinity-gauntlet.jpg)
+![Thanos with the Infinity Guantlet](/images/blog/mcu-thanos-infinity-gauntlet.jpg)
 
 I'm hoping there will be an scene, possibly an post credits scene in [Thor: Ragnarok](http://www.imdb.com/title/tt3501632/) where [The Watcher](https://en.wikipedia.org/wiki/Watcher_(comics)) appears on the moon, looking upon Earth.
 
 Captain America: Civil War has the tone of [Star Wars: The Empire Strikes Back](http://www.imdb.com/title/tt0080684/). They've come a long way to come together as a team, but have lost their footing and are separated. We don't know how they are going to get back up and come together  before the ultimate confrontation. We're only at the beginning of Phase 3, there's so much more to come!
 
-![Marvel Phase 3](/public/images/blog/marvel-phase-3.jpg)
+![Marvel Phase 3](/images/blog/marvel-phase-3.jpg)
 
 #### More Reading
 

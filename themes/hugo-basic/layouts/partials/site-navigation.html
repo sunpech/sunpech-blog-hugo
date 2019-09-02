@@ -1,0 +1,25 @@
+<!-- Navigation -->
+<nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+  <div class="container">
+    <!-- Logo -->
+    <a class="navbar-brand" href="/"><i class="fas fa-laptop"></i> {{ .Site.Title }}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav mr-auto">
+        {{ $title := .Params.title }}
+        {{ if .Site.Menus.main }}
+          {{ range .Site.Menus.main }}
+          <li class="nav-item {{ if eq .Name $title }}active{{ end }}">
+            <a class="nav-link" href="{{ .URL }}" title="{{ .Name }} page">
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>

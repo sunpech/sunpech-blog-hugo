@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2015-12-17T09:00:00.000-05:00'
 description: My photos from visiting Willis Tower Skydeck and the John Hancock Observatory.
-header-img: /public/images/headers/chicago_willis_tower_lights_north_view.jpg
-image: /public/images/blog/chicago_willis_tower_lights_north_view.jpg
+headerimage: /images/headers/chicago_willis_tower_lights_north_view.jpg
+image: /images/blog/chicago_willis_tower_lights_north_view.jpg
 modified_time: '2015-12-17T09:00:00.000-05:00'
 tags:
   - Chicago
   - Photography
-thumbnail: /public/images/blog/tn_chicago_willis_tower_lights_north_view.jpg.jpg
+thumbnail: /images/blog/tn_chicago_willis_tower_lights_north_view.jpg.jpg
 title: Photos from Willis Tower and John Hancock Observatory
 url: /2015/12/17/photos-from-willis-tower-john-hancock/
 ---
@@ -30,21 +30,21 @@ All my editing was done purely in [Adobe Lightroom](http://www.amazon.com/gp/pro
 
 ### Chicago Lights at Willis Tower
 
-![Chicago Lights at Willis Tower](/public/images/blog/chicago_willis_tower_lights_north_view.jpg)
+![Chicago Lights at Willis Tower](/images/blog/chicago_willis_tower_lights_north_view.jpg)
 
 * [500px](https://500px.com/photo/132583339/chicago-lights-at-willis-tower-by-steven-suwatanapongched)
 * [Twenty20](https://www.twenty20.com/photos/22f2e93a-3c43-4756-9cf4-912916d7549c)
 
 ### West of Willis Tower
 
-![West of Willis Tower](/public/images/blog/chicago_willis_tower_west_view.jpg)
+![West of Willis Tower](/images/blog/chicago_willis_tower_west_view.jpg)
 
 * [500px](https://500px.com/photo/132583337/west-of-willis-tower-by-steven-suwatanapongched)
 * [Twenty20](https://www.twenty20.com/photos/a6d05b67-1224-475a-85ae-09572d582ec6)
 
 ### North of Willis Tower
 
-![North of Willis Tower](/public/images/blog/chicago_willis_tower_north_view.jpg)
+![North of Willis Tower](/images/blog/chicago_willis_tower_north_view.jpg)
 
 * [500px](https://500px.com/photo/132583335/north-of-willis-tower-by-steven-suwatanapongched)
 * [Twenty20](https://www.twenty20.com/photos/f8c1d2f9-e571-4a15-8ce5-b32dbc1baefb)
@@ -53,14 +53,14 @@ All my editing was done purely in [Adobe Lightroom](http://www.amazon.com/gp/pro
 
 ### Chicago from John Hancock Observatory
 
-![Chicago from John Hancock Observatory](/public/images/blog/chicago_john_hancock_south_view.jpg)
+![Chicago from John Hancock Observatory](/images/blog/chicago_john_hancock_south_view.jpg)
 
 * [500px](https://500px.com/photo/132583333/chicago-from-john-hancock-observatory-by-steven-suwatanapongched)
 * [Twenty20](https://www.twenty20.com/photos/ba32e8a0-d9a7-4bb7-81f6-9b600941ccd6)
 
 ### Lake Shore Drive from John Hancock Observatory
 
-![Lake Shore Drive from John Hancock Observatory](/public/images/blog/chicago_john_hancock_lsd.jpg)
+![Lake Shore Drive from John Hancock Observatory](/images/blog/chicago_john_hancock_lsd.jpg)
 
 * [500px](https://500px.com/photo/132583331/lake-shore-drive-from-john-hancock-observatory-by-steven-suwatanapongched)
 * [Twenty20](https://www.twenty20.com/photos/28368627-b39c-4b13-bee1-32f00fdc4be0)

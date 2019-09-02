@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2783695198555469621
 blogger_orig_url: http://www.sunpech.com/2009/02/my-favorite-web-app-google-reader.html
 date: '2009-02-21T08:09:00.000-06:00'
-header-img: /public/images/headers/google_chicago.jpg
+headerimage: /images/headers/google_chicago.jpg
 modified_time: '2014-08-07T20:07:07.686-05:00'
 redirect_from: /2009/02/my-favorite-web-app-google-reader.html
 tags:

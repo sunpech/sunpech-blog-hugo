@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3940009128169467042
 blogger_orig_url: http://www.sunpech.com/2008/10/t-mobile-to-ship-g1-early.html
 date: '2008-10-19T18:59:00.005-05:00'
-header-img: /public/images/headers/android.jpg
+headerimage: /images/headers/android.jpg
 modified_time: '2014-08-07T19:36:22.293-05:00'
 redirect_from: /2008/10/t-mobile-to-ship-g1-early.html
 tags:

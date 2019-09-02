@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2019-04-17T09:00:00.000-05:00'
 description: My photos and thoughts from Star Wars Celebration Chicago 2019.
-header-img: /public/images/headers/2019-star-wars-celebration-chicago-wintrust-arena.jpg
-image: /public/images/blog/2019-star-wars-celebration-chicago.jpg
+headerimage: /images/headers/2019-star-wars-celebration-chicago-wintrust-arena.jpg
+image: /images/blog/2019-star-wars-celebration-chicago.jpg
 modified_time: '2019-04-17T09:00:00.000-05:00'
 tags:
   - Chicago
   - Comic Con
   - Cosplay
-thumbnail: /public/images/blog/tn_2019-star-wars-celebration-chicago.jpg
+thumbnail: /images/blog/tn_2019-star-wars-celebration-chicago.jpg
 title: Star Wars Celebration
 url: /2019/04/17/star-wars-celebration-chicago/
 ---
@@ -19,7 +19,7 @@ This past weekend I went to [Star Wars Celebration](https://www.starwarscelebrat
 
 The one thing I loved was the amount of support fans gave each other and the guests often targeted by online trolls. I remember reading that Star Wars trolls and bullies exist just on the Internet, they don't show up to cons because they wouldn't dare talk like they do in public.
 
-![Star Wars Celebration Chicago 2019](/public/images/blog/2019-star-wars-celebration-chicago.jpg)
+![Star Wars Celebration Chicago 2019](/images/blog/2019-star-wars-celebration-chicago.jpg)
 
 ## Mobile App Issues
 
@@ -27,13 +27,13 @@ There was a big push to have everyone use the [mobile app](https://www.starwarsc
 
 [Reed Pop](https://www.reedpop.com) is the event organizer and usually does a pretty good job. I get the feeling they were trying some new things out and are going through some growing pains. Just a few weeks ago they put together [C2E2](http://c2e2.com/) on the other side of McCormick Place and I thought it went rather well.
 
-![Star Wars Celebration Chicago Mobile App](/public/images/blog/2019-star-wars-celebration-chicago-mobile-app.jpg)
+![Star Wars Celebration Chicago Mobile App](/images/blog/2019-star-wars-celebration-chicago-mobile-app.jpg)
 
 ## Exhibit Hall and Panels
 
 The exhibit hall was smaller than I expected. I was able to walk the entire floor in under two hours with moderate browsing of toys and displays. That said, there was an amazing variety of Star Wars vendors and booths set up. There were booths for fan groups, big vendors (Hasbro, LEGO, and Funko), books, local businesses, etc. I especially liked finding old Star Wars toys from the early 1980s that I once owned and played with.
 
-![Star Wars Celebration Exhibit Hall Collage](/public/images/blog/2019-star-wars-celebration-chicago-exhibit-hall-collage.jpg)
+![Star Wars Celebration Exhibit Hall Collage](/images/blog/2019-star-wars-celebration-chicago-exhibit-hall-collage.jpg)
 
 I won the lottery for two panels at the Wintrust Arena:
 
@@ -42,13 +42,13 @@ I won the lottery for two panels at the Wintrust Arena:
 
 The line management really needs some work. I was able to walk into one of the Wintrust Arena panels without my QR code ever being scanned. I hope my info isn't stored somewhere because my QR code wasn't scanned and registered as entering. I wouldn't want to penalized because someone working the lines wasn't doing their job or their scanning app crashed.
 
-![Star Wars Celebration Mandalorian Panel](/public/images/blog/2019-star-wars-celebration-wintrust-mandalorian-panel-pano.jpg)
+![Star Wars Celebration Mandalorian Panel](/images/blog/2019-star-wars-celebration-wintrust-mandalorian-panel-pano.jpg)
 
 ## Cosplay
 
 There was a large number of cosplayers, especially in groups, all over the place. I must confess it was a bit overwhelming to take photos of Star Wars cosplay again and again. I have nothing against cosplayers or anything, but some times as a photographer I don't want to have fifty shots of stormtroopers. What I think most photographers want is variety to their set of photos.
 
-![Star Wars Celebration Chicago - Cosplay](/public/images/blog/2019-star-wars-celebration-chicago-cosplay.jpg)
+![Star Wars Celebration Chicago - Cosplay](/images/blog/2019-star-wars-celebration-chicago-cosplay.jpg)
 
 ## Photo Albums
 

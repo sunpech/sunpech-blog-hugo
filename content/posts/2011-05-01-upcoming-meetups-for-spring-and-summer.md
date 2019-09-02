@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4464253791843666424
 blogger_orig_url: http://www.sunpech.com/2011/05/upcoming-meetups-for-spring-and-summer.html
 date: '2011-05-01T04:53:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-11T03:43:33.692-06:00'
 redirect_from: /2011/05/upcoming-meetups-for-spring-and-summer.html
 tags:

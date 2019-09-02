@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2016-01-25T09:00:00.000-05:00'
 description: The Super Hero movies I'm looking forward to the most in 2016.
-header-img: /public/images/headers/superhero_movies_2016.jpg
-image: /public/images/blog/2016_superhero_movies_posters.jpg
+headerimage: /images/headers/superhero_movies_2016.jpg
+image: /images/blog/2016_superhero_movies_posters.jpg
 modified_time: '2016-01-25T09:00:00.000-05:00'
 tags:
   - Comics
   - Movies
-thumbnail: /public/images/blog/tn_2016_superhero_movies_posters.jpg
+thumbnail: /images/blog/tn_2016_superhero_movies_posters.jpg
 title: Super Hero Movies of 2016
 url: /2016/01/25/super-hero-movies-of-2016/
 ---
@@ -26,7 +26,7 @@ Don't worry, this post is *spoiler free* for both the movies (since I haven't se
 5. **Suicide Squad** (August 5, 2016)
 6. **X-Men: Apocalypse** (May 27, 2016)
 
-![Captain America 3 Civil War](/public/images/blog/captain_america3_civil_war.jpg)
+![Captain America 3 Civil War](/images/blog/captain_america3_civil_war.jpg)
 
 **Civil War** is perhaps one of the greatest stories that Marvel can tell as part of the Marvel Cinematic Universe (MCU). As you can see in [the trailer](https://www.youtube.com/watch?v=43NWzay3W4s), it deals with heroes versus heroes. What team are you going to be on, team Iron Man or team Cap? There are so many characters in this movie it seems like an Avengers 2.5.
 
@@ -34,7 +34,7 @@ What you might know from the [Civil War comic](http://www.amazon.com/gp/product/
 
 Release Date: May 6, 2016
 
-![Deadpool](/public/images/blog/deadpool_poster_vday.jpg)
+![Deadpool](/images/blog/deadpool_poster_vday.jpg)
 
 **Deadpool** has a large fan following. When I go to conventions he's one of the most cosplayed characters on the floor. Most people outside the comic book community wouldn't even know who Deadpool is, and I think that's a great thing because they are in a for a treat. The timing for this movie couldn't be better as there are so many super hero movies out now, and the Deadpoool is a hero/villain that doesn't take things seriously at all and pokes fun of everything and is known to [break the fourth wall](https://en.wikipedia.org/wiki/Fourth_wall). If you haven't already, [check out the trailer](https://www.youtube.com/watch?v=ZIM1HydF9UA). The marketing team behind this is also pretty amazing-- thus why I picked the banner above, *hint hint, it's not a romance and very R-rated*.
 
@@ -42,7 +42,7 @@ I'm hoping that [20th Century Fox](http://www.foxmovies.com/) gets this movie ri
 
 Release date: February 12, 2016
 
-![Dr. Strange](/public/images/blog/dr_strange_cumberbatch.jpg)
+![Dr. Strange](/images/blog/dr_strange_cumberbatch.jpg)
 
 **Dr. Strange** is going to be an important movie that swings the doors open to a bigger stories in the Marvel Cinematic Universe-- especially in the upcoming [Avengers: Infinity Wars](http://www.imdb.com/title/tt4154756/) movies. I'm expecting this movie to be like [Guardians of the Galaxy](http://www.imdb.com/title/tt2015381/) performed in 2014-- a movie that no one had high expectations for and knew nothing about, but proved to be a great movie and story. Sorry no trailer or official posters out yet for this.
 
@@ -50,7 +50,7 @@ Also, [Benedict Cumberbatch](http://www.imdb.com/name/nm1212722/) is cast as the
 
 Release date: November 4, 2016
 
-![Batman vs Superman Dawn of Justice](/public/images/blog/batman_v_superman_posters.jpg)
+![Batman vs Superman Dawn of Justice](/images/blog/batman_v_superman_posters.jpg)
 
 **Batman v Superman** is a big deal for me because I want to see Wonder Woman (WW) make her appearance on the big screen after all these years. Many were critical of [Gal Gadot's](http://www.imdb.com/name/nm2933757/) size when they announced her as WW, but I think she looks amazing. I even [tweeted in her defense](https://twitter.com/sunpech/status/408732767933825024). I won't spoil it for you readers, but I'm hoping they take [the New 52](https://en.wikipedia.org/wiki/The_New_52) take on Wonder Woman's origin-- it's so much more interesting than what most people know.
 
@@ -60,7 +60,7 @@ I must also say that their trailers 1. shows too much of the story and 2. releas
 
 Release date: March 23, 2016
 
-![Suicide Squad](/public/images/blog/suicide_squad.jpg)
+![Suicide Squad](/images/blog/suicide_squad.jpg)
 
 **Suicide Squad** continues to pave the way for a darker DC movie universe. To be honest, I'm interested in only two characters from the team: Joker and Harley Quinn. We've seen so many incarnations of Joker ([Cesar Romero](http://www.imdb.com/name/nm0003110/), [Jack Nicholson](http://www.imdb.com/name/nm0000197/), [Mark Hamill](http://www.imdb.com/name/nm0000434/) (voice), and [Heath Ledger](http://www.imdb.com/name/nm0005132/)). I want to see the Joker version that teams up with Harley Quinn on the big screen. Check out [the trailer](https://www.youtube.com/watch?v=CmRih_VtVAs).
 
@@ -68,7 +68,7 @@ Like BvS, this movie also carries a lot of characters, all of which will likely 
 
 Release date: August 5, 2016
 
-![X-Men Apocalypse](/public/images/blog/xmen_apocalypse.jpg)
+![X-Men Apocalypse](/images/blog/xmen_apocalypse.jpg)
 
 **X-Men: Apocalypse** is sadly not a movie I'm looking forward to. From what I've seen from the [trailer](https://www.youtube.com/watch?v=COvnHv42T-A), set photos, and 20th Century Fox's track record of butchering Marvel characters, I don't have much faith that they will do the characters justice. This is why it's at the bottom of my list-- my prediction is that it's going to be a miss amongst hardcore fans as well as general audience. I just hope it's not as bad as [The Last Stand](http://www.imdb.com/title/tt0376994/).
 
@@ -80,7 +80,7 @@ Release date: May 27, 2016
 
 Here's a calendar with the movies marked on it. I really like how the movies are generally spread out, plenty of breathing room.
 
-![2016 Calendar Release Dates](/public/images/blog/2016_superhero_calendar.jpg)
+![2016 Calendar Release Dates](/images/blog/2016_superhero_calendar.jpg)
 
 ## Final Thoughts
 

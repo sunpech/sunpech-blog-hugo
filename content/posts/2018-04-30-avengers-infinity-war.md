@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2018-04-30T09:00:00.000-05:00'
 description: My movie review of Avengers Infinity War.
-header-img: /public/images/headers/avengers-infinity-war.jpg
-image: /public/images/blog/avengers-infinity-war.jpg
+headerimage: /images/headers/avengers-infinity-war.jpg
+image: /images/blog/avengers-infinity-war.jpg
 modified_time: '2018-04-30T09:00:00.000-05:00'
 tags:
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_avengers-infinity-war.jpg
+thumbnail: /images/blog/tn_avengers-infinity-war.jpg
 title: Avengers Infinity War
 url: /2018/04/30/avengers-infinity-war/
 ---
@@ -20,7 +20,7 @@ It's been over three years since [Kevin Feige announced](https://youtu.be/L2VoJu
 
 *Spoilers below*.
 
-![Avengers Infinity War](/public/images/blog/avengers-infinity-war.jpg)
+![Avengers Infinity War](/images/blog/avengers-infinity-war.jpg)
 
 ## The Heroes
 
@@ -56,7 +56,7 @@ Phase Three:
 * **Black Panther (2018)**
 * Avengers: Infinity War (2018) -- Current
 
-![Avenger Infinity Wars posters](/public/images/blog/avengers-infinity-war-posters.jpg)
+![Avenger Infinity Wars posters](/images/blog/avengers-infinity-war-posters.jpg)
 
 Thor, Iron Man, and Captain America really shined in the movie (ranked in that order mentioned). Thor and Rocket Raccoon had great chemistry with their mission to get Stormbreaker on Nidavellir. Iron Man, Spider Man, and Dr. Strange were fantastic with their mission on planet Titan. Captain America is solid as always with bringing the team on Earth together.
 
@@ -79,11 +79,11 @@ Killmonger's father was killed without explanation and he was abandoned to a rou
 
 With Thanos, his backstory is that his homeworld was overpopulated, didn't listen to him, which lead to their demise. Thus his quest to wipe the universe to balance things out.
 
-![Thanos](/public/images/blog/avengers-infinity-war-thanos-armor.jpg)
+![Thanos](/images/blog/avengers-infinity-war-thanos-armor.jpg)
 
 The Black Order served their purpose. I really liked Ebony Maw, how he was able to go toe-to-toe with Dr. Strange. I think Thanos might have called him E-Maw after he first meets Dr. Strange on Titan? I was a bit disappointed with Proxima Midnight's look and especially how de-powered Corvus Glaive was portrayed in the movie.
 
-![The Black Order](/public/images/blog/avengers-infinity-war-black-order-loki.jpg)
+![The Black Order](/images/blog/avengers-infinity-war-black-order-loki.jpg)
 
 ## Miscellaneous Things
 
@@ -95,7 +95,7 @@ The Black Order served their purpose. I really liked Ebony Maw, how he was able 
 * The scene where Thanos turned Drax into stone blocks and Mantis into strings was a hat tip to the comics.
 * When Gamora stabs and "kills" Thanos, she also breaks down and cries. This expresses how complex their relationship is. He's a father figure to her, but he's also out to destroy the universe.
 
-![Thanos and Gamora](/public/images/blog/avengers-infinity-war-thanos-child-gamora.jpg)
+![Thanos and Gamora](/images/blog/avengers-infinity-war-thanos-child-gamora.jpg)
 
 ## The Ending and Post Credits Scene
 
@@ -105,7 +105,7 @@ I am uncertain on the status of the Infinity Gauntlet by the end of the movie. I
 
 As Nick Fury is ashing out of existence, he contacts someone on his pager. That someone is Captain Marvel. This is a great tease for next year's movie that takes place in the 1990s. Is she what the Avengers need to turn the tide? We shall see.
 
-![Captain Marvel](/public/images/blog/captain-marvel-logo.jpg)
+![Captain Marvel](/images/blog/captain-marvel-logo.jpg)
 
 ## Avengers 4 Predictions
 
@@ -123,7 +123,7 @@ I think Shuri was able to back up some of Vision in her lab in Wakanda, but prob
 
 Thanos's sacrifice/murder of his favorite daughter, Gamora, was a pivotal moment in the movie. His action gave him the Soul stone. I can see Peter Quill taunting Thanos-- if he was so powerful, why doesn't he bring Gamora back. In doing so, it would undo the sacrifice and the Soul stone would leave the Infinity Guantlet.
 
-![Avengers Infinity War Black](/public/images/blog/avengers-infinity-war-black.jpg)
+![Avengers Infinity War Black](/images/blog/avengers-infinity-war-black.jpg)
 
 ## Final Thoughts
 
@@ -135,7 +135,7 @@ I'm hoping that they will bring in Celestials, Eternals, and other cosmic beings
 
 With the Disney/Fox deal still going on, and not finalized yet, there's a whole slew of properties that could return to Disney/Marvel. X-Men, Fantastic Four, Dr. Doom, Galactus, Silver Surfer, Namor, etc. So many other stories to tell!
 
-![Infinity War Part 1 and 2 Announcement](/public/images/blog/avengers-infinity-war-part-1-2.jpg)
+![Infinity War Part 1 and 2 Announcement](/images/blog/avengers-infinity-war-part-1-2.jpg)
 
 ### Recommended Reading
 
@@ -153,6 +153,6 @@ Even more: [Thanos Rising](https://amzn.to/2HBjU38) and [The Thanos Imperative](
 
 Below is what my coffee table looks like. Yes, that's a [Marvel Legends Series Infinity Gauntlet Articulated Electronic Fist](https://amzn.to/2r6JuTs), for adults.
 
-![My Coffee Table](/public/images/blog/avengers-infinity-war-coffee-table-2.jpg)
+![My Coffee Table](/images/blog/avengers-infinity-war-coffee-table-2.jpg)
 
 *Some images for this post was lifted from [wall.alphacoders.com](https://wall.alphacoders.com/)*

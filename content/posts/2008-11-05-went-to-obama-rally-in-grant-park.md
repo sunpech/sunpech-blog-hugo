@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1098775083325003979
 blogger_orig_url: http://www.sunpech.com/2008/11/went-to-obama-rally-in-grant-park.html
 date: '2008-11-05T01:11:00.004-06:00'
-header-img: /public/images/headers/chicago_skyline.jpg
+headerimage: /images/headers/chicago_skyline.jpg
 modified_time: '2012-01-11T03:41:02.371-06:00'
 redirect_from: /2008/11/went-to-obama-rally-in-grant-park.html
 tags:

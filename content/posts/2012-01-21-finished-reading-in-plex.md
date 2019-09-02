@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3834902040245106310
 blogger_orig_url: http://www.sunpech.com/2012/01/finished-reading-in-plex.html
 date: '2012-01-21T11:00:00.000-06:00'
-header-img: /public/images/headers/google_chicago.jpg
+headerimage: /images/headers/google_chicago.jpg
 modified_time: '2012-01-23T12:18:09.061-06:00'
 redirect_from: /2012/01/finished-reading-in-plex.html
 tags:

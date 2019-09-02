@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4147924816490106107
 blogger_orig_url: http://www.sunpech.com/2012/10/mobile-camp-la.html
 date: '2012-10-22T11:00:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-19T02:32:23.128-05:00'
 redirect_from: /2012/10/mobile-camp-la.html
 tags:

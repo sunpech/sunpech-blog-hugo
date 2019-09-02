@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8259180177650790418
 blogger_orig_url: http://www.sunpech.com/2012/03/canon-5d-mark-3-announced.html
 date: '2012-03-02T17:39:00.002-06:00'
-header-img: /public/images/headers/old_cameras.jpg
+headerimage: /images/headers/old_cameras.jpg
 modified_time: '2012-03-04T05:04:00.254-06:00'
 redirect_from: /2012/03/canon-5d-mark-3-announced.html
 tags:

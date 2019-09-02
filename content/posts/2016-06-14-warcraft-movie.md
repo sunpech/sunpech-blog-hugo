@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2016-06-14T09:00:00.000-05:00'
 description: My review of the Warcraft movie.
-header-img: /public/images/headers/warcraft-movie.jpg
-image: /public/images/blog/warcraft-movie.jpg
+headerimage: /images/headers/warcraft-movie.jpg
+image: /images/blog/warcraft-movie.jpg
 modified_time: '2016-06-14T09:00:00.000-05:00'
 tags:
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_warcraft-movie.jpg
+thumbnail: /images/blog/tn_warcraft-movie.jpg
 title: Warcraft Movie
 url: /2016/06/14/warcraft-movie/
 ---
@@ -20,7 +20,7 @@ I normally give a spoiler warning, but I won't say enough about the plot of the 
 
 I do have some background in playing [Warcraft III](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos), [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft) (WoW), [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone:_Heroes_of_Warcraft), and other games from [Blizzard Entertainment](https://en.wikipedia.org/wiki/Blizzard_Entertainment). I played WoW for 4-5 months, leveling my Tauren Warrior to level 52 before quitting because it took too much of my time. I have basic familiarity with the lore, but by no means am an expert or hardcore fan.
 
-![Warcraft Movie](/public/images/blog/warcraft-movie.jpg)
+![Warcraft Movie](/images/blog/warcraft-movie.jpg)
 
 The movie was just okay for me. **Definitely not good, but also not as bad as it's [Rotten Tomatoes score](https://www.rottentomatoes.com/m/warcraft/): 27% currently.**
 
@@ -32,7 +32,7 @@ Blizzard has been building and expanding on the fantasy world for more than 20 y
 
 **The best parts of the movie were the orcs and magic portrayed.** [Duncan Jones](http://www.imdb.com/name/nm1512910/) set out to portray both sides and he did a good job fleshing out the orc tribe. The CGI looked amazing and the actors were phenomenal. I really was taken into their characters that I just didn't see actors behind the animation at all. The magic didn't need any explaining, it was just fun.
 
-![Warcraft Orcs](/public/images/blog/warcraft-movie-orcs.jpg)
+![Warcraft Orcs](/images/blog/warcraft-movie-orcs.jpg)
 
 **The weakest parts of the movie were the humans**-- I just could not care about them or their race. The writing and casting was just weak over all. The human cities was big, but so short that as a viewer you don't get to breathe it all in.
 
@@ -42,7 +42,7 @@ Blizzard has been building and expanding on the fantasy world for more than 20 y
 
 **Blizzard has a lot of stories to offer and I hope they break into the mainstream like Marvel has.**
 
-![Blizzard Entertainment](/public/images/blog/blizzard_entertainment.jpg)
+![Blizzard Entertainment](/images/blog/blizzard_entertainment.jpg)
 
 ### Other Reviews
 

@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2015-09-25T09:00:00.000-05:00'
 description: My photos take at and around the Adamas/Wabash CTA Station in Chicago.
-header-img: /public/images/headers/adams-wabash-cta-station.jpg
-image: /public/images/blog/adams-wabash-cta-station.jpg
+headerimage: /images/headers/adams-wabash-cta-station.jpg
+image: /images/blog/adams-wabash-cta-station.jpg
 modified_time: '2015-09-25T09:00:00.000-05:00'
 tags:
   - Chicago
   - Photography
-thumbnail: /public/images/blog/tn_adams-wabash-cta-station.jpg
+thumbnail: /images/blog/tn_adams-wabash-cta-station.jpg
 title: Adams/Wabash CTA Station
 url: /2015/09/25/adams-wabash-cta-station/
 ---
@@ -18,7 +18,7 @@ Yesterday I was in Chicago with hopes of getting some nice photos of *Chicago he
 
 In particular I hopped on the CTA and looked for some train shots on the 'L'. My favorite by far was at the [Adams/Wabash CTA station](http://www.transitchicago.com/travel_information/station.aspx?StopId=14). There are two walkways that cross on top of the elevated trains, both north and south. I chose the north walkway as it had a direct lineup with the tracks.
 
-![Adams/Wabash CTA Station](/public/images/blog/adams-wabash-cta-station.jpg)
+![Adams/Wabash CTA Station](/images/blog/adams-wabash-cta-station.jpg)
 
 ### Where to Purchase
 
@@ -31,4 +31,4 @@ In particular I hopped on the CTA and looked for some train shots on the 'L'. My
 
 I took some photos around the CTA stations and surrounding areas too. You can check out my [Facebook Chicago album](https://www.facebook.com/media/set/?set=a.951834838214874.1073741896.408588035872893&type=3) for more.
 
-![CTA Station Black and White](/public/images/blog/chicago-black-and-white-collage.jpg)
+![CTA Station Black and White](/images/blog/chicago-black-and-white-collage.jpg)

@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6059562824403135359
 blogger_orig_url: http://www.sunpech.com/2012/04/my-htpc-setup.html
 date: '2012-04-07T19:31:00.001-05:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-09T19:54:12.526-05:00'
 redirect_from: /2012/04/my-htpc-setup.html
 tags:

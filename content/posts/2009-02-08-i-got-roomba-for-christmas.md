@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4204154948874747235
 blogger_orig_url: http://www.sunpech.com/2009/02/i-got-roomba-for-christmas.html
 date: '2009-02-08T23:06:00.008-06:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T17:00:33.265-05:00'
 redirect_from: /2009/02/i-got-roomba-for-christmas.html
 tags:

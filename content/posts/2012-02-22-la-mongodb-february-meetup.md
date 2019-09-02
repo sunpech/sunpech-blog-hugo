@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3031480624207382140
 blogger_orig_url: http://www.sunpech.com/2012/02/la-mongodb-february-meetup.html
 date: '2012-02-22T11:00:00.000-06:00'
-header-img: /public/images/headers/los_angeles.jpg
+headerimage: /images/headers/los_angeles.jpg
 modified_time: '2014-08-07T16:21:33.247-05:00'
 redirect_from: /2012/02/la-mongodb-february-meetup.html
 tags:

@@ -2,7 +2,7 @@
 author: Steven Suwatanapongched
 date: '2013-09-13T09:00:00.000-05:00'
 description: Photos from my Drink and Click LA Photowalk in downtown Artwalk.
-header-img: /public/images/headers/old_cameras.jpg
+headerimage: /images/headers/old_cameras.jpg
 image: http://3.bp.blogspot.com/-iE17riuDdCA/UjM0MhyCZYI/AAAAAAAByzk/kgqHbG0vXVA/s800/2013-09-12%2Bat%2B20-32-38.jpg
 modified_time: '2013-09-13T09:00:00.000-05:00'
 tags:

@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5408126596200107751
 blogger_orig_url: http://www.sunpech.com/2011/03/thoughts-from-march-bkk-web-meetup.html
 date: '2011-03-23T03:31:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:23:36.318-05:00'
 redirect_from: /2011/03/thoughts-from-march-bkk-web-meetup.html
 tags:

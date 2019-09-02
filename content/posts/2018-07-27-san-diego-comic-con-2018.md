@@ -2,15 +2,15 @@
 author: Steven Suwatanapongched
 date: '2018-07-27T09:00:00.000-05:00'
 description: My thoughts and photos from San Diego Comic Con 2018.
-header-img: /public/images/headers/san-diego-comic-con-2018.jpg
-image: /public/images/blog/2018-sdcc-banner.jpg
+headerimage: /images/headers/san-diego-comic-con-2018.jpg
+image: /images/blog/2018-sdcc-banner.jpg
 modified_time: '2018-07-27T09:00:00.000-05:00'
 tags:
   - Comic Con
   - Cosplay
   - San Diego
   - San Diego Comic Con
-thumbnail: /public/images/blog/tn_2018-sdcc-banner.jpg
+thumbnail: /images/blog/tn_2018-sdcc-banner.jpg
 title: San Diego Comic Con 2018
 url: /2018/07/27/san-diego-comic-con-2018/
 ---
@@ -24,23 +24,23 @@ The lines this year was also rather reasonable. They implemented a lottery syste
 
 I recently got some new camera gear too. I'm moving from Canon to Sony. So now I'm shooting with a [Sony a7iii](https://amzn.to/2uQwN0P) and [Sony 24-70mm f/2.8 GM](https://amzn.to/2mKN2rQ). I rented a Sony 55mm f/1.8 and 85mm f/1.8 from [BorrowLenses](https://www.talkable.com/x/ECqWAZ) for Anime Expo in early July. I love both of the rented lenses, but the 55mm is just too expensive at $900. The 85mm is super sharp and a great buy at $600. So I bought the [Sony 85mm f/1.8](https://amzn.to/2Agbn2p) for the SDCC trip.
 
-![San Diego Comic Con 2018](/public/images/blog/2018-sdcc-banner.jpg)
+![San Diego Comic Con 2018](/images/blog/2018-sdcc-banner.jpg)
 
 ## Cosplay
 
 This year it felt as though some notable cosplayers weren't at SDCC. There were still some creative cosplays walking around, especially from [Cinema Makeup School](https://www.cinemamakeup.com/). I didn't take as many photos as I usually do-- I did want to spend my time with my niece and family/friends.
 
-![San Diego Comic Con 2018 Cosplay Collage](/public/images/blog/2018-sdcc-cosplay-collage.jpg)
+![San Diego Comic Con 2018 Cosplay Collage](/images/blog/2018-sdcc-cosplay-collage.jpg)
 
 ## Celebrities
 
 I didn't take as many photos of celebs this year either. I shot mostly with an 85mm prime instead of my usual 70-200mm.
 
-![San Diego Comic Con 2018 Celebrities Collage](/public/images/blog/2018-sdcc-celebrities-collage.jpg)
+![San Diego Comic Con 2018 Celebrities Collage](/images/blog/2018-sdcc-celebrities-collage.jpg)
 
 ## Misc
 
-![San Diego Comic Con 2018 Misc Collage](/public/images/blog/2018-sdcc-misc-collage.jpg)
+![San Diego Comic Con 2018 Misc Collage](/images/blog/2018-sdcc-misc-collage.jpg)
 
 ## Photo Albums
 

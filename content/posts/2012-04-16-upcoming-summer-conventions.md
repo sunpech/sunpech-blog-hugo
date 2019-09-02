@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1548202190422393924
 blogger_orig_url: http://www.sunpech.com/2012/04/upcoming-summer-conventions.html
 date: '2012-04-16T20:38:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2012-07-09T22:45:06.922-05:00'
 redirect_from: /2012/04/upcoming-summer-conventions.html
 tags:

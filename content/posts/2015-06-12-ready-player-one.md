@@ -2,12 +2,12 @@
 author: Steven Suwatanapongched
 date: '2015-06-12T09:00:00.000-05:00'
 description: I review the book, Ready Player One, by Ernest Cline. No spoilers.
-image: /public/images/blog/ready_player_one_book.jpg
+image: /images/blog/ready_player_one_book.jpg
 modified_time: '2015-06-12T09:00:00.000-05:00'
 tags:
   - Books
   - Review
-thumbnail: /public/images/blog/tn_ready_player_one_book.jpg
+thumbnail: /images/blog/tn_ready_player_one_book.jpg
 title: Ready Player One
 url: /2015/06/12/ready-player-one/
 ---
@@ -17,7 +17,7 @@ I own several copies of the book, [Ready Player One](http://readyplayerone.com/)
 
 <b>This post is spoiler-free.</b> Read it knowing that you can still fully enjoy the book and upcoming movie.
 
-![Ready Player One](/public/images/blog/ready_player_one_book.jpg)
+![Ready Player One](/images/blog/ready_player_one_book.jpg)
 
 ### The Book
 
@@ -33,7 +33,7 @@ Or you can also have it read to you by [Wil Wheaton](http://wilwheaton.net/) in 
 
 The book is being made into a [movie](http://www.imdb.com/title/tt1677720/), to be directed by [Steven Spielberg](http://www.imdb.com/name/nm0000229/). It's going to be a challenge to include all the references the book made into a movie, but if anyone can do this, Spielberg can. Think of movies such as [Who Framed Roger Rabbit](http://www.imdb.com/title/tt0096438/), [Wreck-it-Ralph](http://www.imdb.com/title/tt1772341/), or the upcoming [Pixels](http://www.imdb.com/title/tt2120120/), how they pulled together so many different properties into one movie. Tough, but not impossible. In fact, it seems to be a trend in recent years.
 
-![Who Framed Roger Rabbit, Wreck-it-Ralph, and Pixels](/public/images/blog/roger-rabbit_wreck-it-ralph_pixels.jpg)
+![Who Framed Roger Rabbit, Wreck-it-Ralph, and Pixels](/images/blog/roger-rabbit_wreck-it-ralph_pixels.jpg)
 
 ### More Links
 
@@ -41,4 +41,4 @@ The book is being made into a [movie](http://www.imdb.com/title/tt1677720/), to 
 * [Ready Player One playlist on Spotify](https://play.spotify.com/user/ernestcline/playlist/5h6SYfQvJYAnr9S8Al4yOn) by [ernestcline](https://play.spotify.com/user/ernestcline)
 * [Map of dystopian universe](http://readyplayerone.com/post/22266057591/check-out-our-map-of-the-dystopian-universe-a)
 
-[![Buy Ready Player One on Amazon.com](/public/images/blog/ready_player_one_cover.jpg)](http://www.amazon.com/gp/product/0307887448/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0307887448&linkCode=as2&tag=sunpech-20&linkId=Z2OPXV2N6LYKO3OL)
+[![Buy Ready Player One on Amazon.com](/images/blog/ready_player_one_cover.jpg)](http://www.amazon.com/gp/product/0307887448/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0307887448&linkCode=as2&tag=sunpech-20&linkId=Z2OPXV2N6LYKO3OL)

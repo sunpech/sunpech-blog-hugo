@@ -4,7 +4,7 @@ blogger_id: tag:blogger.com,1999:blog-6841384.post-3583724565157620915
 blogger_orig_url: http://www.sunpech.com/2014/11/oakland-museum-of-californias-sdcc.html
 date: '2014-11-14T12:00:00.000-06:00'
 description: I visit the Oakland Museum of California to check out my photo on display in the San Diego Comic Con Exhibit.
-header-img: /public/images/headers/old_cameras.jpg
+headerimage: /images/headers/old_cameras.jpg
 image: http://4.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAAB0Ag/Q2GTo5K5VUg/s600/2013-07-18%2Bat%2B17-23-17.jpg
 modified_time: '2014-11-14T12:00:04.529-06:00'
 redirect_from: /2014/11/oakland-museum-of-californias-sdcc.html

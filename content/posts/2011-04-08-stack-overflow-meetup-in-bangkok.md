@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1378732813473444949
 blogger_orig_url: http://www.sunpech.com/2011/04/stack-overflow-meetup-in-bangkok.html
 date: '2011-04-08T20:04:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:55:17.684-05:00'
 redirect_from: /2011/04/stack-overflow-meetup-in-bangkok.html
 tags:

@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6541693810625676412
 blogger_orig_url: http://www.sunpech.com/2010/03/chicago-tech-user-groups-and-events-for.html
 date: '2010-03-15T19:07:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-11T04:06:18.244-06:00'
 redirect_from: /2010/03/chicago-tech-user-groups-and-events-for.html
 tags:

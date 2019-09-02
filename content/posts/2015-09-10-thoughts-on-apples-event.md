@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2015-09-10T09:00:00.000-05:00'
 description: My thoughts on Apple's September 2015 keynote event. The winners were the iPad Pro and the iPhone Upgrade program.
-header-img: /public/images/headers/apple_galaxy.jpg
-image: /public/images/blog/thoughts_on_apple_event.jpg
+headerimage: /images/headers/apple_galaxy.jpg
+image: /images/blog/thoughts_on_apple_event.jpg
 modified_time: '2015-09-10T09:00:00.000-05:00'
 tags:
   - Apple
   - Technology
-thumbnail: /public/images/blog/tn_thoughts_on_apple_event.jpg
+thumbnail: /images/blog/tn_thoughts_on_apple_event.jpg
 title: Thoughts on Apple's Event
 url: /2015/09/10/thoughts-on-apples-event/
 ---
@@ -16,7 +16,7 @@ url: /2015/09/10/thoughts-on-apples-event/
 
 Yesterday, [Apple](http://www.apple.com) had their livestream event ([September 9, 2015](http://www.apple.com/apple-events/september-2015/)) announcing a bunch of new things. As usual, I live [tweeted](https://twitter.com/sunpech) some of my thoughts during the keynote. For the most part, my tweets are meant to poke fun at everything and shouldn't be taken in the most serious context. I say this because some contacts I have take great *personal* insult whenever I poke fun of big successful companies like Apple-- that are named Apple.
 
-![Thoughts on Apple Event](/public/images/blog/thoughts_on_apple_event.jpg)
+![Thoughts on Apple Event](/images/blog/thoughts_on_apple_event.jpg)
 
 ### iPad Pro
 
@@ -32,7 +32,7 @@ As [I tweeted](https://twitter.com/sunpech/status/641663550780366848), this does
 
 I loved [Joel Watson's](https://twitter.com/hijinksensue) comic, [Surface Tension](http://hijinksensue.com/comic/surface-tension/). It's incredibly relevant considering it was from 2012, just three years ago.
 
-![Surface Tension - Joel Watson](/public/images/blog/2012-06-19-surface-tension.jpg)
+![Surface Tension - Joel Watson](/images/blog/2012-06-19-surface-tension.jpg)
 
 I hope that for "Pro" users, it can be used to also replicate or even replace those [Wacom tablets](http://www.wacom.com/en-us/products/pen-tablets). I have one and I currently have it stored away in a box because it's bothersome to use. Don't get me wrong, it's great for my photo-editing, but it's such a pain to have lying around only for the purpose of editing photos in Photoshop/Lightroom.
 
@@ -44,7 +44,7 @@ I've never had anything against the stylus or digital writing devices. Sure they
 
 The pencil/pen has been a writing tool for humans for hundreds of years. Just because Steve Jobs dissed on the stylus back in 2007, doesn't mean it's a terrible idea and should be abandoned altogether.
 
-![Who wants a stylus?](/public/images/blog/who-wants-a-stylus.jpg)
+![Who wants a stylus?](/images/blog/who-wants-a-stylus.jpg)
 
 The problem of the stylus years ago was that it was primarily used for navigation on devices, and also then some writing/signing. In the physical, real world, no one uses a writing tool to navigate anything. A pencil is used for writing and drawing.
 
@@ -52,7 +52,7 @@ Hopefully the Apple Pencil will be just that, the opposite of the stylus nearly 
 
 However, I do question the charging mechanism for this pencil. It's got a male connector that can plug into the USB-C connection of the iPad Pro. Seems like an incredibly easy way to break it. But maybe for the $99 price tag it'll come with a holder/charger.
 
-![Apple Pencil charging](/public/images/blog/apple_pencil_charging2.jpg)
+![Apple Pencil charging](/images/blog/apple_pencil_charging2.jpg)
 
 *Photo screenshot from MKBHD's [video](https://www.youtube.com/watch?v=HALtebWHpNA)*.
 
@@ -69,13 +69,13 @@ Someone like my mom would benefit from this program immensely since she loves ge
 
 Buying a phone for 1-2 years of use, only to keep it in storage thereafter can be a little ridiculous. I know I have one (see below). Why own when you can just rent? It just comes out at a little over $1 per day.
 
-![Pile of phones](/public/images/blog/pile_of_phones.jpg)
+![Pile of phones](/images/blog/pile_of_phones.jpg)
 
 ### Everything Else
 
 **Apple TV and tvOS**. I agree that apps and a vibrant ecosystem is necessary for any platform to succeed. Yes Apple has reached a level of success with iTunes and the iOS App store. But for non-music and non-mobile apps, I would consider the App store to be rather noisy. The Mac App store reminds me of the late 1990s download.com. The one place every high-school and college student went to download software. Thing is, it's 99% full of junk software.
 
-![Apple's App Store](/public/images/blog/apple_app_store_screenshot.jpg)
+![Apple's App Store](/images/blog/apple_app_store_screenshot.jpg)
 
 It's somewhat comical that there's no curation of apps here. It's all ranked by popularity, free, and paid apps-- which is really just cold hard numbers. And yet [Apple Music](http://www.apple.com/music/) is being pushed as curated music by experts of the industry. That said, I do have a [list of best software](https://github.com/sunpech/best_software_list) on [my Github](http://github.com/sunpech).
 
@@ -87,7 +87,7 @@ I'm still confused as to why Live Photos isn't considered video for recording *i
 
 When I think of 3D user interface, I think of Tom Cruise from Minority Report. Maybe they should have simply called it Force Touch to be consistent with the similar feature in OS X.
 
-![Tom Cruise in Minority Report](/public/images/blog/tom_cruise_minority_report.jpg)
+![Tom Cruise in Minority Report](/images/blog/tom_cruise_minority_report.jpg)
 
 **Apple Watch**. I like the health tracking that it offers, but it's still only scratching at the surface of it's full potential. I'd like to see [FitBit](https://www.fitbit.com/) and other health/finess companies offer more competition to the healthcare industry. Sure there are some stylish wrist band swaps available, but I'm not a fashionista by any means.
 

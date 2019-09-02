@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7678158939557026174
 blogger_orig_url: http://www.sunpech.com/2012/02/microsofts-new-windows-8-logo.html
 date: '2012-02-18T14:18:00.000-06:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2012-02-19T21:18:28.236-06:00'
 redirect_from: /2012/02/microsofts-new-windows-8-logo.html
 tags:

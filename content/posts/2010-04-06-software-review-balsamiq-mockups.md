@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5389051952885032314
 blogger_orig_url: http://www.sunpech.com/2010/04/software-review-balsamiq-mockups.html
 date: '2010-04-06T06:00:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:58:29.297-05:00'
 redirect_from: /2010/04/software-review-balsamiq-mockups.html
 tags:

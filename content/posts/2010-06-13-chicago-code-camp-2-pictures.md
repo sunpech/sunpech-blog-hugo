@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1374439247986756690
 blogger_orig_url: http://www.sunpech.com/2010/06/chicago-code-camp-2-pictures.html
 date: '2010-06-13T22:36:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:58:10.417-05:00'
 redirect_from: /2010/06/chicago-code-camp-2-pictures.html
 tags:

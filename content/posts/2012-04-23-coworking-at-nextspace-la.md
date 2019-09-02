@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5793771890500663374
 blogger_orig_url: http://www.sunpech.com/2012/04/coworking-at-nextspace-la.html
 date: '2012-04-23T11:00:00.000-05:00'
-header-img: /public/images/headers/los_angeles.jpg
+headerimage: /images/headers/los_angeles.jpg
 modified_time: '2014-08-07T16:21:33.317-05:00'
 redirect_from: /2012/04/coworking-at-nextspace-la.html
 tags:

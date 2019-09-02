@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2656336799612263033
 blogger_orig_url: http://www.sunpech.com/2012/01/pictures-from-ladotnet-january-meetup.html
 date: '2012-01-10T11:42:00.000-06:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:21:33.239-05:00'
 redirect_from: /2012/01/pictures-from-ladotnet-january-meetup.html
 tags:

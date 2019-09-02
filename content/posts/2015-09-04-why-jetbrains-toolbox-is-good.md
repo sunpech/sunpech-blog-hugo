@@ -2,12 +2,12 @@
 author: Steven Suwatanapongched
 date: '2015-09-04T09:00:00.000-05:00'
 description: I think the software-as-a-service model is good for Jetbrains and their true customers. But it's certainly not for everyone.
-header-img: /public/images/headers/software_development.jpg
-image: /public/images/blog/why_jetbrains_toolbox_is_good.jpg
+headerimage: /images/headers/software_development.jpg
+image: /images/blog/why_jetbrains_toolbox_is_good.jpg
 modified_time: '2015-09-04T09:00:00.000-05:00'
 tags:
   - Software Development
-thumbnail: /public/images/blog/tn_why_jetbrains_toolbox_is_good.jpg
+thumbnail: /images/blog/tn_why_jetbrains_toolbox_is_good.jpg
 title: Why Jetbrains Toolbox is Good
 url: /2015/09/04/why-jetbrains-toolbox-is-good/
 ---
@@ -17,7 +17,7 @@ url: /2015/09/04/why-jetbrains-toolbox-is-good/
 
 These are the times we live in now, and I think it's good-- for the most part.
 
-![Jetbrains moving to SaaS](/public/images/blog/why_jetbrains_toolbox_is_good.jpg)
+![Jetbrains moving to SaaS](/images/blog/why_jetbrains_toolbox_is_good.jpg)
 
 ### Buy or Subscribe?
 

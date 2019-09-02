@@ -4,7 +4,7 @@ blogger_id: tag:blogger.com,1999:blog-6841384.post-1564464479286947721
 blogger_orig_url: http://www.sunpech.com/2015/01/why-i-recommend-adobe-photoshop.html
 date: '2015-01-19T12:00:00.000-06:00'
 description: I cover why I love and recommend Adobe Photoshop Lightroom Creative Cloud.
-header-img: /public/images/headers/old_cameras.jpg
+headerimage: /images/headers/old_cameras.jpg
 image: http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png
 modified_time: '2015-01-19T15:39:39.427-06:00'
 redirect_from: /2015/01/why-i-recommend-adobe-photoshop.html

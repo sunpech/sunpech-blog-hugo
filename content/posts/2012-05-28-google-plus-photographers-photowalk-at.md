@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-117218431665859305
 blogger_orig_url: http://www.sunpech.com/2012/05/google-plus-photographers-photowalk-at.html
 date: '2012-05-28T11:00:00.000-05:00'
-header-img: /public/images/headers/old_cameras.jpg
+headerimage: /images/headers/old_cameras.jpg
 modified_time: '2014-08-08T16:46:58.301-05:00'
 redirect_from: /2012/05/google-plus-photographers-photowalk-at.html
 tags:

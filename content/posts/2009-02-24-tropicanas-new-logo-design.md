@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6004280238372069101
 blogger_orig_url: http://www.sunpech.com/2009/02/tropicanas-new-logo-design.html
 date: '2009-02-24T18:03:00.007-06:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T16:59:54.574-05:00'
 redirect_from: /2009/02/tropicanas-new-logo-design.html
 tags:

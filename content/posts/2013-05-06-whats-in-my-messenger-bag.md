@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3382023085726522873
 blogger_orig_url: http://www.sunpech.com/2013/05/whats-in-my-messenger-bag.html
 date: '2013-05-06T11:00:00.000-05:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-09T09:27:52.936-05:00'
 redirect_from: /2013/05/whats-in-my-messenger-bag.html
 tags:

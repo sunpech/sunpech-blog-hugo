@@ -2,15 +2,15 @@
 author: Steven Suwatanapongched
 date: '2015-07-16T00:00:00.000-05:00'
 description: My thoughts and pictures from San Diego Comic Con 2015. TL;DR; Still a great con, not as busy as previous years, more family-friendly than ever.
-header-img: /public/images/headers/san_diego_comic_con.jpg
-image: /public/images/blog/san_diego_comic_con_2015.jpg
+headerimage: /images/headers/san_diego_comic_con.jpg
+image: /images/blog/san_diego_comic_con_2015.jpg
 modified_time: '2015-07-16T00:00:00.000-05:00'
 tags:
   - Comic Con
   - Cosplay
   - San Diego
   - San Diego Comic Con
-thumbnail: /public/images/blog/tn_san_diego_comic_con_2015.jpg
+thumbnail: /images/blog/tn_san_diego_comic_con_2015.jpg
 title: San Diego Comic Con 2015
 url: /2015/07/16/san-diego-comic-con-2015/
 ---
@@ -18,11 +18,11 @@ url: /2015/07/16/san-diego-comic-con-2015/
 
 Last week I was in San Diego for [Comic Con](http://www.comic-con.org/cci). This year marks *my fifth time* that I've been to San Diego Comic Con.
 
-![San Diego Comic Con 2015](/public/images/blog/san_diego_comic_con_2015.jpg)
+![San Diego Comic Con 2015](/images/blog/san_diego_comic_con_2015.jpg)
 
 This month of July also marks twenty years since I attended my first comic convention in Chicago, when it was then known as Chicago Comic Con (it was bought by [Wizard World](http://www.wizardworld.com/chicago.html) in 1997).
 
-![20 years of Comic Conventions](/public/images/blog/comic_con_20_years.jpg)
+![20 years of Comic Conventions](/images/blog/comic_con_20_years.jpg)
 
 ### The Good
 
@@ -56,7 +56,7 @@ It was a fantastic panel that I personally could relate to as an Asian American.
 
 You can checkout my pictures in my [Super Asian America FB album](https://www.facebook.com/media/set/?set=a.916792858385739.1073741893.408588035872893&type=3).
 
-![SDCC Super Asian America Panel](/public/images/blog/2015_sdcc_super_asian_america.jpg)
+![SDCC Super Asian America Panel](/images/blog/2015_sdcc_super_asian_america.jpg)
 
 ### Who won Comic Con?
 
@@ -82,19 +82,19 @@ Playback panels is a great place to have your lunch and catch that big panel fro
 
 #### Day 1
 
-![SDCC Day 1](/public/images/blog/2015_sdcc_day_1.jpg)
+![SDCC Day 1](/images/blog/2015_sdcc_day_1.jpg)
 
 #### Day 2
 
-![SDCC Day 2](/public/images/blog/2015_sdcc_day_2.jpg)
+![SDCC Day 2](/images/blog/2015_sdcc_day_2.jpg)
 
 #### Day 3
 
-![SDCC Day 3](/public/images/blog/2015_sdcc_day_3.jpg)
+![SDCC Day 3](/images/blog/2015_sdcc_day_3.jpg)
 
 #### Day 4
 
-![SDCC Day 4](/public/images/blog/2015_sdcc_day_4.jpg)
+![SDCC Day 4](/images/blog/2015_sdcc_day_4.jpg)
 
 ### Facebook Albums
 

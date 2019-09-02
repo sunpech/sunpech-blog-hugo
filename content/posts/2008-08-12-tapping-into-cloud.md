@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1341003321150735126
 blogger_orig_url: http://www.sunpech.com/2008/08/tapping-into-cloud.html
 date: '2008-08-12T23:40:00.000-05:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2012-01-03T03:43:02.260-06:00'
 redirect_from: /2008/08/tapping-into-cloud.html
 tags:

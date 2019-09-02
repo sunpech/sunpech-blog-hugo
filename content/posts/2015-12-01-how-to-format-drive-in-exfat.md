@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2015-12-01T09:00:00.000-05:00'
 description: If you are getting a new backup hard drive and want it to be compatible between Windows, OS X, and Linux, this guide will show you how to format it and save you money. I cover the benefits of using exFAT as well as when it's not a good choice.
-header-img: /public/images/headers/technology.jpg
-image: /public/images/blog/exfat.jpg
+headerimage: /images/headers/technology.jpg
+image: /images/blog/exfat.jpg
 modified_time: '2015-12-01T09:00:00.000-05:00'
 tags:
   - Apple
   - Guide
   - Technology
-thumbnail: /public/images/blog/tn_exfat.jpg
+thumbnail: /images/blog/tn_exfat.jpg
 title: How to Format your Hard Drive into exFAT
 url: /2015/12/01/how-to-format-drive-in-exfat/
 ---
@@ -85,23 +85,23 @@ Before doing anything else, make sure to plug the external hard drive into your 
 
 Under **Utilities**, open **Disk Utility**. The screenshot below are for the new Disk Utility in OS X (10.11) El Capitan .
 
-![Open Disk Utility](/public/images/blog/exfat_osx_00.jpg)
+![Open Disk Utility](/images/blog/exfat_osx_00.jpg)
 
 Find the external hard drive you've plugged in and select it on the left. Next click on **Erase**. As you can see, the drive I'm formatting is a Windows partition in FAT (technically FAT16).
 
-![Step 1](/public/images/blog/exfat_osx_01.jpg)
+![Step 1](/images/blog/exfat_osx_01.jpg)
 
 Next, choose ExFAT from the Format choices. By default OS X will want to format it is OS X Extended.
 
-![Step 2](/public/images/blog/exfat_osx_02.jpg)
+![Step 2](/images/blog/exfat_osx_02.jpg)
 
 Let the formatting run its course, this may take a few seconds to a few minutes depending on how big the drive is.
 
-![Step 3](/public/images/blog/exfat_osx_03.jpg)
+![Step 3](/images/blog/exfat_osx_03.jpg)
 
 After it finishes formatting, the drive will be in exFAT format.
 
-![Step 4](/public/images/blog/exfat_osx_04.jpg)
+![Step 4](/images/blog/exfat_osx_04.jpg)
 
 
 
@@ -109,15 +109,15 @@ After it finishes formatting, the drive will be in exFAT format.
 
 Open **Windows Explorer** and right-click on the drive you connected. Another small pop-up should come up.
 
-![Step 1](/public/images/blog/exfat_windows_01.jpg)
+![Step 1](/images/blog/exfat_windows_01.jpg)
 
 From the pop-up, select **Format**. A new window titled "Format" should come up.
 
-![Step 2](/public/images/blog/exfat_windows_02.jpg)
+![Step 2](/images/blog/exfat_windows_02.jpg)
 
 From the new window, under "File system", select exFAT.
 
-![Step 3](/public/images/blog/exfat_windows_03.jpg)
+![Step 3](/images/blog/exfat_windows_03.jpg)
 
 ## Formatting exFAT on Linux
 

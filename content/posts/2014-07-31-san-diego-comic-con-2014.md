@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-9022593571742244527
 blogger_orig_url: http://www.sunpech.com/2014/07/san-diego-comic-con-2014.html
 date: '2014-07-31T11:00:00.000-05:00'
-header-img: /public/images/headers/san_diego_comic_con.jpg
+headerimage: /images/headers/san_diego_comic_con.jpg
 modified_time: '2014-09-29T17:25:24.475-05:00'
 redirect_from: /2014/07/san-diego-comic-con-2014.html
 tags:

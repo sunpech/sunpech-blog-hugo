@@ -4,7 +4,7 @@ blogger_id: tag:blogger.com,1999:blog-6841384.post-8058210042568552729
 blogger_orig_url: http://www.sunpech.com/2014/11/my-road-trip-from-la-to-chicago.html
 date: '2014-11-28T11:00:00.000-06:00'
 description: I cover my road trip across the United States from Los Angeles to Chicago.
-header-img: /public/images/headers/joshua_tree.jpg
+headerimage: /images/headers/joshua_tree.jpg
 image: http://4.bp.blogspot.com/-qBBZTqYZz-8/VHbtQnX5ziI/AAAAAAAB0nY/sJXuGH_3zSE/s600/Screen%2BShot%2B2014-11-27%2Bat%2B3.20.55%2BAM.png
 modified_time: '2014-11-28T11:00:02.055-06:00'
 redirect_from: /2014/11/my-road-trip-from-la-to-chicago.html

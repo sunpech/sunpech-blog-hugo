@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2017-12-08T09:00:00.000-05:00'
 description: My review of the Justice League movie.
-header-img: /public/images/headers/justice-league-2017.jpg
-image: /public/images/blog/justice-league-team.jpg
+headerimage: /images/headers/justice-league-2017.jpg
+image: /images/blog/justice-league-team.jpg
 modified_time: '2017-12-08T09:00:00.000-05:00'
 tags:
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_justice-league-team.jpg
+thumbnail: /images/blog/tn_justice-league-team.jpg
 title: Justice League
 url: /2017/12/08/justice-league/
 ---
@@ -18,7 +18,7 @@ I am pretty disappointed in the [Justice League](http://www.imdb.com/title/tt097
 
 Spoilers below of course.
 
-![Justice League](/public/images/blog/justice-league-team.jpg)
+![Justice League](/images/blog/justice-league-team.jpg)
 
 ### What I Liked
 
@@ -30,13 +30,13 @@ My favorite scene in the movie is where Superman was able to follow the Flash's 
 
 It's great that the WB is trying to soften up the DCEU, aka the Snyder-verse.
 
-![Wonder Woman](/public/images/blog/justice-league-wonder-woman.jpg)
+![Wonder Woman](/images/blog/justice-league-wonder-woman.jpg)
 
 ### What I Disliked
 
 The dialogue and story are terrible, as it didn't advance the story or character development. The story was one chunk getting the team together and resurrecting Superman. The other chunk was fighting against the parademon invasion. The jokes and jabs had me facepalming quite a bit. I would describe it as *TV show level bad*. What I mean by that is that the quality of the scene, dialogue, and even camera shot is budgeted for a TV show, not a movie franchise.
 
-![Wonder Woman](/public/images/blog/justice-league-wonder-woman-whedon.jpg)
+![Wonder Woman](/images/blog/justice-league-wonder-woman-whedon.jpg)
 
 I didn't understand the following:
 
@@ -53,27 +53,27 @@ The characters felt out of place of what I know of the comic book characters. Th
 
 I don't see how **Superman** would ever care about humanity. Jonathan Kent said that maybe he should keep his powers secret at the expense of people, including himself, dying. Martha Kent told her son that he *doesn't owe the world anything*. Why is he a hero again? His *parents* don't instill in him a sense to care about humanity.
 
-![Jonathan Kent](/public/images/blog/man-of-steel-jonathan-kent.jpg)
+![Jonathan Kent](/images/blog/man-of-steel-jonathan-kent.jpg)
 
 **Batman** is the world's greatest detective. One of the joys of seeing detective work is seeing how the case gets evaluated and solved. That didn't happen here. Bruce Wayne had to steal the files on JL members from Lex Luthor. His million dollar security system was broken into by Wonder Woman. Again and again we see that Batman isn't on top of anything.
 
-![Batman](/public/images/blog/justice-league-batman-black.jpg)
+![Batman](/images/blog/justice-league-batman-black.jpg)
 
 **Wonder Woman** is inconsistent. In Batman V Superman she was absent from the world for a while, then rejoined to fight Doomsday and appeared to enjoy the battle. Then in her Wonder Woman movie, she seemed curious about the world of man and wanted to help. But in Justice League she was everywhere to help as if she was helping the whole time. I know many are on the Wonder Woman hype train this year, but I just want to put out there that maybe in a few years we will look back at see that idea of a female super hero is long over due, but the movie itself wasn't amazing.
 
-![Wonder Woman](/public/images/blog/justice-league-wonder-woman-black.jpg)
+![Wonder Woman](/images/blog/justice-league-wonder-woman-black.jpg)
 
 I don't see **Aquaman**. I see [Jason Mamoa](http://www.imdb.com/name/nm0597388/). Perhaps he was just too good as [Khal Drogo](https://en.wikipedia.org/wiki/Khal_Drogo) from Game of Thrones. His character is under-developed and doesn't resemble any Aquaman comic I've ever read.
 
-![Aquaman](/public/images/blog/justice-league-aquaman-black.jpg)
+![Aquaman](/images/blog/justice-league-aquaman-black.jpg)
 
 **Flash** is just comedic relief. Very little backstory is given about him. His explanation to Batman that he's never fought anyone before and only pushes people and runs away was just bad. Batman having to convince him to just save one person to get him to try was just *TV show level bad*.
 
-![FLash](/public/images/blog/justice-league-flash-black.jpg)
+![FLash](/images/blog/justice-league-flash-black.jpg)
 
 **Cyborg**'s CGI is distractingly bad and looks unfinished. The scene where Cyborg and Flash were digging up Superman's corpse was also *TV show level bad*.
 
-![Cyborg](/public/images/blog/justice-league-cyborg-black.jpg)
+![Cyborg](/images/blog/justice-league-cyborg-black.jpg)
 
 ### Final Thoughts
 
@@ -83,4 +83,4 @@ There is a part of me that would like to see the Snyder version of the movie com
 
 Is a reboot in the near future? If they choose to do a [Flashpoint](https://en.wikipedia.org/wiki/Flashpoint_(comics) reboot, I will be disappointed (again) since it's supposed to tell a story of a darker universe-- which they seem to already be in! But they may not have a choice given the poor response to their movies.
 
-![Justice League Full Team](/public/images/blog/justice-league-full-team.jpg)
+![Justice League Full Team](/images/blog/justice-league-full-team.jpg)

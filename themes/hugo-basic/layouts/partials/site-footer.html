@@ -1,0 +1,46 @@
+<!-- Footer -->
+<footer class="container">
+  <div class="row">
+    <div class="col-lg-12 col-md-12">
+      <hr />
+      <ul class="list-inline" style="font-size: 2em">
+        <li class="list-inline-item">
+          <a href="https://twitter.com/{{ .Site.Params.twitter }}">
+            <i class="fab fa-twitter social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://instagram.com/{{ .Site.Params.instagram }}">
+            <i class="fab fa-instagram social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://facebook.com/{{ .Site.Params.facebook }}">
+            <i class="fab fa-facebook-f social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://flickr.com/photos/{{ .Site.Params.flickr }}">
+            <i class="fab fa-flickr social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://github.com/{{ .Site.Params.github }}">
+            <i class="fab fa-github social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+          </a>
+        </li>
+      </ul>
+      {{ with .Site.Params.copyrighthtml }}
+      <p class="copyright text-muted">{{ . | safeHTML }}</p>
+      {{ end }}
+    </div>
+  </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-slim.min.js"><\/script>')</script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>

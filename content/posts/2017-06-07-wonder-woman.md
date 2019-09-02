@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2017-06-07T09:00:00.000-05:00'
 description: My spoiler filled review of the Wonder Woman movie.
-header-img: /public/images/headers/wonder-woman.jpg
-image: /public/images/blog/wonder-woman-sword-2017.jpg
+headerimage: /images/headers/wonder-woman.jpg
+image: /images/blog/wonder-woman-sword-2017.jpg
 modified_time: '2017-06-07T09:00:00.000-05:00'
 tags:
   - Comics
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_wonder-woman-sword-2017.jpg
+thumbnail: /images/blog/tn_wonder-woman-sword-2017.jpg
 title: Wonder Woman
 url: /2017/06/07/wonder-woman/
 ---
@@ -26,7 +26,7 @@ The [DCEU](https://en.wikipedia.org/wiki/DC_Extended_Universe) Wonder Woman has 
 
 The movie covers humanity's dark times where the story revolves death, destruction, and despair-- but Diana not only brings hope and light to mankind, but also to the DCEU to a degree. It's a step in the right direction, but will the Snyder-verse also walk their superhero stories this way too? Time will tell-- or rather the upcoming [Justice League](http://www.imdb.com/title/tt0974015/) movie will.
 
-![Wonder Woman](/public/images/blog/wonder-woman-sword-2017.jpg)
+![Wonder Woman](/images/blog/wonder-woman-sword-2017.jpg)
 
 ## The Good
 
@@ -42,15 +42,15 @@ Simple.
 
 [Gal Gadot](http://www.imdb.com/name/nm2933757/) looks amazing as Wonder Woman. Her performance in action scenes (although many were CGI or stunt double) was fantastic. The fights were entertaining and top notch. Many critics years ago that called her *too skinny* to play the role, must be eating their hats now. Her moment for her heroic costume reveal at the No Man's Land scene was exceptional. Could very well be this generation's hero moment like Christopher Reeves' Superman helicopter scene.
 
-![Gal Gadot as Wonder Woman](/public/images/blog/wonder-woman-gal-gadot-bullet.jpg)
+![Gal Gadot as Wonder Woman](/images/blog/wonder-woman-gal-gadot-bullet.jpg)
 
 [Robin Wright](http://www.imdb.com/name/nm0000705/) as Antiope was a great choice. I wish she had more screen time! After her demise, I am left with a feeling that there was so much more history/story to be told about the Amazons.
 
-![Robin Wright as Antiope](/public/images/blog/wonder-woman-robin-wright-antiope.jpg)
+![Robin Wright as Antiope](/images/blog/wonder-woman-robin-wright-antiope.jpg)
 
 The movie payed homage to not just classic superhero movies, but great classics as well. I think of the Richard Donner [Superman (1978)](http://www.imdb.com/title/tt0078346/) during the alleyway scene with the blocking of the bullet(s), [Indiana Jones and the Last Crusade](http://www.imdb.com/title/tt0097576/) when sneaking into the castle impersonating a Nazi, and [Spiderman (2002)](http://www.imdb.com/title/tt0145487/) during the wall climbing.
 
-![Wonder Woman Homage](/public/images/blog/wonder-woman-homage.jpg)
+![Wonder Woman Homage](/images/blog/wonder-woman-homage.jpg)
 
 ## The Bad
 
@@ -64,7 +64,7 @@ Ares, the villain of the movie was mentioned by name throughout the movie, but w
 
 The part of the movie that didn't make sense was after Ares defeat/death-- everyone including the Germans were happy and embraced one another. It was as though they weren't just trying to kill one another moments ago, that they were indeed under the evil influence of Ares. It took away from the whole man has both good and evil in them.
 
-![Chris Pine and Gal Gadot](/public/images/blog/wonder-woman-chris-pine-gal-gadot.jpg)
+![Chris Pine and Gal Gadot](/images/blog/wonder-woman-chris-pine-gal-gadot.jpg)
 
 ## Final Thoughts
 
@@ -74,7 +74,7 @@ We've had so many Superman and Batman movies, they both had their origin stories
 
 Wonder Woman is a movie I recommend everyone watches. It wasn't a homerun for my expectations, but I'm happy with what they're trying to do and they're on base to score if they keep it up.
 
-![Wonder Woman on Themyscira](/public/images/blog/wonder-woman-themyscira.jpg)
+![Wonder Woman on Themyscira](/images/blog/wonder-woman-themyscira.jpg)
 
 ### Recommended Reading
 

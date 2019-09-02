@@ -2,14 +2,14 @@
 author: Steven Suwatanapongched
 date: '2015-10-19T09:00:00.000-05:00'
 description: Pictures taken at Open House Chicago on Sunday, October 18, 2015.
-header-img: /public/images/headers/chicago_aon_center.jpg
-image: /public/images/blog/open_house_chicago_2015.jpg
+headerimage: /images/headers/chicago_aon_center.jpg
+image: /images/blog/open_house_chicago_2015.jpg
 modified_time: '2015-10-19T09:00:00.000-05:00'
 tags:
   - Chicago
   - Photography
   - Photowalk
-thumbnail: /public/images/blog/tn_open_house_chicago_2015.jpg
+thumbnail: /images/blog/tn_open_house_chicago_2015.jpg
 title: Pictures from Open House Chicago 2015
 url: /2015/10/19/open-house-chicago/
 ---
@@ -29,7 +29,7 @@ My favorite spot was the Aon Center. I went up to the 71st floor and had a 360 d
 
 ### Chicago from the Aon Center
 
-![Open House Chicago 2015](/public/images/blog/open_house_chicago_2015.jpg)
+![Open House Chicago 2015](/images/blog/open_house_chicago_2015.jpg)
 
 #### Where to Buy
 
@@ -42,20 +42,20 @@ Like [before](/2015/09/adams-wabash-cta-station), I processed them to be black a
 
 #### The Oriental Theatre
 
-![Open House Chicago 1](/public/images/blog/open_house_chicago_2015_01.jpg)
+![Open House Chicago 1](/images/blog/open_house_chicago_2015_01.jpg)
 
 #### South view of Chicago from the Aon Center
 
-![Open House Chicago 2](/public/images/blog/open_house_chicago_2015_02.jpg)
+![Open House Chicago 2](/images/blog/open_house_chicago_2015_02.jpg)
 
 #### A view of the Chicago Bean (Cloud Gate) from the Aon Center
 
-![Open House Chicago 3](/public/images/blog/open_house_chicago_2015_03.jpg)
+![Open House Chicago 3](/images/blog/open_house_chicago_2015_03.jpg)
 
 #### The staircase at the Rookery
 
-![Open House Chicago 4](/public/images/blog/open_house_chicago_2015_04.jpg)
+![Open House Chicago 4](/images/blog/open_house_chicago_2015_04.jpg)
 
 #### Chicago Board of Trade
 
-![Open House Chicago 5](/public/images/blog/open_house_chicago_2015_05.jpg)
+![Open House Chicago 5](/images/blog/open_house_chicago_2015_05.jpg)

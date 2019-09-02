@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7451604367544747123
 blogger_orig_url: http://www.sunpech.com/2008/08/agile-software-development.html
 date: '2008-08-01T06:00:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-01T23:01:34.744-06:00'
 redirect_from: /2008/08/agile-software-development.html
 tags:

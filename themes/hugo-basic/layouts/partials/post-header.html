@@ -1,0 +1,32 @@
+<!-- Post Header -->
+{{ $imagePath := "/images/books.jpg" }}
+{{ with .Site.Params.headerimage }}
+  {{ $imagePath = . }}
+{{ end }}
+{{ with .Params.headerimage }}
+  {{ $imagePath = . }}
+{{ end }}
+<header class="masthead" style="background-image: url('{{ $imagePath | safeHTML }}')">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 mx-auto">
+        <div class="site-heading">
+          <h1>{{ .Title | default .Site.Title }}</h1>
+          <span class="meta">
+            Posted on {{ .Date.Format "January 2, 2006" }} by {{ $.Param "Author" }}<br/>
+          </span>
+          <span class="post-tag-light">
+            {{ $taglist := .Params.tags }}
+            {{ $len := len $taglist }}
+            <i class="fa fa-tags"></i>
+            {{ range $index, $element := $taglist }}
+              <a href="/tags/{{ . | urlize }}" style="color: #FFF">{{ . }}</a>
+              {{ if not (eq (add $index 1) $len) }},&nbsp;{{ end }}
+            {{ end }}
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

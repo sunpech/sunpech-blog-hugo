@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7235748124438055884
 blogger_orig_url: http://www.sunpech.com/2012/06/putting-cyanogenmod-on-kindle-fire.html
 date: '2012-06-28T11:00:00.000-05:00'
-header-img: /public/images/headers/android.jpg
+headerimage: /images/headers/android.jpg
 modified_time: '2014-08-07T19:36:22.312-05:00'
 redirect_from: /2012/06/putting-cyanogenmod-on-kindle-fire.html
 tags:

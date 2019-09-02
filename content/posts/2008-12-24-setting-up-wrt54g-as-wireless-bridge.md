@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7628154985244238079
 blogger_orig_url: http://www.sunpech.com/2008/12/setting-up-wrt54g-as-wireless-bridge.html
 date: '2008-12-24T23:39:00.000-06:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T17:01:27.441-05:00'
 redirect_from: /2008/12/setting-up-wrt54g-as-wireless-bridge.html
 tags:

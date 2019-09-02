@@ -4,7 +4,7 @@ blogger_id: tag:blogger.com,1999:blog-6841384.post-530934058347219991
 blogger_orig_url: http://www.sunpech.com/2015/02/scott-mccloud-at-chicago-humanities.html
 date: '2015-02-16T11:00:00.000-06:00'
 description: My thoughts and photos from Scott McCloud's appearance at the Chicago Humanities event at the Chicago Art Institute.
-header-img: /public/images/headers/chicago_skyline.jpg
+headerimage: /images/headers/chicago_skyline.jpg
 image: http://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo/s600/B9byWCtCAAEa_L_.jpg
 modified_time: '2015-02-16T11:00:05.156-06:00'
 redirect_from: /2015/02/scott-mccloud-at-chicago-humanities.html

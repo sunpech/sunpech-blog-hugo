@@ -4,7 +4,7 @@ blogger_id: tag:blogger.com,1999:blog-6841384.post-8975235101402898124
 blogger_orig_url: http://www.sunpech.com/2015/01/my-favorite-photos-of-2014.html
 date: '2015-01-02T14:00:00.000-06:00'
 description: I recap my favorite photos I took in 2014.
-header-img: /public/images/headers/old_cameras.jpg
+headerimage: /images/headers/old_cameras.jpg
 image: http://3.bp.blogspot.com/-wgPuwK1I6v4/VKbvlZ5ekfI/AAAAAAAB06Q/Wr2DtMebZcE/s600/2014-01-12%2Bat%2B17-51-42.jpg
 modified_time: '2015-01-02T14:00:03.204-06:00'
 redirect_from: /2015/01/my-favorite-photos-of-2014.html

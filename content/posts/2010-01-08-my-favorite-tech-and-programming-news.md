@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8964390135110530049
 blogger_orig_url: http://www.sunpech.com/2010/01/my-favorite-tech-and-programming-news.html
 date: '2010-01-08T12:35:00.000-06:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-03T00:58:24.801-06:00'
 redirect_from: /2010/01/my-favorite-tech-and-programming-news.html
 tags:

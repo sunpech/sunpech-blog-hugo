@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2015-06-19T09:00:00.000-05:00'
 description: I cover why you should use a password manager such as LastPass and how to improve the security behind it even further.
-header-img: /public/images/headers/technology.jpg
-image: /public/images/blog/lastpass_logo.jpg
+headerimage: /images/headers/technology.jpg
+image: /images/blog/lastpass_logo.jpg
 modified_time: '2015-06-19T09:00:00.000-05:00'
 tags:
   - Guide
   - Technology
-thumbnail: /public/images/blog/tn_lastpass_logo.jpg
+thumbnail: /images/blog/tn_lastpass_logo.jpg
 title: LastPass Password Manager
 url: /2015/06/19/lastpass-password-manager/
 ---
@@ -24,7 +24,7 @@ I like how LastPass is very upfront with any issues they have. This is the way s
 
 You should only be worried about your account if the LastPass master password is also the same password you use on another site-- *which you shouldn't be doing in the first place.*
 
-![LastPass Logo](/public/images/blog/lastpass_logo.jpg)
+![LastPass Logo](/images/blog/lastpass_logo.jpg)
 
 ## The Idea Behind a Password Manager
 
@@ -58,13 +58,13 @@ This makes it so that even if your account/file was compromised, the amount of w
 
 The screenshots below are from the [Chrome extension](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en-US) of LastPass.
 
-![LastPass Screenshot 1](/public/images/blog/lastpass_screenshot_01.jpg)
+![LastPass Screenshot 1](/images/blog/lastpass_screenshot_01.jpg)
 
 #### Show Advanced Settings
 
 The Advanced Settings is easy to miss, it's on the bottom as seen in the screnshot.
 
-![LastPass Screenshot 2](/public/images/blog/lastpass_screenshot_02.jpg)
+![LastPass Screenshot 2](/images/blog/lastpass_screenshot_02.jpg)
 
 #### Increase Password Iterations
 
@@ -72,7 +72,7 @@ Scroll down to Password Iterations.
 
 The default password iteration is: 5000. You should increase it to something larger that's 5 digits in length or more. Sure it re-ecrypts your storage again and it can be a bit slow (like ~20 seconds), but this is something you aren't doing again and again. Just do it once at the beginning, and you're set.
 
-![LastPass Screenshot 2](/public/images/blog/lastpass_screenshot_03.jpg)
+![LastPass Screenshot 2](/images/blog/lastpass_screenshot_03.jpg)
 
 There is also a setting where you can specify which country LastPass can work from. If you live in the US, then set it so the US is the only place that LastPass can be logged in from.
 

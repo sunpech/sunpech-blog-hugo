@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2017-01-26T09:00:00.000-05:00'
 description: The Super Hero movies I'm looking forward to the most in 2017.
-header-img: /public/images/headers/2017-comic-book-movies.jpg
-image: /public/images/blog/comic-book-movies-2017.jpg
+headerimage: /images/headers/2017-comic-book-movies.jpg
+image: /images/blog/comic-book-movies-2017.jpg
 modified_time: '2017-01-26T09:00:00.000-05:00'
 tags:
   - Comics
   - Movies
-thumbnail: /public/images/blog/tn_comic-book-movies-2017.jpg
+thumbnail: /images/blog/tn_comic-book-movies-2017.jpg
 title: Comic Book Movies of 2017
 url: /2017/01/26/comic-book-movies-2017/
 ---
@@ -34,7 +34,7 @@ The X-Men franchise rests on Hugh Jackman's shoulders. I thank him for his portr
 
 Release date: March 3, 2017
 
-![Logan](/public/images/blog/logan-2017.jpg)
+![Logan](/images/blog/logan-2017.jpg)
 
 ### Guardians of the Galaxy Vol. 2
 
@@ -42,7 +42,7 @@ The first [Guardians of the Galaxy](http://www.imdb.com/title/tt2015381/) movie 
 
 Release date: May 5, 2017
 
-![Guardians of the Galaxy](/public/images/blog/guardians-of-the-galaxy-2.jpg)
+![Guardians of the Galaxy](/images/blog/guardians-of-the-galaxy-2.jpg)
 
 ### Wonder Woman
 
@@ -52,7 +52,7 @@ I reviewed both [Man of Steel](2013/06/man-of-steel-review) and [Batman v Superm
 
 Release date: June 2, 2017
 
-![Wonder Woman](/public/images/blog/wonder-woman-2017.jpg)
+![Wonder Woman](/images/blog/wonder-woman-2017.jpg)
 
 ### Spider-man: Homecoming
 
@@ -62,7 +62,7 @@ I like Spider-man, but we'll see if Sony/Marvel teamup can undo years of terribl
 
 Release date: July 7, 2017
 
-![Spiderman: Homecoming](/public/images/blog/spiderman-homecoming-sdcc.jpg)
+![Spiderman: Homecoming](/images/blog/spiderman-homecoming-sdcc.jpg)
 
 ### Thor: Ragnarok
 
@@ -70,7 +70,7 @@ I look forward to seeing this buddy space road trip of Thor and the Hulk. [Thor:
 
 Release date: November 3, 2017
 
-![Thor: Ragnarok](/public/images/blog/thor-ragnarok-hela.jpg)
+![Thor: Ragnarok](/images/blog/thor-ragnarok-hela.jpg)
 
 ### Justice League
 
@@ -78,13 +78,13 @@ I really hope they don't screw up [Justice League](http://www.imdb.com/title/tt0
 
 Release date: November 17, 2017
 
-![Justice League](/public/images/blog/justice-league-2017.jpg)
+![Justice League](/images/blog/justice-league-2017.jpg)
 
 ### Calendar
 
 There's a nice spread of movies for 2017.
 
-![Comic Book Movies 2017](/public/images/blog/comic-book-movies-2017-calendar.jpg)
+![Comic Book Movies 2017](/images/blog/comic-book-movies-2017-calendar.jpg)
 
 ## Final Thoughts
 

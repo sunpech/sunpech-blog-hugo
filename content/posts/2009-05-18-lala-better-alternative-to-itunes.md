@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-498565704680728382
 blogger_orig_url: http://www.sunpech.com/2009/05/lala-better-alternative-to-itunes.html
 date: '2009-05-18T11:32:00.005-05:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T16:59:46.656-05:00'
 redirect_from: /2009/05/lala-better-alternative-to-itunes.html
 tags:

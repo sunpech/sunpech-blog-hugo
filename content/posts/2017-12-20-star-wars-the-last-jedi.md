@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2017-12-20T09:00:00.000-01:00'
 description: My review of Star Wars the Last Jedi. I loved it.
-header-img: /public/images/headers/star-wars-the-last-jedi.jpg
-image: /public/images/blog/star-wars-the-last-jedi.jpg
+headerimage: /images/headers/star-wars-the-last-jedi.jpg
+image: /images/blog/star-wars-the-last-jedi.jpg
 modified_time: '2017-12-20T09:00:00.000-01:00'
 tags:
   - Movies
   - Review
-thumbnail: /public/images/blog/tn_star-wars-the-last-jedi.jpg
+thumbnail: /images/blog/tn_star-wars-the-last-jedi.jpg
 title: Star Wars The Last Jedi
 url: /2017/12/20/star-wars-the-last-jedi/
 ---
@@ -18,7 +18,7 @@ I loved [Star Wars The Last Jedi](http://www.imdb.com/title/tt2527336/). The mov
 
 Spoilers below of course.
 
-![Star Wars The Last Jedi](/public/images/blog/star-wars-the-last-jedi.jpg)
+![Star Wars The Last Jedi](/images/blog/star-wars-the-last-jedi.jpg)
 
 ## Empire and Return
 
@@ -38,7 +38,7 @@ I really liked how they focused on other characters besides the Jedi. There are 
 
 So many women had memorable moments in the movie. [Amilyn Holdo](http://starwars.wikia.com/wiki/Amilyn_Holdo) self sacrifice was amazing and beautiful. [Rose](http://starwars.wikia.com/wiki/Rose_Tico), a maintainance worker that admired Resistance heroes saved Finn from foolishly sacrifing himself. Rose's sister [Paige](http://starwars.wikia.com/wiki/Paige_Tico) actually sacrificed herself by dropping the payload on D'Qar.
 
-![Star Wars The Last Jedi Vanity Fair Covers](/public/images/blog/star-wars-the-last-jedi-vanity-fair-covers.jpg)
+![Star Wars The Last Jedi Vanity Fair Covers](/images/blog/star-wars-the-last-jedi-vanity-fair-covers.jpg)
 
 ## Fans be Hating
 
@@ -62,7 +62,7 @@ So it's believable for Luke to give up on his nephew considering the death and d
 
 Luke's story arc is similar to Yoda's and even Obi-wan after [Revenge of the Sith](http://www.imdb.com/title/tt0121766/). Their big failures led them to live as hermits. All of them had students that turned to the dark side. Perhaps this is part of the flaw of the Jedi religion, this pattern of self imposed exhile to meditate and be one with the force.
 
-![Star Wars Hermits](/public/images/blog/star-wars-yoda-obi-wan-luke-hermits.jpg)
+![Star Wars Hermits](/images/blog/star-wars-yoda-obi-wan-luke-hermits.jpg)
 
 ## Not Happily Ever After
 
@@ -72,7 +72,7 @@ That happy ending in ROTJ didn't last long. There couldn't be since there's Epis
 
 Rey's parents were drunks that sold her off. I think it's true, as it lends itself to the the other underlying theme that you don't have to be a royalty or come from a special bloodline to be a force user or part of the Resistance.
 
-![Star Wars The Last Jedi Mirror Images](/public/images/blog/star-wars-the-last-jedi-mirror-sides.jpg)
+![Star Wars The Last Jedi Mirror Images](/images/blog/star-wars-the-last-jedi-mirror-sides.jpg)
 
 ## Miscellaneous
 
@@ -100,7 +100,7 @@ However, we can also celebrate the movie for what it is-- a bold move to leave t
 
 Star Wars has been around for 40 years now. The first trilogy came out in 1977. The second trilogy, the prequels, came out in 1999. And the third and current trilogy came out in 2015. There are going to be fans that weren't alive for the previous trilogies. For many fans out there, this is going to be the Star Wars trilogy for them, their heroes and their different struggles. And there's a fourth trilogy already in the works.
 
-![Star Wars The Last Jedi](/public/images/blog/star-wars-the-last-jedi-wide.jpg)
+![Star Wars The Last Jedi](/images/blog/star-wars-the-last-jedi-wide.jpg)
 
 
 *Images for this post were from [wall.alphacoders.com](https://wall.alphacoders.com/).*

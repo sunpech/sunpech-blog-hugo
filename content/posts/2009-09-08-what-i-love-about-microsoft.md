@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1049614843493224891
 blogger_orig_url: http://www.sunpech.com/2009/09/what-i-love-about-microsoft.html
 date: '2009-09-08T07:15:00.000-05:00'
-header-img: /public/images/headers/software_development.jpg
+headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:59:36.881-05:00'
 redirect_from: /2009/09/what-i-love-about-microsoft.html
 tags:

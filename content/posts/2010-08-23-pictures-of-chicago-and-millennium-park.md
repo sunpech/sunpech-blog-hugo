@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4515913570956106026
 blogger_orig_url: http://www.sunpech.com/2010/08/pictures-of-chicago-and-millennium-park.html
 date: '2010-08-23T09:00:00.003-05:00'
-header-img: /public/images/headers/chicago_skyline.jpg
+headerimage: /images/headers/chicago_skyline.jpg
 modified_time: '2014-08-07T16:23:46.073-05:00'
 redirect_from: /2010/08/pictures-of-chicago-and-millennium-park.html
 tags:

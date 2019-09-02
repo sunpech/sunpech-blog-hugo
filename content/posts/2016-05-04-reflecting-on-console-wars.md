@@ -2,13 +2,13 @@
 author: Steven Suwatanapongched
 date: '2016-05-04T09:00:00.000-05:00'
 description: 'My reflection on my gaming history after reading Blake J. Harris''s book, Console Wars: Sega, Nintendo, and the Battle that Defined a Generation.'
-header-img: /public/images/headers/console-wars.jpg
-image: /public/images/blog/console_wars.jpg
+headerimage: /images/headers/console-wars.jpg
+image: /images/blog/console_wars.jpg
 modified_time: '2016-05-04T09:00:00.000-05:00'
 tags:
   - Books
   - Review
-thumbnail: /public/images/blog/tn_console_wars.jpg
+thumbnail: /images/blog/tn_console_wars.jpg
 title: Reflecting on Console Wars
 url: /2016/05/04/reflecting-on-console-wars/
 ---
@@ -18,13 +18,13 @@ I recently finished reading [Console Wars](http://amzn.to/1RWN3PZ) by [Blake J. 
 
 **Console Wars** tells the story of [Tom Kalinske](https://en.wikipedia.org/wiki/Tom_Kalinske), an American business man and CEO behind Sega of America during its meteoric rise and fall.  The book takes place between 1989 through 1996 and shows how they challenged not only Nintendo but the gaming industry as a whole.
 
-![Console Wars by Blake J. Harris](/public/images/blog/console_wars.jpg)
+![Console Wars by Blake J. Harris](/images/blog/console_wars.jpg)
 
 ## Nintendo
 
 The [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System), or the NES, was the dominant gaming system during the mid 1980s and early 1990s. Most of the games I own are NES cartridges, followed by SNES cartridges, and then Sony Playstation CDs/DVDs. This wasn't just because I played a lot of games as a kid and less as I grew up. At that time there were local video rental stores such as [Blockbuster](https://en.wikipedia.org/wiki/Blockbuster_LLC) that let customers rent video games for a few bucks for a few days to a week. This was significantly cheaper than buying the game outright for $50-75. It was also a great way to test a game out before buying it.
 
-![Video Game collection](/public/images/blog/video-game-collection.jpg)
+![Video Game collection](/images/blog/video-game-collection.jpg)
 
 Nintendo exerted a lot of control with companies that wanted to make games for the NES. For one, they were required to buy cartridges at about $10 each and pay 30% of revenue as royalty. This allowed Nintendo to pick and choose who and how many cartridges a company could get. On top of this they had to sign non-compete clauses to give exclusive rights to the game to Nintendo.
 
@@ -32,25 +32,25 @@ The reason behind such control was the [Video Game Crash of 1983](https://en.wik
 
 My first experience of the NES was my cousin's 8-bit Famicom console in Thailand during summer vacation in 1986. My sisters and I would play two games, [Super Mario Brothers](https://en.wikipedia.org/wiki/Super_Mario_Bros.) and [Ice Climber](https://en.wikipedia.org/wiki/Ice_Climber). We were all hooked on this system-- instead of going out to explore the local sights and scenery, we wanted to stay in and play video games. It wasn't until I got back to the US that I noticed the NES was available in the [Highland Superstore](https://en.wikipedia.org/wiki/Highland_Superstores), an electronics store chain in the Midwest, which offered [Kung-Fu Master](https://en.wikipedia.org/wiki/Kung-Fu_Master) as a playable demo in store.
 
-![Famicon console set](/public/images/blog/famicom-console.jpg)
+![Famicon console set](/images/blog/famicom-console.jpg)
 
 Of course my mom did buy us a NES in 1988. It was the Nintendo Power Set with the power pads. In 1989, the [GameBoy](https://en.wikipedia.org/wiki/Game_Boy) was my first big purchase as a kid. I saved up $100 from mowing the lawn and various chores and snuck into [Auchan](https://en.wikipedia.org/wiki/Auchan) to buy the coveted device. My mom was surprised and furious that I did that behind her back. Looking back now, it was actually a good buy since none of the other mobile consoles did as well on price, marketing, or even hardware in terms of battery life.
 
 Back in the late 1980s, there was no Internet as we now know it. So we had a [Nintendo Power](https://en.wikipedia.org/wiki/Nintendo_Power) magazine subscription to not only keep us up to date on news, but to help us get through various NES games. By 1991, it was without question that we were going to upgrade to the 16-bit [Super Nintendo](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) since everyone-- that is my mom, sisters, and I-- enjoyed Nintendo family-oriented gaming system.
 
-![Nintendo Power magazines](/public/images/blog/nintendo-power-magazines.jpg)
+![Nintendo Power magazines](/images/blog/nintendo-power-magazines.jpg)
 
-![Nintendo Systems](/public/images/blog/nintendo-systems.jpg)
+![Nintendo Systems](/images/blog/nintendo-systems.jpg)
 
 ## Sega
 
 In 1990, when I was in middle school, the 16-bit [Sega Genesis](https://en.wikipedia.org/wiki/Sega_Genesis) was the console that most of my school friends wanted. The marketing and games available were geared to kids who grew up on the NES but wanted something more, especially sports and fighting games. [Altered Beast](https://en.wikipedia.org/wiki/Altered_Beast) was a game that looked great and came bundled with the system. I remember playing this game on the demo system at [Kohl's](http://www.kohls.com/) while my mom shopped. But many of us had Gameboys and a large library of NES games to keep us entertained. Plus we all knew that Nintendo was coming out with their own 16-bit system soon.
 
-![Sega Genesis](/public/images/blog/sega-genesis.jpg)
+![Sega Genesis](/images/blog/sega-genesis.jpg)
 
 Kalinske understood that in order for Sega to thrive, they needed to be what Nintendo wasn't. Nintendo's target consumers were kids twelve and under. So Sega created an ad campaign targeting young teens and older. The line, *Welcome to the Next Level!* and the [Sega scream](https://www.youtube.com/watch?v=xx-8QBX8qgc) had a kind of rebellious teenage, too grown up for kid stuff feel to it. I was almost a young teen when the Genesis came out and I wanted to be a part of it. However, I personally never owned a Sega gaming console, but my sisters did with a [Saturn](https://en.wikipedia.org/wiki/Sega_Saturn) and [Dreamcast](https://en.wikipedia.org/wiki/Dreamcast) which came out years later.
 
-![Genesis Does Ad](/public/images/blog/genesis-ad.jpg)
+![Genesis Does Ad](/images/blog/genesis-ad.jpg)
 
 Sega released a slew of hardware from the [32x](https://en.wikipedia.org/wiki/32X) and [Game Gear](https://en.wikipedia.org/wiki/Game_Gear) (GG) to the [Nomad](https://en.wikipedia.org/wiki/Genesis_Nomad), all of which were poorly received. I only knew of one person that actually owned a Game Gear while the rest of us had Gameboys (GB). Sure the GG had color compared to GB's monochrome, but GB had more games and a superior battery life.
 
@@ -58,7 +58,7 @@ During this time, fighting games like [Street Fighter II](https://en.wikipedia.o
 
 By the mid 90s, Hollywood made [Street Fighter](http://www.imdb.com/title/tt0111301/) and [Mortal Kombat](http://www.imdb.com/title/tt0113855/) movies. That's how popular these games were. More importantly, the 16-bit gaming consoles were also at the end of their lifecycle. It was the dawn of the 32-bit era. The next generation of fighting games was going 3D with games such as [Virtua Fighter](https://en.wikipedia.org/wiki/Virtua_Fighter) and [Tekken](https://en.wikipedia.org/wiki/Tekken_(video_game)). Another player was going to enter the fight against Nintendo and Sega-- Sony.
 
-![Fighting Games](/public/images/blog/fighting-games.jpg)
+![Fighting Games](/images/blog/fighting-games.jpg)
 
 ## Sony
 
@@ -66,7 +66,7 @@ The [Sony Playstation](https://en.wikipedia.org/wiki/PlayStation_(console)) came
 
 I have versions 1-3, I skipped out on the [PS4](https://en.wikipedia.org/wiki/PlayStation_4) because I just don't game much anymore. But the [PS2](https://en.wikipedia.org/wiki/PlayStation_2) is by far the best selling console ever and also doubled as a DVD player-- much like the [PS3 ](https://en.wikipedia.org/wiki/PlayStation_3) was also a Blu-ray player. Sony was a name brand and their strategy was that you were never just buying a gaming system, it was also something extra that you were connecting to probably a Sony TV.
 
-![Playstation 1](/public/images/blog/playstation-one.jpg)
+![Playstation 1](/images/blog/playstation-one.jpg)
 
 At the 1991 Consumer Electronics Show ([CES](https://en.wikipedia.org/wiki/Consumer_Electronics_Show)), Nintendo originally was going to partner with Sony to create a CD-ROM add-on for the SNES, the [SNES-CD](https://en.wikipedia.org/wiki/SNES-CD), also known as the *Play Station*, but the partnership fell apart with Nintendo choosing Sony's rival, Phillips instead. Just last year, [one of the prototype devices was found](http://www.engadget.com/2015/11/06/nintendo-playstation-is-real-and-it-works/) and actually works!
 
@@ -95,7 +95,7 @@ A few relevant videos to the book:
 * [Nintendo's 3 Biggest Mistakes](https://www.youtube.com/watch?v=iW_MEKWTguA)
 * [Sega Dreamcast](https://www.youtube.com/watch?v=6xdBVHSrdzg)
 
-![Gaming Historian](/public/images/blog/gaming_historian.jpg)
+![Gaming Historian](/images/blog/gaming_historian.jpg)
 
 ### Links
 

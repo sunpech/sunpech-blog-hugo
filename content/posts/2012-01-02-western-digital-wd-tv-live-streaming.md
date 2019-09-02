@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7148476527025362015
 blogger_orig_url: http://www.sunpech.com/2012/01/western-digital-wd-tv-live-streaming.html
 date: '2012-01-02T17:36:00.001-06:00'
-header-img: /public/images/headers/technology.jpg
+headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T16:51:32.371-05:00'
 redirect_from: /2012/01/western-digital-wd-tv-live-streaming.html
 tags:

@@ -3,7 +3,7 @@ author: Steven Suwatanapongched
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7797759634072294797
 blogger_orig_url: http://www.sunpech.com/2014/06/my-brief-appearance-on-heroes-of-cosplay.html
 date: '2014-06-02T10:00:00.000-05:00'
-header-img: /public/images/headers/comikaze_expo.jpg
+headerimage: /images/headers/comikaze_expo.jpg
 modified_time: '2015-01-19T16:09:40.498-06:00'
 redirect_from: /2014/06/my-brief-appearance-on-heroes-of-cosplay.html
 tags:

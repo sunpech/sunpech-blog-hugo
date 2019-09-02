@@ -2,12 +2,12 @@
 author: Steven Suwatanapongched
 date: '2015-08-14T09:00:00.000-05:00'
 description: My spoiler free book review of Andy Weir's book, and soon to be released movie, The Martian.
-image: /public/images/blog/the_martian.jpg
+image: /images/blog/the_martian.jpg
 modified_time: '2015-08-14T09:00:00.000-05:00'
 tags:
   - Books
   - Review
-thumbnail: /public/images/blog/tn_the_martian.jpg
+thumbnail: /images/blog/tn_the_martian.jpg
 title: The Martian
 url: /2015/08/14/the-martian/
 ---
@@ -17,7 +17,7 @@ I enjoyed reading [Andy Weir](http://www.andyweirauthor.com/)'s book, [The Marti
 
 It's also a quick read, as you may find yourself flying through the chapters as they are a bit short.
 
-![The Martian](/public/images/blog/the_martian.jpg)
+![The Martian](/images/blog/the_martian.jpg)
 
 ## The Upcoming Movie
 
@@ -27,7 +27,7 @@ As with any book to movie adaptation, things will get changed-- which is what I'
 
 *If you are afraid that the book will spoil the movie, I think it's safe to read and enjoy it before the movie comes out.* I don't think they will adapt it scene for scene, or line for line. There's going to be some surprises even for the readers going to watch the movie.
 
-![The Martian Movie](/public/images/blog/the_martian_movie_poster.jpg)
+![The Martian Movie](/images/blog/the_martian_movie_poster.jpg)
 
 ### The Trailer
 

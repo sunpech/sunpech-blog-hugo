@@ -2,12 +2,12 @@
 author: Steven Suwatanapongched
 date: '2015-06-24T09:00:00.000-05:00'
 description: I review the latest book on Elon Musk.
-image: /public/images/blog/elon_musk.jpg
+image: /images/blog/elon_musk.jpg
 modified_time: '2015-06-24T09:00:00.000-05:00'
 tags:
   - Books
   - Review
-thumbnail: /public/images/blog/tn_elon_musk.jpg
+thumbnail: /images/blog/tn_elon_musk.jpg
 title: 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future'
 url: /2015/06/24/elon-musk-tesla-spacex/
 ---
@@ -15,11 +15,11 @@ url: /2015/06/24/elon-musk-tesla-spacex/
 
 I'm fascinated with [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) and his companies: [Tesla Motors](http://www.teslamotors.com/) and [SpaceX](http://www.spacex.com/). I recently read, [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://www.amazon.com/gp/product/0062301233/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0062301233&linkCode=as2&tag=sunpech-20&linkId=DBEJPF4ZP7PKKX4U) by [Ashlee Vance](http://www.amazon.com/Ashlee-Vance/e/B003YLHAJG/) just to learn a bit more about him.
 
-![Elon Musk Book](/public/images/blog/elon_musk.jpg)
+![Elon Musk Book](/images/blog/elon_musk.jpg)
 
 I like to read books on some of the best entrepreneurs and companies in modern times. Everyone from Bill Gates, Michael Dell, Jeff Bezos, Tony Hsieh, Jason Fried, Larry Page, Sergey Brin, to Steve Jobs. I really enjoy reading how they think and what they did to build the businesses they did.
 
-![Modern Entrepreneurs](/public/images/blog/entrepreneurs_books.jpg)
+![Modern Entrepreneurs](/images/blog/entrepreneurs_books.jpg)
 
 ### My Thoughts
 
@@ -39,7 +39,7 @@ Elon is looking to bring us affordable electric cars, the best power sources, an
 
 Although Elon may not have the charisma and saleman-ship of Steve Jobs, but I really admire his ability to get things done and pursue areas that others are unwilling to risk-it-all to accomplish. In many ways, Elon Musk is the fictional Marvel super rich entrepreneurial playboy, Tony Stark. *He did make a cameo appearance in Iron Man 2*.
 
-![Elon Musk's cameo in Iron Man 2](/public/images/blog/stark_musk.jpg)
+![Elon Musk's cameo in Iron Man 2](/images/blog/stark_musk.jpg)
 
 As informative as the book is, it's incomplete-- in the sense that Elon has more to do in his lifetime and is only just getting started. I do recommend the book for those interested in Elon Musk, Tesla, and/or SpaceX. It's a starter book on the first forty-three years of Elon Musk.
 
