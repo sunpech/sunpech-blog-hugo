@@ -4,7 +4,7 @@ date: '2019-04-17T09:00:00.000-05:00'
 description: My photos and thoughts from Star Wars Celebration Chicago 2019.
 headerimage: /images/headers/2019-star-wars-celebration-chicago-wintrust-arena.jpg
 image: /images/blog/2019-star-wars-celebration-chicago.jpg
-images: [""/images/blog/2019-star-wars-celebration-chicago.jpg]
+images: ["/images/blog/2019-star-wars-celebration-chicago.jpg"]
 modified_time: '2019-04-17T09:00:00.000-05:00'
 tags:
   - Chicago
