@@ -60,10 +60,10 @@ author = "Steven Suwatanapongched"
   filename = "sitemap.xml"
 
 [mediaTypes]
-    [mediaTypes."application/atom"]
-    suffix = "xml"
+  [mediaTypes."application/atom"]
+    suffixes = ["xml"]
 
-    [outputFormats.Atom]
+  [outputFormats.Atom]
     mediaType = "application/atom"
     baseName = "index"
     isPlainText = false
