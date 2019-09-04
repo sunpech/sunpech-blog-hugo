@@ -5,6 +5,7 @@ navigation: false
 best: true
 permalink: best/photography-books/
 headerimage: /images/headers/old_cameras.jpg
+disable_feed: true
 ---
 
 I fell in love with photography a bit in high school during my junior/senior year. Throughout college I pretty much ignored my artistic side in favore of learning about computers and computer science. In 2010 I started to use my DSLR to once again enjoy the art of photography and story telling.

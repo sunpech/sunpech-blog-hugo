@@ -1,11 +1,11 @@
-baseURL = "http://sunpech.com"
+baseURL = "https://sunpech.com/"
 languageCode = "en-us"
 title = "sunpech.com"
-theme = ["hugo-basic", "hugo-atom-feed"]
+theme = ["hugo-atom-feed", "hugo-basic"]
 Paginate = 10
 timezone = "America/Chicago"
 googleAnalytics = "UA-126684-2"
-author = ["Sunpech Suwatanapongched"]
+author = ["Steven Suwatanapongched"]
 
 [params]
   mainSections = ["posts"]
@@ -69,4 +69,7 @@ author = ["Sunpech Suwatanapongched"]
     isPlainText = false
 
 [outputs]
-  section = ["HTML", "ATOM", "RSS"]
+  # <domain>/atom.xml
+  home = ["HTML", "RSS", "ATOM"]     # default = ["HTML", "RSS"]
+  # <domain>/posts/atom.xml
+  section = ["HTML", "RSS", "ATOM"]  # default = ["HTML", "RSS"]

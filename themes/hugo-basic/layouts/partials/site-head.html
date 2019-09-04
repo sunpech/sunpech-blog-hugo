@@ -6,6 +6,10 @@
 
 <title>{{ .Title }} | {{ .Site.Title }}</title>
 
+{{ with .OutputFormats.Get "atom" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+
 <!-- Bootstrap core CSS -->
 <link href="/css/bootstrap.min.css" rel="stylesheet" />
 

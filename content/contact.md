@@ -3,6 +3,7 @@ title: "Contact"
 description: ""
 date: "2019-08-31"
 headerimage: /images/headers/wooden_bolt_fence.jpg
+disable_feed: true
 ---
 
 <img src="/images/sunpech_almajis.jpg" class="img-fluid img-thumbnail" width="180" alt="Steven" />

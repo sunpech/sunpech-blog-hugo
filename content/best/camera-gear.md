@@ -5,6 +5,7 @@ navigation: false
 best: true
 permalink: best/camera-gear/
 headerimage: /images/headers/old_cameras.jpg
+disable_feed: true
 ---
 
 *"The Best Camera Is The One That’s With You"* - Chase Jarvis

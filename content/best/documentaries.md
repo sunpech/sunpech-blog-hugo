@@ -5,6 +5,7 @@ navigation: false
 best: true
 permalink: best/documentaries/
 headerimage: /images/headers/documentaries.jpg
+disable_feed: true
 ---
 
 These are some of the best documentaries/videos on the subjects I enjoy.

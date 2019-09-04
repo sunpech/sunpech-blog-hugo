@@ -3,6 +3,7 @@ title: "Affiliates"
 description: ""
 date: "2019-08-31"
 headerimage: "/images/headers/LA_home_office.jpg"
+disable_feed: true
 ---
 
 I am an affiliate at the following sites. Clicking on any these links to join or purchase anything will help support me and this site.

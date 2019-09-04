@@ -5,6 +5,7 @@ navigation: false
 best: true
 permalink: best/mac-software/
 headerimage: /images/headers/apple_galaxy.jpg
+disable_feed: true
 ---
 
 Mac OS X Mavericks is my main operating system now. I still use Windows and Linux a bit, but by far this is where I do most of my work.

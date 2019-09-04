@@ -5,6 +5,7 @@ navigation: false
 best: true
 permalink: best/business-books/
 headerimage: /images/headers/best_business_books.jpg
+disable_feed: true
 ---
 
 This may be bit more of a weird page. As some of these books aren't exactly business or economics exactly-- or rather purely, but they're books I enjoyed.

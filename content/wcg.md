@@ -2,6 +2,7 @@
 title: "Team Spong's WCG"
 date: "2019--08-31"
 headerimage: /images/headers/wooden_fence.jpg
+disable_feed: true
 redirect_to:
  - http://wcg.spong.org
 ---

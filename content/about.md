@@ -3,6 +3,7 @@ title: "About"
 description: ""
 date: "2019-08-31"
 headerimage: "/images/headers/bamboo.jpg"
+disable_feed: true
 ---
 
 My full name is Sunpech Steven Suwatanapongched. I mostly just go by Steven. I also go by Spong, which comes from a combination of letters from **S** from **S**teven, and **Pong** from Suwatana**pong**ched.

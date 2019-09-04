@@ -5,6 +5,7 @@ navigation: false
 best: true
 permalink: best/comics-and-graphic-novels/
 headerimage: /images/headers/best_graphic_novels.jpg
+disable_feed: true
 ---
 
 I've put together a list of my all time favorite comics and graphic novels. I hope you enjoy this list of books I've read across twenty plus years! I've organized them by publisher for a more organized look at stuff. For simplicity, I've categorized the books by publishers since publishers generally represent their own respective universe.
