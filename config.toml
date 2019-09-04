@@ -1,7 +1,7 @@
 baseURL = "http://sunpech.com"
 languageCode = "en-us"
 title = "sunpech.com"
-theme = "hugo-basic"
+theme = ["hugo-basic", "hugo-atom-feed"]
 Paginate = 10
 timezone = "America/Chicago"
 googleAnalytics = "UA-126684-2"
@@ -69,4 +69,4 @@ author = "Steven Suwatanapongched"
     isPlainText = false
 
 [outputs]
-  home = ["HTML", "Atom"]
+  section = ["HTML", "ATOM", "RSS"]

@@ -29,3 +29,13 @@ HUGO_VERSION = "ç"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+# Atom feed settings
+# Source: https://github.com/kaushalmodi/hugo-atom-feed
+[[headers]]
+  for = "atom.*"
+  [headers.values]
+    Content-Type = "application/atom+xml; charset=UTF-8"
+[[headers]]
+  for = "*.atom"
+  [headers.values]
+    Content-Type = "application/atom+xml; charset=UTF-8"
