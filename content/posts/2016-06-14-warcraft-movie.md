@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2016-06-14T09:00:00.000-05:00'
 description: My review of the Warcraft movie.
 headerimage: /images/headers/warcraft-movie.jpg

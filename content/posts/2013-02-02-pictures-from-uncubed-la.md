@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6373609989912297370
 blogger_orig_url: http://www.sunpech.com/2013/02/pictures-from-uncubed-la.html
 date: '2013-02-02T00:00:00.000-06:00'

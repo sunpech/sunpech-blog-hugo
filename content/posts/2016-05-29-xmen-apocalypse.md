@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2016-05-29T09:00:00.000-05:00'
 description: My review of X-Men Apocalypse. It contains spoilers and it won't be pretty.
 headerimage: /images/headers/x-men-apocalypse.jpg

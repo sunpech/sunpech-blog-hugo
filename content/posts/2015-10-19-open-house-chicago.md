@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2015-10-19T09:00:00.000-05:00'
 description: Pictures taken at Open House Chicago on Sunday, October 18, 2015.
 headerimage: /images/headers/chicago_aon_center.jpg

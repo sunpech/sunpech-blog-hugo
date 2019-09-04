@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4299348676015921697
 blogger_orig_url: http://www.sunpech.com/2008/01/ps3-and-bluray-is-way-to-go-for-now.html
 date: '2008-01-29T23:50:00.001-06:00'

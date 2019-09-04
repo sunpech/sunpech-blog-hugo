@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-611700992499511728
 blogger_orig_url: http://www.sunpech.com/2012/04/my-new-lense-and-camera-body.html
 date: '2012-04-09T14:36:00.003-05:00'

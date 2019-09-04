@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7136513350174465116
 blogger_orig_url: http://www.sunpech.com/2013/01/the-stanley-kubrick-exhibit-at-lacma.html
 date: '2013-01-24T20:00:00.000-06:00'

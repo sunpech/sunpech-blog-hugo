@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7690951789641924578
 blogger_orig_url: http://www.sunpech.com/2008/02/yellow-dog-linux-on-my-ps3.html
 date: '2008-02-24T12:02:00.016-06:00'

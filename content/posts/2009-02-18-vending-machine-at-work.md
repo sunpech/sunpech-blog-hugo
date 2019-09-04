@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7725967953957464778
 blogger_orig_url: http://www.sunpech.com/2009/02/vending-machine-at-work.html
 date: '2009-02-18T22:08:00.003-06:00'

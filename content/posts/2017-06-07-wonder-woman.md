@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2017-06-07T09:00:00.000-05:00'
 description: My spoiler filled review of the Wonder Woman movie.
 headerimage: /images/headers/wonder-woman.jpg

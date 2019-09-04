@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3834902040245106310
 blogger_orig_url: http://www.sunpech.com/2012/01/finished-reading-in-plex.html
 date: '2012-01-21T11:00:00.000-06:00'

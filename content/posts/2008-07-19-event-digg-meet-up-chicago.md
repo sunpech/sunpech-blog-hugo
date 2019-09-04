@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2590090663219965451
 blogger_orig_url: http://www.sunpech.com/2008/07/event-digg-meet-up-chicago.html
 date: '2008-07-19T01:48:00.000-05:00'

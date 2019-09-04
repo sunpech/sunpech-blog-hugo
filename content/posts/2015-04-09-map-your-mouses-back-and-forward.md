@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6474388924633229595
 blogger_orig_url: http://www.sunpech.com/2015/04/map-your-mouses-back-and-forward.html
 date: '2015-04-09T10:00:00.000-05:00'

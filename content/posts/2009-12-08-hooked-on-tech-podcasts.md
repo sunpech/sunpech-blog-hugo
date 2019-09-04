@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7909201100113196830
 blogger_orig_url: http://www.sunpech.com/2009/12/hooked-on-tech-podcasts.html
 date: '2009-12-08T00:09:00.000-06:00'

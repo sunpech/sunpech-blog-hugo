@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2015-08-06T09:00:00.000-05:00'
 description: My first trip to take photos of the iconic Chicago Theatre. I talk about the problems and what I did to take this photo.
 headerimage: /images/headers/chicago_theatre.jpg

@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2018-04-30T09:00:00.000-05:00'
 description: My movie review of Avengers Infinity War.
 headerimage: /images/headers/avengers-infinity-war.jpg

@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3875187871042311152
 blogger_orig_url: http://www.sunpech.com/2011/08/history-of-social-networks-part-2.html
 date: '2011-08-02T09:00:00.000-05:00'

@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3891639060264515416
 blogger_orig_url: http://www.sunpech.com/2011/03/food-is-happiness.html
 date: '2011-03-01T00:33:00.001-06:00'

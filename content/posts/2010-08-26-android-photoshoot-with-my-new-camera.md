@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8328768637418640277
 blogger_orig_url: http://www.sunpech.com/2010/08/android-photoshoot-with-my-new-camera.html
 date: '2010-08-26T09:00:00.007-05:00'

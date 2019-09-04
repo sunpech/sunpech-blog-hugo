@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2016-01-25T09:00:00.000-05:00'
 description: The Super Hero movies I'm looking forward to the most in 2016.
 headerimage: /images/headers/superhero_movies_2016.jpg

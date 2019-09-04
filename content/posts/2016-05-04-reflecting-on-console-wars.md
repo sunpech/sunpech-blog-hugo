@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2016-05-04T09:00:00.000-05:00'
 description: 'My reflection on my gaming history after reading Blake J. Harris''s book, Console Wars: Sega, Nintendo, and the Battle that Defined a Generation.'
 headerimage: /images/headers/console-wars.jpg

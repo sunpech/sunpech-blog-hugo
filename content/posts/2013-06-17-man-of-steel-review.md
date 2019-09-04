@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3309650584819850059
 blogger_orig_url: http://www.sunpech.com/2013/06/man-of-steel-review.html
 date: '2013-06-17T11:00:00.000-05:00'

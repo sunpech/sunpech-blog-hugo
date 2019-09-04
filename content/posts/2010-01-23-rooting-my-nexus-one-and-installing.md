@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8953641822401276593
 blogger_orig_url: http://www.sunpech.com/2010/01/rooting-my-nexus-one-and-installing.html
 date: '2010-01-23T00:58:00.001-06:00'

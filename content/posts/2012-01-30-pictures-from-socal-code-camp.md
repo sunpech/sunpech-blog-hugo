@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3642208207534834119
 blogger_orig_url: http://www.sunpech.com/2012/01/pictures-from-socal-code-camp.html
 date: '2012-01-30T10:00:00.000-06:00'

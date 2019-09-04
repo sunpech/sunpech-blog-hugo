@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1806659350697521854
 blogger_orig_url: http://www.sunpech.com/2011/05/chicago-code-camp-2011.html
 date: '2011-05-05T09:00:00.000-05:00'

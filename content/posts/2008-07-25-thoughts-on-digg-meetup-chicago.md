@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6382347764570249093
 blogger_orig_url: http://www.sunpech.com/2008/07/thoughts-on-digg-meetup-chicago.html
 date: '2008-07-25T06:00:00.000-05:00'

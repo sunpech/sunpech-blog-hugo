@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2286525837830791660
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-toronto.html
 date: '2014-01-10T12:00:00.000-06:00'

@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5090524995992239173
 blogger_orig_url: http://www.sunpech.com/2008/02/belkins-pre-n-router-laggy-on-ps3.html
 date: '2008-02-10T12:09:00.002-06:00'

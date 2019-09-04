@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2015-07-16T00:00:00.000-05:00'
 description: My thoughts and pictures from San Diego Comic Con 2015. TL;DR; Still a great con, not as busy as previous years, more family-friendly than ever.
 headerimage: /images/headers/san_diego_comic_con.jpg

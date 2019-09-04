@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1597576104515014308
 blogger_orig_url: http://www.sunpech.com/2008/10/my-first-blog-entry-from-my-g1.html
 date: '2008-10-21T08:24:00.003-05:00'

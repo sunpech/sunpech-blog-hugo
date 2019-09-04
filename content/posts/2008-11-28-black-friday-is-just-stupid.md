@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2656121711518304156
 blogger_orig_url: http://www.sunpech.com/2008/11/black-friday-is-just-stupid.html
 date: '2008-11-28T11:50:00.013-06:00'

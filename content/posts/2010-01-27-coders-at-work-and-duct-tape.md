@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5331333518303753478
 blogger_orig_url: http://www.sunpech.com/2010/01/coders-at-work-and-duct-tape.html
 date: '2010-01-27T21:25:00.000-06:00'

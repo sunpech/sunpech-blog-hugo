@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3844967058403975696
 blogger_orig_url: http://www.sunpech.com/2011/03/my-story-from-2010-part-2-of-2.html
 date: '2011-03-16T21:00:00.002-05:00'

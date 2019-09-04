@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4045851285877658078
 blogger_orig_url: http://www.sunpech.com/2010/08/delivering-happiness-by-tony-hsieh.html
 date: '2010-08-27T09:00:00.003-05:00'

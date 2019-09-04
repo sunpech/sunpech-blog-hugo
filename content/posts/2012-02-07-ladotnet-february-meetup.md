@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1085102922345459344
 blogger_orig_url: http://www.sunpech.com/2012/02/ladotnet-february-meetup.html
 date: '2012-02-07T11:14:00.000-06:00'

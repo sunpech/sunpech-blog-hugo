@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-988457410436302548
 blogger_orig_url: http://www.sunpech.com/2010/12/traveling-with-ebags.html
 date: '2010-12-01T09:30:00.001-06:00'

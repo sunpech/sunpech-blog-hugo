@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4515913570956106026
 blogger_orig_url: http://www.sunpech.com/2010/08/pictures-of-chicago-and-millennium-park.html
 date: '2010-08-23T09:00:00.003-05:00'

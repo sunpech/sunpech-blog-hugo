@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7257599362438747856
 blogger_orig_url: http://www.sunpech.com/2008/08/facebook-to-become-new-aol.html
 date: '2008-08-20T06:00:00.000-05:00'

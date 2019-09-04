@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8747427407656011722
 blogger_orig_url: http://www.sunpech.com/2011/03/tedxbkk-pictures.html
 date: '2011-03-14T01:17:00.000-05:00'

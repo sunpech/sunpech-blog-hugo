@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2017-07-10T09:00:00.000-05:00'
 description: My spoilery review of the Spider-man Homecoming movie.
 headerimage: /images/headers/spider-man-homecoming.jpg

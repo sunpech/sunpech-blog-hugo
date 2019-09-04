@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5467231622730355089
 blogger_orig_url: http://www.sunpech.com/2010/03/rework-by-jason-fried-and-david.html
 date: '2010-03-21T14:18:00.003-05:00'

@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2015-09-25T09:00:00.000-05:00'
 description: My photos take at and around the Adamas/Wabash CTA Station in Chicago.
 headerimage: /images/headers/adams-wabash-cta-station.jpg

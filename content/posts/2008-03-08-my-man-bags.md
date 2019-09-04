@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6092485655267772036
 blogger_orig_url: http://www.sunpech.com/2008/03/my-man-bags.html
 date: '2008-03-08T21:27:00.009-06:00'

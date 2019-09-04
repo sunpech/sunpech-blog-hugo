@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2015-05-25T09:00:00.000-05:00'
 description: I moved my blog from Blogger to Jekyll.
 headerimage: /images/headers/software_development.jpg

@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8512560648169804312
 blogger_orig_url: http://www.sunpech.com/2011/08/some-thoughts-on-photography-blogging.html
 date: '2011-08-12T09:46:00.000-05:00'

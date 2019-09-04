@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8295370269793332381
 blogger_orig_url: http://www.sunpech.com/2011/08/google-plus-is-for-geeks.html
 date: '2011-08-04T01:22:00.000-05:00'

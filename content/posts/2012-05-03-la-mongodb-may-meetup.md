@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5691057246844918189
 blogger_orig_url: http://www.sunpech.com/2012/05/la-mongodb-may-meetup.html
 date: '2012-05-03T11:00:00.000-05:00'

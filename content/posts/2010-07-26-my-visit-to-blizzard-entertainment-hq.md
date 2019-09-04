@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7523263956691145662
 blogger_orig_url: http://www.sunpech.com/2010/07/my-visit-to-blizzard-entertainment-hq.html
 date: '2010-07-26T10:20:00.003-05:00'

@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2250433814193860096
 blogger_orig_url: http://www.sunpech.com/2012/03/weekend-chicago-hdr-photography.html
 date: '2012-03-19T15:15:00.001-05:00'

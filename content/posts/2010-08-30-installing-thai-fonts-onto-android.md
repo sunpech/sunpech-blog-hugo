@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6665102534805821074
 blogger_orig_url: http://www.sunpech.com/2010/08/installing-thai-fonts-onto-android.html
 date: '2010-08-30T09:00:00.110-05:00'

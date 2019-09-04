@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1049614843493224891
 blogger_orig_url: http://www.sunpech.com/2009/09/what-i-love-about-microsoft.html
 date: '2009-09-08T07:15:00.000-05:00'

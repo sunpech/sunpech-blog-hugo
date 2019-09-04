@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5477450420295405387
 blogger_orig_url: http://www.sunpech.com/2013/03/why-i-love-google-reader.html
 date: '2013-03-14T10:12:00.000-05:00'

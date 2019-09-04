@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3139078602405042702
 blogger_orig_url: http://www.sunpech.com/2009/02/free-microsoft-development-tools-for.html
 date: '2009-02-28T17:38:00.000-06:00'

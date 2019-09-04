@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2018-02-19T09:00:00.000-05:00'
 description: My review of the Black Panther Movie.
 headerimage: /images/headers/black-panther-2018.jpg

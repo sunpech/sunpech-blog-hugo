@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6008116428342228532
 blogger_orig_url: http://www.sunpech.com/2012/11/long-beach-comic-con-2012.html
 date: '2012-11-06T11:00:00.000-06:00'

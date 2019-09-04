@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6541693810625676412
 blogger_orig_url: http://www.sunpech.com/2010/03/chicago-tech-user-groups-and-events-for.html
 date: '2010-03-15T19:07:00.000-05:00'

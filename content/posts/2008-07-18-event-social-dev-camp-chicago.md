@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2739763017537844629
 blogger_orig_url: http://www.sunpech.com/2008/07/event-social-dev-camp-chicago.html
 date: '2008-07-18T17:49:00.000-05:00'

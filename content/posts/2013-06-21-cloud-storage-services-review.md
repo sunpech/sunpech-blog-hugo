@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2824231464794545018
 blogger_orig_url: http://www.sunpech.com/2013/06/cloud-storage-services-review.html
 date: '2013-06-21T09:58:00.000-05:00'

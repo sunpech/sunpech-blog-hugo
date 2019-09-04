@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6505214424446094885
 blogger_orig_url: http://www.sunpech.com/2014/02/photos-from-griffith-observatory.html
 date: '2014-02-05T11:00:00.000-06:00'

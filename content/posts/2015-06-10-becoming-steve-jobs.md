@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2015-06-10T09:00:00.000-05:00'
 description: 'I review the latest Steve Jobs biography, Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader, by Brent Schlender and Rick Tetzeli.'
 headerimage: /images/headers/apple_galaxy.jpg

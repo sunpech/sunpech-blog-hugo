@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4873789071517389530
 blogger_orig_url: http://www.sunpech.com/2014/04/different-screen-resolutions-wallpaper.html
 date: '2014-04-15T17:07:00.000-05:00'

@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 date: '2015-08-14T09:00:00.000-05:00'
 description: My spoiler free book review of Andy Weir's book, and soon to be released movie, The Martian.
 image: /images/blog/the_martian.jpg

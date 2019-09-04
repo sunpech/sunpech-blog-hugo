@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7628154985244238079
 blogger_orig_url: http://www.sunpech.com/2008/12/setting-up-wrt54g-as-wireless-bridge.html
 date: '2008-12-24T23:39:00.000-06:00'

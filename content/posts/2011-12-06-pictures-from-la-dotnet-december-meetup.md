@@ -1,5 +1,5 @@
 ---
-author: Steven Suwatanapongched
+author: ["Steven Suwatanapongched"]
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3073489886148143074
 blogger_orig_url: http://www.sunpech.com/2011/12/pictures-from-la-dotnet-december-meetup.html
 date: '2011-12-06T15:29:00.000-06:00'
