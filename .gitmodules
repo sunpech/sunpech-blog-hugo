@@ -1,4 +1,0 @@
-[submodule "themes/hugo-atom-feed"]
-	path = themes/hugo-atom-feed
-	url = git@github.com:kaushalmodi/hugo-atom-feed.git
-	branch = master
