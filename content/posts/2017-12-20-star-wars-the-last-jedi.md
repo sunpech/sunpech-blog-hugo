@@ -4,6 +4,7 @@ date: '2017-12-20T09:00:00.000-01:00'
 description: My review of Star Wars the Last Jedi. I loved it.
 headerimage: /images/headers/star-wars-the-last-jedi.jpg
 image: /images/blog/star-wars-the-last-jedi.jpg
+images: ["/images/blog/star-wars-the-last-jedi.jpg"]
 modified_time: '2017-12-20T09:00:00.000-01:00'
 tags:
   - Movies

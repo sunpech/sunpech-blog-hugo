@@ -3,6 +3,7 @@ author: Steven Suwatanapongched
 date: '2015-06-24T09:00:00.000-05:00'
 description: I review the latest book on Elon Musk.
 image: /images/blog/elon_musk.jpg
+images: ["/images/blog/elon_musk.jpg"]
 modified_time: '2015-06-24T09:00:00.000-05:00'
 tags:
   - Books

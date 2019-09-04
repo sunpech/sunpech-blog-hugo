@@ -4,6 +4,7 @@ date: '2017-05-26T09:00:00.000-05:00'
 description: Photos and thoughts from Anime Central 2017.
 headerimage: /images/headers/anime-central.jpg
 image: /images/blog/2017-anime-central-entrance.jpg
+images: ["/images/blog/2017-anime-central-entrance.jpg"]
 modified_time: '2017-05-26T09:00:00.000-05:00'
 tags:
   - Anime Central

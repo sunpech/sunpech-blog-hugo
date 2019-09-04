@@ -4,6 +4,7 @@ date: '2015-09-10T09:00:00.000-05:00'
 description: My thoughts on Apple's September 2015 keynote event. The winners were the iPad Pro and the iPhone Upgrade program.
 headerimage: /images/headers/apple_galaxy.jpg
 image: /images/blog/thoughts_on_apple_event.jpg
+images: ["/images/blog/thoughts_on_apple_event.jpg"]
 modified_time: '2015-09-10T09:00:00.000-05:00'
 tags:
   - Apple

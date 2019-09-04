@@ -4,6 +4,7 @@ date: '2015-08-11T09:00:00.000-05:00'
 description: My thoughts and photos from Trey Ratcliff's Chicago Photowalk.
 headerimage: /images/headers/chicago_skyline_buckingham_fountain.jpg
 image: /images/blog/chicago_skyline_buckingham_fountain.jpg
+images: ["/images/blog/chicago_skyline_buckingham_fountain.jpg"]
 modified_time: '2015-08-11T09:00:00.000-05:00'
 tags:
   - Chicago

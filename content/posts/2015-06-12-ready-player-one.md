@@ -3,6 +3,7 @@ author: Steven Suwatanapongched
 date: '2015-06-12T09:00:00.000-05:00'
 description: I review the book, Ready Player One, by Ernest Cline. No spoilers.
 image: /images/blog/ready_player_one_book.jpg
+images: ["/images/blog/ready_player_one_book.jpg"]
 modified_time: '2015-06-12T09:00:00.000-05:00'
 tags:
   - Books

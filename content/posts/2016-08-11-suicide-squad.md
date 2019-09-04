@@ -4,6 +4,7 @@ date: '2016-08-11T09:00:00.000-05:00'
 description: My review of the Suicide Squad movie. A movie that has problems, but has promise.
 headerimage: /images/headers/suicide-squad.jpg
 image: /images/blog/suicide_squad.jpg
+images: ["/images/blog/suicide_squad.jpg"]
 modified_time: '2016-08-11T09:00:00.000-05:00'
 tags:
   - Comics

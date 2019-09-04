@@ -4,6 +4,7 @@ date: '2015-06-10T09:00:00.000-05:00'
 description: 'I review the latest Steve Jobs biography, Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader, by Brent Schlender and Rick Tetzeli.'
 headerimage: /images/headers/apple_galaxy.jpg
 image: /images/blog/becoming-steve-jobs.jpg
+images: ["/images/blog/becoming-steve-jobs.jpg"]
 modified_time: '2015-06-10T09:00:00.000-05:00'
 tags:
   - Apple

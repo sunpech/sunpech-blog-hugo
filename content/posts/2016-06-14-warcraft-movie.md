@@ -4,6 +4,7 @@ date: '2016-06-14T09:00:00.000-05:00'
 description: My review of the Warcraft movie.
 headerimage: /images/headers/warcraft-movie.jpg
 image: /images/blog/warcraft-movie.jpg
+images: ["/images/blog/warcraft-movie.jpg"]
 modified_time: '2016-06-14T09:00:00.000-05:00'
 tags:
   - Movies

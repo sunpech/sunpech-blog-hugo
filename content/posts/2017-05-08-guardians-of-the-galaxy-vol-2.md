@@ -4,6 +4,7 @@ date: '2017-05-08T09:00:00.000-05:00'
 description: My review of Marvel's Guardians of the Galaxy Volume 2. It's very good, just don't read too far down if you haven't watched the movie yet.
 headerimage: /images/headers/guardians-of-the-galaxy-vol-2.jpg
 image: /images/blog/guardians-of-the-galaxy-vol-2.jpg
+images: ["/images/blog/guardians-of-the-galaxy-vol-2.jpg"]
 modified_time: '2017-05-08T09:00:00.000-05:00'
 tags:
   - Comics

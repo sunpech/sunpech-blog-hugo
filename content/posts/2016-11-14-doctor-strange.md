@@ -4,6 +4,7 @@ date: '2016-11-14T09:00:00.000-05:00'
 description: My spoiler-y review of Marvel's Doctor Strange movie.
 headerimage: /images/headers/dr-strange.jpg
 image: /images/blog/dr-strange.jpg
+images: ["/images/blog/dr-strange.jpg"]
 modified_time: '2016-11-14T09:00:00.000-05:00'
 tags:
   - Comics

@@ -4,6 +4,7 @@ date: '2017-07-25T01:00:00.000-05:00'
 description: My thoughts and photos from San Diego Comic Con 2017.
 headerimage: /images/headers/san-diego-comic-con-2017.jpg
 image: /images/blog/san-diego-comic-con-2017.jpg
+images: ["/images/blog/san-diego-comic-con-2017.jpg"]
 modified_time: '2017-07-25T01:00:00.000-05:00'
 tags:
   - Comic Con

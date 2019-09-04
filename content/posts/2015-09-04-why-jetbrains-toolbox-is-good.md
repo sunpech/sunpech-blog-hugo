@@ -4,6 +4,7 @@ date: '2015-09-04T09:00:00.000-05:00'
 description: I think the software-as-a-service model is good for Jetbrains and their true customers. But it's certainly not for everyone.
 headerimage: /images/headers/software_development.jpg
 image: /images/blog/why_jetbrains_toolbox_is_good.jpg
+images: ["/images/blog/why_jetbrains_toolbox_is_good.jpg"]
 modified_time: '2015-09-04T09:00:00.000-05:00'
 tags:
   - Software Development

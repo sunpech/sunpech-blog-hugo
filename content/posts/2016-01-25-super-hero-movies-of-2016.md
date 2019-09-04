@@ -4,6 +4,7 @@ date: '2016-01-25T09:00:00.000-05:00'
 description: The Super Hero movies I'm looking forward to the most in 2016.
 headerimage: /images/headers/superhero_movies_2016.jpg
 image: /images/blog/2016_superhero_movies_posters.jpg
+images: ["/images/blog/2016_superhero_movies_posters.jpg"]
 modified_time: '2016-01-25T09:00:00.000-05:00'
 tags:
   - Comics

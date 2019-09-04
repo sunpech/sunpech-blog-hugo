@@ -4,6 +4,7 @@ date: '2017-01-26T09:00:00.000-05:00'
 description: The Super Hero movies I'm looking forward to the most in 2017.
 headerimage: /images/headers/2017-comic-book-movies.jpg
 image: /images/blog/comic-book-movies-2017.jpg
+images: ["/images/blog/comic-book-movies-2017.jpg"]
 modified_time: '2017-01-26T09:00:00.000-05:00'
 tags:
   - Comics

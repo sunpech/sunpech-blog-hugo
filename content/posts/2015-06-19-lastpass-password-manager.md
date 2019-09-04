@@ -4,6 +4,7 @@ date: '2015-06-19T09:00:00.000-05:00'
 description: I cover why you should use a password manager such as LastPass and how to improve the security behind it even further.
 headerimage: /images/headers/technology.jpg
 image: /images/blog/lastpass_logo.jpg
+images: ["/images/blog/lastpass_logo.jpg"]
 modified_time: '2015-06-19T09:00:00.000-05:00'
 tags:
   - Guide

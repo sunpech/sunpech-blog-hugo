@@ -4,6 +4,7 @@ date: '2018-02-19T09:00:00.000-05:00'
 description: My review of the Black Panther Movie.
 headerimage: /images/headers/black-panther-2018.jpg
 image: /images/blog/black-panther-2018.jpg
+images: ["/images/blog/black-panther-2018.jpg"]
 modified_time: '2018-02-19T09:00:00.000-05:00'
 tags:
   - Movies

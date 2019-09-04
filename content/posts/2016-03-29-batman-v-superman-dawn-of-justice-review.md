@@ -4,6 +4,7 @@ date: '2016-03-29T09:00:00.000-05:00'
 description: 'My review of the Batman vs Superman: Dawn of Justice movie. With spoilers.'
 headerimage: /images/headers/batman-v-superman.jpg
 image: /images/blog/batman-v-superman.jpg
+images: ["/images/blog/batman-v-superman.jpg"]
 modified_time: '2016-03-29T09:00:00.000-05:00'
 tags:
   - Comics

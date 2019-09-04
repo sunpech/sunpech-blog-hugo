@@ -4,6 +4,7 @@ date: '2017-06-07T09:00:00.000-05:00'
 description: My spoiler filled review of the Wonder Woman movie.
 headerimage: /images/headers/wonder-woman.jpg
 image: /images/blog/wonder-woman-sword-2017.jpg
+images: ["/images/blog/wonder-woman-sword-2017.jpg"]
 modified_time: '2017-06-07T09:00:00.000-05:00'
 tags:
   - Comics

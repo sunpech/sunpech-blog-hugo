@@ -4,6 +4,7 @@ date: '2015-09-07T09:00:00.000-05:00'
 description: My photos appear in the Halloween edition of Cosplay Culture magazine. The article covers San Diego Comic Con 2015.
 headerimage: /images/headers/cosplay_culture_halloween.jpg
 image: /images/blog/cosplay_culture_magazine.jpg
+images: ["/images/blog/cosplay_culture_magazine.jpg"]
 modified_time: '2015-09-07T09:00:00.000-05:00'
 tags:
   - Comic Con

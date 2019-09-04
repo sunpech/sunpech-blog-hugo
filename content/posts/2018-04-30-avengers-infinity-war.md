@@ -4,6 +4,7 @@ date: '2018-04-30T09:00:00.000-05:00'
 description: My movie review of Avengers Infinity War.
 headerimage: /images/headers/avengers-infinity-war.jpg
 image: /images/blog/avengers-infinity-war.jpg
+images: ["/images/blog/avengers-infinity-war.jpg"]
 modified_time: '2018-04-30T09:00:00.000-05:00'
 tags:
   - Movies

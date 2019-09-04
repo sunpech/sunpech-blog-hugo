@@ -4,6 +4,7 @@ date: '2016-05-04T09:00:00.000-05:00'
 description: 'My reflection on my gaming history after reading Blake J. Harris''s book, Console Wars: Sega, Nintendo, and the Battle that Defined a Generation.'
 headerimage: /images/headers/console-wars.jpg
 image: /images/blog/console_wars.jpg
+images: ["/images/blog/console_wars.jpg"]
 modified_time: '2016-05-04T09:00:00.000-05:00'
 tags:
   - Books

@@ -4,6 +4,7 @@ date: '2015-06-08T09:00:00.000-05:00'
 description: 'There are two tech TV shows that I''m enjoying right now: Silicon Valley and Halt and Catch Fire.'
 headerimage: /images/headers/technology.jpg
 image: /images/blog/silicon-valley_halt-and-catch-fire.jpg
+images: ["/images/blog/silicon-valley_halt-and-catch-fire.jpg"]
 modified_time: '2015-06-08T09:00:00.000-05:00'
 tags:
   - Review

@@ -4,6 +4,7 @@ date: '2017-11-08T09:00:00.000-05:00'
 description: My review of Thor Ragnarok. It is very good, you should watch it!
 headerimage: /images/headers/thor-ragnarok.jpg
 image: /images/blog/thor-ragnarok-blue.jpg
+images: ["/images/blog/thor-ragnarok-blue.jpg"]
 modified_time: '2017-11-08T09:00:00.000-05:00'
 tags:
   - Movies

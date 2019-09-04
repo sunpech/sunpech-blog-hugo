@@ -4,6 +4,7 @@ date: '2015-10-19T09:00:00.000-05:00'
 description: Pictures taken at Open House Chicago on Sunday, October 18, 2015.
 headerimage: /images/headers/chicago_aon_center.jpg
 image: /images/blog/open_house_chicago_2015.jpg
+images: ["/images/blog/open_house_chicago_2015.jpg"]
 modified_time: '2015-10-19T09:00:00.000-05:00'
 tags:
   - Chicago

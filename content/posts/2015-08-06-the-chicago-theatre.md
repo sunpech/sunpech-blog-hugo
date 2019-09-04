@@ -4,6 +4,7 @@ date: '2015-08-06T09:00:00.000-05:00'
 description: My first trip to take photos of the iconic Chicago Theatre. I talk about the problems and what I did to take this photo.
 headerimage: /images/headers/chicago_theatre.jpg
 image: /images/blog/the_chicago_theatre.jpg
+images: ["/images/blog/the_chicago_theatre.jpg"]
 modified_time: '2015-08-06T09:00:00.000-05:00'
 tags:
   - Chicago

@@ -4,6 +4,7 @@ date: '2016-05-23T09:00:00.000-05:00'
 description: My photos and thoughts from attending Anime Central in Chicago.
 headerimage: /images/headers/anime-central.jpg
 image: /images/blog/anime-central-2016.jpg
+images: ["/images/blog/anime-central-2016.jpg"]
 modified_time: '2016-05-23T09:00:00.000-05:00'
 tags:
   - Anime Central

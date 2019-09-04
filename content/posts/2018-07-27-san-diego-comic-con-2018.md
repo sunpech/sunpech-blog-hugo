@@ -4,6 +4,7 @@ date: '2018-07-27T09:00:00.000-05:00'
 description: My thoughts and photos from San Diego Comic Con 2018.
 headerimage: /images/headers/san-diego-comic-con-2018.jpg
 image: /images/blog/2018-sdcc-banner.jpg
+images: ["/images/blog/2018-sdcc-banner.jpg"]
 modified_time: '2018-07-27T09:00:00.000-05:00'
 tags:
   - Comic Con
