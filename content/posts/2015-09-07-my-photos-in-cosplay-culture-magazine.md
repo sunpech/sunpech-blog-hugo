@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2015-09-07T09:00:00.000-05:00'
 description: My photos appear in the Halloween edition of Cosplay Culture magazine. The article covers San Diego Comic Con 2015.
 headerimage: /images/headers/cosplay_culture_halloween.jpg

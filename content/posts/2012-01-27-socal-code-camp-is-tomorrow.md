@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5783205170973058067
 blogger_orig_url: http://www.sunpech.com/2012/01/socal-code-camp-is-tomorrow.html
 date: '2012-01-27T19:58:00.000-06:00'

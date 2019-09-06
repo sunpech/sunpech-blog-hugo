@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4805360256206371602
 blogger_orig_url: http://www.sunpech.com/2011/07/barcamp-chicago-at-pumping-station-one.html
 date: '2011-07-27T03:28:00.000-05:00'

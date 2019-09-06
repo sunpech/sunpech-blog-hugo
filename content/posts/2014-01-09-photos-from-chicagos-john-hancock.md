@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2219549512899701117
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-chicagos-john-hancock.html
 date: '2014-01-09T16:11:00.000-06:00'

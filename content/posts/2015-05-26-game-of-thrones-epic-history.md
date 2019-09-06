@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2015-05-26T09:00:00.000-05:00'
 description: I highly recommend ComicBookGirl19's Game of Thrones Epic History.
 image: /images/blog/comicbookgirl19-GameofThrones.jpg

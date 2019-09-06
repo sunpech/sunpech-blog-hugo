@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4748305805232080592
 blogger_orig_url: http://www.sunpech.com/2012/09/comikaze-expo.html
 date: '2012-09-17T11:00:00.000-05:00'

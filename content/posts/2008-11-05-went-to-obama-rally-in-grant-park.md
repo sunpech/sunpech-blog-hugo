@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1098775083325003979
 blogger_orig_url: http://www.sunpech.com/2008/11/went-to-obama-rally-in-grant-park.html
 date: '2008-11-05T01:11:00.004-06:00'

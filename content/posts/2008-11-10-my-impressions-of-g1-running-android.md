@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6274634595402651573
 blogger_orig_url: http://www.sunpech.com/2008/11/my-impressions-of-g1-running-android.html
 date: '2008-11-10T22:37:00.005-06:00'

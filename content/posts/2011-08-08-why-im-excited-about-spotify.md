@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2301494187404577926
 blogger_orig_url: http://www.sunpech.com/2011/08/why-im-excited-about-spotify.html
 date: '2011-08-08T18:27:00.000-05:00'

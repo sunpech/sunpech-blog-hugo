@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-498565704680728382
 blogger_orig_url: http://www.sunpech.com/2009/05/lala-better-alternative-to-itunes.html
 date: '2009-05-18T11:32:00.005-05:00'

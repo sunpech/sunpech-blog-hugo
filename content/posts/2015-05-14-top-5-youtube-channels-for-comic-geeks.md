@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2850648438258669169
 blogger_orig_url: http://www.sunpech.com/2015/05/top-5-youtube-channels-for-comic-geeks.html
 date: '2015-05-14T09:00:00.000-05:00'

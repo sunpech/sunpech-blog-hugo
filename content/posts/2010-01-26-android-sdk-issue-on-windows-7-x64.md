@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6014119442015021448
 blogger_orig_url: http://www.sunpech.com/2010/01/android-sdk-issue-on-windows-7-x64.html
 date: '2010-01-26T18:59:00.000-06:00'

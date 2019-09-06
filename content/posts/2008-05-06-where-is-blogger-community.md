@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-769434790249242250
 blogger_orig_url: http://www.sunpech.com/2008/05/where-is-blogger-community.html
 date: '2008-05-06T20:42:00.006-05:00'

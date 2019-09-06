@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2015-08-09T09:00:00.000-05:00'
 description: My thoughts on OnePlus and Cyanogen OS after one year of using the OnePlus One and Cyanogen 12S. I talk about the hardware, software, and how these two companies disappoint me.
 headerimage: /images/headers/android.jpg

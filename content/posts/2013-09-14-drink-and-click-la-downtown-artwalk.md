@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2013-09-13T09:00:00.000-05:00'
 description: Photos from my Drink and Click LA Photowalk in downtown Artwalk.
 headerimage: /images/headers/old_cameras.jpg

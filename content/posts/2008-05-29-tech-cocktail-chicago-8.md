@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2387330688297963811
 blogger_orig_url: http://www.sunpech.com/2008/05/tech-cocktail-chicago-8.html
 date: '2008-05-29T08:56:00.007-05:00'

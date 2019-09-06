@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8003625405023615625
 blogger_orig_url: http://www.sunpech.com/2012/02/i-am-meetup-junkie.html
 date: '2012-02-27T05:00:00.000-06:00'

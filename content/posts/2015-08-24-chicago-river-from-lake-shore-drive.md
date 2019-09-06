@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2015-08-24T09:00:00.000-05:00'
 description: My first visit to the Chicago River on Lake Shore Drive. I share my photo taking experience there.
 headerimage: /images/headers/chicago_river_from_lsd.jpg

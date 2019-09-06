@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3638353101975564744
 blogger_orig_url: http://www.sunpech.com/2008/11/my-favorite-firefox-add-ons.html
 date: '2008-11-23T00:26:00.000-06:00'

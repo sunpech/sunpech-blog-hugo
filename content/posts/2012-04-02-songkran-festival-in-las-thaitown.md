@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5398941952039990553
 blogger_orig_url: http://www.sunpech.com/2012/04/songkran-festival-in-las-thaitown.html
 date: '2012-04-02T11:00:00.000-05:00'

@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8675918015450725598
 blogger_orig_url: http://www.sunpech.com/2012/02/jiro-dreams-of-sushi.html
 date: '2012-02-09T01:41:00.000-06:00'

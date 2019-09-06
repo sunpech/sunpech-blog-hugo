@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5189826723904649781
 blogger_orig_url: http://www.sunpech.com/2011/05/trip-to-baltimore.html
 date: '2011-05-24T15:04:00.001-05:00'

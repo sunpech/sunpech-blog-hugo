@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3737892954027799934
 blogger_orig_url: http://www.sunpech.com/2010/11/boston-universitys-cs-lab-in-2001-and.html
 date: '2010-11-01T09:00:00.011-05:00'

@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8373625049182046772
 blogger_orig_url: http://www.sunpech.com/2014/09/building-my-own-photography-site.html
 date: '2014-09-22T18:35:00.001-05:00'

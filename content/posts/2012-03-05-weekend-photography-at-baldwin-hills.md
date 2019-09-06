@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4269628222443201168
 blogger_orig_url: http://www.sunpech.com/2012/03/weekend-photography-at-baldwin-hills.html
 date: '2012-03-05T12:32:00.001-06:00'

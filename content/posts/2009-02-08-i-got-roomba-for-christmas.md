@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4204154948874747235
 blogger_orig_url: http://www.sunpech.com/2009/02/i-got-roomba-for-christmas.html
 date: '2009-02-08T23:06:00.008-06:00'

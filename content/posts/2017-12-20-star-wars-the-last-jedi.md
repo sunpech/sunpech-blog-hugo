@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2017-12-20T09:00:00.000-01:00'
 description: My review of Star Wars the Last Jedi. I loved it.
 headerimage: /images/headers/star-wars-the-last-jedi.jpg

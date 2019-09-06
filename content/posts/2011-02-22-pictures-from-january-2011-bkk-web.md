@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4963692691323917019
 blogger_orig_url: http://www.sunpech.com/2011/02/pictures-from-january-2011-bkk-web.html
 date: '2011-02-22T01:18:00.000-06:00'

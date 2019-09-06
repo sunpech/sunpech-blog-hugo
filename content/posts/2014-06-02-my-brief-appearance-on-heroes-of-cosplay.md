@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7797759634072294797
 blogger_orig_url: http://www.sunpech.com/2014/06/my-brief-appearance-on-heroes-of-cosplay.html
 date: '2014-06-02T10:00:00.000-05:00'

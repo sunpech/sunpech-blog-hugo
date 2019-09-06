@@ -14,10 +14,7 @@
         <div class="site-heading">
           <h1>{{ .Title | default .Site.Title }}</h1>
           <span class="meta">
-            {{ $authorlist := $.Param "Author" }}
-            {{ $authorlen := len $authorlist }}
-            Posted on {{ .Date.Format "January 2, 2006" }} by 
-            {{ range $index, $element:= $authorlist }}{{ . }}{{ if not (eq (add $index 1) $authorlen) }},&nbsp;{{ end }}{{ end }}<br/>
+            Posted on {{ .Date.Format "January 2, 2006" }} by {{ $.Param "Author" }}<br/>
           </span>
           <span class="post-tag-light">
             {{ $taglist := .Params.tags }}

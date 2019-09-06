@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5821213847246130504
 blogger_orig_url: http://www.sunpech.com/2007/11/my-new-mp3-player-sansa-e280.html
 date: '2007-11-04T10:29:00.002-06:00'

@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5793771890500663374
 blogger_orig_url: http://www.sunpech.com/2012/04/coworking-at-nextspace-la.html
 date: '2012-04-23T11:00:00.000-05:00'

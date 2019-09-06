@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-411709171229829793
 blogger_orig_url: http://www.sunpech.com/2014/02/removing-hdd-from-western-digital.html
 date: '2014-02-03T11:00:00.000-06:00'

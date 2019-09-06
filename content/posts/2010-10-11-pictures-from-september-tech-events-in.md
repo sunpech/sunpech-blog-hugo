@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3580206941784703410
 blogger_orig_url: http://www.sunpech.com/2010/10/pictures-from-september-tech-events-in.html
 date: '2010-10-11T18:00:00.000-05:00'

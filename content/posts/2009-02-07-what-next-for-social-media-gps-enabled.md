@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7555505675634684381
 blogger_orig_url: http://www.sunpech.com/2009/02/what-next-for-social-media-gps-enabled.html
 date: '2009-02-07T19:17:00.000-06:00'

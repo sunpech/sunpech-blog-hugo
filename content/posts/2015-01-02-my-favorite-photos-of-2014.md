@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8975235101402898124
 blogger_orig_url: http://www.sunpech.com/2015/01/my-favorite-photos-of-2014.html
 date: '2015-01-02T14:00:00.000-06:00'

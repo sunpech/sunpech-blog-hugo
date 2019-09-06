@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7364441000246686184
 blogger_orig_url: http://www.sunpech.com/2011/02/pictures-of-transformers-3-set-in.html
 date: '2011-02-22T04:00:00.001-06:00'

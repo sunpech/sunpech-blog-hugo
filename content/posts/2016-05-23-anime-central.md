@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2016-05-23T09:00:00.000-05:00'
 description: My photos and thoughts from attending Anime Central in Chicago.
 headerimage: /images/headers/anime-central.jpg

@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2016-05-17T09:00:00.000-05:00'
 description: My review of Captain America Civil War movie along with predictions for Phase 3 of the MCU. I also talk about Disney's The Incredibles. Spoilers will be everywhere.
 headerimage: /images/headers/captain-america-civil-war.jpg

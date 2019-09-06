@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3677375251137094691
 blogger_orig_url: http://www.sunpech.com/2012/07/san-diego-comic-con.html
 date: '2012-07-17T16:19:00.000-05:00'

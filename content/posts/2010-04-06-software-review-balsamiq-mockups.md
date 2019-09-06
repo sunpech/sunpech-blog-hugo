@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5389051952885032314
 blogger_orig_url: http://www.sunpech.com/2010/04/software-review-balsamiq-mockups.html
 date: '2010-04-06T06:00:00.000-05:00'

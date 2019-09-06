@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4210171024398973483
 blogger_orig_url: http://www.sunpech.com/2010/08/september-2010-tech-events-in-chicago.html
 date: '2010-08-23T10:00:00.000-05:00'

@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7885787101186030066
 blogger_orig_url: http://www.sunpech.com/2011/07/pictures-from-july-refresh-and-ignite.html
 date: '2011-07-29T09:00:00.000-05:00'

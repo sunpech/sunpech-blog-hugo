@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8659935873398615085
 blogger_orig_url: http://www.sunpech.com/2009/01/basic-combinatorial-mathematics.html
 date: '2009-01-02T11:58:00.000-06:00'

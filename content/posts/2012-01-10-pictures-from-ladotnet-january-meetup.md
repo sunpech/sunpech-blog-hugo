@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2656336799612263033
 blogger_orig_url: http://www.sunpech.com/2012/01/pictures-from-ladotnet-january-meetup.html
 date: '2012-01-10T11:42:00.000-06:00'

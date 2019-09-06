@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1958409847113378938
 blogger_orig_url: http://www.sunpech.com/2008/08/software-development-comic.html
 date: '2008-08-18T13:02:00.000-05:00'

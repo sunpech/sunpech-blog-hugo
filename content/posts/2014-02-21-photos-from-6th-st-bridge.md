@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2960241080145268119
 blogger_orig_url: http://www.sunpech.com/2014/02/photos-from-6th-st-bridge.html
 date: '2014-02-21T11:54:00.004-06:00'

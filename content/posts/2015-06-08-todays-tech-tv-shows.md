@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2015-06-08T09:00:00.000-05:00'
 description: 'There are two tech TV shows that I''m enjoying right now: Silicon Valley and Halt and Catch Fire.'
 headerimage: /images/headers/technology.jpg

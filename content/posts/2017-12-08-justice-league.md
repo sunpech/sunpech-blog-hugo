@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2017-12-08T09:00:00.000-05:00'
 description: My review of the Justice League movie.
 headerimage: /images/headers/justice-league-2017.jpg

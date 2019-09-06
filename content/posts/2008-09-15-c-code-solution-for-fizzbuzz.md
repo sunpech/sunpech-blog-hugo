@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1087262992477565695
 blogger_orig_url: http://www.sunpech.com/2008/09/c-code-solution-for-fizzbuzz.html
 date: '2008-09-15T22:20:00.000-05:00'

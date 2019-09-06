@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2543556610536716114
 blogger_orig_url: http://www.sunpech.com/2011/06/green-lantern-movie-review.html
 date: '2011-06-20T13:24:00.002-05:00'

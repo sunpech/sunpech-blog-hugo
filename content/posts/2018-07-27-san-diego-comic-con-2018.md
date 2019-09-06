@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2018-07-27T09:00:00.000-05:00'
 description: My thoughts and photos from San Diego Comic Con 2018.
 headerimage: /images/headers/san-diego-comic-con-2018.jpg

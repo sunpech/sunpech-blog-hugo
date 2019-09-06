@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2197693627411045955
 blogger_orig_url: http://www.sunpech.com/2008/10/getting-g1-in-one-week.html
 date: '2008-10-14T19:37:00.007-05:00'

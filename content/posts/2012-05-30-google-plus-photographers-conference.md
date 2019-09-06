@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7904137589312131309
 blogger_orig_url: http://www.sunpech.com/2012/05/google-plus-photographers-conference.html
 date: '2012-05-30T11:00:00.000-05:00'

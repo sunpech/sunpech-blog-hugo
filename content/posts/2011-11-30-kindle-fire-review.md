@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2684204526212972889
 blogger_orig_url: http://www.sunpech.com/2011/11/kindle-fire-review.html
 date: '2011-11-30T20:00:00.000-06:00'

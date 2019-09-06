@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7678158939557026174
 blogger_orig_url: http://www.sunpech.com/2012/02/microsofts-new-windows-8-logo.html
 date: '2012-02-18T14:18:00.000-06:00'

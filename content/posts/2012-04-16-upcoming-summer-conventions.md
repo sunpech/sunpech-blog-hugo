@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1548202190422393924
 blogger_orig_url: http://www.sunpech.com/2012/04/upcoming-summer-conventions.html
 date: '2012-04-16T20:38:00.000-05:00'

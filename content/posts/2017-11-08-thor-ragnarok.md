@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2017-11-08T09:00:00.000-05:00'
 description: My review of Thor Ragnarok. It is very good, you should watch it!
 headerimage: /images/headers/thor-ragnarok.jpg

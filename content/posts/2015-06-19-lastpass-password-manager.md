@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 date: '2015-06-19T09:00:00.000-05:00'
 description: I cover why you should use a password manager such as LastPass and how to improve the security behind it even further.
 headerimage: /images/headers/technology.jpg

@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6373629466885906791
 blogger_orig_url: http://www.sunpech.com/2012/02/design-of-everyday-things.html
 date: '2012-02-29T16:24:00.004-06:00'

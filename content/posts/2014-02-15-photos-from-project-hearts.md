@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2365920135743694376
 blogger_orig_url: http://www.sunpech.com/2014/02/photos-from-project-hearts.html
 date: '2014-02-15T11:00:00.000-06:00'

@@ -1,5 +1,5 @@
 ---
-author: ["Steven Suwatanapongched"]
+author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2012633697097354269
 blogger_orig_url: http://www.sunpech.com/2012/01/designers-hub-meet-and-greet.html
 date: '2012-01-20T06:03:00.000-06:00'
