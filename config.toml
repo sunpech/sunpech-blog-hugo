@@ -5,7 +5,11 @@ theme = ["hugo-basic"]
 Paginate = 10
 timezone = "America/Chicago"
 googleAnalytics = "UA-126684-2"
-author = ["Steven Suwatanapongched"]
+#author = "Steven Suwatanapongched"
+
+[author]
+  name = "Steven Suwatanapongched"
+  email = "steven@sunpech.com"
 
 [params]
   mainSections = ["posts"]
