@@ -58,3 +58,4 @@ hugo new new-page.md
 ## TODO:
 * Move all images to be local, instead of hosted on Blogspot.
 * Change http to use https where possible.
+* Update Taxonomies page, Tags. Include some kind of intro for page.
