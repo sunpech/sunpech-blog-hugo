@@ -4,7 +4,7 @@ date: {{ .Date }}
 Description: ""
 Tags: []
 Categories: []
-draft: false
+draft: true
 author: "Steven Suwatanapongched"
 header-image: "/images/default-header.jpg"
 image: "/images/default-image.jpg"
