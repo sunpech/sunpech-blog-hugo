@@ -6,6 +6,7 @@
 
 <title>{{ .Title }} | {{ .Site.Title }}</title>
 
+<!-- RSS -->
 {{ with .OutputFormats.Get "atom" -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
@@ -19,6 +20,7 @@
 
 <!-- Custom styles for this template -->
 <link href="/css/basic.css" rel="stylesheet"> 
+<link href="/css/custom.css" rel="stylesheet">
 
 <!-- Google Analytics -->
 {{ template "_internal/google_analytics.html" . }}
