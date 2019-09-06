@@ -1,7 +1,7 @@
 baseURL = "https://sunpech.com/"
 languageCode = "en-us"
 title = "sunpech.com"
-theme = ["hugo-atom-feed", "hugo-basic"]
+theme = ["hugo-basic"]
 Paginate = 10
 timezone = "America/Chicago"
 googleAnalytics = "UA-126684-2"
@@ -59,17 +59,18 @@ author = ["Steven Suwatanapongched"]
   priority = 0.5
   filename = "sitemap.xml"
 
+
+# Atom feed
+[outputs]
+  home = ["HTML", "Atom"]
+
 [mediaTypes]
   [mediaTypes."application/atom"]
     suffixes = ["xml"]
 
   [outputFormats.Atom]
     mediaType = "application/atom"
-    baseName = "index"
+    baseName = "feed"
     isPlainText = false
 
-[outputs]
-  # <domain>/atom.xml
-  home = ["HTML", "RSS", "ATOM"]     # default = ["HTML", "RSS"]
-  # <domain>/posts/atom.xml
-  section = ["HTML", "RSS", "ATOM"]  # default = ["HTML", "RSS"]
+disableKinds = ['RSS']
