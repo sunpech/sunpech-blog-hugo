@@ -24,6 +24,10 @@ See `archetypes/posts/default.md` for format.
 * `description` - should be filled out for better Twitter Cards and Facebook Graph posts (optional)
 * `draft` - defaulted to true. Change to false to publish.
 
+### Tags
+
+The array of tags should be in alphabetical order.
+
 ### Embedding a YouTube video
 
 You can embed an iframe into a post, but to get it so it's responsive, use the following div and class around the iframe:
