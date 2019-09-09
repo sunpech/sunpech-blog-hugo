@@ -6,4 +6,3 @@ headerimage: "/images/headers/LA_home_office.jpg"
 disable_feed: true
 ---
 
-# Recent Posts
