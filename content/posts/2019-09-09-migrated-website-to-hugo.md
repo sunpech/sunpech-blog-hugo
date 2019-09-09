@@ -9,7 +9,6 @@ headerimage: /images/headers/software_development.jpg
 image: "/images/blog/migrate-jekyll-to-hugo.jpg"
 images: ["/images/blog/migrate-jekyll-to-hugo.jpg"]
 thumbnail: "/images/blog/tn_migrate-jekyll-to-hugo.jpg"
-disable_feed: true
 ---
 
 Over the past week I migrated my blog from using static site generator, [Jekyll](https://jekyllrb.com/) to use [Hugo](https://gohugo.io/). I also switched hosts from [Github Pages](https://pages.github.com/) to [Netlify](https://www.netlify.com/).
