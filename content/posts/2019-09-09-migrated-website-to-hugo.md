@@ -3,12 +3,12 @@ title: "Migrated Website to Hugo"
 date: '2019-09-08T03:03:14-05:00'
 Description: "Migrated my blog from Jekyll to Hugo."
 tags: ["Software Development", "Technology"]
-draft: true
+draft: false
 author: "Steven Suwatanapongched"
 headerimage: /images/headers/software_development.jpg
-image: "/images/blog/hugo-logo.jpg"
-images: ["/images/blog/hugo-logo.jpg"]
-thumbnail: "/images/blog/tn_hugo-logo.jpg"
+image: "/images/blog/migrate-jekyll-to-hugo.jpg"
+images: ["/images/blog/migrate-jekyll-to-hugo.jpg"]
+thumbnail: "/images/blog/tn_migrate-jekyll-to-hugo.jpg"
 disable_feed: true
 ---
 
@@ -22,7 +22,7 @@ The main reasons for the changes are:
 
 When I wrote new posts with Jekyll, it was painfully slow to build the site after any small set of changes. With Hugo, it's really fast. I can pretty much hit command+S, to save all the time and have the page refresh right away.
 
-![Hugo](/images/blog/hugo-logo.jpg)
+![Hugo](/images/blog/migrate-jekyll-to-hugo.jpg)
 
 Overall the project migration went pretty smoothly thanks to [some migration tools](https://gohugo.io/tools/migrations/). I specifically used [ConvertToHugo](https://github.com/coderzh/ConvertToHugo).
 
@@ -35,5 +35,5 @@ Some of the challenges I came across were:
 * Learning how to create/use a theme.
 * Getting atom feed to work.
 
-I tried out Netlify for the first time and love it. Their tools and interface was very intuitive for building and deploying was pretty straightforward. I also love how easy it was to set up HTTPS ([Let's Encrypt](https://letsencrypt.org/)) wit them. And like Github Pages, it's all free since I currently have no need for the paid features.
+I tried out Netlify for the first time and love it. Their tools and interface was very intuitive for building and deploying was pretty straightforward. I also love how easy it was to set up HTTPS ([Let's Encrypt](https://letsencrypt.org/)) wit them. And like Github Pages, it's all free since I currently have no need for the paid features. I look forward to migrating a few other small projects over.
 
