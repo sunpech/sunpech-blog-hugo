@@ -54,6 +54,13 @@ hugo new new-page.md
 
  See `archetypes/default.md` for format.
 
+## Development
+
+Run in terminal: 
+
+```
+hugo server -D --watch --verbose
+```
 
 ## Links
 * https://github.com/lingxz/er - Atom feed

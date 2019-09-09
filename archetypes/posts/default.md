@@ -6,7 +6,8 @@ Tags: []
 Categories: []
 draft: true
 author: "Steven Suwatanapongched"
-header-image: "/images/default-header.jpg"
+headerimage: "/images/default-header.jpg"
 image: "/images/default-image.jpg"
+images: ["/images/default-image.jpg"]
 thumbnail: "/images/default-thumbnail.jpg"
 ---
