@@ -1,4 +1,5 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
+  {{ $permalink := .Permalink }}
   <title>{{ .Title }} - {{ .Site.Title }}</title>
   <link href="{{ .Permalink }}atom.xml" rel="self"/>
   <link href="{{ .Permalink }}"/>{{ if not .Date.IsZero }}
@@ -7,8 +8,8 @@
   <author>
     <name>{{.}}</name>{{ with $.Site.Author.email }}
     <email>{{.}}</email>{{end}}
-  </author>{{end}}{{ with .Params.favicon }}
-  <icon>{{ . }}</icon>{{ end }}
+  </author>{{end}}{{ with .Site.Params.favicon }}
+  <icon>{{ $permalink }}{{ . }}</icon>{{ end }}
   <generator>Hugo -- gohugo.io</generator>{{ range first 15 (where .Data.Pages "Type" "in" .Site.Params.mainSections) }}
   <entry>
     {{ `<title type="html"><![CDATA[` | safeHTML }}{{ .Title }}]]></title>
