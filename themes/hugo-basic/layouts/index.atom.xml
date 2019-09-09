@@ -12,7 +12,7 @@
   <entry>
     {{ `<title type="html"><![CDATA[` | safeHTML }}{{ .Title }}]]></title>
     <link href="{{ .Permalink }}"/>
-    <id>{{ .Permalink }}</id>{{ with .Site.Params.Author }}
+    <id>{{ .Permalink }}</id>{{ with .Params.author }}
     <author>
       <name>{{.}}</name>
     </author>{{end}}
