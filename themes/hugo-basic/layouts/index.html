@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ $pages := first 10 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+  {{ $pages := first 9 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
   <div class="row">
     {{ range $index, $value := $pages }}
       {{ $link := .Permalink }}
@@ -10,7 +10,7 @@
 
       {{ if eq $index 0 }}
         <!-- First/Top -->
-        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 pt-3">
           <h1>Latest Post</h1>
         </div>
         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 pt-3">
@@ -39,12 +39,12 @@
         </div>
       {{ else }}
         {{ if eq $index 1 }}
-          <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <h1>Recent Posts</h1>
+          <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 pt-3">
+            <h2>Recent Posts</h2>
           </div>
         {{ end }}
         <!-- All else -->
-        <div class="col-xl-4 col-lg-6 col-md-12 col-sm-12 col-sm-12 col-xs-12 pt-3">
+        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-sm-12 col-xs-12 pt-3">
           <div class="card">
             <div class="card-header">
               <h4><a href="{{ $link }}">{{ .Title }}</a></h4>
