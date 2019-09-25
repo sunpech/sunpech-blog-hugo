@@ -18,8 +18,8 @@ I am an affiliate at the following sites. Clicking on any these links to join or
 * [LastPass](https://lastpass.com/f?3306226) - The best password manager I recommend.
 * [LensTag](https://www.lenstag.com/invite/7gb07) - Register your photography gear in case it gets stolen.
 * [M1 Finance](https://mbsy.co/wzGMJ) - Free automated investing. You and I both get $10 once you transfer money in.
-* [Trello](https://trello.com/sunpech/recommend) - Card and list management app.
 * [SmugMug](https://secure.smugmug.com/signup?Coupon=PdjXtL) - Photo hosting for photographers.
+* [Trello](https://trello.com/sunpech/recommend) - Card and list management app.
 
 ## Shopping
 
