@@ -27,7 +27,6 @@ For an always up to date list, check out my [Best Software List](https://github.
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/) - My second favorite browser.
 * [Transmission](http://www.transmissionbt.com/download/) - Torrent downloader.
 * [Tweetdeck](https://about.twitter.com/products/tweetdeck) - Twitter client with columns.
-* [Twitter client](https://itunes.apple.com/us/app/twitter/id409789998?mt=12) - Default Twitter client.
 
 ### Miscellaneous and Utilities
 
@@ -42,7 +41,6 @@ For an always up to date list, check out my [Best Software List](https://github.
 * [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Clone hard drives.
 * [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 * [Trim Enabler](http://www.groths.org/) - Enables TRIM on 3rd party SSDs.
-* [Tunnel Bear](http://www.tunnelbear.com/) - VPN software.
 * [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) - Decompress zip/rar files.
 * [World Community Grid](http://www.worldcommunitygrid.org/) - Grid computing.
 
@@ -66,7 +64,7 @@ For an always up to date list, check out my [Best Software List](https://github.
 
 ### Productivity
 
-* [Alfred 2](http://www.alfredapp.com/) - Type what you need or what you want to do.
+* [Alfred](http://www.alfredapp.com/) - Type what you need or what you want to do.
 * [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 * [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
 * [Skitch](https://evernote.com/skitch/) - Edit your screenshot images.
