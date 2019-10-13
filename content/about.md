@@ -29,7 +29,7 @@ I'm also a casual blogger. I've been blogging since 1999. I've written my own bl
 ![Software Development collage](/images/technology-stacks.jpg)
 
 ## Photography
-I'm also a photographer. I generally take my camera most places and take pictures of whatever I find interesting. I have a photography site at [sunpechphotograpy.com](http://sunpechphotography.com/). I'm also on [Facebook](https://www.facebook.com/SunpechPhotography), [500px](http://500px.com/sunpech), [Instagram](http://www.instagram.com/sunpech), [Twenty20](http://www.twenty20.com/sunpech), and [Flickr](http://www.flickr.com/photos/sunpech/).
+I'm also a photographer. I generally take my camera most places and take pictures of whatever I find interesting. I have a photography site at [sunpechphotography.com](http://sunpechphotography.com/). I'm also on [Facebook](https://www.facebook.com/SunpechPhotography), [500px](http://500px.com/sunpech), [Instagram](http://www.instagram.com/sunpech), [Twenty20](http://www.twenty20.com/sunpech), and [Flickr](http://www.flickr.com/photos/sunpech/).
 
 I enjoy all kinds of photography, but have stronger interests in landscape, HDR, and event/journalistic photographs. I'm beginning to do some headshot/portrait photography. In case you're curious here is a [list of my camera gear](/best/camera-gear).
 
