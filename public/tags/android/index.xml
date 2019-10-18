@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on sunpech.com</title>
+    <link>https://sunpech.com/tags/android/</link>
+    <description>Recent content in Android on sunpech.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>steven@sunpech.com (Steven Suwatanapongched)</managingEditor>
+    <webMaster>steven@sunpech.com (Steven Suwatanapongched)</webMaster>
+    <lastBuildDate>Sun, 09 Aug 2015 09:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sunpech.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OnePlus, A Year Later</title>
+      <link>https://sunpech.com/2015/08/oneplus-a-year-later/</link>
+      <pubDate>Sun, 09 Aug 2015 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/08/oneplus-a-year-later/</guid>
+      <description>I consider the OnePlus One I bought over a year ago a value phone&amp;ndash; best phone for the buck you spend. For it&amp;rsquo;s time, it was a big phone, with fantastic specs, for a low price. Even now, it&amp;rsquo;s still a good phone and is my main mobile device. The battery is good and CM12S operating system is also decent.
+When I initially had CM11S running on my phone, the battery life was 2 days of regular usage.</description>
+    </item>
+    
+    <item>
+      <title>OnePlus One vs Nexus 5</title>
+      <link>https://sunpech.com/2014/08/oneplus-one-vs-nexus-5/</link>
+      <pubDate>Fri, 08 Aug 2014 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2014/08/oneplus-one-vs-nexus-5/</guid>
+      <description>Last month in July, I purchased two Android phones: The Nexus 5 (N5) and the OnePlus One (OPO). I initially ordered the Nexus 5 because I was sick of waiting for an OnePlus invite that I signed up for in April. Up until then, I was using a Galaxy Nexus for two years and its overall performance was rather sluggish and could no longer hold a charge for half a day.</description>
+    </item>
+    
+    <item>
+      <title>Fixing an Android Error Message - Error retrieving information from server</title>
+      <link>https://sunpech.com/2012/11/fixing-an-android-error-message-error-retrieving-information-from-server/</link>
+      <pubDate>Thu, 15 Nov 2012 11:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/11/fixing-an-android-error-message-error-retrieving-information-from-server/</guid>
+      <description>I have a Galaxy Nexus that recently got an over the air (OTA) update to Android 4.2 (Jelly Bean). Coming from 4.1.2 I was thrilled to see the new changes, particularly with their new panorama feature. But after the update I had issues with updating apps on the Google Play Store.
+The Problem I got the following error message:
+Update for &amp;ldquo;Foursquare&amp;rdquo; could not be downloaded due to an error.</description>
+    </item>
+    
+    <item>
+      <title>Putting CyanogenMod on the Kindle Fire</title>
+      <link>https://sunpech.com/2012/06/putting-cyanogenmod-on-the-kindle-fire/</link>
+      <pubDate>Thu, 28 Jun 2012 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/06/putting-cyanogenmod-on-the-kindle-fire/</guid>
+      <description>After seeing the Nexus 7 tablet make its debut at Google I/O yesterday, it made me realize how my Kindle Fire (KF) is kind of lame. I reviewed the Kindle Fire back in November 2011.
+
+To be fair though, my needs have changed. When I initially purchased the KF, I didn&amp;rsquo;t want an iPad2 or a 10&amp;rdquo; tablet. I just wanted a simple reading device that could browse the web a bit and play some games.</description>
+    </item>
+    
+    <item>
+      <title>Kindle Fire Review</title>
+      <link>https://sunpech.com/2011/11/kindle-fire-review/</link>
+      <pubDate>Wed, 30 Nov 2011 20:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/11/kindle-fire-review/</guid>
+      <description>I pre-ordered my Kindle Fire in early October. I&amp;rsquo;ve wanted an eReader device for a long time, ever since I&amp;rsquo;ve been traveling so much. Carrying books around is such a pain.
+Like many others out there, I got my Kindle Fire on November 15, 2011. After a few weeks of using the Fire, I felt I could give it a good review. I&amp;rsquo;ve used it for playing Words With Friends, some basic browsing on Amazon, and I finished reading the Steve Jobs biography on it.</description>
+    </item>
+    
+    <item>
+      <title>Installing Thai fonts onto an Android device</title>
+      <link>https://sunpech.com/2010/08/installing-thai-fonts-onto-an-android-device/</link>
+      <pubDate>Mon, 30 Aug 2010 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/08/installing-thai-fonts-onto-an-android-device/</guid>
+      <description>I&amp;rsquo;ve received numerous requests asking for help on how to install Thai fonts onto an Android device after my initial post on Rooting my Nexus One and installing Thai fonts. Since I do update my Android phone with the CyanogenMod ROM quite often (which wipes the Thai fonts on each install), I thought I&amp;rsquo;d share a simple shell script to help get Thai fonts onto Android.
+This post does not cover how to root an Android device.</description>
+    </item>
+    
+    <item>
+      <title>An Android Photoshoot with my new Camera Lens</title>
+      <link>https://sunpech.com/2010/08/an-android-photoshoot-with-my-new-camera-lens/</link>
+      <pubDate>Thu, 26 Aug 2010 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/08/an-android-photoshoot-with-my-new-camera-lens/</guid>
+      <description>I got my new lens in the mail yesterday. It&amp;rsquo;s a Canon EF 50mm f/1.8 II Camera Lens.
+
+I was studying at the time, but once I got my email notification that it arrived, I rushed to pick it up and did a little photoshoot of my Android toy at the table I was studying at. I played with the aperture for most of the shoot (in AV mode). Afterwards, I used Adobe Lightroom to polish it up a bit (created a set of Black &amp;amp; White photos too).</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn Mobile Apps: No Love for Android</title>
+      <link>https://sunpech.com/2010/04/linkedin-mobile-apps-no-love-for-android/</link>
+      <pubDate>Fri, 09 Apr 2010 01:10:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/04/linkedin-mobile-apps-no-love-for-android/</guid>
+      <description>Got this in my inbox from LinkedIn. iPhone: check. Blackberry: check. Palm: check&amp;hellip;.
+No love for Android.</description>
+    </item>
+    
+    <item>
+      <title>Android SDK issue on Windows 7 x64</title>
+      <link>https://sunpech.com/2010/01/android-sdk-issue-on-windows-7-x64/</link>
+      <pubDate>Tue, 26 Jan 2010 18:59:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/01/android-sdk-issue-on-windows-7-x64/</guid>
+      <description>I recently installed the Android SDK and Eclipse (32-bit) onto my Windows 7 Ultimate 64-bit machine. First thing I wanted to do was go through the Android Hello World Tutorial.
+Well, I ran into the following error message:
+&amp;lsquo;java&amp;rsquo; is not recognized as an internal or external command, operable program, or batch file. SWT folder &amp;ldquo; does not exist. Please set ANDROID_SWT to point to the folder containing swt.jar for your platform.</description>
+    </item>
+    
+    <item>
+      <title>Rooting my Nexus One and installing Thai fonts</title>
+      <link>https://sunpech.com/2010/01/rooting-my-nexus-one-and-installing-thai-fonts/</link>
+      <pubDate>Sat, 23 Jan 2010 00:58:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/01/rooting-my-nexus-one-and-installing-thai-fonts/</guid>
+      <description>I just finished rooting my Nexus One and installed Thai fonts onto it. I had to use several websites to complete this task, but I wanted to collect them all into once nice place for any stumblers. The purpose of installing Thai fonts onto my Nexus One was to have the ability to read Thai on my Facebook app as well as some Thai websites.
+Here&amp;rsquo;s how to do it:</description>
+    </item>
+    
+    <item>
+      <title>My New Phone: Google&#39;s Nexus One</title>
+      <link>https://sunpech.com/2010/01/my-new-phone-googles-nexus-one/</link>
+      <pubDate>Wed, 06 Jan 2010 22:41:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/01/my-new-phone-googles-nexus-one/</guid>
+      <description>Yesterday Google gave a presentation on the Google Nexus One. I watched it on the Gizmodo Liveblog. Ten minutes after reading the blog and looking at the pictures, I was sold. I knew I was eventually going to get it, but I didn&amp;rsquo;t know until that moment that that was the moment I was going to get it.
+I bought the phone yesterday, 1/5/2010, at 1:05pm. Overnight FedEx shipping (free). It arrived today at 1:22pm.</description>
+    </item>
+    
+    <item>
+      <title>My Impressions of the G1 running Android</title>
+      <link>https://sunpech.com/2008/11/my-impressions-of-the-g1-running-android/</link>
+      <pubDate>Mon, 10 Nov 2008 22:37:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/11/my-impressions-of-the-g1-running-android/</guid>
+      <description>I&amp;rsquo;ve had my G1 for a few weeks now. My overall impressions are pretty good. I like the touch screen, I like the free applications available through the market app, and I definitely enjoy the web browsing experience on the 3G network over my old Blackberry Pearl on the EDGE network.
+But I do have a few complaints:
+ Battery Life is too short. I can maybe go for a maximum of 2 days without a recharge if I very minimal use of the phone.</description>
+    </item>
+    
+    <item>
+      <title>My First Blog Entry from my G1</title>
+      <link>https://sunpech.com/2008/10/my-first-blog-entry-from-my-g1/</link>
+      <pubDate>Tue, 21 Oct 2008 08:24:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/10/my-first-blog-entry-from-my-g1/</guid>
+      <description>My experience with the G1 has been pretty awesome so far. It arrived yesterday to my apartment&amp;rsquo;s front desk at 12:05pm. I didn&amp;rsquo;t get to it until about 5pm. I charged it and have been playing with it since. I&amp;rsquo;ll probably do a review of it later.</description>
+    </item>
+    
+    <item>
+      <title>T-mobile to ship G1 early?</title>
+      <link>https://sunpech.com/2008/10/t-mobile-to-ship-g1-early/</link>
+      <pubDate>Sun, 19 Oct 2008 18:59:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/10/t-mobile-to-ship-g1-early/</guid>
+      <description>As my friend Ben pointed out, it&amp;rsquo;s possible that our pre-ordered G1 phones will arrive earlier than expected. Tomorrow, Monday, October 20, 2008 to be exact. Upon checking my order status on UPS.com, I found the following:
+So it looks like my Google phone is here in Chicago, and is set to ship tomorrow!</description>
+    </item>
+    
+    <item>
+      <title>Getting the G1 in one week</title>
+      <link>https://sunpech.com/2008/10/getting-the-g1-in-one-week/</link>
+      <pubDate>Tue, 14 Oct 2008 19:37:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/10/getting-the-g1-in-one-week/</guid>
+      <description>Next week, on October 22, I should be getting my pre-ordered T-Mobile G1, in black. Sadly though, in order to pre-order this device, I had to extend my contract with T-Mobile until September 28, 2010. I found out the exact date by a letter they sent me thanking me for choosing to continue my relationship and extending my contract with them.
+Let me get one thing straight, I extended the contract only to get my hand on a device running Google Android.</description>
+    </item>
+    
+  </channel>
+</rss>

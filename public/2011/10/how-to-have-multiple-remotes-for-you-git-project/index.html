@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="icon" href="/favicon.ico">
+
+<title>How to have multiple remotes for you Git project | sunpech.com</title>
+
+
+<link href='/atom.xml' rel="alternate" type="application/atom+xml" title="sunpech.com" />
+
+
+<link href="/css/bootstrap.min.css" rel="stylesheet" />
+
+
+<link href="/css/fontawesome.min.css" rel="stylesheet" />
+<script defer src="/js/all.min.js"></script>
+
+
+<link href="/css/basic.css" rel="stylesheet"> 
+<link href="/css/custom.css" rel="stylesheet">
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-126684-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-126684-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+
+<meta property="og:title" content="How to have multiple remotes for you Git project" />
+<meta property="og:description" content="When I found out that BitBucket added support for Git, I got pretty excited.
+Just this past year I started to use Git as my DVCS for all my projects. More importantly, my older projects didn&rsquo;t have any version control whatsoever. They were projects spread across multiple computers that only merged into a single external USB hard drive when I started to retire some computers because they were just too old (six plus years!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://sunpech.com/2011/10/how-to-have-multiple-remotes-for-you-git-project/" />
+
+<meta property="og:image" content="https://sunpech.com/images/default-image.jpg" />
+<meta property="article:published_time" content="2011-10-25T12:40:00-05:00" />
+<meta property="article:modified_time" content="2011-10-25T12:40:00-05:00" /><meta property="og:site_name" content="sunpech.com" />
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://sunpech.com/images/default-image.jpg"/>
+
+<meta name="twitter:title" content="How to have multiple remotes for you Git project"/>
+<meta name="twitter:description" content="When I found out that BitBucket added support for Git, I got pretty excited.
+Just this past year I started to use Git as my DVCS for all my projects. More importantly, my older projects didn&rsquo;t have any version control whatsoever. They were projects spread across multiple computers that only merged into a single external USB hard drive when I started to retire some computers because they were just too old (six plus years!"/>
+</head>
+  <body>
+<nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+  <div class="container">
+    
+    <a class="navbar-brand" href="/"><i class="fas fa-laptop"></i>&nbsp;&nbsp;sunpech.com</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav mr-auto">
+        
+        
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/posts/" title="Posts page">
+              Posts
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/best/" title="Best page">
+              Best
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/affiliates/" title="Affiliates page">
+              Affiliates
+            </a>
+          </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+
+  
+
+
+  
+
+<header class="masthead" style="background-image: url('/images/headers/software_development.jpg')">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 mx-auto">
+        <div class="site-heading">
+          <h1>How to have multiple remotes for you Git project</h1>
+          <span class="meta">
+            Posted on October 25, 2011 by Steven Suwatanapongched<br/>
+          </span>
+          <span class="post-tag-light">
+            
+            
+            <i class="fa fa-tags"></i>
+            
+              <a href="/tags/software-development" style="color: #FFF">Software Development</a>,&nbsp;
+            
+              <a href="/tags/guide" style="color: #FFF">Guide</a>
+            
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+      
+    <main role="main">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12">
+  <p>When I found out that <a href="http://blog.bitbucket.org/2011/10/03/bitbucket-now-rocks-git/">BitBucket added support for Git</a>, I got pretty excited.</p>
+
+<p>Just this past year I started to use <a href="http://git-scm.com/">Git</a> as my <a href="http://en.wikipedia.org/wiki/Distributed_revision_control">DVCS</a> for all my projects. More importantly, my older projects didn&rsquo;t have any version control whatsoever. They were projects spread across multiple computers that only merged into a single external USB hard drive when I started to retire some computers because they were just too old (six plus years!).</p>
+
+<p>Anyway, when this external drive began to make noises (clicking sounds), I decided I wanted to have my old projects stored in the cloud in case the the hard drive should ever fail.</p>
+
+<p><a href="http://www.github.com/">Github</a> was my goto host as it was immensely popular. At first I was on the free plan (unlimited public repos), but I decided my ugly legacy code shouldn&rsquo;t be public, and went with their <a href="https://github.com/plans">micro plan</a> ($7 per month for 5 private repos). These projects are retired and there is no plan for future development. I just want them hosted with my other active personal projects.</p>
+
+<p>I signed up for <a href="http://www.bitbucket.org/">BitBucket</a> not too long ago just because I wanted to play with <a href="http://mercurial.selenic.com/">Mercurial</a>. That didn&rsquo;t last very long. But with the new additional support for Git, and with the free unlimited private and personal projects, I knew I wanted to add this as a remote to also host all my projects.</p>
+
+<p>But how was I to add another remote since I was already using Github? I wanted to add BitBucket as a remote along with Github. With a simple search on <a href="http://www.stackoverflow.com/">StackOverflow</a>, I came across <a href="http://stackoverflow.com/questions/849308/pull-push-from-multiple-remote-locations/3195446#3195446">pull/push from multiple remote locations</a> (answer).</p>
+
+<p>Here is an example <strong>.git/config</strong> setting, with the bolded text the example text to add a remote:</p>
+
+<blockquote>
+<pre>
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+        ignorecase = true
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+[remote "origin"]
+        <b>url = git@github.com:sunpech/project_foo.git
+        url = git@bitbucket.org:sunpech/project_foo.git</b>
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "heroku"]
+        url = git@heroku.com:project_foo.git
+        fetch = +refs/heads/*:refs/remotes/heroku/*
+</pre>
+</blockquote>
+
+<p>Now when I push changes, it pushes it to both Github and BitBucket. Simple, and it works. Hope this helps.</p>
+
+<p>Of course you&rsquo;ll still need to set up the project on each respective host, in which case I&rsquo;ll point you to this <a href="http://help.github.com/mac-set-up-git/">Github setup tutorial</a> (also see <a href="http://confluence.atlassian.com/display/BITBUCKET/Using+SSH+to+Access+your+Bitbucket+Repository">Using SSH to Access your Bitbucket Repository</a>).</p>
+
+<p>I have this setup because I may choose to abandon my Github pay account, and just host my public repos there, and all my private repos on BitBucket&ndash; saving me $7/month. Plus, I think it&rsquo;s great for Github to have competition.</p>
+
+
+          </div>
+        </div>
+      </div>
+    </main>
+<footer class="container">
+  <div class="row">
+    <div class="col-lg-12 col-md-12">
+      <hr />
+      <ul class="list-inline" style="font-size: 2em">
+        <li class="list-inline-item">
+          <a href="https://twitter.com/sunpech">
+            <i class="fab fa-twitter social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://instagram.com/sunpech">
+            <i class="fab fa-instagram social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://facebook.com/sunpechphotography">
+            <i class="fab fa-facebook-f social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://flickr.com/photos/sunpech">
+            <i class="fab fa-flickr social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://github.com/sunpech">
+            <i class="fab fa-github social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="/atom.xml">
+            <i class="fas fa-rss social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+      </ul>
+      
+      <p class="copyright text-muted">Copyright &copy; 2019 Sunpech Suwatanapongched</p>
+      
+    </div>
+  </div>
+  </footer>
+
+  
+  
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-slim.min.js"><\/script>')</script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script></body>
+</html>

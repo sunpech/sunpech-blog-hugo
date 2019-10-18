@@ -1,0 +1,2262 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sunpech.com/tags/finance/</loc>
+    <lastmod>2019-10-16T17:00:34-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2019/10/m1-finance/</loc>
+    <lastmod>2019-10-16T17:00:34-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/</loc>
+    <lastmod>2019-10-16T17:00:34-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2019/09/migrated-website-to-hugo/</loc>
+    <lastmod>2019-09-08T03:03:14-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/software-development/</loc>
+    <lastmod>2019-09-08T03:03:14-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/technology/</loc>
+    <lastmod>2019-09-08T03:03:14-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/about/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/affiliates/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/best/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/contact/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/posts/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/chicago/</loc>
+    <lastmod>2019-04-17T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/comic-con/</loc>
+    <lastmod>2019-04-17T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/cosplay/</loc>
+    <lastmod>2019-04-17T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2019/04/star-wars-celebration/</loc>
+    <lastmod>2019-04-17T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/c2e2/</loc>
+    <lastmod>2019-03-28T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2019/03/c2e2-2019/</loc>
+    <lastmod>2019-03-28T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/san-diego/</loc>
+    <lastmod>2018-07-27T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/san-diego-comic-con/</loc>
+    <lastmod>2018-07-27T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2018/07/san-diego-comic-con-2018/</loc>
+    <lastmod>2018-07-27T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/anime-expo/</loc>
+    <lastmod>2018-07-12T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2018/07/anime-expo-2018/</loc>
+    <lastmod>2018-07-12T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/los-angeles/</loc>
+    <lastmod>2018-07-12T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2018/05/deadpool-2/</loc>
+    <lastmod>2018-05-21T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/movies/</loc>
+    <lastmod>2018-05-21T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/review/</loc>
+    <lastmod>2018-05-21T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2018/04/avengers-infinity-war/</loc>
+    <lastmod>2018-04-30T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2018/04/c2e2-2018/</loc>
+    <lastmod>2018-04-11T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2018/02/black-panther/</loc>
+    <lastmod>2018-02-19T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/comics/</loc>
+    <lastmod>2018-02-01T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2018/02/movies-of-2018/</loc>
+    <lastmod>2018-02-01T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2017/12/star-wars-the-last-jedi/</loc>
+    <lastmod>2017-12-20T09:00:00-01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2017/12/justice-league/</loc>
+    <lastmod>2017-12-08T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2017/11/thor-ragnarok/</loc>
+    <lastmod>2017-11-08T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2017/07/san-diego-comic-con-2017/</loc>
+    <lastmod>2017-07-25T01:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2017/07/spider-man-homecoming/</loc>
+    <lastmod>2017-07-10T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2017/06/wonder-woman/</loc>
+    <lastmod>2017-06-07T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/anime-central/</loc>
+    <lastmod>2017-05-26T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2017/05/anime-central-2017/</loc>
+    <lastmod>2017-05-26T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2017/05/guardians-of-the-galaxy-vol.-2/</loc>
+    <lastmod>2017-05-08T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2017/04/c2e2-2017/</loc>
+    <lastmod>2017-04-26T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2017/03/logan/</loc>
+    <lastmod>2017-03-15T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2017/01/comic-book-movies-of-2017/</loc>
+    <lastmod>2017-01-26T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2016/11/doctor-strange/</loc>
+    <lastmod>2016-11-14T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2016/08/suicide-squad/</loc>
+    <lastmod>2016-08-11T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2016/07/san-diego-comic-con-2016/</loc>
+    <lastmod>2016-07-26T01:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2016/06/warcraft-movie/</loc>
+    <lastmod>2016-06-14T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2016/05/x-men-apocalypse/</loc>
+    <lastmod>2016-05-29T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2016/05/anime-central-2016/</loc>
+    <lastmod>2016-05-23T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2016/05/captain-america-civil-war/</loc>
+    <lastmod>2016-05-17T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/books/</loc>
+    <lastmod>2016-05-04T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2016/05/reflecting-on-console-wars/</loc>
+    <lastmod>2016-05-04T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2016/03/batman-v-superman-dawn-of-justice-review/</loc>
+    <lastmod>2016-03-29T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2016/03/c2e2-2016/</loc>
+    <lastmod>2016-03-22T10:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2016/01/super-hero-movies-of-2016/</loc>
+    <lastmod>2016-01-25T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/photography/</loc>
+    <lastmod>2015-12-17T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/12/photos-from-willis-tower-and-john-hancock-observatory/</loc>
+    <lastmod>2015-12-17T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/apple/</loc>
+    <lastmod>2015-12-01T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/guide/</loc>
+    <lastmod>2015-12-01T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/12/how-to-format-your-hard-drive-into-exfat/</loc>
+    <lastmod>2015-12-01T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/photowalk/</loc>
+    <lastmod>2015-10-19T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/10/pictures-from-open-house-chicago-2015/</loc>
+    <lastmod>2015-10-19T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/09/adams/wabash-cta-station/</loc>
+    <lastmod>2015-09-25T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/09/thoughts-on-apples-event/</loc>
+    <lastmod>2015-09-10T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/09/my-photos-in-cosplay-culture-magazine/</loc>
+    <lastmod>2015-09-07T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/09/why-jetbrains-toolbox-is-good/</loc>
+    <lastmod>2015-09-04T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/08/chicago-river-from-lake-shore-drive/</loc>
+    <lastmod>2015-08-24T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/08/the-martian/</loc>
+    <lastmod>2015-08-14T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/08/chicago-photowalk-with-trey-ratcliff/</loc>
+    <lastmod>2015-08-11T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/08/armada/</loc>
+    <lastmod>2015-08-10T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/android/</loc>
+    <lastmod>2015-08-09T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/google/</loc>
+    <lastmod>2015-08-09T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/08/oneplus-a-year-later/</loc>
+    <lastmod>2015-08-09T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/08/the-chicago-theatre/</loc>
+    <lastmod>2015-08-06T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/07/san-diego-comic-con-2015/</loc>
+    <lastmod>2015-07-16T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/07/anime-expo-2015/</loc>
+    <lastmod>2015-07-06T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/06/elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future/</loc>
+    <lastmod>2015-06-24T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/06/lastpass-password-manager/</loc>
+    <lastmod>2015-06-19T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/06/ready-player-one/</loc>
+    <lastmod>2015-06-12T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/06/becoming-steve-jobs/</loc>
+    <lastmod>2015-06-10T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/06/todays-tech-tv-shows/</loc>
+    <lastmod>2015-06-08T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/tv-shows/</loc>
+    <lastmod>2015-06-08T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/05/game-of-thrones-epic-history/</loc>
+    <lastmod>2015-05-26T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/social-media/</loc>
+    <lastmod>2015-05-26T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/05/moved-from-blogger-to-jekyll/</loc>
+    <lastmod>2015-05-25T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/05/top-5-youtube-channels-for-comic-geeks/</loc>
+    <lastmod>2015-05-14T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/04/c2e2-2015/</loc>
+    <lastmod>2015-04-29T10:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/04/map-your-mouses-back-and-forward-buttons-on-a-mac/</loc>
+    <lastmod>2015-04-09T10:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/events/</loc>
+    <lastmod>2015-02-16T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/02/scott-mccloud-at-chicago-humanities-festival/</loc>
+    <lastmod>2015-02-16T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/01/why-i-recommend-adobe-photoshop-lightroom/</loc>
+    <lastmod>2015-01-19T12:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2015/01/my-favorite-photos-of-2014/</loc>
+    <lastmod>2015-01-02T14:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/11/my-road-trip-from-la-to-chicago/</loc>
+    <lastmod>2014-11-28T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/travel/</loc>
+    <lastmod>2014-11-28T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/11/oakland-museum-of-californias-sdcc-exhibit/</loc>
+    <lastmod>2014-11-14T12:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/san-francisco/</loc>
+    <lastmod>2014-11-14T12:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/comikaze-expo/</loc>
+    <lastmod>2014-11-04T12:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/11/comikaze-expo-2014/</loc>
+    <lastmod>2014-11-04T12:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/long-beach-comic-con/</loc>
+    <lastmod>2014-09-29T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/09/long-beach-comic-con-2014/</loc>
+    <lastmod>2014-09-29T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/09/building-my-own-photography-site/</loc>
+    <lastmod>2014-09-22T18:35:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/08/oneplus-one-vs-nexus-5/</loc>
+    <lastmod>2014-08-08T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/08/instagram-the-better-twitter/</loc>
+    <lastmod>2014-08-06T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/08/san-diego-skyline/</loc>
+    <lastmod>2014-08-02T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/07/san-diego-comic-con-2014/</loc>
+    <lastmod>2014-07-31T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/07/anime-expo-2014/</loc>
+    <lastmod>2014-07-07T19:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/07/photos-of-naver-line-friends/</loc>
+    <lastmod>2014-07-01T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/06/converting-your-vhs-and-betamax-tapes-to-digital/</loc>
+    <lastmod>2014-06-23T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/06/my-brief-appearance-on-heroes-of-cosplay/</loc>
+    <lastmod>2014-06-02T10:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/04/heroku-postgres-maintenance-requires-manually-updating-database_url/</loc>
+    <lastmod>2014-04-27T08:30:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/design/</loc>
+    <lastmod>2014-04-15T17:07:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/04/different-screen-resolutions-wallpaper-project/</loc>
+    <lastmod>2014-04-15T17:07:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/02/500px-art-prints/</loc>
+    <lastmod>2014-02-27T12:14:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/02/photos-from-6th-st-bridge/</loc>
+    <lastmod>2014-02-21T11:54:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/02/photos-from-project-hearts/</loc>
+    <lastmod>2014-02-15T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/02/photos-from-griffith-observatory/</loc>
+    <lastmod>2014-02-05T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/02/removing-a-hdd-from-a-western-digital-elements-usb-drive/</loc>
+    <lastmod>2014-02-03T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/01/photos-from-downtown-los-angeles/</loc>
+    <lastmod>2014-01-22T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/01/photos-from-chicagos-adler-planetarium/</loc>
+    <lastmod>2014-01-17T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/01/photos-from-chicagos-bean/</loc>
+    <lastmod>2014-01-16T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/01/photos-from-san-francisco/</loc>
+    <lastmod>2014-01-13T12:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/01/photos-from-toronto/</loc>
+    <lastmod>2014-01-10T12:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2014/01/photos-from-chicagos-john-hancock-observatory/</loc>
+    <lastmod>2014-01-09T16:11:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/blizzcon/</loc>
+    <lastmod>2013-11-12T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/11/blizzcon-2013/</loc>
+    <lastmod>2013-11-12T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/11/comikaze-expo-2013/</loc>
+    <lastmod>2013-11-05T18:43:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/09/drink-and-click-la-downtown-artwalk/</loc>
+    <lastmod>2013-09-13T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/07/san-diego-comic-con-2013/</loc>
+    <lastmod>2013-07-25T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/07/anime-expo-2013/</loc>
+    <lastmod>2013-07-10T13:19:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/06/cloud-storage-services-review/</loc>
+    <lastmod>2013-06-21T09:58:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/06/man-of-steel-review/</loc>
+    <lastmod>2013-06-17T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/06/apple-compatible-external-hard-drives-are-over-priced/</loc>
+    <lastmod>2013-06-13T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/05/my-first-drink-and-click-la-event/</loc>
+    <lastmod>2013-05-31T20:11:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/05/y-the-last-man-review/</loc>
+    <lastmod>2013-05-30T20:30:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/05/whats-in-my-messenger-bag/</loc>
+    <lastmod>2013-05-06T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/04/laptop-warranties-are-worth-it/</loc>
+    <lastmod>2013-04-29T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/04/be-considerate-of-other-photographers/</loc>
+    <lastmod>2013-04-28T14:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/04/whats-in-my-camera-bag/</loc>
+    <lastmod>2013-04-27T16:29:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/04/wondercon-2013/</loc>
+    <lastmod>2013-04-02T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/03/why-i-love-google-reader/</loc>
+    <lastmod>2013-03-14T10:12:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/02/pictures-from-uncubed-la/</loc>
+    <lastmod>2013-02-02T00:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/01/the-stanley-kubrick-exhibit-at-lacma/</loc>
+    <lastmod>2013-01-24T20:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2013/01/cleaning-up-old-social-accounts/</loc>
+    <lastmod>2013-01-07T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/12/dark-knight-legend-exhibit-at-la-live/</loc>
+    <lastmod>2012-12-10T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/11/fixing-an-android-error-message-error-retrieving-information-from-server/</loc>
+    <lastmod>2012-11-15T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/11/setting-up-windows-phone-8-emulator-on-a-virtual-machine/</loc>
+    <lastmod>2012-11-14T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/11/long-beach-comic-con-2012/</loc>
+    <lastmod>2012-11-06T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/11/installing-windows-8-pro-on-parallels-desktop-8/</loc>
+    <lastmod>2012-11-05T17:34:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/10/upgrading-my-2010-macbook-pro-to-ssd/</loc>
+    <lastmod>2012-10-29T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/code-camp/</loc>
+    <lastmod>2012-10-22T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/10/mobile-camp-la/</loc>
+    <lastmod>2012-10-22T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/10/socal-code-camp-at-usc/</loc>
+    <lastmod>2012-10-20T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/09/comikaze-expo-2012/</loc>
+    <lastmod>2012-09-17T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/09/brazilian-day-in-la/</loc>
+    <lastmod>2012-09-12T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/09/greekfest-la/</loc>
+    <lastmod>2012-09-11T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/07/san-diego-comic-con-2012/</loc>
+    <lastmod>2012-07-17T16:19:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/07/anime-expo-2012/</loc>
+    <lastmod>2012-07-10T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/06/putting-cyanogenmod-on-the-kindle-fire/</loc>
+    <lastmod>2012-06-28T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/05/google-plus-photographers-conference/</loc>
+    <lastmod>2012-05-30T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/05/google-plus-photographers-photowalk-at-golden-gate-park/</loc>
+    <lastmod>2012-05-28T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/05/muir-woods-hike-photos/</loc>
+    <lastmod>2012-05-10T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/05/la-mongodb-may-meetup/</loc>
+    <lastmod>2012-05-03T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/meetup/</loc>
+    <lastmod>2012-05-03T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/04/coworking-at-nextspace-la/</loc>
+    <lastmod>2012-04-23T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/04/upcoming-summer-conventions/</loc>
+    <lastmod>2012-04-16T20:38:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/04/the-original-renaissance-pleasure-faire/</loc>
+    <lastmod>2012-04-10T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/04/my-new-lense-and-camera-body/</loc>
+    <lastmod>2012-04-09T14:36:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/04/my-htpc-setup/</loc>
+    <lastmod>2012-04-07T19:31:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/04/ladotnet-april-meetup/</loc>
+    <lastmod>2012-04-03T21:07:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/04/songkran-festival-in-las-thaitown/</loc>
+    <lastmod>2012-04-02T11:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/03/weekend-chicago-hdr-photography/</loc>
+    <lastmod>2012-03-19T15:15:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/03/light-chasers-artwalk-downtown/</loc>
+    <lastmod>2012-03-09T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/03/weekend-photography-at-baldwin-hills-and-lacma/</loc>
+    <lastmod>2012-03-05T12:32:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/03/canon-5d-mark-3-announced/</loc>
+    <lastmod>2012-03-02T17:39:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/02/the-design-of-everyday-things/</loc>
+    <lastmod>2012-02-29T16:24:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/02/la-photowalk-with-trey-ratcliff-and-tom-anderson/</loc>
+    <lastmod>2012-02-28T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/02/i-am-a-meetup-junkie/</loc>
+    <lastmod>2012-02-27T05:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/personal/</loc>
+    <lastmod>2012-02-27T05:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/02/la-mongodb-february-meetup/</loc>
+    <lastmod>2012-02-22T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/02/microsofts-new-windows-8-logo/</loc>
+    <lastmod>2012-02-18T14:18:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/02/small-business-web-guide-meetup/</loc>
+    <lastmod>2012-02-16T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/02/jiro-dreams-of-sushi/</loc>
+    <lastmod>2012-02-09T01:41:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/02/ladotnet-february-meetup/</loc>
+    <lastmod>2012-02-07T11:14:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/02/food-photography-from-snapshots-to-great-shots/</loc>
+    <lastmod>2012-02-06T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/01/pictures-from-socal-code-camp/</loc>
+    <lastmod>2012-01-30T10:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/01/socal-code-camp-is-tomorrow/</loc>
+    <lastmod>2012-01-27T19:58:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/01/finished-reading-in-the-plex/</loc>
+    <lastmod>2012-01-21T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/01/designers-hub-meet-and-greet/</loc>
+    <lastmod>2012-01-20T06:03:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/01/sopa-blackout-set-for-january-18-2012/</loc>
+    <lastmod>2012-01-17T18:54:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/01/pictures-from-la-ruby/rails-january-meetup/</loc>
+    <lastmod>2012-01-13T03:55:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/01/pictures-from-ladotnet-january-meetup/</loc>
+    <lastmod>2012-01-10T11:42:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/01/steve-jobs-biography/</loc>
+    <lastmod>2012-01-04T11:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/01/western-digital-wd-tv-live-streaming-media-player/</loc>
+    <lastmod>2012-01-02T17:36:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2012/01/goodbye-2011-hello-2012/</loc>
+    <lastmod>2012-01-01T04:36:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/12/pictures-from-sf-ruby-december-meetup/</loc>
+    <lastmod>2011-12-09T12:44:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/12/pictures-from-la-dotnet-december-meetup/</loc>
+    <lastmod>2011-12-06T15:29:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/11/kindle-fire-review/</loc>
+    <lastmod>2011-11-30T20:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/10/how-to-have-multiple-remotes-for-you-git-project/</loc>
+    <lastmod>2011-10-25T12:40:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/10/blizzcon-2011/</loc>
+    <lastmod>2011-10-24T14:05:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/09/pictures-from-objective-c-and-ios-for-.net-developers/</loc>
+    <lastmod>2011-09-15T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/09/pictures-from-los-angeles-ruby/rails-meetup/</loc>
+    <lastmod>2011-09-12T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/08/wizard-world-chicago-comic-con-2011/</loc>
+    <lastmod>2011-08-15T09:32:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/08/some-thoughts-on-photography-blogging-and-coding/</loc>
+    <lastmod>2011-08-12T09:46:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/08/pictures-from-chicago-alt.net-coffeescript/</loc>
+    <lastmod>2011-08-10T21:51:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/08/some-thoughts-on-traveling/</loc>
+    <lastmod>2011-08-10T13:02:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/music/</loc>
+    <lastmod>2011-08-08T18:27:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/08/why-im-excited-about-spotify/</loc>
+    <lastmod>2011-08-08T18:27:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/08/getting-ready-to-jet-blue-with-blue-pass/</loc>
+    <lastmod>2011-08-06T00:55:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/08/purchased-a-herman-miller-aeron-chair/</loc>
+    <lastmod>2011-08-05T00:37:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/08/google-plus-is-for-geeks/</loc>
+    <lastmod>2011-08-04T01:22:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/08/reading-list-for-summer-2011/</loc>
+    <lastmod>2011-08-03T20:37:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/08/the-history-of-social-networks-part-2/</loc>
+    <lastmod>2011-08-02T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/08/recent-camera-gear-purchases/</loc>
+    <lastmod>2011-08-01T15:22:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/07/the-history-of-social-networks-part-1/</loc>
+    <lastmod>2011-07-31T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/07/pictures-from-julys-refresh-and-ignite-chicago/</loc>
+    <lastmod>2011-07-29T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/07/barcamp-chicago-at-pumping-station-one/</loc>
+    <lastmod>2011-07-27T03:28:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/06/pictures-from-tech-meetups-in-may-and-june/</loc>
+    <lastmod>2011-06-23T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/06/green-lantern-movie-review/</loc>
+    <lastmod>2011-06-20T13:24:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/05/trip-to-baltimore/</loc>
+    <lastmod>2011-05-24T15:04:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/05/pictures-from-railsconf-2011/</loc>
+    <lastmod>2011-05-20T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/05/pictures-from-chicago-code-camp-2011/</loc>
+    <lastmod>2011-05-15T08:40:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/05/chicago-code-camp-2011/</loc>
+    <lastmod>2011-05-05T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/05/upcoming-meetups-for-spring-and-summer-2011/</loc>
+    <lastmod>2011-05-01T04:53:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/singapore/</loc>
+    <lastmod>2011-04-30T16:21:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/04/trip-to-singapore/</loc>
+    <lastmod>2011-04-30T16:21:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/04/apn-info-for-singtels-3g-in-singapore/</loc>
+    <lastmod>2011-04-25T06:07:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/04/red-dot-ruby-conf-2011/</loc>
+    <lastmod>2011-04-23T21:18:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/bangkok/</loc>
+    <lastmod>2011-04-08T20:04:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/04/stack-overflow-meetup-in-bangkok/</loc>
+    <lastmod>2011-04-08T20:04:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/03/thoughts-from-the-march-bkk-web-meetup/</loc>
+    <lastmod>2011-03-23T03:31:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/03/my-story-from-2010-part-2-of-2/</loc>
+    <lastmod>2011-03-16T21:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/03/my-story-from-2010-part-1-of-2/</loc>
+    <lastmod>2011-03-15T22:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/03/tedxbkk-pictures/</loc>
+    <lastmod>2011-03-14T01:17:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/03/food-is-happiness/</loc>
+    <lastmod>2011-03-01T00:33:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/02/pictures-from-february-2011-bkk-web-meetup/</loc>
+    <lastmod>2011-02-22T21:33:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/02/pictures-of-transformers-3-set-in-chicago/</loc>
+    <lastmod>2011-02-22T04:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/02/pictures-from-january-2011-bkk-web-meetup/</loc>
+    <lastmod>2011-02-22T01:18:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/01/tech-communities-in-bangkok/</loc>
+    <lastmod>2011-01-18T13:55:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2011/01/my-journey-from-windows-to-mac/</loc>
+    <lastmod>2011-01-12T02:27:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/12/traveling-with-ebags/</loc>
+    <lastmod>2010-12-01T09:30:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/boston/</loc>
+    <lastmod>2010-11-01T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/11/boston-universitys-cs-lab-in-2001-and-2010/</loc>
+    <lastmod>2010-11-01T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/tags/funny/</loc>
+    <lastmod>2010-11-01T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/10/pictures-from-october-tech-events-in-chicago/</loc>
+    <lastmod>2010-10-29T21:50:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/10/pictures-from-september-tech-events-in-chicago/</loc>
+    <lastmod>2010-10-11T18:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/09/pictures-from-the-august-2010-tech-events-in-chicago/</loc>
+    <lastmod>2010-09-01T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/08/installing-thai-fonts-onto-an-android-device/</loc>
+    <lastmod>2010-08-30T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/08/delivering-happiness-by-tony-hsieh/</loc>
+    <lastmod>2010-08-27T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/08/an-android-photoshoot-with-my-new-camera-lens/</loc>
+    <lastmod>2010-08-26T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/08/september-2010-tech-events-in-chicago/</loc>
+    <lastmod>2010-08-23T10:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/08/pictures-of-chicago-and-the-millennium-park-bean/</loc>
+    <lastmod>2010-08-23T09:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/07/my-visit-to-blizzard-entertainment-hq/</loc>
+    <lastmod>2010-07-26T10:20:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/07/san-diego-comic-con-2010/</loc>
+    <lastmod>2010-07-26T01:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/07/pictures-from-the-july-2010-tech-events-in-chicago/</loc>
+    <lastmod>2010-07-20T14:38:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/07/july-2010-tech-events-in-chicago/</loc>
+    <lastmod>2010-07-06T09:05:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/06/chicago-code-camp-2-pictures/</loc>
+    <lastmod>2010-06-13T22:36:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/06/june-2010-tech-events-in-chicago/</loc>
+    <lastmod>2010-06-02T13:47:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/04/may-2010-tech-events-in-chicago/</loc>
+    <lastmod>2010-04-28T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/04/linkedin-mobile-apps-no-love-for-android/</loc>
+    <lastmod>2010-04-09T01:10:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/04/software-review-balsamiq-mockups/</loc>
+    <lastmod>2010-04-06T06:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/04/april-2010-tech-events-in-chicago/</loc>
+    <lastmod>2010-04-05T00:26:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/03/rework-by-jason-fried-and-david-heinemeier-hansson/</loc>
+    <lastmod>2010-03-21T14:18:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/03/chicago-tech-user-groups-and-events-for-march-2010/</loc>
+    <lastmod>2010-03-15T19:07:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/02/programmer-cartoon-your-company-app/</loc>
+    <lastmod>2010-02-17T19:16:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/01/coders-at-work-and-duct-tape-programming/</loc>
+    <lastmod>2010-01-27T21:25:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/01/android-sdk-issue-on-windows-7-x64/</loc>
+    <lastmod>2010-01-26T18:59:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/01/rooting-my-nexus-one-and-installing-thai-fonts/</loc>
+    <lastmod>2010-01-23T00:58:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/01/my-favorite-tech-and-programming-news-feeds/</loc>
+    <lastmod>2010-01-08T12:35:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2010/01/my-new-phone-googles-nexus-one/</loc>
+    <lastmod>2010-01-06T22:41:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/12/hooked-on-tech-podcasts/</loc>
+    <lastmod>2009-12-08T00:09:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/09/what-i-love-about-microsoft/</loc>
+    <lastmod>2009-09-08T07:15:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/05/lala.com-a-better-alternative-to-itunes/</loc>
+    <lastmod>2009-05-18T11:32:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/02/free-microsoft-development-tools-for-students-on-dreamspark/</loc>
+    <lastmod>2009-02-28T17:38:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/02/tropicanas-new-logo-design/</loc>
+    <lastmod>2009-02-24T18:03:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/02/my-favorite-web-app-google-reader/</loc>
+    <lastmod>2009-02-21T08:09:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/02/the-vending-machine-at-work/</loc>
+    <lastmod>2009-02-18T22:08:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/02/upcoming-tech-events-in-chicago-for-february/</loc>
+    <lastmod>2009-02-11T23:10:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/02/i-got-a-roomba-for-christmas/</loc>
+    <lastmod>2009-02-08T23:06:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/02/whats-next-for-social-media-gps-enabled-applications/</loc>
+    <lastmod>2009-02-07T19:17:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/01/signed-up-for-the-2009-shamrock-shuffle-8k-run/</loc>
+    <lastmod>2009-01-14T22:14:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2009/01/basic-combinatorial-mathematics/</loc>
+    <lastmod>2009-01-02T11:58:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/12/setting-up-wrt54g-as-a-wireless-bridge-with-dd-wrt/</loc>
+    <lastmod>2008-12-24T23:39:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/11/black-friday-is-just-stupid/</loc>
+    <lastmod>2008-11-28T11:50:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/11/my-favorite-firefox-add-ons/</loc>
+    <lastmod>2008-11-23T00:26:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/11/my-impressions-of-the-g1-running-android/</loc>
+    <lastmod>2008-11-10T22:37:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/11/went-to-the-obama-rally-in-grant-park/</loc>
+    <lastmod>2008-11-05T01:11:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/10/installed-ubuntu-linux-onto-my-thinkpad-t60/</loc>
+    <lastmod>2008-10-29T21:44:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/10/my-first-blog-entry-from-my-g1/</loc>
+    <lastmod>2008-10-21T08:24:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/10/t-mobile-to-ship-g1-early/</loc>
+    <lastmod>2008-10-19T18:59:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/10/getting-the-g1-in-one-week/</loc>
+    <lastmod>2008-10-14T19:37:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/10/tech-cocktail-chicago-9/</loc>
+    <lastmod>2008-10-14T18:40:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/10/using-google-docs-as-a-collaboration-tool/</loc>
+    <lastmod>2008-10-01T23:49:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/09/the-math-behind-tinyurl/</loc>
+    <lastmod>2008-09-30T00:33:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/09/c-code-solution-for-fizzbuzz/</loc>
+    <lastmod>2008-09-15T22:20:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/08/best-free-software-recommendations-for-2008/</loc>
+    <lastmod>2008-08-31T11:52:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/08/facebook-to-become-the-new-aol/</loc>
+    <lastmod>2008-08-20T06:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/08/software-development-comic/</loc>
+    <lastmod>2008-08-18T13:02:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/08/tapping-into-the-cloud/</loc>
+    <lastmod>2008-08-12T23:40:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/08/agile-software-development/</loc>
+    <lastmod>2008-08-01T06:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/07/thoughts-on-digg-meetup-chicago/</loc>
+    <lastmod>2008-07-25T06:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/07/event-digg-meet-up-chicago/</loc>
+    <lastmod>2008-07-19T01:48:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/07/event-social-dev-camp-chicago/</loc>
+    <lastmod>2008-07-18T17:49:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/07/finished-reading-the-groundswell/</loc>
+    <lastmod>2008-07-18T03:40:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/05/tech-cocktail-chicago-8/</loc>
+    <lastmod>2008-05-29T08:56:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/05/where-is-the-blogger-community/</loc>
+    <lastmod>2008-05-06T20:42:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/03/my-man-bags/</loc>
+    <lastmod>2008-03-08T21:27:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/02/yellow-dog-linux-on-my-ps3/</loc>
+    <lastmod>2008-02-24T12:02:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/02/belkins-pre-n-router-laggy-on-ps3-network/</loc>
+    <lastmod>2008-02-10T12:09:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/01/ps3-and-bluray-is-the-way-to-go...-for-now/</loc>
+    <lastmod>2008-01-29T23:50:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/01/best-free-software-of-2008-so-far/</loc>
+    <lastmod>2008-01-27T10:29:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2008/01/looking-forward-to-2008/</loc>
+    <lastmod>2008-01-01T19:44:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/2007/11/my-new-mp3-player-sansa-e280/</loc>
+    <lastmod>2007-11-04T10:29:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/best/business-books/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/best/camera-gear/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/best/comics-and-graphic-novels/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/best/documentaries/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/best/financial-books/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/best/mac-software/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/best/photography-books/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/best/software-development-tools/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/wcg/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunpech.com/best/windows-software/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

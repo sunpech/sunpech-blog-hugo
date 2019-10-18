@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="icon" href="/favicon.ico">
+
+<title>How to Format your Hard Drive into exFAT | sunpech.com</title>
+
+
+<link href='/atom.xml' rel="alternate" type="application/atom+xml" title="sunpech.com" />
+
+
+<link href="/css/bootstrap.min.css" rel="stylesheet" />
+
+
+<link href="/css/fontawesome.min.css" rel="stylesheet" />
+<script defer src="/js/all.min.js"></script>
+
+
+<link href="/css/basic.css" rel="stylesheet"> 
+<link href="/css/custom.css" rel="stylesheet">
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-126684-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-126684-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+
+<meta property="og:title" content="How to Format your Hard Drive into exFAT" />
+<meta property="og:description" content="If you are getting a new backup hard drive and want it to be compatible between Windows, OS X, and Linux, this guide will show you how to format it and save you money. I cover the benefits of using exFAT as well as when it&#39;s not a good choice." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://sunpech.com/2015/12/how-to-format-your-hard-drive-into-exfat/" />
+
+<meta property="og:image" content="https://sunpech.com/images/blog/exfat.jpg" />
+<meta property="article:published_time" content="2015-12-01T09:00:00-05:00" />
+<meta property="article:modified_time" content="2015-12-01T09:00:00-05:00" /><meta property="og:site_name" content="sunpech.com" />
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://sunpech.com/images/blog/exfat.jpg"/>
+
+<meta name="twitter:title" content="How to Format your Hard Drive into exFAT"/>
+<meta name="twitter:description" content="If you are getting a new backup hard drive and want it to be compatible between Windows, OS X, and Linux, this guide will show you how to format it and save you money. I cover the benefits of using exFAT as well as when it&#39;s not a good choice."/>
+</head>
+  <body>
+<nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+  <div class="container">
+    
+    <a class="navbar-brand" href="/"><i class="fas fa-laptop"></i>&nbsp;&nbsp;sunpech.com</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav mr-auto">
+        
+        
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/posts/" title="Posts page">
+              Posts
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/best/" title="Best page">
+              Best
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/affiliates/" title="Affiliates page">
+              Affiliates
+            </a>
+          </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+
+  
+
+
+  
+
+<header class="masthead" style="background-image: url('/images/headers/technology.jpg')">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 mx-auto">
+        <div class="site-heading">
+          <h1>How to Format your Hard Drive into exFAT</h1>
+          <span class="meta">
+            Posted on December 1, 2015 by Steven Suwatanapongched<br/>
+          </span>
+          <span class="post-tag-light">
+            
+            
+            <i class="fa fa-tags"></i>
+            
+              <a href="/tags/apple" style="color: #FFF">Apple</a>,&nbsp;
+            
+              <a href="/tags/guide" style="color: #FFF">Guide</a>,&nbsp;
+            
+              <a href="/tags/technology" style="color: #FFF">Technology</a>
+            
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+      
+    <main role="main">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12">
+  
+
+<p>With <a href="https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29">Black Friday</a> and <a href="https://en.wikipedia.org/wiki/Cyber_Monday">Cyber Monday</a> behind us and the upcoming holidays upon us, some of you may be getting a new external hard drive(s) for your Mac or Windows system(s). I wanted to write up a guide on how to format your drive into <a href="https://en.wikipedia.org/wiki/ExFAT">exFAT</a>, the format that is well supported and ideal for many cases.</p>
+
+<h2 id="the-benefits-of-exfat">The Benefits of exFAT</h2>
+
+<p>A few years ago, I wrote about <a href="/2013/06/apple-compatible-external-hard-drives/">how hard drives marketed to Apple devices
+are over-priced</a> and are functionally the same as their Windows counterpart. I get that for Apple products there&rsquo;s a <em>premium fee</em> associated with being in the ecosystem&ndash; but I feel there&rsquo;s no need to pay extra when it would only take a few minutes to setup an external hard drive. <strong>This will save you money.</strong></p>
+
+<p>Also, if you have multiple operating systems (OSes) in your house or your friends and workplace, <strong>this format is compatible with all the major modern OSes out there.</strong> Apple uses <a href="https://en.wikipedia.org/wiki/HFS_Plus">HFS+</a> by default, which is Apple-only. Windows uses <a href="https://en.wikipedia.org/wiki/NTFS">NTFS</a> mostly, and still supports the <a href="https://en.wikipedia.org/wiki/File_Allocation_Table#FAT32">FAT32</a> format&ndash; both widely supported other systems with drawbacks.</p>
+
+<p>Here&rsquo;s a table to illustrate:</p>
+
+<table class="table table-striped table-bordered">
+  <tr>
+    <th></th>
+    <th>OSX</th>
+    <th>Windows</th>
+    <th>Linux</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <th>HFS+</th>
+    <td>Yes</td>    
+    <td><strong>No</strong></td>
+    <td>Yes</td>
+    <td>Windows can support HFS+ only through a paid app.</td>
+  </tr>
+  <tr>
+    <th>NTFS</th>
+    <td><strong>No</strong></td>    
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>OSX can only read from NTFS natively. Writing requires another paid app.</td>
+  </tr>
+  <tr>
+    <th>FAT32</th>
+    <td>Yes</td>    
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>FAT32 is natively supported by OS X and Windows, but has limitations: 32GB partition limit, max 4GB file size, slower than NTFS and HFS+. </td>
+  </tr>
+  <tr>
+    <th>exFAT</th>
+    <td>Yes</td>    
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>exFAT is natively supported by OS X and Windows.</td>
+  </tr>
+</table>
+
+<p>It should be noted that Linux can support both HFS+ and exFAT with some free package updates, but natively supports NTFS and FAT32.  This is why Linux and open source is amazing. Also, when I say Linux, I&rsquo;m referring to the major distributions such as <a href="http://www.ubuntu.com/">Ubuntu</a>.</p>
+
+<h2 id="when-not-to-use-exfat">When not to use exFAT</h2>
+
+<p>There are many benefits to formatting a drive into exFAT, but there are some scenarios when it&rsquo;s not a good choice.</p>
+
+<ol>
+<li>You only ever want to use the drive on Windows PCs, no Macs or Linux OSes, ever. Keep format in NTFS.</li>
+<li>You only ever want to use the drive on Macs, no Windows or Linux OSes, ever. Format to HFS+ (the default choice on the OS X section below.)</li>
+<li>You only ever want to use the drive with TVs and DVD/Blu-ray players. Format to FAT32.</li>
+<li>You like spending money on apps to read/write in other partitions/formats not native to your operating system.</li>
+</ol>
+
+<p>Otherwise, the main uses are to use the external hard drive with many systems for both reading and writing.</p>
+
+<h3 id="warning">Warning</h3>
+
+<p>Before doing anything else, make sure to plug the external hard drive into your operating system. Also be sure that there is nothing on the drive you wish to keep as <strong>you will be formatting the drive, thus erasing anything on it.</strong></p>
+
+<h2 id="formatting-exfat-on-os-x">Formatting exFAT on OS X</h2>
+
+<p>Under <strong>Utilities</strong>, open <strong>Disk Utility</strong>. The screenshot below are for the new Disk Utility in OS X (10.11) El Capitan .</p>
+
+<p><img src="/images/blog/exfat_osx_00.jpg" alt="Open Disk Utility" /></p>
+
+<p>Find the external hard drive you&rsquo;ve plugged in and select it on the left. Next click on <strong>Erase</strong>. As you can see, the drive I&rsquo;m formatting is a Windows partition in FAT (technically FAT16).</p>
+
+<p><img src="/images/blog/exfat_osx_01.jpg" alt="Step 1" /></p>
+
+<p>Next, choose ExFAT from the Format choices. By default OS X will want to format it is OS X Extended.</p>
+
+<p><img src="/images/blog/exfat_osx_02.jpg" alt="Step 2" /></p>
+
+<p>Let the formatting run its course, this may take a few seconds to a few minutes depending on how big the drive is.</p>
+
+<p><img src="/images/blog/exfat_osx_03.jpg" alt="Step 3" /></p>
+
+<p>After it finishes formatting, the drive will be in exFAT format.</p>
+
+<p><img src="/images/blog/exfat_osx_04.jpg" alt="Step 4" /></p>
+
+<h2 id="formatting-exfat-on-windows">Formatting exFAT on Windows</h2>
+
+<p>Open <strong>Windows Explorer</strong> and right-click on the drive you connected. Another small pop-up should come up.</p>
+
+<p><img src="/images/blog/exfat_windows_01.jpg" alt="Step 1" /></p>
+
+<p>From the pop-up, select <strong>Format</strong>. A new window titled &ldquo;Format&rdquo; should come up.</p>
+
+<p><img src="/images/blog/exfat_windows_02.jpg" alt="Step 2" /></p>
+
+<p>From the new window, under &ldquo;File system&rdquo;, select exFAT.</p>
+
+<p><img src="/images/blog/exfat_windows_03.jpg" alt="Step 3" /></p>
+
+<h2 id="formatting-exfat-on-linux">Formatting exFAT on Linux</h2>
+
+<p>If you are running a distro of Linux, there&rsquo;s no need for me to walk you through formatting a drive since you are probably have the technical know how already. I just recommend the following packages to help manage your external drives.</p>
+
+<pre><code>sudo apt-get install gparted exfat-utils exfat-fuse
+</code></pre>
+
+
+          </div>
+        </div>
+      </div>
+    </main>
+<footer class="container">
+  <div class="row">
+    <div class="col-lg-12 col-md-12">
+      <hr />
+      <ul class="list-inline" style="font-size: 2em">
+        <li class="list-inline-item">
+          <a href="https://twitter.com/sunpech">
+            <i class="fab fa-twitter social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://instagram.com/sunpech">
+            <i class="fab fa-instagram social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://facebook.com/sunpechphotography">
+            <i class="fab fa-facebook-f social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://flickr.com/photos/sunpech">
+            <i class="fab fa-flickr social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://github.com/sunpech">
+            <i class="fab fa-github social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="/atom.xml">
+            <i class="fas fa-rss social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+      </ul>
+      
+      <p class="copyright text-muted">Copyright &copy; 2019 Sunpech Suwatanapongched</p>
+      
+    </div>
+  </div>
+  </footer>
+
+  
+  
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-slim.min.js"><\/script>')</script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script></body>
+</html>

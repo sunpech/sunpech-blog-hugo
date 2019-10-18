@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on sunpech.com</title>
+    <link>https://sunpech.com/tags/technology/</link>
+    <description>Recent content in Technology on sunpech.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>steven@sunpech.com (Steven Suwatanapongched)</managingEditor>
+    <webMaster>steven@sunpech.com (Steven Suwatanapongched)</webMaster>
+    <lastBuildDate>Sun, 08 Sep 2019 03:03:14 -0500</lastBuildDate>
+    
+	<atom:link href="https://sunpech.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrated Website to Hugo</title>
+      <link>https://sunpech.com/2019/09/migrated-website-to-hugo/</link>
+      <pubDate>Sun, 08 Sep 2019 03:03:14 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2019/09/migrated-website-to-hugo/</guid>
+      <description>Over the past week I migrated my blog from using static site generator, Jekyll to use Hugo. I also switched hosts from Github Pages to Netlify.
+The main reasons for the changes are:
+ Jekyll/Ruby is just too slow as a static site generator in development/production. Hugo/Go is fast. Wanted to try out Netlify.  When I wrote new posts with Jekyll, it was painfully slow to build the site after any small set of changes.</description>
+    </item>
+    
+    <item>
+      <title>How to Format your Hard Drive into exFAT</title>
+      <link>https://sunpech.com/2015/12/how-to-format-your-hard-drive-into-exfat/</link>
+      <pubDate>Tue, 01 Dec 2015 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/12/how-to-format-your-hard-drive-into-exfat/</guid>
+      <description>With Black Friday and Cyber Monday behind us and the upcoming holidays upon us, some of you may be getting a new external hard drive(s) for your Mac or Windows system(s). I wanted to write up a guide on how to format your drive into exFAT, the format that is well supported and ideal for many cases.
+The Benefits of exFAT A few years ago, I wrote about how hard drives marketed to Apple devices are over-priced and are functionally the same as their Windows counterpart.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on Apple&#39;s Event</title>
+      <link>https://sunpech.com/2015/09/thoughts-on-apples-event/</link>
+      <pubDate>Thu, 10 Sep 2015 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/09/thoughts-on-apples-event/</guid>
+      <description>Yesterday, Apple had their livestream event (September 9, 2015) announcing a bunch of new things. As usual, I live tweeted some of my thoughts during the keynote. For the most part, my tweets are meant to poke fun at everything and shouldn&amp;rsquo;t be taken in the most serious context. I say this because some contacts I have take great personal insult whenever I poke fun of big successful companies like Apple&amp;ndash; that are named Apple.</description>
+    </item>
+    
+    <item>
+      <title>LastPass Password Manager</title>
+      <link>https://sunpech.com/2015/06/lastpass-password-manager/</link>
+      <pubDate>Fri, 19 Jun 2015 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/06/lastpass-password-manager/</guid>
+      <description>Earlier this week news broke that LastPass had been hacked. They released a blog post: LastPass Security Notice.
+I still believe that LastPass is a great service.
+I don&amp;rsquo;t hold it against them for not getting an email right away. I found out about the issue from social media&amp;ndash; basically word-of-mouth. Which to be honest, I&amp;rsquo;m fine with. I&amp;rsquo;m just glad that when there is a problem that Internet people bring it up and share it right away.</description>
+    </item>
+    
+    <item>
+      <title>Becoming Steve Jobs</title>
+      <link>https://sunpech.com/2015/06/becoming-steve-jobs/</link>
+      <pubDate>Wed, 10 Jun 2015 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/06/becoming-steve-jobs/</guid>
+      <description>A few years ago, I finished the Steve Jobs biography by Walter Isaacson and I wrote a blog post too. For the time it was released, I would say the published book collected the most information on Steve Jobs out there. Isaacson generally gives a negative review of Jobs with multiple repetitions of reality distortion field throughout the book. The book focuses a little more on the bad relationships than the good ones.</description>
+    </item>
+    
+    <item>
+      <title>Today&#39;s Tech TV Shows</title>
+      <link>https://sunpech.com/2015/06/todays-tech-tv-shows/</link>
+      <pubDate>Mon, 08 Jun 2015 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/06/todays-tech-tv-shows/</guid>
+      <description>There are two tech TV shows that I&amp;rsquo;m enjoying right now: Silicon Valley and Halt and Catch Fire.
+They both deal with the business and culture of technology startups, but yet are pretty different from each other. They are both on their second seasons.
+Silicon Valley pokes fun at the today&amp;rsquo;s tech craze in a humorous and ridiculous way. As it should be, technology is hot stuff right now and there&amp;rsquo;s so much money being thrown around as everyone thinks they are going to change the world with their product.</description>
+    </item>
+    
+    <item>
+      <title>Moved from Blogger to Jekyll</title>
+      <link>https://sunpech.com/2015/05/moved-from-blogger-to-jekyll/</link>
+      <pubDate>Mon, 25 May 2015 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/05/moved-from-blogger-to-jekyll/</guid>
+      <description>I recently made the move from Blogger to Jekyll, hosted on Github Pages. It was a pretty pleasant conversion too, as Jekyll has a good amount of documenation and support.
+I&amp;rsquo;ve had a blog since 1999. I&amp;rsquo;ve used just about every known blogging technology/platform out there. I&amp;rsquo;ve used perl, php, mysql, ASP, MS Access, ASP.NET, C#, MS SQL, Postgres, Ruby on Rails, Heroku, Apache Web Server, IIS, etc to write my own blogging software.</description>
+    </item>
+    
+    <item>
+      <title>Map Your Mouse&#39;s Back and Forward Buttons on a Mac</title>
+      <link>https://sunpech.com/2015/04/map-your-mouses-back-and-forward-buttons-on-a-mac/</link>
+      <pubDate>Thu, 09 Apr 2015 10:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/04/map-your-mouses-back-and-forward-buttons-on-a-mac/</guid>
+      <description>I&amp;rsquo;ve been using OS X as my main OS for almost five years now. But one thing that&amp;rsquo;s bugged me for a while was the lack of support for Logitech and other mice&amp;rsquo;s forward and back buttons. These are mouse shortcut buttons found on many gaming mice. As much as I enjoy Apple&amp;rsquo;s trackpad, I still like to use the mouse for gaming and other things.
+Here&amp;rsquo;s a picture of my mouse with the buttons that under Windows, normally maps to forward and back in the web browser.</description>
+    </item>
+    
+    <item>
+      <title>Instagram, the Better Twitter?</title>
+      <link>https://sunpech.com/2014/08/instagram-the-better-twitter/</link>
+      <pubDate>Wed, 06 Aug 2014 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2014/08/instagram-the-better-twitter/</guid>
+      <description>I like Twitter for following interesting people and entities. But lately, I&amp;rsquo;ve taken to Instagram more because it can also be interesting and more visually pleasing since each post has a picture telling a story.
+I know Twitter has updated features to display images in web and mobile apps now, but most tweets do not have any picture whatsoever&amp;ndash; even though tweets with pictures have twice the amount of engagements over those that do not have a picture.</description>
+    </item>
+    
+    <item>
+      <title>Converting Your VHS and Betamax Tapes to Digital</title>
+      <link>https://sunpech.com/2014/06/converting-your-vhs-and-betamax-tapes-to-digital/</link>
+      <pubDate>Mon, 23 Jun 2014 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2014/06/converting-your-vhs-and-betamax-tapes-to-digital/</guid>
+      <description>I&amp;rsquo;ve started a new initiative to help my parents convert all their VHS and Betamax tapes over into the digital world. These tapes are those precious family home videos. These are mostly tapes from the 1970s, 80s, 90s, and even part of the early 2000s.
+In today&amp;rsquo;s times we should all be capturing everything in digital format already. From DSLRs, HD camcorders, to even our smartphones. We just need a way to bring the past thirty plus years of our lives into the modern age.</description>
+    </item>
+    
+    <item>
+      <title>Removing a HDD from a Western Digital Elements USB Drive</title>
+      <link>https://sunpech.com/2014/02/removing-a-hdd-from-a-western-digital-elements-usb-drive/</link>
+      <pubDate>Mon, 03 Feb 2014 11:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2014/02/removing-a-hdd-from-a-western-digital-elements-usb-drive/</guid>
+      <description>I have an old Western Digital Elements External USB HDD&amp;nbsp;(3TB)&amp;nbsp;that that mostly sits on my shelf since I&amp;rsquo;ve moved my data onto a formal network area storage (NAS). After doing some research, it turns out that these external USB hard drives actually have full 3.5&amp;rdquo; SATA hard drive inside! All you need to do is pry open the back with a knife or flathead screwdriver and remove the hard drive, and remove the USB adapter.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Storage Services Review</title>
+      <link>https://sunpech.com/2013/06/cloud-storage-services-review/</link>
+      <pubDate>Fri, 21 Jun 2013 09:58:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2013/06/cloud-storage-services-review/</guid>
+      <description>There are so many cloud storage services out there now vying for our attention and data. I thought I&amp;rsquo;d share my thoughts on the popular choices out there. I&amp;rsquo;m only looking at the personal or free plans. I&amp;rsquo;m leaving out anything for businesses or enterprises&amp;ndash; those are just a different beast with very different needs altogether.
+Things I try to consider:
+ Size of free storage (either from the start or earned through referrals) Sharing and collaboration on files Ease of use Anything else more than storage  Amazon Cloud Drive I really do not use this service.</description>
+    </item>
+    
+    <item>
+      <title>Apple Compatible External Hard Drives Are Over-Priced</title>
+      <link>https://sunpech.com/2013/06/apple-compatible-external-hard-drives-are-over-priced/</link>
+      <pubDate>Thu, 13 Jun 2013 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2013/06/apple-compatible-external-hard-drives-are-over-priced/</guid>
+      <description>Buying any technology related products online is still by far the best way to save money over buying from traditional brick and mortar stores. The likely products you would buy for your PC/Mac are keyboards, mice, external hard drive, and headphones.
+I&amp;rsquo;d like to focus on the external hard drives, since they are currently priced differently between the PC and Mac market. For all intents and purposes of these drives are to backup data of a machine running either Windows or Mac.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s In My Messenger Bag</title>
+      <link>https://sunpech.com/2013/05/whats-in-my-messenger-bag/</link>
+      <pubDate>Mon, 06 May 2013 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2013/05/whats-in-my-messenger-bag/</guid>
+      <description>Not long ago I posted what&amp;rsquo;s in my camera bag. I thought I would follow up on what I carry in my other bag&amp;ndash; especially when I travel. Here&amp;rsquo;s what I typically have in my messenger bag.
+Going from the top, left to right:  Canon 5D Mark III Apple adapters Samsung Galaxy Nexus phone Kindle Fire (version 1) Kindle Paperwhite Business cards Lens cleaner pen Pens Apple AC charger/adapter Micro USB charger Headphones 15&amp;rdquo; Macbook Pro (mid-2010) ONA &amp;ldquo;The Union Street Camera and Laptop Bag&amp;rdquo; - Ranger Tan You&amp;rsquo;re probably wondering why I have so many mobile devices/readers.</description>
+    </item>
+    
+    <item>
+      <title>Laptop Warranties are Worth It</title>
+      <link>https://sunpech.com/2013/04/laptop-warranties-are-worth-it/</link>
+      <pubDate>Mon, 29 Apr 2013 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2013/04/laptop-warranties-are-worth-it/</guid>
+      <description>I&amp;rsquo;ve owned three laptops over the last nearly twelve years. Each of them, I&amp;rsquo;ve gotten some kind of warranty with. And I&amp;rsquo;m glad I did. If you don&amp;rsquo;t want to read this blog post, here is the shortened version:
+Get a 2-3 year warranty for your laptop.
+In 2001, I got my first laptop&amp;ndash; a Dell Latitude C600 (15&amp;rdquo; screen). Over my years using this as my main PC, the screen, hard drive, and battery all broke at some point.</description>
+    </item>
+    
+    <item>
+      <title>Why I love Google Reader</title>
+      <link>https://sunpech.com/2013/03/why-i-love-google-reader/</link>
+      <pubDate>Thu, 14 Mar 2013 10:12:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2013/03/why-i-love-google-reader/</guid>
+      <description>Yesterday some sad news hit me with Google&amp;rsquo;s decision to close Google Reader on July 1, 2013.
+Why? As The Next Web wrote, Former Google Reader product manager confirms our suspicions: Its demise is all about Google+. See Brian Shih, former Google Reader Product Manager&amp;rsquo;s answer on Quora.
+This is sad for me because other than Gmail and Search itself, Google Reader (GR) is the service I use the most from Google, and is a browser tab I always have open.</description>
+    </item>
+    
+    <item>
+      <title>Fixing an Android Error Message - Error retrieving information from server</title>
+      <link>https://sunpech.com/2012/11/fixing-an-android-error-message-error-retrieving-information-from-server/</link>
+      <pubDate>Thu, 15 Nov 2012 11:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/11/fixing-an-android-error-message-error-retrieving-information-from-server/</guid>
+      <description>I have a Galaxy Nexus that recently got an over the air (OTA) update to Android 4.2 (Jelly Bean). Coming from 4.1.2 I was thrilled to see the new changes, particularly with their new panorama feature. But after the update I had issues with updating apps on the Google Play Store.
+The Problem I got the following error message:
+Update for &amp;ldquo;Foursquare&amp;rdquo; could not be downloaded due to an error.</description>
+    </item>
+    
+    <item>
+      <title>Installing Windows 8 Pro on Parallels Desktop 8</title>
+      <link>https://sunpech.com/2012/11/installing-windows-8-pro-on-parallels-desktop-8/</link>
+      <pubDate>Mon, 05 Nov 2012 17:34:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/11/installing-windows-8-pro-on-parallels-desktop-8/</guid>
+      <description>Last week I went to a Microsoft launch event, New Era of Work, and got a free copy of Windows 8 Pro. I had already tried Windows 8 Preview as well as have Windows 7 Ultimate running as a virtual machines (VMs) through Parallels Desktop on my Macbook Pro (MBP). I didn&amp;rsquo;t like the preview edition that much, so I uninstalled it after a few days. But after attending the event, I thought I&amp;rsquo;d give it another look.</description>
+    </item>
+    
+    <item>
+      <title>Upgrading my 2010 Macbook Pro to SSD</title>
+      <link>https://sunpech.com/2012/10/upgrading-my-2010-macbook-pro-to-ssd/</link>
+      <pubDate>Mon, 29 Oct 2012 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/10/upgrading-my-2010-macbook-pro-to-ssd/</guid>
+      <description>I recently upgraded my 15&amp;rdquo; 2010 Macbook Pro&amp;rsquo;s 500GB HDD to a 512GB SSD. The directions you find in this blog post, you should easily be able to find using a search engine. I just want to document what I did, hoping to help fill the Internet with something useful, maybe.
+The didn&amp;rsquo;t have a problem with the CPU or even memory. Well, I do constantly run out of HDD space every two-three months, but I do regular backups to an external USB 3.</description>
+    </item>
+    
+    <item>
+      <title>Putting CyanogenMod on the Kindle Fire</title>
+      <link>https://sunpech.com/2012/06/putting-cyanogenmod-on-the-kindle-fire/</link>
+      <pubDate>Thu, 28 Jun 2012 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/06/putting-cyanogenmod-on-the-kindle-fire/</guid>
+      <description>After seeing the Nexus 7 tablet make its debut at Google I/O yesterday, it made me realize how my Kindle Fire (KF) is kind of lame. I reviewed the Kindle Fire back in November 2011.
+
+To be fair though, my needs have changed. When I initially purchased the KF, I didn&amp;rsquo;t want an iPad2 or a 10&amp;rdquo; tablet. I just wanted a simple reading device that could browse the web a bit and play some games.</description>
+    </item>
+    
+    <item>
+      <title>My HTPC Setup</title>
+      <link>https://sunpech.com/2012/04/my-htpc-setup/</link>
+      <pubDate>Sat, 07 Apr 2012 19:31:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/04/my-htpc-setup/</guid>
+      <description>A few months ago I blogged about my new purchase of the WD TV Live Streaming Media Player. I still enjoy it immensely, and a few people have inquired about what is needed.
+So here&amp;rsquo;s a list of what&amp;rsquo;s in my setup:
+WD TV Live Streaming Media Player This is the heart of the Home Theatre PC (HTPC).
+
+WD Elements 3 TB USB 2.0 Desktop External Hard Drive I don&amp;rsquo;t recommend attaching more than one external hard drive via a USB hub.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft&#39;s New Windows 8 Logo</title>
+      <link>https://sunpech.com/2012/02/microsofts-new-windows-8-logo/</link>
+      <pubDate>Sat, 18 Feb 2012 14:18:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/02/microsofts-new-windows-8-logo/</guid>
+      <description>Microsoft has a new logo design for their operating system (OS), Windows. I&amp;rsquo;ve been reading a few tech bloggers/writers reactions to it lately, and I felt I just had to add my two bits in.
+The last time I did a blog post on logo design, was on Tropicana&amp;rsquo;s new logo design.
+MG Siegler&amp;rsquo;s recent blog post on Microsoft&amp;rsquo;s new logo evolution was the first ones I read. Other writers have also written how the new logo is no longer wavy and flag-like.</description>
+    </item>
+    
+    <item>
+      <title>Finished reading: In The Plex</title>
+      <link>https://sunpech.com/2012/01/finished-reading-in-the-plex/</link>
+      <pubDate>Sat, 21 Jan 2012 11:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/01/finished-reading-in-the-plex/</guid>
+      <description>I just finished reading In The Plex: How Google Thinks, Works, and Shapes Our Lives on my Kindle Fire.
+Overall it was a good book with some insight into Google, but I wouldn&amp;rsquo;t say that the book was well-written. It does jump around a lot and the material wasn&amp;rsquo;t presented chronologically in story-fashion. It&amp;rsquo;s currently the most up to date book on Google as it includes recent stuff such as Android, Eric Schmidt&amp;rsquo;s stepping down as CEO in 2010, and it&amp;rsquo;s failures to enter as a social network.</description>
+    </item>
+    
+    <item>
+      <title>Designer&#39;s Hub Meet and Greet</title>
+      <link>https://sunpech.com/2012/01/designers-hub-meet-and-greet/</link>
+      <pubDate>Fri, 20 Jan 2012 06:03:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/01/designers-hub-meet-and-greet/</guid>
+      <description>Last night I went to LA&amp;rsquo;s Designer&amp;rsquo;s Hub Meet and Greet event hosted at Kleverdog, a co-working space located in Chinatown. This was their first event. It was a very nice meetup about essentially building a community of designers. There were a lot of ideas thrown out about what the group could be about. I personally would like to have a community to turn to, in-person, for me to learn more about the tools and techniques in graphics design&amp;ndash; notably Photoshop, Lightroom, and Aperture.</description>
+    </item>
+    
+    <item>
+      <title>SOPA Blackout set for January 18 2012</title>
+      <link>https://sunpech.com/2012/01/sopa-blackout-set-for-january-18-2012/</link>
+      <pubDate>Tue, 17 Jan 2012 18:54:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/01/sopa-blackout-set-for-january-18-2012/</guid>
+      <description>Tomorrow, Wednesday January 18, 2012, I plan to block this website out in support of SOPA Blackout. Technically it won&amp;rsquo;t be completed blocked out, as the javascript is only a black message overlay on top of the website. Users will still be able to click through once the popup comes up.
+Here is the javascript that will be used in the header:
+&amp;lt;script type=&#34;text/javascript&#34; src=&#34;//js.sopablackout.org/sopablackout.js&#34;&amp;gt;&amp;lt;/script&amp;gt;On one of my other sites, spong.</description>
+    </item>
+    
+    <item>
+      <title>Steve Jobs biography</title>
+      <link>https://sunpech.com/2012/01/steve-jobs-biography/</link>
+      <pubDate>Wed, 04 Jan 2012 11:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/01/steve-jobs-biography/</guid>
+      <description>I really enjoyed reading the Steve Jobs biography by Walter Isaacson. I bought both the hardcover and the Kindle book version. Isaacson&amp;rsquo;s writing is superb and flows very well. However, if you read articles or even watched some Steve Jobs documentaries, it covers a lot of similar ground. I am reminded of the TV movie, Pirates of Silicon Valley. If you haven&amp;rsquo;t watched it, I highly recommend it.
+I think it&amp;rsquo;s fair for people to compare him to Thomas Edison, as Jobs was our modern day inventor and businessman&amp;ndash; a visionary if you will.</description>
+    </item>
+    
+    <item>
+      <title>Western Digital WD TV Live Streaming Media Player</title>
+      <link>https://sunpech.com/2012/01/western-digital-wd-tv-live-streaming-media-player/</link>
+      <pubDate>Mon, 02 Jan 2012 17:36:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/01/western-digital-wd-tv-live-streaming-media-player/</guid>
+      <description>Since I moved to LA, I&amp;rsquo;ve been without my old PC that runs XBMC. For a Home Theater PC (HTPC), the PC is decent, but it&amp;rsquo;s large, loud, and not in California. So I went on Amazon and bought the Western Digital WD TV Live Streaming Media Player for $90 US. Behold, my new HTPC.
+I&amp;rsquo;ve been using it for a few days, and overall I&amp;rsquo;m pretty happy with it. I was able to hook up my external USB hard drives to a D-Link DUB-H7 High Speed USB 2.</description>
+    </item>
+    
+    <item>
+      <title>Kindle Fire Review</title>
+      <link>https://sunpech.com/2011/11/kindle-fire-review/</link>
+      <pubDate>Wed, 30 Nov 2011 20:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/11/kindle-fire-review/</guid>
+      <description>I pre-ordered my Kindle Fire in early October. I&amp;rsquo;ve wanted an eReader device for a long time, ever since I&amp;rsquo;ve been traveling so much. Carrying books around is such a pain.
+Like many others out there, I got my Kindle Fire on November 15, 2011. After a few weeks of using the Fire, I felt I could give it a good review. I&amp;rsquo;ve used it for playing Words With Friends, some basic browsing on Amazon, and I finished reading the Steve Jobs biography on it.</description>
+    </item>
+    
+    <item>
+      <title>Purchased a Herman Miller Aeron Chair</title>
+      <link>https://sunpech.com/2011/08/purchased-a-herman-miller-aeron-chair/</link>
+      <pubDate>Fri, 05 Aug 2011 00:37:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/08/purchased-a-herman-miller-aeron-chair/</guid>
+      <description>A few weeks ago I purchased a Herman Miller Aeron chair from Home and Office Solutions up in Northbrook, Illinois. I&amp;rsquo;ve wanted an Aeron for the longest time, but just never felt comfortable spending a thousand dollars on an office chair. My seven-year old Ikea chair was falling apart and wasn&amp;rsquo;t comfortable anymore. To be honest, it started to fall apart after two years. I really needed to get a new chair.</description>
+    </item>
+    
+    <item>
+      <title>Google Plus is for Geeks</title>
+      <link>https://sunpech.com/2011/08/google-plus-is-for-geeks/</link>
+      <pubDate>Thu, 04 Aug 2011 01:22:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/08/google-plus-is-for-geeks/</guid>
+      <description>Google Plus (G+) is for geeks. It&amp;rsquo;s how it is now, and I think that&amp;rsquo;s how it&amp;rsquo;s going to be going forward, more or less.
+I&amp;rsquo;ve been using G+ now for about a month. I scored an invite early on, and a few days later invited a good chunk of people from my Gmail contacts. I went through the process of making circles, refining the circles, installing the add-ons into my Chrome browser, and so forth.</description>
+    </item>
+    
+    <item>
+      <title>The History of Social Networks Part 2</title>
+      <link>https://sunpech.com/2011/08/the-history-of-social-networks-part-2/</link>
+      <pubDate>Tue, 02 Aug 2011 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/08/the-history-of-social-networks-part-2/</guid>
+      <description>In The History of Social Networks Part 1, I covered the legacy social networks that I was once a part of. I use the term legacy to mean out-dated, unpopular, and in some cases discontinued.
+Now I&amp;rsquo;m going to cover the current social networks that I am active on today. I guess you can say that these are my picks, for now.
+Facebook I remember when I first heard about Facebook.</description>
+    </item>
+    
+    <item>
+      <title>The History of Social Networks Part 1</title>
+      <link>https://sunpech.com/2011/07/the-history-of-social-networks-part-1/</link>
+      <pubDate>Sun, 31 Jul 2011 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/07/the-history-of-social-networks-part-1/</guid>
+      <description>Paul Adams has an insightful presentation: The Real Life Social Network. It&amp;rsquo;s a great read, but it is a little long (224 slides)! Basically, he points out that the social network isn&amp;rsquo;t a fad, that it&amp;rsquo;s here to stay, and he goes through to talk about how relationships are, online/offline, behaviors, etcetera. Check it out if you have some time.
+Since I started using computers, there&amp;rsquo;s always been a yearning to connect with others online&amp;ndash; through a social network in some way, shape, or form.</description>
+    </item>
+    
+    <item>
+      <title>Tech communities in Bangkok</title>
+      <link>https://sunpech.com/2011/01/tech-communities-in-bangkok/</link>
+      <pubDate>Tue, 18 Jan 2011 13:55:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/01/tech-communities-in-bangkok/</guid>
+      <description>I&amp;rsquo;ve been in Thailand now for a little over two months now. Although I miss the US a lot, I&amp;rsquo;ve been learning a lot of new things, and meeting a lot of wonderful people here in Bangkok. In other words, I&amp;rsquo;m having a blast out here.
+The day after I arrived, November 9 2010, I attended a Bangkok Hackerspace meetup at True Coffee (Siam Soi 2). I walked in thinking it was going to be something akin to Jelly Chicago and community building.</description>
+    </item>
+    
+    <item>
+      <title>My journey from Windows to Mac</title>
+      <link>https://sunpech.com/2011/01/my-journey-from-windows-to-mac/</link>
+      <pubDate>Wed, 12 Jan 2011 02:27:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/01/my-journey-from-windows-to-mac/</guid>
+      <description>So back in May of 2010, I bought myself a Macbook Pro. I bought it for several reasons:
+ I wanted a new toy/gadget to play with. I wanted to try the only other operating system (OS) I haven&#39;t really spent much time on (OS X). I wanted to get away from Microsoft technologies  Those were and are the 3 main reasons.
+It&amp;rsquo;s been a little over 8 months of usage and I absolutely love it.</description>
+    </item>
+    
+    <item>
+      <title>Installing Thai fonts onto an Android device</title>
+      <link>https://sunpech.com/2010/08/installing-thai-fonts-onto-an-android-device/</link>
+      <pubDate>Mon, 30 Aug 2010 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/08/installing-thai-fonts-onto-an-android-device/</guid>
+      <description>I&amp;rsquo;ve received numerous requests asking for help on how to install Thai fonts onto an Android device after my initial post on Rooting my Nexus One and installing Thai fonts. Since I do update my Android phone with the CyanogenMod ROM quite often (which wipes the Thai fonts on each install), I thought I&amp;rsquo;d share a simple shell script to help get Thai fonts onto Android.
+This post does not cover how to root an Android device.</description>
+    </item>
+    
+    <item>
+      <title>An Android Photoshoot with my new Camera Lens</title>
+      <link>https://sunpech.com/2010/08/an-android-photoshoot-with-my-new-camera-lens/</link>
+      <pubDate>Thu, 26 Aug 2010 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/08/an-android-photoshoot-with-my-new-camera-lens/</guid>
+      <description>I got my new lens in the mail yesterday. It&amp;rsquo;s a Canon EF 50mm f/1.8 II Camera Lens.
+
+I was studying at the time, but once I got my email notification that it arrived, I rushed to pick it up and did a little photoshoot of my Android toy at the table I was studying at. I played with the aperture for most of the shoot (in AV mode). Afterwards, I used Adobe Lightroom to polish it up a bit (created a set of Black &amp;amp; White photos too).</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn Mobile Apps: No Love for Android</title>
+      <link>https://sunpech.com/2010/04/linkedin-mobile-apps-no-love-for-android/</link>
+      <pubDate>Fri, 09 Apr 2010 01:10:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/04/linkedin-mobile-apps-no-love-for-android/</guid>
+      <description>Got this in my inbox from LinkedIn. iPhone: check. Blackberry: check. Palm: check&amp;hellip;.
+No love for Android.</description>
+    </item>
+    
+    <item>
+      <title>Software Review: Balsamiq Mockups</title>
+      <link>https://sunpech.com/2010/04/software-review-balsamiq-mockups/</link>
+      <pubDate>Tue, 06 Apr 2010 06:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/04/software-review-balsamiq-mockups/</guid>
+      <description>I first read about Balsamiq Mockups a few weeks ago on StackOverflow.
+In general I agree with what Jeff Atwood and Joel Spolsky said about the product on their podcast (IT Conversations: Episode 47). It really is a simple mockup tool that isn&amp;rsquo;t about being exact and precise, but rather sketchy and fast so you can get your idea down quickly. It makes starting something easy and fast, so you can move on to what&amp;rsquo;s next.</description>
+    </item>
+    
+    <item>
+      <title>Android SDK issue on Windows 7 x64</title>
+      <link>https://sunpech.com/2010/01/android-sdk-issue-on-windows-7-x64/</link>
+      <pubDate>Tue, 26 Jan 2010 18:59:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/01/android-sdk-issue-on-windows-7-x64/</guid>
+      <description>I recently installed the Android SDK and Eclipse (32-bit) onto my Windows 7 Ultimate 64-bit machine. First thing I wanted to do was go through the Android Hello World Tutorial.
+Well, I ran into the following error message:
+&amp;lsquo;java&amp;rsquo; is not recognized as an internal or external command, operable program, or batch file. SWT folder &amp;ldquo; does not exist. Please set ANDROID_SWT to point to the folder containing swt.jar for your platform.</description>
+    </item>
+    
+    <item>
+      <title>Rooting my Nexus One and installing Thai fonts</title>
+      <link>https://sunpech.com/2010/01/rooting-my-nexus-one-and-installing-thai-fonts/</link>
+      <pubDate>Sat, 23 Jan 2010 00:58:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/01/rooting-my-nexus-one-and-installing-thai-fonts/</guid>
+      <description>I just finished rooting my Nexus One and installed Thai fonts onto it. I had to use several websites to complete this task, but I wanted to collect them all into once nice place for any stumblers. The purpose of installing Thai fonts onto my Nexus One was to have the ability to read Thai on my Facebook app as well as some Thai websites.
+Here&amp;rsquo;s how to do it:</description>
+    </item>
+    
+    <item>
+      <title>My New Phone: Google&#39;s Nexus One</title>
+      <link>https://sunpech.com/2010/01/my-new-phone-googles-nexus-one/</link>
+      <pubDate>Wed, 06 Jan 2010 22:41:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/01/my-new-phone-googles-nexus-one/</guid>
+      <description>Yesterday Google gave a presentation on the Google Nexus One. I watched it on the Gizmodo Liveblog. Ten minutes after reading the blog and looking at the pictures, I was sold. I knew I was eventually going to get it, but I didn&amp;rsquo;t know until that moment that that was the moment I was going to get it.
+I bought the phone yesterday, 1/5/2010, at 1:05pm. Overnight FedEx shipping (free). It arrived today at 1:22pm.</description>
+    </item>
+    
+    <item>
+      <title>What I love about Microsoft</title>
+      <link>https://sunpech.com/2009/09/what-i-love-about-microsoft/</link>
+      <pubDate>Tue, 08 Sep 2009 07:15:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/09/what-i-love-about-microsoft/</guid>
+      <description>I am primarily a Microsoft software developer. But I was not always a M$FT user/developer so to speak. I used to use Windows 3.1 back in the heyday, followed a little with Windows 95&amp;frasl;98. But by then, I was a college student at Boston University. The computer labs there had primarily Unix terminals and Solaris boxes. So I naturally had to use and learn these technologies. Everything from using the command shell, pine, star office, gcc compiler, etc.</description>
+    </item>
+    
+    <item>
+      <title>LaLa.com: A Better Alternative to iTunes</title>
+      <link>https://sunpech.com/2009/05/lala.com-a-better-alternative-to-itunes/</link>
+      <pubDate>Mon, 18 May 2009 11:32:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/05/lala.com-a-better-alternative-to-itunes/</guid>
+      <description>Several years ago, I tried out iTunes and really enjoyed the experience. I came from a Winamp background and really liked having a fast loading application. On top of that, I am a computer geek, so I already know where all my files are on the OS filesystem.
+Anyway, after using iTunes for a little over a year and hundreds of songs purchased later, it was starting up slower and slower.</description>
+    </item>
+    
+    <item>
+      <title>Free Microsoft Development Tools for Students on DreamSpark</title>
+      <link>https://sunpech.com/2009/02/free-microsoft-development-tools-for-students-on-dreamspark/</link>
+      <pubDate>Sat, 28 Feb 2009 17:38:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/02/free-microsoft-development-tools-for-students-on-dreamspark/</guid>
+      <description>On Microsoft Dreamspark, they have a very nice list of Microsoft development tools that you can download for FREE. Mind you, these aren&amp;rsquo;t just the free editions of their software, these are Standard to Professional editions that individuals and companies pay a lot of money for.
+The catch is that you need to be a student with a student email. (Something like student.name@myuniversity.edu).
+They currently offer:
+ Microsoft SQL Server 2008 Developer Edition Microsoft Visual Studio 2005 Professional Edition  Microsoft Visual Studio 2008 Professional Edition  Microsoft Expression Studio 1.</description>
+    </item>
+    
+    <item>
+      <title>Tropicana&#39;s New Logo Design</title>
+      <link>https://sunpech.com/2009/02/tropicanas-new-logo-design/</link>
+      <pubDate>Tue, 24 Feb 2009 18:03:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/02/tropicanas-new-logo-design/</guid>
+      <description>This morning I had a peanut butter and jelly sandwich, toasted. It was delicious. Along with it I had some orange juice (OJ), but not just any OJ, Minute Maid OJ.
+
+For years I&amp;rsquo;ve been more of a Tropicana OJ kind-of-guy, but with Tropicana&amp;rsquo;s somewhat recent logo switch on their cartons, I just felt compelled to switch.
+The reason? I just don&amp;rsquo;t get why they changed their logo.
+What they had before made sense (see left carton).</description>
+    </item>
+    
+    <item>
+      <title>My Favorite Web App: Google Reader</title>
+      <link>https://sunpech.com/2009/02/my-favorite-web-app-google-reader/</link>
+      <pubDate>Sat, 21 Feb 2009 08:09:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/02/my-favorite-web-app-google-reader/</guid>
+      <description>Google Reader is by far my favorite web application. I reorganized many of the labels as well as added/deleted some feeds. But I truly consider this app as my gateway to the Internet. I have it set as a tab that always opens up in any of my browsers.
+What makes it my favorite is that it collects all my favorite websites/blogs into one simple screen. I don&amp;rsquo;t care about actually visiting the website unless it has an article/blog post that I&amp;rsquo;m actually interested in commenting or reading comments on.</description>
+    </item>
+    
+    <item>
+      <title>I got  a Roomba for Christmas</title>
+      <link>https://sunpech.com/2009/02/i-got-a-roomba-for-christmas/</link>
+      <pubDate>Sun, 08 Feb 2009 23:06:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/02/i-got-a-roomba-for-christmas/</guid>
+      <description>For Christmas 2008, I got a iRobot 560 Roomba Vacuuming Robot, Black and Silveras a combined gift from my sisters and their boyfriends. I must say, that this is the best Xmas gift I&amp;rsquo;ve ever received other than the Nintendo Entertainment System (NES), around 1988-1989. Which was 20 years ago&amp;hellip; wow.
+
+The Roomba actually does a pretty decent job of cleaning my apartment. My apartment is about 620 sq ft and mostly carpet.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s next for Social Media?:  GPS-enabled applications</title>
+      <link>https://sunpech.com/2009/02/whats-next-for-social-media-gps-enabled-applications/</link>
+      <pubDate>Sat, 07 Feb 2009 19:17:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/02/whats-next-for-social-media-gps-enabled-applications/</guid>
+      <description>There are some really cool GPS applications out there that are about to push the boundaries of technology and social media as we know it. I remember years ago when I shared a link to Loopt with friends, pretty much everyone didn&amp;rsquo;t like the idea of sharing that much information with each other. Today, I already have a few friends jumping onto to use such an app. Google has now also released a similar application out called Google Latitude, but based on their Google login system.</description>
+    </item>
+    
+    <item>
+      <title>Basic Combinatorial Mathematics</title>
+      <link>https://sunpech.com/2009/01/basic-combinatorial-mathematics/</link>
+      <pubDate>Fri, 02 Jan 2009 11:58:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/01/basic-combinatorial-mathematics/</guid>
+      <description>I absolutely love reading CodingHorror.com. It&amp;rsquo;s easily one of my favorite blogs to read about problem solving from the viewpoint of a programming/developer. Recently, Jeff Atwood posted a problem:
+Let&#39;s say, hypothetically speaking, you met someone who told you they had two children, and one of them is a girl. What are the odds that person has a boy and a girl? I was surprised by the number of readers who responded who got it wrong, very wrong.</description>
+    </item>
+    
+    <item>
+      <title>Setting up WRT54G as a wireless bridge with DD-WRT</title>
+      <link>https://sunpech.com/2008/12/setting-up-wrt54g-as-a-wireless-bridge-with-dd-wrt/</link>
+      <pubDate>Wed, 24 Dec 2008 23:39:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/12/setting-up-wrt54g-as-a-wireless-bridge-with-dd-wrt/</guid>
+      <description>My parents have a Thai TV ethernet box of some kind so they can tune in to their Thai stations, shows, and even radio on their HDTV. However, I had to run a 50 foot CAT5 cable from the upstairs to the first floor great room, which is quite messy. So for Christmas this year, I bought them a Linksys-Cisco WRT54GL Wireless-G Broadband Router.
+The setup I wanted was to have the Thai TV box, which uses an ethernet port for all data, connect to the wireless router, and have the wireless router connect to the wireless router upstairs.</description>
+    </item>
+    
+    <item>
+      <title>My Favorite Firefox Add-ons</title>
+      <link>https://sunpech.com/2008/11/my-favorite-firefox-add-ons/</link>
+      <pubDate>Sun, 23 Nov 2008 00:26:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/11/my-favorite-firefox-add-ons/</guid>
+      <description>Firefox is my favorite web browser. In this day and age, I see no need to use Microsoft&amp;rsquo;s Internet Explorer (IE). Although I do like Google Chrome, it&amp;rsquo;s still not available for Linux yet. But this isn&amp;rsquo;t an entry about browsers and the pros and cons of each. (I do plan on writing about browsers and operating systems in the near future.)
+This is the list of add-ons that I install on any computer I use running Firefox.</description>
+    </item>
+    
+    <item>
+      <title>My Impressions of the G1 running Android</title>
+      <link>https://sunpech.com/2008/11/my-impressions-of-the-g1-running-android/</link>
+      <pubDate>Mon, 10 Nov 2008 22:37:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/11/my-impressions-of-the-g1-running-android/</guid>
+      <description>I&amp;rsquo;ve had my G1 for a few weeks now. My overall impressions are pretty good. I like the touch screen, I like the free applications available through the market app, and I definitely enjoy the web browsing experience on the 3G network over my old Blackberry Pearl on the EDGE network.
+But I do have a few complaints:
+ Battery Life is too short. I can maybe go for a maximum of 2 days without a recharge if I very minimal use of the phone.</description>
+    </item>
+    
+    <item>
+      <title>Installed Ubuntu Linux onto my Thinkpad T60</title>
+      <link>https://sunpech.com/2008/10/installed-ubuntu-linux-onto-my-thinkpad-t60/</link>
+      <pubDate>Wed, 29 Oct 2008 21:44:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/10/installed-ubuntu-linux-onto-my-thinkpad-t60/</guid>
+      <description>Last weekend I installed Ubuntu Linux onto my Lenovo Thinkpad T60 laptop. I wanted to keep Windos XP Professional installed, so I chose to dual-boot it using GRUB. I also upgraded the 40 GB hard drive to a 250 GB hard drive using a laptop hard drive upgrade kit. I copied the files over to the new drive, and then installed Ubuntu 8.04 (Hardy Heron) in another partition. It was amazingly simple.</description>
+    </item>
+    
+    <item>
+      <title>My First Blog Entry from my G1</title>
+      <link>https://sunpech.com/2008/10/my-first-blog-entry-from-my-g1/</link>
+      <pubDate>Tue, 21 Oct 2008 08:24:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/10/my-first-blog-entry-from-my-g1/</guid>
+      <description>My experience with the G1 has been pretty awesome so far. It arrived yesterday to my apartment&amp;rsquo;s front desk at 12:05pm. I didn&amp;rsquo;t get to it until about 5pm. I charged it and have been playing with it since. I&amp;rsquo;ll probably do a review of it later.</description>
+    </item>
+    
+    <item>
+      <title>T-mobile to ship G1 early?</title>
+      <link>https://sunpech.com/2008/10/t-mobile-to-ship-g1-early/</link>
+      <pubDate>Sun, 19 Oct 2008 18:59:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/10/t-mobile-to-ship-g1-early/</guid>
+      <description>As my friend Ben pointed out, it&amp;rsquo;s possible that our pre-ordered G1 phones will arrive earlier than expected. Tomorrow, Monday, October 20, 2008 to be exact. Upon checking my order status on UPS.com, I found the following:
+So it looks like my Google phone is here in Chicago, and is set to ship tomorrow!</description>
+    </item>
+    
+    <item>
+      <title>Getting the G1 in one week</title>
+      <link>https://sunpech.com/2008/10/getting-the-g1-in-one-week/</link>
+      <pubDate>Tue, 14 Oct 2008 19:37:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/10/getting-the-g1-in-one-week/</guid>
+      <description>Next week, on October 22, I should be getting my pre-ordered T-Mobile G1, in black. Sadly though, in order to pre-order this device, I had to extend my contract with T-Mobile until September 28, 2010. I found out the exact date by a letter they sent me thanking me for choosing to continue my relationship and extending my contract with them.
+Let me get one thing straight, I extended the contract only to get my hand on a device running Google Android.</description>
+    </item>
+    
+    <item>
+      <title>Using Google Docs as a Collaboration Tool</title>
+      <link>https://sunpech.com/2008/10/using-google-docs-as-a-collaboration-tool/</link>
+      <pubDate>Wed, 01 Oct 2008 23:49:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/10/using-google-docs-as-a-collaboration-tool/</guid>
+      <description>A few weeks ago I visited San Francisco (SF) for the first time with my baby sister. My sister was busy with law school, so the planning was mostly up to me, and I needed recommendations on what to do there. So I started a Google Docs for myself at first and then added collaborators to help edit it. These collaborators were all friends from SF.
+It then turned into a wiki-style collaboration document.</description>
+    </item>
+    
+    <item>
+      <title>The Math behind TinyURL</title>
+      <link>https://sunpech.com/2008/09/the-math-behind-tinyurl/</link>
+      <pubDate>Tue, 30 Sep 2008 00:33:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/09/the-math-behind-tinyurl/</guid>
+      <description>TinyURLis a website that condenses a submitted URL, usually a long one, into a short readable URL on tinyurl&amp;rsquo;s website. In turn, this shorter URL then redirects to the original url. This is quite handy.
+As of this writing, the text below their logo reads:
+Making long URLs usable! More than 90 million of them. Over 1.5 billion hits/month. From what I&amp;rsquo;ve seen, they only use letters and numbers. So that gives us 26 possible letters, which are not case-sensitive (in other words, &amp;ldquo;A&amp;rdquo; is the same as &amp;ldquo;a&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Best Free Software Recommendations for 2008</title>
+      <link>https://sunpech.com/2008/08/best-free-software-recommendations-for-2008/</link>
+      <pubDate>Sun, 31 Aug 2008 11:52:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/08/best-free-software-recommendations-for-2008/</guid>
+      <description>For almost ten years now, I still find myself fixing computers for friends. It&amp;rsquo;s not so much hardware these days as it is cleaning out viruses and installing software to handle a certain task. I don&amp;rsquo;t mind so much, but I just hope my friends learn something from what I do and explain rather than to just rely on me to fix everything for them each and every time.
+Anyway, for protecting a computer running Windows, an Antivirus software is required along with receiving regular updates.</description>
+    </item>
+    
+    <item>
+      <title>Facebook to become the new AOL?</title>
+      <link>https://sunpech.com/2008/08/facebook-to-become-the-new-aol/</link>
+      <pubDate>Wed, 20 Aug 2008 06:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/08/facebook-to-become-the-new-aol/</guid>
+      <description>I used to use Prodigy as my Internet Service Provider (ISP) back in the 1990s. It was fun to post to bulletin boards and participate in various discussions. I then jumped over to use America Online (AOL) because of it&amp;rsquo;s nicer interface, live chat rooms, email, instant messaging, buddy lists, and overall better features. To be honest, back then I used the Internet for two things: to talk about wrestling and find Dragonball Z pictures.</description>
+    </item>
+    
+    <item>
+      <title>Tapping into the Cloud</title>
+      <link>https://sunpech.com/2008/08/tapping-into-the-cloud/</link>
+      <pubDate>Tue, 12 Aug 2008 23:40:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/08/tapping-into-the-cloud/</guid>
+      <description>A few years ago I envisioned a world where computers would return back to acting more like terminal PCs connected to a mainframe. A world where accessing files/applications locally would be a thing of the past. In a way, that&amp;rsquo;s what Cloud Computing seems to be about. A user can be on any computer (albeit a PC, a Mac, or a Linux box), all that is required is Internet connection and a web browser, and the user can run most of his/her computing needs.</description>
+    </item>
+    
+    <item>
+      <title>Finished reading the Groundswell</title>
+      <link>https://sunpech.com/2008/07/finished-reading-the-groundswell/</link>
+      <pubDate>Fri, 18 Jul 2008 03:40:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/07/finished-reading-the-groundswell/</guid>
+      <description>I just finished reading Groundswell: Winning in a World Transformed by Social Technologies. Probably one of the best books I&amp;rsquo;ve read this year thus far.
+ What Is Groundswell? It&#39;s a book by two Forrester analysts with practical, data-based strategies for companies that want to harness the power of social technologies like blogs, social networks, and YouTube. (source: Forrester) I absolutely love reading case studies in these IT Business books. I finished my MS in Information Systems 2 years ago last month.</description>
+    </item>
+    
+    <item>
+      <title>Where is the Blogger Community?</title>
+      <link>https://sunpech.com/2008/05/where-is-the-blogger-community/</link>
+      <pubDate>Tue, 06 May 2008 20:42:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/05/where-is-the-blogger-community/</guid>
+      <description>I recently started a new blog over at Vox.com after my older sister recommended me the site after a friend of hers recommended it to her. It&amp;rsquo;s a social blogging website that emphasizes on the concept of a neighborhood; essentially socializing with other people with common interests, etc.
+Anyway, I still really like Blogger, but where the heck is the community? I&amp;rsquo;m sure I can search for it through Google, but can&amp;rsquo;t there be some kind of interface that can help users find each other?</description>
+    </item>
+    
+    <item>
+      <title>Yellow Dog Linux on my PS3</title>
+      <link>https://sunpech.com/2008/02/yellow-dog-linux-on-my-ps3/</link>
+      <pubDate>Sun, 24 Feb 2008 12:02:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/02/yellow-dog-linux-on-my-ps3/</guid>
+      <description>Over the weekend, mostly on Saturday I spent doing 2 main things:
+ Tried to install Microsoft Visual Studio .Net 2008 onto my Lenovo Thinkpad T60 laptop Installed Linux onto my PS3  The development tool installation didn&amp;rsquo;t take well at all, but the Linux install went very well, a bit long to download, install, and configure everything, but overall very well. The distro I chose was Yellow Dog Linux, specifically for the PS3.</description>
+    </item>
+    
+    <item>
+      <title>Belkin&#39;s Pre N Router Laggy on PS3 network</title>
+      <link>https://sunpech.com/2008/02/belkins-pre-n-router-laggy-on-ps3-network/</link>
+      <pubDate>Sun, 10 Feb 2008 12:09:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/02/belkins-pre-n-router-laggy-on-ps3-network/</guid>
+      <description>I&amp;rsquo;ve spent the better part of this cold weekend indoors trying to configure my PS3 to work on the Playstation Network. My problem was that I would get lag when playing Puzzle Fighter 3 Turbo HD Remix. I&amp;rsquo;ve been using the Belkin Pre-N Router for the past few months for everything but gaming and have been content with it. But frankly, it doesn&amp;rsquo;t play well with my PS3! I went to portforward.</description>
+    </item>
+    
+    <item>
+      <title>PS3 and Bluray is the way to go... for now</title>
+      <link>https://sunpech.com/2008/01/ps3-and-bluray-is-the-way-to-go...-for-now/</link>
+      <pubDate>Tue, 29 Jan 2008 23:50:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/01/ps3-and-bluray-is-the-way-to-go...-for-now/</guid>
+      <description>I&amp;rsquo;m a PS3 owner, but mostly for the opposite reasons according to a co-worker. Most people own a PS3 for the games and then the blu-ray movies is a big plus. I like it for the blu-ray movie playing ability, and then the games are a plus. And with the recent announcement that Warner is going to be blu-ray exclusive too, it pretty much seals the fate of the HDDVD.</description>
+    </item>
+    
+    <item>
+      <title>Best Free Software of 2008 (so far)</title>
+      <link>https://sunpech.com/2008/01/best-free-software-of-2008-so-far/</link>
+      <pubDate>Sun, 27 Jan 2008 10:29:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/01/best-free-software-of-2008-so-far/</guid>
+      <description>I find myself reinstalling software on another friend&amp;rsquo;s laptop yet again. What was the problem? Computer virii, trojan horses, adware, and spyware made the system unstable. How did it get this way? Overall, it&amp;rsquo;s because of not having a good understanding of computers, but in particular, peer-to-peer(P2P) programs such as BearShare.
+Here is a list of the most common FREE programs I recommend for typical users:
+ Antivirus: Avast Home Edition or AVG Free Firewall: Comodo Firewall Web Browser: Mozilla Firefox Spyware detection: Microsoft Defender Image Editing: Paint.</description>
+    </item>
+    
+  </channel>
+</rss>

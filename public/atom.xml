@@ -1,0 +1,18 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  
+  <title>sunpech.com</title>
+  <link href="https://sunpech.com/atom.xml" rel="self"/>
+  <link type="text/html" href="https://sunpech.com/" rel="alternate" />
+  <updated>2019-08-31T00:00:00+00:00</updated>
+  <id>https://sunpech.com/</id>
+  <icon>https://sunpech.com/favicon.ico</icon>
+  <generator>Hugo -- gohugo.io</generator>
+  <entry>
+    <title type="html"><![CDATA[Posts]]></title>
+    <link rel="alternate" type="text/html" href="https://sunpech.com/posts/"/>
+    <id>https://sunpech.com/posts/</id>
+    <published>2019-08-31T00:00:00+00:00</published>
+    <updated>2019-08-31T00:00:00+00:00</updated>
+    <content type="html"><![CDATA[]]></content>
+  </entry>
+</feed>

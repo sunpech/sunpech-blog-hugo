@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singapore on sunpech.com</title>
+    <link>https://sunpech.com/tags/singapore/</link>
+    <description>Recent content in Singapore on sunpech.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>steven@sunpech.com (Steven Suwatanapongched)</managingEditor>
+    <webMaster>steven@sunpech.com (Steven Suwatanapongched)</webMaster>
+    <lastBuildDate>Sat, 30 Apr 2011 16:21:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sunpech.com/tags/singapore/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trip to Singapore</title>
+      <link>https://sunpech.com/2011/04/trip-to-singapore/</link>
+      <pubDate>Sat, 30 Apr 2011 16:21:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/04/trip-to-singapore/</guid>
+      <description>I went to Singapore over the weekend (April 21-25) for Red Dot Ruby Conf. It was my first time to Singapore. I didn&amp;rsquo;t travel around too much, as I was in a conference for two full days (Friday and Saturday).
+Some things I noticed about Singapore:
+ No mosquitoes Hot and humid like Bangkok, but more pleasant Plenty of jay-walkers Seems the major things to do are shop and eat 3G is everywhere, generally very good Singlish takes some getting used to Singapore is full of folks from everywhere Super clean everywhere No traffic-- seems well managed  I ate out often at hawker centers.</description>
+    </item>
+    
+    <item>
+      <title>APN Info for Singtel&#39;s 3G in Singapore</title>
+      <link>https://sunpech.com/2011/04/apn-info-for-singtels-3g-in-singapore/</link>
+      <pubDate>Mon, 25 Apr 2011 06:07:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/04/apn-info-for-singtels-3g-in-singapore/</guid>
+      <description>I wanted to write a quick post on my experience with getting a SIM card in Singapore.
+When I arrived to Changi Airport, I immediately went to get a SIM card from a money exchange booth. They seemed to only offer prepaid SIM cards in $50, $100, and $150 SGD if I&amp;rsquo;m not mistaken. Since I was only staying for 4 days, I chose the smallest one: $50 SGD.</description>
+    </item>
+    
+    <item>
+      <title>Red Dot Ruby Conf 2011</title>
+      <link>https://sunpech.com/2011/04/red-dot-ruby-conf-2011/</link>
+      <pubDate>Sat, 23 Apr 2011 21:18:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/04/red-dot-ruby-conf-2011/</guid>
+      <description>As part of my trip back to the US, I attended Red Dot Ruby Conf 2011 on April 22-23, 2011. This event takes place in Singapore, at the Singapore Management University (SMU).
+I had an awesome time. I enjoy going to these social technology events. Got a chance to talk and hang out with a lot of smart folks. I really enjoy the Ruby/Rails community
+Quick summary of the talks from the two days:</description>
+    </item>
+    
+  </channel>
+</rss>

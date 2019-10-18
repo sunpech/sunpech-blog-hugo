@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="icon" href="/favicon.ico">
+
+<title>Installing Thai fonts onto an Android device | sunpech.com</title>
+
+
+<link href='/atom.xml' rel="alternate" type="application/atom+xml" title="sunpech.com" />
+
+
+<link href="/css/bootstrap.min.css" rel="stylesheet" />
+
+
+<link href="/css/fontawesome.min.css" rel="stylesheet" />
+<script defer src="/js/all.min.js"></script>
+
+
+<link href="/css/basic.css" rel="stylesheet"> 
+<link href="/css/custom.css" rel="stylesheet">
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-126684-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-126684-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+
+<meta property="og:title" content="Installing Thai fonts onto an Android device" />
+<meta property="og:description" content="I&rsquo;ve received numerous requests asking for help on how to install Thai fonts onto an Android device after my initial post on Rooting my Nexus One and installing Thai fonts. Since I do update my Android phone with the CyanogenMod ROM quite often (which wipes the Thai fonts on each install), I thought I&rsquo;d share a simple shell script to help get Thai fonts onto Android.
+This post does not cover how to root an Android device." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://sunpech.com/2010/08/installing-thai-fonts-onto-an-android-device/" />
+
+<meta property="og:image" content="https://sunpech.com/images/default-image.jpg" />
+<meta property="article:published_time" content="2010-08-30T09:00:00-05:00" />
+<meta property="article:modified_time" content="2010-08-30T09:00:00-05:00" /><meta property="og:site_name" content="sunpech.com" />
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://sunpech.com/images/default-image.jpg"/>
+
+<meta name="twitter:title" content="Installing Thai fonts onto an Android device"/>
+<meta name="twitter:description" content="I&rsquo;ve received numerous requests asking for help on how to install Thai fonts onto an Android device after my initial post on Rooting my Nexus One and installing Thai fonts. Since I do update my Android phone with the CyanogenMod ROM quite often (which wipes the Thai fonts on each install), I thought I&rsquo;d share a simple shell script to help get Thai fonts onto Android.
+This post does not cover how to root an Android device."/>
+</head>
+  <body>
+<nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+  <div class="container">
+    
+    <a class="navbar-brand" href="/"><i class="fas fa-laptop"></i>&nbsp;&nbsp;sunpech.com</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav mr-auto">
+        
+        
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/posts/" title="Posts page">
+              Posts
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/best/" title="Best page">
+              Best
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/affiliates/" title="Affiliates page">
+              Affiliates
+            </a>
+          </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+
+  
+
+
+  
+
+<header class="masthead" style="background-image: url('/images/headers/android.jpg')">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 mx-auto">
+        <div class="site-heading">
+          <h1>Installing Thai fonts onto an Android device</h1>
+          <span class="meta">
+            Posted on August 30, 2010 by Steven Suwatanapongched<br/>
+          </span>
+          <span class="post-tag-light">
+            
+            
+            <i class="fa fa-tags"></i>
+            
+              <a href="/tags/technology" style="color: #FFF">Technology</a>,&nbsp;
+            
+              <a href="/tags/android" style="color: #FFF">Android</a>,&nbsp;
+            
+              <a href="/tags/guide" style="color: #FFF">Guide</a>
+            
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+      
+    <main role="main">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12">
+  
+
+<p>I&rsquo;ve received numerous requests asking for help on how to install Thai fonts onto an Android device after my initial post on <a href="/2010/01/rooting-my-nexus-one-and-installing">Rooting my Nexus One and installing Thai fonts</a>.  Since I do update my Android phone with the <a href="http://www.cyanogenmod.com/">CyanogenMod ROM</a> quite often (which wipes the Thai fonts on each install), I thought I&rsquo;d share a simple shell script to help get Thai fonts onto Android.</p>
+
+<p>This post <b>does not cover how to root an Android device</b>.  I will leave that to you to figure out.  But if you happen to have a Nexus One like me, check out the following link: <a href="http://androidandme.com/2010/01/hacks/video-how-to-unlock-and-root-a-nexus-one/">Video: How to unlock and root a Nexus One</a>.</p>
+
+<p>Also, you will need to have the <a href="http://developer.android.com/sdk/index.html">Android SDK</a> on your system (hopefully Mac or Linux&ndash; which is what the script is written for, although for Windows it won&rsquo;t be hard to figure out what commands need to be run&ndash; hint: use .\adb.exe instead of ./adb  in DOS or whatever command prompt and skip the shell script).</p>
+
+<p>Those are the <u>two prerequisites</u> to installing Thai fonts: <b>a rooted device </b>and<b> the Android SDK </b>on your system.  Oh, and I guess how to run some basic knowledge of the command line in a shell (Terminal).</p>
+
+<h4 id="instructions">Instructions</h4>
+
+<ol>
+  <li>Attach your Android device to your computer via USB and mount it.</li>
+  <li>Download: <a href="http://www.mediafire.com/?464j2791iccuan9"><b>InstallThaiFontsOntoAndroid.zip</b></a>. </li>
+  <li>
+      Unzip it and you will see a folder.
+
+    <a href="http://1.bp.blogspot.com/_7U5MdumP-no/THt8iBDVVQI/AAAAAAAAWWA/ppE6gy3cFIw/s600/Screen+shot+2010-08-30+at+4.40.01+AM.png" alt="" ><img   border="0" height="158" src="http://1.bp.blogspot.com/_7U5MdumP-no/THt8iBDVVQI/AAAAAAAAWWA/ppE6gy3cFIw/s400/Screen+shot+2010-08-30+at+4.40.01+AM.png" alt=""  /></a>
+
+    The contents of the folder should be placed in the <i>tools folder</i> of the Android SDK where adb is.
+
+    <a href="http://4.bp.blogspot.com/_7U5MdumP-no/THt3wnkUvrI/AAAAAAAAWV0/kbDhyy2OiBA/s600/Screen+shot+2010-08-30+at+4.19.06+AM.png" alt=""><img   border="0" height="145" src="http://4.bp.blogspot.com/_7U5MdumP-no/THt3wnkUvrI/AAAAAAAAWV0/kbDhyy2OiBA/s400/Screen+shot+2010-08-30+at+4.19.06+AM.png" alt=""  /></a>
+
+    <a href="http://4.bp.blogspot.com/_7U5MdumP-no/THt4gn4_XCI/AAAAAAAAWV4/hw9ChuVl1d0/s600/Screen+shot+2010-08-30+at+4.22.30+AM.png" alt=""><img   border="0" height="285" src="http://4.bp.blogspot.com/_7U5MdumP-no/THt4gn4_XCI/AAAAAAAAWV4/hw9ChuVl1d0/s400/Screen+shot+2010-08-30+at+4.22.30+AM.png" alt=""  /></a>
+  </li>
+  <li>
+    Open up a Terminal (Applications-&gt;Utilities-&gt;Terminal.app) and go into the directory where your android SDK and go into the folder: <i>tools</i>.
+
+    <a href="http://3.bp.blogspot.com/_7U5MdumP-no/THt6S0SffzI/AAAAAAAAWV8/oRgkGqYEnCs/s600/Screen+shot+2010-08-30+at+4.30.23+AM.png" alt=""><img   border="0" height="210" src="http://3.bp.blogspot.com/_7U5MdumP-no/THt6S0SffzI/AAAAAAAAWV8/oRgkGqYEnCs/s400/Screen+shot+2010-08-30+at+4.30.23+AM.png" alt=""  /></a>
+  </li>
+  <li>
+    You can test to make sure that your device is connected by the following command in the terminal:
+
+    <blockquote>
+      <pre>
+./adb devices
+      </pre>
+    </blockquote>
+  </li>
+  <li>
+    And to mount it:
+
+    <blockquote>
+      <pre>
+./adb remount
+      </pre>
+    </blockquote>
+  </li>
+  <li>
+    Make sure that the script, install_thai_fonts.sh, is executeable by running:
+
+    <blockquote>
+      <pre>
+chmod +x install_thai_fonts.sh
+      </pre>
+    </blockquote>
+  </li>
+  <li>
+    <ul>
+    <li>
+    <b>[Recommended]</b> Now you are ready to run the shell script to install the six fonts onto the device.
+
+    <blockquote>
+      <pre>
+./install_thai_fonts.sh
+      </pre>
+    </blockquote>
+
+    <i>Or, if you don't wish to run the shell script...</i>
+    </li>
+    <li>
+    <b>[Alternate]</b> Run the following line by line (you can copy &amp; paste them line by line into Terminal):
+
+    <blockquote>
+      <pre>
+./adb push ./fonts/DroidSans.ttf /system/fonts/DroidSans.
+
+./adb push ./fonts/DroidSans-Bold.ttf /system/fonts/DroidSans-Bold.ttf
+
+./adb push ./fonts/DroidSerif-Bold.ttf /system/fonts/DroidSerif-Bold.ttf
+
+./adb push ./fonts/DroidSerif-BoldItalic.ttf /system/fonts/DroidSerif-BoldItalic.ttf
+
+./adb push ./fonts/DroidSerif-Italic.ttf /system/fonts/DroidSerif-Italic.ttf
+
+./adb push ./fonts/DroidSerif-Regular.ttf /system/fonts/DroidSerif-Regular.ttf
+      </pre>
+    </blockquote>
+    </li>
+    </ul>
+    If there were no error messages, then you should now have the Thai fonts on the Android device.
+  </li>
+  <li>
+    <b>Reboot</b> and you will see Thai on webpages, SMS, and files names that are in Thai.
+  </li>
+</ol>
+
+<p><a href="http://2.bp.blogspot.com/_7U5MdumP-no/THsv9JiqFhI/AAAAAAAAWVQ/IgkgPKQu6Ag/s600/IMG_2253.jpg" alt=""><img   border="0"  src="http://2.bp.blogspot.com/_7U5MdumP-no/THsv9JiqFhI/AAAAAAAAWVQ/IgkgPKQu6Ag/s640/IMG_2253.jpg" alt="" /></a></p>
+
+
+          </div>
+        </div>
+      </div>
+    </main>
+<footer class="container">
+  <div class="row">
+    <div class="col-lg-12 col-md-12">
+      <hr />
+      <ul class="list-inline" style="font-size: 2em">
+        <li class="list-inline-item">
+          <a href="https://twitter.com/sunpech">
+            <i class="fab fa-twitter social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://instagram.com/sunpech">
+            <i class="fab fa-instagram social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://facebook.com/sunpechphotography">
+            <i class="fab fa-facebook-f social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://flickr.com/photos/sunpech">
+            <i class="fab fa-flickr social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://github.com/sunpech">
+            <i class="fab fa-github social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="/atom.xml">
+            <i class="fas fa-rss social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+      </ul>
+      
+      <p class="copyright text-muted">Copyright &copy; 2019 Sunpech Suwatanapongched</p>
+      
+    </div>
+  </div>
+  </footer>
+
+  
+  
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-slim.min.js"><\/script>')</script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script></body>
+</html>

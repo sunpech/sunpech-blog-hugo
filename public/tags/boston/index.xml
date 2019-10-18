@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boston on sunpech.com</title>
+    <link>https://sunpech.com/tags/boston/</link>
+    <description>Recent content in Boston on sunpech.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>steven@sunpech.com (Steven Suwatanapongched)</managingEditor>
+    <webMaster>steven@sunpech.com (Steven Suwatanapongched)</webMaster>
+    <lastBuildDate>Mon, 01 Nov 2010 09:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sunpech.com/tags/boston/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boston University&#39;s CS lab in 2001 and 2010</title>
+      <link>https://sunpech.com/2010/11/boston-universitys-cs-lab-in-2001-and-2010/</link>
+      <pubDate>Mon, 01 Nov 2010 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/11/boston-universitys-cs-lab-in-2001-and-2010/</guid>
+      <description>In September 2010, I had the opportunity to visit Boston as part of my All-You-Can-Jet pass from JetBlue. As part of my trip out there, I visited Boston University, where I attended as an undergraduate from 1997 to 2001. While visiting the campus, I took some pictures of the undergraduate CS lab, where I worked long long ago. Different, but yet the same!
+Back in 2001: Windows machines running Windows 2000 Prof.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="icon" href="/favicon.ico">
+
+<title>Installing Windows 8 Pro on Parallels Desktop 8 | sunpech.com</title>
+
+
+<link href='/atom.xml' rel="alternate" type="application/atom+xml" title="sunpech.com" />
+
+
+<link href="/css/bootstrap.min.css" rel="stylesheet" />
+
+
+<link href="/css/fontawesome.min.css" rel="stylesheet" />
+<script defer src="/js/all.min.js"></script>
+
+
+<link href="/css/basic.css" rel="stylesheet"> 
+<link href="/css/custom.css" rel="stylesheet">
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-126684-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-126684-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+
+<meta property="og:title" content="Installing Windows 8 Pro on Parallels Desktop 8" />
+<meta property="og:description" content="Last week I went to a Microsoft launch event, New Era of Work, and got a free copy of Windows 8 Pro. I had already tried Windows 8 Preview as well as have Windows 7 Ultimate running as a virtual machines (VMs) through Parallels Desktop on my Macbook Pro (MBP). I didn&rsquo;t like the preview edition that much, so I uninstalled it after a few days. But after attending the event, I thought I&rsquo;d give it another look." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://sunpech.com/2012/11/installing-windows-8-pro-on-parallels-desktop-8/" />
+
+<meta property="og:image" content="https://sunpech.com/images/default-image.jpg" />
+<meta property="article:published_time" content="2012-11-05T17:34:00-06:00" />
+<meta property="article:modified_time" content="2012-11-05T17:34:00-06:00" /><meta property="og:site_name" content="sunpech.com" />
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://sunpech.com/images/default-image.jpg"/>
+
+<meta name="twitter:title" content="Installing Windows 8 Pro on Parallels Desktop 8"/>
+<meta name="twitter:description" content="Last week I went to a Microsoft launch event, New Era of Work, and got a free copy of Windows 8 Pro. I had already tried Windows 8 Preview as well as have Windows 7 Ultimate running as a virtual machines (VMs) through Parallels Desktop on my Macbook Pro (MBP). I didn&rsquo;t like the preview edition that much, so I uninstalled it after a few days. But after attending the event, I thought I&rsquo;d give it another look."/>
+</head>
+  <body>
+<nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+  <div class="container">
+    
+    <a class="navbar-brand" href="/"><i class="fas fa-laptop"></i>&nbsp;&nbsp;sunpech.com</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav mr-auto">
+        
+        
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/posts/" title="Posts page">
+              Posts
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/best/" title="Best page">
+              Best
+            </a>
+          </li>
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/affiliates/" title="Affiliates page">
+              Affiliates
+            </a>
+          </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+
+  
+
+
+  
+
+<header class="masthead" style="background-image: url('/images/headers/technology.jpg')">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 mx-auto">
+        <div class="site-heading">
+          <h1>Installing Windows 8 Pro on Parallels Desktop 8</h1>
+          <span class="meta">
+            Posted on November 5, 2012 by Steven Suwatanapongched<br/>
+          </span>
+          <span class="post-tag-light">
+            
+            
+            <i class="fa fa-tags"></i>
+            
+              <a href="/tags/technology" style="color: #FFF">Technology</a>,&nbsp;
+            
+              <a href="/tags/guide" style="color: #FFF">Guide</a>
+            
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+      
+    <main role="main">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12">
+  <p>Last week I went to a Microsoft launch event, <a href="http://www.microsoft.com/enterprise/events/theneweraofwork/default.aspx">New Era of Work</a>, and got a <i>free</i> copy of Windows 8 Pro. I had already tried Windows 8 Preview as well as have Windows 7 Ultimate running as a virtual machines (VMs) through <a href="http://www.parallels.com/products/desktop/">Parallels Desktop</a> on my Macbook Pro (MBP). I didn&rsquo;t like the preview edition that much, so I uninstalled it after a few days. But after attending the event, I thought I&rsquo;d give it another look.</p>
+
+<p><i>Please note that the latest PC I own is a Lenovo Thinkpad T60 from 2006, which the wireless card just broke the other day. </i>So my MBP from 2010 is the latest hardware I own.</p>
+
+<p><img   border="0" src="http://4.bp.blogspot.com/-l3pToD2O5l0/UJhCTG6KgvI/AAAAAAABVlQ/jYSsgAd8pow/s400/IMG_20121105_144324.jpeg"  /></p>
+
+<p>The problems is that the current Parallels (version 8) does not support <i>upgrading</i> from any Windows OS to Windows 8. Here is the screenshot of what Parallels sent to me via email:</p>
+
+<p><img   border="0"  src="http://4.bp.blogspot.com/-ZVlD_LN1QLY/UJhLBsHm18I/AAAAAAABVl4/k9TsqIUU0-4/s400/Screen+Shot+2012-11-05+at+3.04.49+PM.png" alt=""  /></p>
+
+<p>I learned this the hard way when I installed a preview edition of Win8 and upgraded to Win8 Pro, and things were just wacky. The following was screwed up:
+<ol>
+  <li>Screen resolution was not fully supported. I have a 2560x1440 native res that wasn&rsquo;t supported&ndash; instead I had to run it at 1920x1400, which was pretty sub-optimal.</li>
+  <li>The path to the shared home folders was not supported. I couldn&rsquo;t access my Mac&rsquo;s home folder of \psf\Home, which is an inconvenience.</li>
+</ol></p>
+
+<p>The preview edition of Win8 ran better than the upgraded Win8 on Parallels Desktop through the upgrade! There&rsquo;s no way I was going to try upgrading my Win7 Ultimate that already runs just fine!
+But there&rsquo;s a workaround. If you do a full install, it should run just fine. Here&rsquo;s how:
+Through Parallels 8, I&rsquo;m not sure about previous versions, you have an option to install other virtual machines to whatever you already have. From the virtual machines list, click on new.</p>
+
+<p><img   border="0" src="http://3.bp.blogspot.com/-6-bQJU6nUqI/UJhEf6IJWsI/AAAAAAABVlk/WXdmsmKu6yY/s400/Screen+Shot+2012-11-05+at+2.57.07+PM.png" alt="" /></p>
+
+<p>The window that opens up should allow you to download and install a preview edition of Windows 8 for free. Do that and pick whatever architecture you want (32 or 64 bit). I chose 64 bit and highly recommend that.</p>
+
+<p><img   border="0" src="http://2.bp.blogspot.com/-LyTYu4sNnLg/UJhEg56336I/AAAAAAABVls/0aUPFR_nHcU/s400/Screen+Shot+2012-11-05+at+2.57.29+PM.png" alt="" /></p>
+
+<p>Let it download and install fully. From here, as per the instruction given to me from my copy of Windows 8 Pro, go to: <a href="http://www.windows.com/nfrdownload">http://www.windows.com/nfrdownload</a>. Follow the instructions there to begin the download process of Win8 Pro. Once that finishes the download, there should be a screen that comes up that asks where to proceed with some options.</p>
+
+<p><b>Choose to save the Win8 Pro as an ISO on your local computer to install later.</b> Do not choose to install immediately!</p>
+
+<p>Once you have the ISO saved, you can do a full install of Win8 Pro from that. At this point you can go ahead and delete the Win8  preview VM you just installed on your Mac.</p>
+
+<p>Now you can install Win8 Pro from the newly downloaded ISO. The product key I had worked. If the product key you were given was for an upgrade only, there are workarounds for that even&ndash; via some registry edit. See: <a href="http://www.guidingtech.com/16405/probable-fix-activating-windows-8-clean-install/">Probable Fix: Problem in Activating Windows 8 After Clean Install</a></p>
+
+<p>Note, this is all because Parallels 8 currently doesn&rsquo;t have a clean upgrade path for current Windows OSes. Once that fix is made, then this is probably the only way to get Windows 8 Pro to run on Parallels on your Mac OS X.</p>
+
+
+          </div>
+        </div>
+      </div>
+    </main>
+<footer class="container">
+  <div class="row">
+    <div class="col-lg-12 col-md-12">
+      <hr />
+      <ul class="list-inline" style="font-size: 2em">
+        <li class="list-inline-item">
+          <a href="https://twitter.com/sunpech">
+            <i class="fab fa-twitter social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://instagram.com/sunpech">
+            <i class="fab fa-instagram social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://facebook.com/sunpechphotography">
+            <i class="fab fa-facebook-f social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://flickr.com/photos/sunpech">
+            <i class="fab fa-flickr social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://github.com/sunpech">
+            <i class="fab fa-github social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="/atom.xml">
+            <i class="fas fa-rss social-media-icon fa-lg" data-fa-transform="shrink-6" data-fa-mask="fas fa-square"></i>
+          </a>
+        </li>
+      </ul>
+      
+      <p class="copyright text-muted">Copyright &copy; 2019 Sunpech Suwatanapongched</p>
+      
+    </div>
+  </div>
+  </footer>
+
+  
+  
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-slim.min.js"><\/script>')</script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script></body>
+</html>

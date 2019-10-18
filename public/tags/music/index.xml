@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on sunpech.com</title>
+    <link>https://sunpech.com/tags/music/</link>
+    <description>Recent content in Music on sunpech.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>steven@sunpech.com (Steven Suwatanapongched)</managingEditor>
+    <webMaster>steven@sunpech.com (Steven Suwatanapongched)</webMaster>
+    <lastBuildDate>Mon, 08 Aug 2011 18:27:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sunpech.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why I&#39;m excited about Spotify</title>
+      <link>https://sunpech.com/2011/08/why-im-excited-about-spotify/</link>
+      <pubDate>Mon, 08 Aug 2011 18:27:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/08/why-im-excited-about-spotify/</guid>
+      <description>I&#39;m so excited and I just can&#39;t hide it. - Pointer Sisters (reference)  I&amp;rsquo;ve been using Spotify now for a few weeks already. I&amp;rsquo;ve enjoyed it so much I upgraded to a premium account the very same day I signed up for it, so I could enjoy it on my mobile smartphone. Overall it&amp;rsquo;s been a great service that I use almost daily. For a long time I&amp;rsquo;ve been waiting for music to hit the cloud, and this year alone it&amp;rsquo;s really been a hit.</description>
+    </item>
+    
+    <item>
+      <title>LaLa.com: A Better Alternative to iTunes</title>
+      <link>https://sunpech.com/2009/05/lala.com-a-better-alternative-to-itunes/</link>
+      <pubDate>Mon, 18 May 2009 11:32:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/05/lala.com-a-better-alternative-to-itunes/</guid>
+      <description>Several years ago, I tried out iTunes and really enjoyed the experience. I came from a Winamp background and really liked having a fast loading application. On top of that, I am a computer geek, so I already know where all my files are on the OS filesystem.
+Anyway, after using iTunes for a little over a year and hundreds of songs purchased later, it was starting up slower and slower.</description>
+    </item>
+    
+    <item>
+      <title>My new mp3 player: Sansa e280</title>
+      <link>https://sunpech.com/2007/11/my-new-mp3-player-sansa-e280/</link>
+      <pubDate>Sun, 04 Nov 2007 10:29:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2007/11/my-new-mp3-player-sansa-e280/</guid>
+      <description>I got myself a new mp3 player, the Sansa e280. I used to have an Apple iPod mini, but the battery life on that device was just horrible after less than one year. I was thinking of getting a new Ipod, but I was sick of Apple&amp;rsquo;s proprietary music format. I love iTunes, but it&amp;rsquo;s a bit bloated. So now I use either plain old winamp or the relatively new open source, Songbird.</description>
+    </item>
+    
+  </channel>
+</rss>

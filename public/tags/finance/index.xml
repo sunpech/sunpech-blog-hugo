@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finance on sunpech.com</title>
+    <link>https://sunpech.com/tags/finance/</link>
+    <description>Recent content in Finance on sunpech.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>steven@sunpech.com (Steven Suwatanapongched)</managingEditor>
+    <webMaster>steven@sunpech.com (Steven Suwatanapongched)</webMaster>
+    <lastBuildDate>Wed, 16 Oct 2019 17:00:34 -0500</lastBuildDate>
+    
+	<atom:link href="https://sunpech.com/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>M1 Finance</title>
+      <link>https://sunpech.com/2019/10/m1-finance/</link>
+      <pubDate>Wed, 16 Oct 2019 17:00:34 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2019/10/m1-finance/</guid>
+      <description>Lately I&amp;rsquo;ve been spending a lot of time reading books and watching youTube videos on investing. For years I&amp;rsquo;ve heard a lot about the Robinhood and Acorns apps, but there was nothing about them that made me want to try them out, or move away from my traditional brokerages. It&amp;rsquo;s great that they have mobile apps and free trades for young investors and beginners, but I&amp;rsquo;d rather do my investments carefully on the desktop browser.</description>
+    </item>
+    
+  </channel>
+</rss>

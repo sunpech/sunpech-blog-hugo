@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guide on sunpech.com</title>
+    <link>https://sunpech.com/tags/guide/</link>
+    <description>Recent content in Guide on sunpech.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>steven@sunpech.com (Steven Suwatanapongched)</managingEditor>
+    <webMaster>steven@sunpech.com (Steven Suwatanapongched)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2015 09:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sunpech.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Format your Hard Drive into exFAT</title>
+      <link>https://sunpech.com/2015/12/how-to-format-your-hard-drive-into-exfat/</link>
+      <pubDate>Tue, 01 Dec 2015 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/12/how-to-format-your-hard-drive-into-exfat/</guid>
+      <description>With Black Friday and Cyber Monday behind us and the upcoming holidays upon us, some of you may be getting a new external hard drive(s) for your Mac or Windows system(s). I wanted to write up a guide on how to format your drive into exFAT, the format that is well supported and ideal for many cases.
+The Benefits of exFAT A few years ago, I wrote about how hard drives marketed to Apple devices are over-priced and are functionally the same as their Windows counterpart.</description>
+    </item>
+    
+    <item>
+      <title>LastPass Password Manager</title>
+      <link>https://sunpech.com/2015/06/lastpass-password-manager/</link>
+      <pubDate>Fri, 19 Jun 2015 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/06/lastpass-password-manager/</guid>
+      <description>Earlier this week news broke that LastPass had been hacked. They released a blog post: LastPass Security Notice.
+I still believe that LastPass is a great service.
+I don&amp;rsquo;t hold it against them for not getting an email right away. I found out about the issue from social media&amp;ndash; basically word-of-mouth. Which to be honest, I&amp;rsquo;m fine with. I&amp;rsquo;m just glad that when there is a problem that Internet people bring it up and share it right away.</description>
+    </item>
+    
+    <item>
+      <title>Map Your Mouse&#39;s Back and Forward Buttons on a Mac</title>
+      <link>https://sunpech.com/2015/04/map-your-mouses-back-and-forward-buttons-on-a-mac/</link>
+      <pubDate>Thu, 09 Apr 2015 10:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/04/map-your-mouses-back-and-forward-buttons-on-a-mac/</guid>
+      <description>I&amp;rsquo;ve been using OS X as my main OS for almost five years now. But one thing that&amp;rsquo;s bugged me for a while was the lack of support for Logitech and other mice&amp;rsquo;s forward and back buttons. These are mouse shortcut buttons found on many gaming mice. As much as I enjoy Apple&amp;rsquo;s trackpad, I still like to use the mouse for gaming and other things.
+Here&amp;rsquo;s a picture of my mouse with the buttons that under Windows, normally maps to forward and back in the web browser.</description>
+    </item>
+    
+    <item>
+      <title>Converting Your VHS and Betamax Tapes to Digital</title>
+      <link>https://sunpech.com/2014/06/converting-your-vhs-and-betamax-tapes-to-digital/</link>
+      <pubDate>Mon, 23 Jun 2014 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2014/06/converting-your-vhs-and-betamax-tapes-to-digital/</guid>
+      <description>I&amp;rsquo;ve started a new initiative to help my parents convert all their VHS and Betamax tapes over into the digital world. These tapes are those precious family home videos. These are mostly tapes from the 1970s, 80s, 90s, and even part of the early 2000s.
+In today&amp;rsquo;s times we should all be capturing everything in digital format already. From DSLRs, HD camcorders, to even our smartphones. We just need a way to bring the past thirty plus years of our lives into the modern age.</description>
+    </item>
+    
+    <item>
+      <title>Removing a HDD from a Western Digital Elements USB Drive</title>
+      <link>https://sunpech.com/2014/02/removing-a-hdd-from-a-western-digital-elements-usb-drive/</link>
+      <pubDate>Mon, 03 Feb 2014 11:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2014/02/removing-a-hdd-from-a-western-digital-elements-usb-drive/</guid>
+      <description>I have an old Western Digital Elements External USB HDD&amp;nbsp;(3TB)&amp;nbsp;that that mostly sits on my shelf since I&amp;rsquo;ve moved my data onto a formal network area storage (NAS). After doing some research, it turns out that these external USB hard drives actually have full 3.5&amp;rdquo; SATA hard drive inside! All you need to do is pry open the back with a knife or flathead screwdriver and remove the hard drive, and remove the USB adapter.</description>
+    </item>
+    
+    <item>
+      <title>Fixing an Android Error Message - Error retrieving information from server</title>
+      <link>https://sunpech.com/2012/11/fixing-an-android-error-message-error-retrieving-information-from-server/</link>
+      <pubDate>Thu, 15 Nov 2012 11:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/11/fixing-an-android-error-message-error-retrieving-information-from-server/</guid>
+      <description>I have a Galaxy Nexus that recently got an over the air (OTA) update to Android 4.2 (Jelly Bean). Coming from 4.1.2 I was thrilled to see the new changes, particularly with their new panorama feature. But after the update I had issues with updating apps on the Google Play Store.
+The Problem I got the following error message:
+Update for &amp;ldquo;Foursquare&amp;rdquo; could not be downloaded due to an error.</description>
+    </item>
+    
+    <item>
+      <title>Setting up Windows Phone 8 Emulator on a Virtual Machine</title>
+      <link>https://sunpech.com/2012/11/setting-up-windows-phone-8-emulator-on-a-virtual-machine/</link>
+      <pubDate>Wed, 14 Nov 2012 11:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/11/setting-up-windows-phone-8-emulator-on-a-virtual-machine/</guid>
+      <description>Not long ago I blogged about Installing Windows 8 Pro on Parallels Desktop 8. That of course worked for me, but when it came time to having Visual Studio 2012 (VS2012) and running an emulator for Windows Phone 8, it simply doesn&amp;rsquo;t work. I searched the Internet as to why, and came up with the following links:
+ StackOverflow: Unable to create the virtual machine MSDN: Having problems running the Windows Phone 8 Emulator?</description>
+    </item>
+    
+    <item>
+      <title>Installing Windows 8 Pro on Parallels Desktop 8</title>
+      <link>https://sunpech.com/2012/11/installing-windows-8-pro-on-parallels-desktop-8/</link>
+      <pubDate>Mon, 05 Nov 2012 17:34:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/11/installing-windows-8-pro-on-parallels-desktop-8/</guid>
+      <description>Last week I went to a Microsoft launch event, New Era of Work, and got a free copy of Windows 8 Pro. I had already tried Windows 8 Preview as well as have Windows 7 Ultimate running as a virtual machines (VMs) through Parallels Desktop on my Macbook Pro (MBP). I didn&amp;rsquo;t like the preview edition that much, so I uninstalled it after a few days. But after attending the event, I thought I&amp;rsquo;d give it another look.</description>
+    </item>
+    
+    <item>
+      <title>Upgrading my 2010 Macbook Pro to SSD</title>
+      <link>https://sunpech.com/2012/10/upgrading-my-2010-macbook-pro-to-ssd/</link>
+      <pubDate>Mon, 29 Oct 2012 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/10/upgrading-my-2010-macbook-pro-to-ssd/</guid>
+      <description>I recently upgraded my 15&amp;rdquo; 2010 Macbook Pro&amp;rsquo;s 500GB HDD to a 512GB SSD. The directions you find in this blog post, you should easily be able to find using a search engine. I just want to document what I did, hoping to help fill the Internet with something useful, maybe.
+The didn&amp;rsquo;t have a problem with the CPU or even memory. Well, I do constantly run out of HDD space every two-three months, but I do regular backups to an external USB 3.</description>
+    </item>
+    
+    <item>
+      <title>My HTPC Setup</title>
+      <link>https://sunpech.com/2012/04/my-htpc-setup/</link>
+      <pubDate>Sat, 07 Apr 2012 19:31:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/04/my-htpc-setup/</guid>
+      <description>A few months ago I blogged about my new purchase of the WD TV Live Streaming Media Player. I still enjoy it immensely, and a few people have inquired about what is needed.
+So here&amp;rsquo;s a list of what&amp;rsquo;s in my setup:
+WD TV Live Streaming Media Player This is the heart of the Home Theatre PC (HTPC).
+
+WD Elements 3 TB USB 2.0 Desktop External Hard Drive I don&amp;rsquo;t recommend attaching more than one external hard drive via a USB hub.</description>
+    </item>
+    
+    <item>
+      <title>How to have multiple remotes for you Git project</title>
+      <link>https://sunpech.com/2011/10/how-to-have-multiple-remotes-for-you-git-project/</link>
+      <pubDate>Tue, 25 Oct 2011 12:40:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/10/how-to-have-multiple-remotes-for-you-git-project/</guid>
+      <description>When I found out that BitBucket added support for Git, I got pretty excited.
+Just this past year I started to use Git as my DVCS for all my projects. More importantly, my older projects didn&amp;rsquo;t have any version control whatsoever. They were projects spread across multiple computers that only merged into a single external USB hard drive when I started to retire some computers because they were just too old (six plus years!</description>
+    </item>
+    
+    <item>
+      <title>Installing Thai fonts onto an Android device</title>
+      <link>https://sunpech.com/2010/08/installing-thai-fonts-onto-an-android-device/</link>
+      <pubDate>Mon, 30 Aug 2010 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/08/installing-thai-fonts-onto-an-android-device/</guid>
+      <description>I&amp;rsquo;ve received numerous requests asking for help on how to install Thai fonts onto an Android device after my initial post on Rooting my Nexus One and installing Thai fonts. Since I do update my Android phone with the CyanogenMod ROM quite often (which wipes the Thai fonts on each install), I thought I&amp;rsquo;d share a simple shell script to help get Thai fonts onto Android.
+This post does not cover how to root an Android device.</description>
+    </item>
+    
+    <item>
+      <title>Android SDK issue on Windows 7 x64</title>
+      <link>https://sunpech.com/2010/01/android-sdk-issue-on-windows-7-x64/</link>
+      <pubDate>Tue, 26 Jan 2010 18:59:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/01/android-sdk-issue-on-windows-7-x64/</guid>
+      <description>I recently installed the Android SDK and Eclipse (32-bit) onto my Windows 7 Ultimate 64-bit machine. First thing I wanted to do was go through the Android Hello World Tutorial.
+Well, I ran into the following error message:
+&amp;lsquo;java&amp;rsquo; is not recognized as an internal or external command, operable program, or batch file. SWT folder &amp;ldquo; does not exist. Please set ANDROID_SWT to point to the folder containing swt.jar for your platform.</description>
+    </item>
+    
+    <item>
+      <title>Rooting my Nexus One and installing Thai fonts</title>
+      <link>https://sunpech.com/2010/01/rooting-my-nexus-one-and-installing-thai-fonts/</link>
+      <pubDate>Sat, 23 Jan 2010 00:58:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/01/rooting-my-nexus-one-and-installing-thai-fonts/</guid>
+      <description>I just finished rooting my Nexus One and installed Thai fonts onto it. I had to use several websites to complete this task, but I wanted to collect them all into once nice place for any stumblers. The purpose of installing Thai fonts onto my Nexus One was to have the ability to read Thai on my Facebook app as well as some Thai websites.
+Here&amp;rsquo;s how to do it:</description>
+    </item>
+    
+    <item>
+      <title>Setting up WRT54G as a wireless bridge with DD-WRT</title>
+      <link>https://sunpech.com/2008/12/setting-up-wrt54g-as-a-wireless-bridge-with-dd-wrt/</link>
+      <pubDate>Wed, 24 Dec 2008 23:39:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/12/setting-up-wrt54g-as-a-wireless-bridge-with-dd-wrt/</guid>
+      <description>My parents have a Thai TV ethernet box of some kind so they can tune in to their Thai stations, shows, and even radio on their HDTV. However, I had to run a 50 foot CAT5 cable from the upstairs to the first floor great room, which is quite messy. So for Christmas this year, I bought them a Linksys-Cisco WRT54GL Wireless-G Broadband Router.
+The setup I wanted was to have the Thai TV box, which uses an ethernet port for all data, connect to the wireless router, and have the wireless router connect to the wireless router upstairs.</description>
+    </item>
+    
+  </channel>
+</rss>

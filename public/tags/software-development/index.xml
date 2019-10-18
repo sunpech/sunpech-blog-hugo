@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development on sunpech.com</title>
+    <link>https://sunpech.com/tags/software-development/</link>
+    <description>Recent content in Software Development on sunpech.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>steven@sunpech.com (Steven Suwatanapongched)</managingEditor>
+    <webMaster>steven@sunpech.com (Steven Suwatanapongched)</webMaster>
+    <lastBuildDate>Sun, 08 Sep 2019 03:03:14 -0500</lastBuildDate>
+    
+	<atom:link href="https://sunpech.com/tags/software-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrated Website to Hugo</title>
+      <link>https://sunpech.com/2019/09/migrated-website-to-hugo/</link>
+      <pubDate>Sun, 08 Sep 2019 03:03:14 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2019/09/migrated-website-to-hugo/</guid>
+      <description>Over the past week I migrated my blog from using static site generator, Jekyll to use Hugo. I also switched hosts from Github Pages to Netlify.
+The main reasons for the changes are:
+ Jekyll/Ruby is just too slow as a static site generator in development/production. Hugo/Go is fast. Wanted to try out Netlify.  When I wrote new posts with Jekyll, it was painfully slow to build the site after any small set of changes.</description>
+    </item>
+    
+    <item>
+      <title>Why Jetbrains Toolbox is Good</title>
+      <link>https://sunpech.com/2015/09/why-jetbrains-toolbox-is-good/</link>
+      <pubDate>Fri, 04 Sep 2015 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/09/why-jetbrains-toolbox-is-good/</guid>
+      <description>Jetbrains, a software company that creates a wealth of software IDEs for software developers recently announced that they are moving their software over to a software-as-a-service (SaaS) platform called Jetbrains Toolbox.
+These are the times we live in now, and I think it&amp;rsquo;s good&amp;ndash; for the most part.
+Buy or Subscribe? Traditionally, people buy a software version and own it. For many, they don&amp;rsquo;t buy an upgrade when it&amp;rsquo;s available and may only upgrade when money is available or if they feel the new features are worth it.</description>
+    </item>
+    
+    <item>
+      <title>Moved from Blogger to Jekyll</title>
+      <link>https://sunpech.com/2015/05/moved-from-blogger-to-jekyll/</link>
+      <pubDate>Mon, 25 May 2015 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2015/05/moved-from-blogger-to-jekyll/</guid>
+      <description>I recently made the move from Blogger to Jekyll, hosted on Github Pages. It was a pretty pleasant conversion too, as Jekyll has a good amount of documenation and support.
+I&amp;rsquo;ve had a blog since 1999. I&amp;rsquo;ve used just about every known blogging technology/platform out there. I&amp;rsquo;ve used perl, php, mysql, ASP, MS Access, ASP.NET, C#, MS SQL, Postgres, Ruby on Rails, Heroku, Apache Web Server, IIS, etc to write my own blogging software.</description>
+    </item>
+    
+    <item>
+      <title>Building my own Photography Site</title>
+      <link>https://sunpech.com/2014/09/building-my-own-photography-site/</link>
+      <pubDate>Mon, 22 Sep 2014 18:35:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2014/09/building-my-own-photography-site/</guid>
+      <description>A few weeks ago my SmugMug account expired and I didn&amp;rsquo;t bother to renew it. This is where my photography website, Sunpech Photography, used to be hosted. I wasn&amp;rsquo;t fully utilizing it to make sales nor was I pushing it very much to friends, family, and even clients. So I couldn&amp;rsquo;t justify spending any money on it when I&amp;rsquo;d rather make sales on 500px and 500px Art.
+Surprisingly my account was discontinued almost immediately and I whipped up a decent site in less than 24 hours along with appropriate DNS changes just so I didn&amp;rsquo;t have an ugly 404 page.</description>
+    </item>
+    
+    <item>
+      <title>Heroku Postgres Maintenance Requires Manually Updating DATABASE_URL</title>
+      <link>https://sunpech.com/2014/04/heroku-postgres-maintenance-requires-manually-updating-database_url/</link>
+      <pubDate>Sun, 27 Apr 2014 08:30:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2014/04/heroku-postgres-maintenance-requires-manually-updating-database_url/</guid>
+      <description>Earlier this week I got an email from Heroku that one of my postgres databases required maintenance. This is the email:
+bot (Heroku Support) Apr 25 14:02 Your database HEROKU_POSTGRESQL_COLOR_URL on &amp;lt;project_name&amp;gt; requires maintenance. During this period, your database credentials will become read-only. Once it has completed, your database URL will have changed, but we will update your app&#39;s config variables accordingly. This automated maintenance is a necessary part of our Starter tier plans, Dev and Basic.</description>
+    </item>
+    
+    <item>
+      <title>Setting up Windows Phone 8 Emulator on a Virtual Machine</title>
+      <link>https://sunpech.com/2012/11/setting-up-windows-phone-8-emulator-on-a-virtual-machine/</link>
+      <pubDate>Wed, 14 Nov 2012 11:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/11/setting-up-windows-phone-8-emulator-on-a-virtual-machine/</guid>
+      <description>Not long ago I blogged about Installing Windows 8 Pro on Parallels Desktop 8. That of course worked for me, but when it came time to having Visual Studio 2012 (VS2012) and running an emulator for Windows Phone 8, it simply doesn&amp;rsquo;t work. I searched the Internet as to why, and came up with the following links:
+ StackOverflow: Unable to create the virtual machine MSDN: Having problems running the Windows Phone 8 Emulator?</description>
+    </item>
+    
+    <item>
+      <title>LA MongoDB May Meetup</title>
+      <link>https://sunpech.com/2012/05/la-mongodb-may-meetup/</link>
+      <pubDate>Thu, 03 May 2012 11:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/05/la-mongodb-may-meetup/</guid>
+      <description>Last evening I attended the LA MongDB May Meetup hosted at Factual. Presentations by Tony Tam (@fehguy), CTO of Wordnik and Andrew Hall, Principal Engineer of uSamp. I had a great time hearing about how mongoDB is being used by two different companies.
+In N Out Burgers and fries served instead of pizza! 
+
+
+
+Tony Tam presenting 
+
+
+
+
+
+Andrew Hall presenting</description>
+    </item>
+    
+    <item>
+      <title>LADOTNET April Meetup</title>
+      <link>https://sunpech.com/2012/04/ladotnet-april-meetup/</link>
+      <pubDate>Tue, 03 Apr 2012 21:07:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/04/ladotnet-april-meetup/</guid>
+      <description>Yesterday I attended the LADOTNET April meetup on&amp;nbsp;Building a Rich Web Experience with jQuery, Ajax and .NET&amp;nbsp;presentation by James Johnson. Good meetup with a very decent turnout considering it was a nice day out and NCAA finals was on
+For full set of pictures I&amp;rsquo;ve taken at meetups I&amp;rsquo;ve been to this year, click here.
+Pictures</description>
+    </item>
+    
+    <item>
+      <title>LADOTNET February Meetup</title>
+      <link>https://sunpech.com/2012/02/ladotnet-february-meetup/</link>
+      <pubDate>Tue, 07 Feb 2012 11:14:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/02/ladotnet-february-meetup/</guid>
+      <description>I attended the LADOTNET February meetup held at Blankspaces last night. The event topic was: Start ups, Tech and Business Trends with John Shiple. The attendance was pretty massive as this user group is getting bigger and bigger every month. I enjoyed the speaker and presentation a lot. I do notice that it&amp;rsquo;s a trend that there are a lot of startup businesses growing outside of Silicon Valley.
+More speaker information:</description>
+    </item>
+    
+    <item>
+      <title>Pictures from SoCal Code Camp</title>
+      <link>https://sunpech.com/2012/01/pictures-from-socal-code-camp/</link>
+      <pubDate>Mon, 30 Jan 2012 10:00:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/01/pictures-from-socal-code-camp/</guid>
+      <description>Over the weekend I attended and volunteered at SoCal Code Camp at California State University Fullerton. I had an awesome time, attended quite a few sessions, learned a lot, and met quite a few good people.
+Below are some of the pictures. Full set of pictures can be found here.
+Pictures 
+
+Mario Harnandez presenting CSS3 for Web Designers- Let&amp;rsquo;s Design a Visually Appealing Website and Grid Systems - Picking the Right CSS Framework for Your Website.</description>
+    </item>
+    
+    <item>
+      <title>SoCal Code Camp is tomorrow</title>
+      <link>https://sunpech.com/2012/01/socal-code-camp-is-tomorrow/</link>
+      <pubDate>Fri, 27 Jan 2012 19:58:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/01/socal-code-camp-is-tomorrow/</guid>
+      <description>SoCal Code Camp is tomorrow. Sessions have been posted, as well as the schedule. It&amp;rsquo;s a two day event, January 28 and 29 (Saturday and Sunday), full of sessions on a variety of software development topics.
+Did I mention that it&amp;rsquo;s FREE?!
+It will be hosted at California State University Fullerton. Here is a campus map to help you.
+I will be there bright and early volunteering and probably taking photos.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from LA Ruby/Rails January Meetup</title>
+      <link>https://sunpech.com/2012/01/pictures-from-la-ruby/rails-january-meetup/</link>
+      <pubDate>Fri, 13 Jan 2012 03:55:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/01/pictures-from-la-ruby/rails-january-meetup/</guid>
+      <description>Last night went to the LA Ruby/Rails Meetup hosted at AT&amp;amp;T Interactive. There were two presentations followed by three lightning talks.
+Using Ruby with R by Sean Marcia
+Rack Middleware as a General Purpose Abstraction by John Bender
+Some of the pictures I took are posted below. You can view the picture dump from all pictures I took here.
+As a reminder: LA RubyConf is coming up February 2-4, 2012.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from LADOTNET January Meetup</title>
+      <link>https://sunpech.com/2012/01/pictures-from-ladotnet-january-meetup/</link>
+      <pubDate>Tue, 10 Jan 2012 11:42:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2012/01/pictures-from-ladotnet-january-meetup/</guid>
+      <description>Last night I went to the LADOTNET January Meetup. The presentation was: Unit Testing/Architecting Apps for Testing with Paul Sheriff.
+The turn-out for the meetup was pretty big, maybe fifty to sixty people, with a fair amount of recruiters. The LADOTNET meetup was held at Blankspaces. There is an upcoming SoCal Code Camp coming up on the weekend of January 28 and 29, 2012.
+I have a new album where I will dump all pictures I take from Meetups for this upcoming year.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from SF Ruby December Meetup</title>
+      <link>https://sunpech.com/2011/12/pictures-from-sf-ruby-december-meetup/</link>
+      <pubDate>Fri, 09 Dec 2011 12:44:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/12/pictures-from-sf-ruby-december-meetup/</guid>
+      <description>I drove up to San Francisco from LA to check out the SF Ruby group. The drive was long, but worth it as I got to meet some interesting people. The meetup was hosted at ZenDesk. Being from Chicago and now living in LA, I never before heard so much talk about venture capital (VCs) coming from developers. I think there really is a culture difference in SF compared to other cities.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from LA DotNet December Meetup</title>
+      <link>https://sunpech.com/2011/12/pictures-from-la-dotnet-december-meetup/</link>
+      <pubDate>Tue, 06 Dec 2011 15:29:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/12/pictures-from-la-dotnet-december-meetup/</guid>
+      <description>I&amp;rsquo;ve been in living in Los Angeles for two months now. About a month ago I finally bought a car to get around in. On Monday, December 5, 2011, I was able to attend my first the Los Angeles .Net Developer&amp;rsquo;s Group hosted at Blankspaces.
+There were two presentations:
+ Daniel Egan presented on Diving into Windows Phone Market: Should I make the jump? Henry Lee presented on Making Money with Windows Phone.</description>
+    </item>
+    
+    <item>
+      <title>How to have multiple remotes for you Git project</title>
+      <link>https://sunpech.com/2011/10/how-to-have-multiple-remotes-for-you-git-project/</link>
+      <pubDate>Tue, 25 Oct 2011 12:40:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/10/how-to-have-multiple-remotes-for-you-git-project/</guid>
+      <description>When I found out that BitBucket added support for Git, I got pretty excited.
+Just this past year I started to use Git as my DVCS for all my projects. More importantly, my older projects didn&amp;rsquo;t have any version control whatsoever. They were projects spread across multiple computers that only merged into a single external USB hard drive when I started to retire some computers because they were just too old (six plus years!</description>
+    </item>
+    
+    <item>
+      <title>Pictures from Objective-C and iOS for .NET Developers</title>
+      <link>https://sunpech.com/2011/09/pictures-from-objective-c-and-ios-for-.net-developers/</link>
+      <pubDate>Thu, 15 Sep 2011 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/09/pictures-from-objective-c-and-ios-for-.net-developers/</guid>
+      <description>Last night I went to my favorite local user group, Chicago Alt.net (@ChicagoAltNet).
+Eduardo Scoz presented on Objective-C and iOS. Great talk and a very big turnout. I haven&amp;rsquo;t seen this many developers show up for an Alt.net meetup here since Uncle Bob Martin did a presentation.
+Here are some of the photos I took. If you are looking for a full set of photos I took from various meetups I attend, including this one, I dump them all in this Picasa album.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from Los Angeles Ruby/Rails Meetup</title>
+      <link>https://sunpech.com/2011/09/pictures-from-los-angeles-ruby/rails-meetup/</link>
+      <pubDate>Mon, 12 Sep 2011 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/09/pictures-from-los-angeles-ruby/rails-meetup/</guid>
+      <description>Last week I used my JetBlue BluePass to head out to Los Angeles to attend the LA Ruby Meetup (@laruby) hosted at CoLoft. I was impressed with the turnout, the speakers and presentation, and the audience participation. The format of the meetup was pretty long though. I&amp;rsquo;m used to maybe thirty minutes to one hour of a presentation. They had four presentations lasting about two hours! All very good of course, but I have to admit that it was a bit tiring.</description>
+    </item>
+    
+    <item>
+      <title>Some Thoughts on Photography, Blogging, and Coding</title>
+      <link>https://sunpech.com/2011/08/some-thoughts-on-photography-blogging-and-coding/</link>
+      <pubDate>Fri, 12 Aug 2011 09:46:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/08/some-thoughts-on-photography-blogging-and-coding/</guid>
+      <description>It was the summer of 2010 that I decided I wanted to dust off the DSLR I bought in 2006 and put it to good use more often. So throughout that summer, I made an effort to bring my camera with me everywhere I went. I brought it to work, to my various meetups I attended, and even when I walked around Chicago. I just kept taking photos of whatever I thought was interesting.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from Chicago Alt.net: Coffeescript</title>
+      <link>https://sunpech.com/2011/08/pictures-from-chicago-alt.net-coffeescript/</link>
+      <pubDate>Wed, 10 Aug 2011 21:51:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/08/pictures-from-chicago-alt.net-coffeescript/</guid>
+      <description>Here are the pictures I took from tonight&amp;rsquo;s Chicago Alt.net August 2011 meetup on Coffeescript, presented by Fawad Halim.
+Pictures</description>
+    </item>
+    
+    <item>
+      <title>Pictures from July&#39;s Refresh and Ignite Chicago</title>
+      <link>https://sunpech.com/2011/07/pictures-from-julys-refresh-and-ignite-chicago/</link>
+      <pubDate>Fri, 29 Jul 2011 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/07/pictures-from-julys-refresh-and-ignite-chicago/</guid>
+      <description>I didn&amp;rsquo;t go to too many meetups this month, only three. Sorry, the weather&amp;rsquo;s been either really hot or super rainy. Interestingly when I condensed the meetup names in this blog title, they both hint at refreshing and igniting Chicago.
+I already posted on Barcamp Chicago in a previous blog post.
+The second meetup, Corey Haines presented on It&amp;rsquo;s All About the Business Value on Wednesday, July 27, 2011.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from Tech Meetups in May and June</title>
+      <link>https://sunpech.com/2011/06/pictures-from-tech-meetups-in-may-and-june/</link>
+      <pubDate>Thu, 23 Jun 2011 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/06/pictures-from-tech-meetups-in-may-and-june/</guid>
+      <description>In May I came across a new group: Refresh Chicago (@refreshchi). So far, their meetups have been pretty good. From their twitter, the group is described as: Monthly meetup for the advancement of Chicago’s designers and developers. Pretty cool.
+So here are some pictures I took in May and June, 2011&amp;ndash; post Chicago Code Camp and Rails Conf.
+David Kadavy presenting at Refresh Chicago (May 25, 2011)</description>
+    </item>
+    
+    <item>
+      <title>Pictures from RailsConf 2011</title>
+      <link>https://sunpech.com/2011/05/pictures-from-railsconf-2011/</link>
+      <pubDate>Fri, 20 May 2011 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/05/pictures-from-railsconf-2011/</guid>
+      <description>I had a great time at RailsConf 2011, which took place in Baltimore, Maryland this year. Got the chance to meet and talk with a lot of Rails developers and passionate people. Always a good thing. I admit that I&amp;rsquo;m a Ruby Nuby, and quite a few of the talks were a little over my head, but in general there was a talk for everyone, no matter what skill level in Ruby/Rails.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from Chicago Code Camp 2011</title>
+      <link>https://sunpech.com/2011/05/pictures-from-chicago-code-camp-2011/</link>
+      <pubDate>Sun, 15 May 2011 08:40:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/05/pictures-from-chicago-code-camp-2011/</guid>
+      <description>Chicago Code Camp 2011 (CCC3) has wrapped up! I had a great time going to various sessions, learning new things, and meeting/talking with great people. I wish more of these events would take place in the Chicagoland area. I think about 300 people attended, which I think is pretty good considering the event wasn&amp;rsquo;t even in Chicago! This year, CCC3 took place at College of Lake County, in Grayslake, which is located about 50 miles from Chicago (approximately 1 hour drive).</description>
+    </item>
+    
+    <item>
+      <title>Chicago Code Camp 2011</title>
+      <link>https://sunpech.com/2011/05/chicago-code-camp-2011/</link>
+      <pubDate>Thu, 05 May 2011 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/05/chicago-code-camp-2011/</guid>
+      <description>The schedule for Chicago Code Camp is now up! You can register for the free event here. You can follow them on twitter at: @chicagocodecamp. The twitter hash tag to follow at the event is: #ccc3
+The link to actual schedule: Chicago Code Camp 2011 Schedule (this link may not work in the future&amp;ndash; beyond 2011).
+This is the list of sessions I&amp;rsquo;m interested in. I may jump in/out between some sessions that are running in parallel, or pick one when the event gets closer.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Meetups for Spring and Summer 2011</title>
+      <link>https://sunpech.com/2011/05/upcoming-meetups-for-spring-and-summer-2011/</link>
+      <pubDate>Sun, 01 May 2011 04:53:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/05/upcoming-meetups-for-spring-and-summer-2011/</guid>
+      <description>I&amp;rsquo;m back in Chicago for now! Just got off the plane a few days ago. Anyway, I&amp;rsquo;m almost ready to get back into going to some tech meetups in the US now. A lot of great events coming up!
+Chicago Ruby: Downtown - Marking Up the Web with Graffiti
+Tuesday, May 3, 2011 at 6pm
+To be held at ThoughtWorks.
+Chicago Silverlight Users Group
+Wednesday, May 4, 2011
+To be held at the ITA building.</description>
+    </item>
+    
+    <item>
+      <title>Red Dot Ruby Conf 2011</title>
+      <link>https://sunpech.com/2011/04/red-dot-ruby-conf-2011/</link>
+      <pubDate>Sat, 23 Apr 2011 21:18:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/04/red-dot-ruby-conf-2011/</guid>
+      <description>As part of my trip back to the US, I attended Red Dot Ruby Conf 2011 on April 22-23, 2011. This event takes place in Singapore, at the Singapore Management University (SMU).
+I had an awesome time. I enjoy going to these social technology events. Got a chance to talk and hang out with a lot of smart folks. I really enjoy the Ruby/Rails community
+Quick summary of the talks from the two days:</description>
+    </item>
+    
+    <item>
+      <title>Stack Overflow Meetup in Bangkok</title>
+      <link>https://sunpech.com/2011/04/stack-overflow-meetup-in-bangkok/</link>
+      <pubDate>Fri, 08 Apr 2011 20:04:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/04/stack-overflow-meetup-in-bangkok/</guid>
+      <description>On the Stackoverflow blog, it was announced that April 6, 2011 would be Worldwide Stack Overflow Meetup. They created a meetup page at: Stackoverflow Meetup.
+BKK Web Meetup also hosted a meetup on IDEs and other dev tools. Presentations were given on Eclipse (by @nadam9) and Vim (by @ches). Our gracious host was, as always, Web Courses Bangkok. Afterwards, we had the usual beer/food meetup at Singha Beer Park not too far away.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts from the March BKK Web Meetup</title>
+      <link>https://sunpech.com/2011/03/thoughts-from-the-march-bkk-web-meetup/</link>
+      <pubDate>Wed, 23 Mar 2011 03:31:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/03/thoughts-from-the-march-bkk-web-meetup/</guid>
+      <description>The BKK Web Meetup last night was pretty awesome. It was the biggest turnout I&amp;rsquo;ve seen yet, and it was also very interactive. Plenty of discussion, questions, and even stories came from the attendees.
+The topic was: Let&amp;rsquo;s talk about hiring and training developers. Benjamin Scherrey was the presenter. Some bullet points that I took away:
+ There are some cultural barriers to understand in hiring a Thai/Asian software developer. There are some cultural barriers dealing with Thai clients.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from February 2011 BKK Web Meetup</title>
+      <link>https://sunpech.com/2011/02/pictures-from-february-2011-bkk-web-meetup/</link>
+      <pubDate>Tue, 22 Feb 2011 21:33:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/02/pictures-from-february-2011-bkk-web-meetup/</guid>
+      <description>Here are the pictures from last night&amp;rsquo;s BKK Web Meetup session on Ruby on Rails. The presentation was by Ches Martin. Our gracious host was Web Courses Bangkok. I like how everyone who brought a laptop, brought a Macbook, as you can see from the pictures.
+
+
+
+
+
+
+Full album here.
+Afterwards was the usual beer meetup at Singha Beer Park a few blocks away (towards Asok BTS).</description>
+    </item>
+    
+    <item>
+      <title>Pictures from January 2011 BKK Web Meetup</title>
+      <link>https://sunpech.com/2011/02/pictures-from-january-2011-bkk-web-meetup/</link>
+      <pubDate>Tue, 22 Feb 2011 01:18:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/02/pictures-from-january-2011-bkk-web-meetup/</guid>
+      <description>A recent group I started to attend is BKK Web Meetup (short for Web Design, UX Design and Web Development Meetup Group in Bangkok).
+Below are the pictures I took from the January Meetup: Computer Vision with Android. The presentation is by Andrea Gagliardi La Gala.
+
+
+
+
+
+
+
+Full album here.
+Some video links Andrea provided for those who couldn&amp;rsquo;t attend:  Optical recognition of ID documents with Android phone Indoor monitoring with Android phone</description>
+    </item>
+    
+    <item>
+      <title>Tech communities in Bangkok</title>
+      <link>https://sunpech.com/2011/01/tech-communities-in-bangkok/</link>
+      <pubDate>Tue, 18 Jan 2011 13:55:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/01/tech-communities-in-bangkok/</guid>
+      <description>I&amp;rsquo;ve been in Thailand now for a little over two months now. Although I miss the US a lot, I&amp;rsquo;ve been learning a lot of new things, and meeting a lot of wonderful people here in Bangkok. In other words, I&amp;rsquo;m having a blast out here.
+The day after I arrived, November 9 2010, I attended a Bangkok Hackerspace meetup at True Coffee (Siam Soi 2). I walked in thinking it was going to be something akin to Jelly Chicago and community building.</description>
+    </item>
+    
+    <item>
+      <title>My journey from Windows to Mac</title>
+      <link>https://sunpech.com/2011/01/my-journey-from-windows-to-mac/</link>
+      <pubDate>Wed, 12 Jan 2011 02:27:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2011/01/my-journey-from-windows-to-mac/</guid>
+      <description>So back in May of 2010, I bought myself a Macbook Pro. I bought it for several reasons:
+ I wanted a new toy/gadget to play with. I wanted to try the only other operating system (OS) I haven&#39;t really spent much time on (OS X). I wanted to get away from Microsoft technologies  Those were and are the 3 main reasons.
+It&amp;rsquo;s been a little over 8 months of usage and I absolutely love it.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from October Tech Events in Chicago</title>
+      <link>https://sunpech.com/2010/10/pictures-from-october-tech-events-in-chicago/</link>
+      <pubDate>Fri, 29 Oct 2010 21:50:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/10/pictures-from-october-tech-events-in-chicago/</guid>
+      <description>Chicago Alt.net on October 13, 2010 Event: SpecFlow: One Step closer to Executable Specifications
+Speaker: Sergio Pereira
+http://sergiopereira.com/blog
+Chicago Alt.net website
+
+
+
+
+
+Full album here.
+Chicago ACM on October 18, 2010 Event: From Spider-Man to Avatar: Achieving Photoreal Digital Actors
+Speaker: Paul Debevec from USC Institute for Creative Technologies www.debevec.org
+Chicago ACM website
+
+
+
+Full album here.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from September Tech Events in Chicago</title>
+      <link>https://sunpech.com/2010/10/pictures-from-september-tech-events-in-chicago/</link>
+      <pubDate>Mon, 11 Oct 2010 18:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/10/pictures-from-september-tech-events-in-chicago/</guid>
+      <description>There were only two events I attended last month:  Nerd Diner:NerdDinner Chicago - .NET Enthusiasts Unite !!!! Chicago Alt.net: Selenium 101.3: Practical Functional Testing Techniques 
+The Nerd Dinner was at Rock Bottom and was arranged by Shankar Ramachandran. Very chill meetup, great talks with awesome .Net developers. I hope there can be more of these.
+
+
+
+
+
+
+
+
+
+
+Full album for Nerd Dinnerhere.</description>
+    </item>
+    
+    <item>
+      <title>Pictures from the August 2010 Tech Events in Chicago</title>
+      <link>https://sunpech.com/2010/09/pictures-from-the-august-2010-tech-events-in-chicago/</link>
+      <pubDate>Wed, 01 Sep 2010 09:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/09/pictures-from-the-august-2010-tech-events-in-chicago/</guid>
+      <description>I was on a bit of a vacation in July so I forgot to post August events before the month started.
+Chicago Ruby Meetup on August 3, 2010 Presentations on: Agile with Pivotal Tracker and jQuery and Rails 3.0
+
+
+
+
+
+Full album here.
+Chicago Alt.net on August 11, 2010 Fawad Halim gave a presentation on Python for .Net Developers.
+
+
+
+
+Full album here.</description>
+    </item>
+    
+    <item>
+      <title>September 2010 Tech Events in Chicago</title>
+      <link>https://sunpech.com/2010/08/september-2010-tech-events-in-chicago/</link>
+      <pubDate>Mon, 23 Aug 2010 10:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/08/september-2010-tech-events-in-chicago/</guid>
+      <description>NerdDinner Chicago - .NET Enthusiasts Unite !!!!
+Wednesday, September 1, 2010 at 6:15 PM (CT)
+Chicago Ruby
+Tuesday, September 7, 2010 from 6:00 PM - 8:00 PM (CT)
+There will be a meetup on Mongoid &amp;amp; Rails 3.
+Chicago Alt.net
+Wednesday, September 8, 2010 from 6:00 PM - 9:00 PM (CT)
+Should be a talk about Selenium by @bwilken.
+Chicago Ruby Hack Night
+Thursday, September 9, 2010 from 5:30 PM - 8:00 PM (CT)</description>
+    </item>
+    
+    <item>
+      <title>Pictures from the July 2010 Tech Events in Chicago</title>
+      <link>https://sunpech.com/2010/07/pictures-from-the-july-2010-tech-events-in-chicago/</link>
+      <pubDate>Tue, 20 Jul 2010 14:38:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/07/pictures-from-the-july-2010-tech-events-in-chicago/</guid>
+      <description>I made sure to take a lot of photos this month.
+Tuesday July 6, 2010 Chicago Ruby had a meeting over at ThoughtWorks. Snapped a few photos there. Very cool talks. And of course, pizza. You can sign up for these meetings at: Chicago Ruby Meetup. There was a Hack Night on Thursday of the week, but I did not take any photos.
+Presentations by @chrisjpowers and @blakesmith.</description>
+    </item>
+    
+    <item>
+      <title>July 2010 Tech Events in Chicago</title>
+      <link>https://sunpech.com/2010/07/july-2010-tech-events-in-chicago/</link>
+      <pubDate>Tue, 06 Jul 2010 09:05:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/07/july-2010-tech-events-in-chicago/</guid>
+      <description>Plenty of events to attend for the month of July! This will be the first time I&amp;rsquo;m attending a Ruby event, so I&amp;rsquo;m pretty excited. Sadly, things may be a bit over my head since I just started doing Ruby.
+Tuesday July 6, 2010 at 6:00 PM (CT)
+ChicagoRuby: Downtown- Two Talks: HTML5 WebSockets &amp;amp; Contributing to Open Source
+Thursday July 8, 2010 at 5:30 PM (CT)
+Chicago Ruby Hack Night</description>
+    </item>
+    
+    <item>
+      <title>Chicago Code Camp 2 Pictures</title>
+      <link>https://sunpech.com/2010/06/chicago-code-camp-2-pictures/</link>
+      <pubDate>Sun, 13 Jun 2010 22:36:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/06/chicago-code-camp-2-pictures/</guid>
+      <description>I&amp;rsquo;m going to start posting pictures I take from various Tech Events I attend. One, I&amp;rsquo;m doing it because I want to share visually, what the Tech community looks like. And two, because I&amp;rsquo;m picking up photography as a hobby now.
+The pictures below are from Chicago Code Camp, which took place May 1st, 2010 at the Stuart Building at IIT. They were taken by me with my Google Nexus One.</description>
+    </item>
+    
+    <item>
+      <title>June 2010 Tech Events in Chicago</title>
+      <link>https://sunpech.com/2010/06/june-2010-tech-events-in-chicago/</link>
+      <pubDate>Wed, 02 Jun 2010 13:47:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/06/june-2010-tech-events-in-chicago/</guid>
+      <description>A decent amount of Tech events for the month of June here in Chicago:
+Wednesday, June 02, 2010 from 6:00 PM - 8:00 PM (CT)
+MVVM with Damon Payne
+The Chicago Silverlight User Group (Eventbrite link)
+Tuesday, June 8, 2010 from 5:30PM - 7:30PM (CT)
+Chicago Agile Project Management Meetup Group
+Wednesday, June 09, 2010 from 6:00 PM - 8:30 PM (CT)
+Well Behaved JavaScript With Screw.Unit
+Chicago Alt.net (Eventbrite link)</description>
+    </item>
+    
+    <item>
+      <title>May 2010 Tech Events in Chicago</title>
+      <link>https://sunpech.com/2010/04/may-2010-tech-events-in-chicago/</link>
+      <pubDate>Wed, 28 Apr 2010 08:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/04/may-2010-tech-events-in-chicago/</guid>
+      <description>The month of May looks to be an exciting month in Chicago for Tech Events!
+Saturday, May 1st 2010 from 8:00 AM - 6:00 PM (CT) Chicago Code Camp 2 will actually be held in Chicago&amp;rsquo;s IIT campus this year! Speakers, presentations, and the agenda have all been posted now.
+Here is my tentative schedule that I plan to attend:
+9:00 AM - 10:00 AM - Use Git Like a Boss by Kevin Gisi (Ruby)</description>
+    </item>
+    
+    <item>
+      <title>Software Review: Balsamiq Mockups</title>
+      <link>https://sunpech.com/2010/04/software-review-balsamiq-mockups/</link>
+      <pubDate>Tue, 06 Apr 2010 06:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/04/software-review-balsamiq-mockups/</guid>
+      <description>I first read about Balsamiq Mockups a few weeks ago on StackOverflow.
+In general I agree with what Jeff Atwood and Joel Spolsky said about the product on their podcast (IT Conversations: Episode 47). It really is a simple mockup tool that isn&amp;rsquo;t about being exact and precise, but rather sketchy and fast so you can get your idea down quickly. It makes starting something easy and fast, so you can move on to what&amp;rsquo;s next.</description>
+    </item>
+    
+    <item>
+      <title>April 2010 Tech Events in Chicago</title>
+      <link>https://sunpech.com/2010/04/april-2010-tech-events-in-chicago/</link>
+      <pubDate>Mon, 05 Apr 2010 00:26:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/04/april-2010-tech-events-in-chicago/</guid>
+      <description>Here&amp;rsquo;s a list of April 2010 Tech events in Chicago that I&amp;rsquo;m aware of. Most of them, I shall be attending.
+Thursday, April 01, 2010 from 6:00 PM - 9:00 PM (CT) Mobile Visionary Mixer - Effective Networking at Chicago&amp;rsquo;s Hottest Brazilian Steakhouse! (Eventbrite link) I attended this event already and really enjoyed it. Meet and spoke to a lot of great people and hope to attend future events.</description>
+    </item>
+    
+    <item>
+      <title>Chicago Tech User Groups and Events for March 2010</title>
+      <link>https://sunpech.com/2010/03/chicago-tech-user-groups-and-events-for-march-2010/</link>
+      <pubDate>Mon, 15 Mar 2010 19:07:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/03/chicago-tech-user-groups-and-events-for-march-2010/</guid>
+      <description>The first two weeks this month I attended several Chicago user group meetings and events. I wanted to recap my experience with many of them since it was my first time attending several of the events.
+Tuesday March 2, 2010 Chicago Agile Project Management Meetup Group I&amp;rsquo;ve been a member of this meetup group for a while now. I really made an effort to attend this one since the topic was on estimating projects.</description>
+    </item>
+    
+    <item>
+      <title>Programmer Cartoon: Your Company App</title>
+      <link>https://sunpech.com/2010/02/programmer-cartoon-your-company-app/</link>
+      <pubDate>Wed, 17 Feb 2010 19:16:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/02/programmer-cartoon-your-company-app/</guid>
+      <description>I was watching Joel Spolsky Tech Talk at Google about StackOverflow, and he brought up a URL on &amp;ldquo;programmer cartoon&amp;rdquo;. The link is: http://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon.
+This may be my new favorite&amp;hellip;
+
+Here is the original link to the comic post:http://stuffthathappens.com/blog/2008/03/05/simplicity/</description>
+    </item>
+    
+    <item>
+      <title>Coders at Work and Duct Tape Programming</title>
+      <link>https://sunpech.com/2010/01/coders-at-work-and-duct-tape-programming/</link>
+      <pubDate>Wed, 27 Jan 2010 21:25:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/01/coders-at-work-and-duct-tape-programming/</guid>
+      <description>I finished reading Coders at Work! I really enjoyed the interviews with Jamie Zawinksi, Douglas Crockford, Brendan Eich, and Ken Thompson. I wasn&amp;rsquo;t too interested in compilers and the much older systems some of the programmers once developed in. I must admit, I had a short attention span reading over those sections.
+Anyway, the reason I picked this book up was because back in late September to early October 2009, I remember reading several blog posts on duct tape programming.</description>
+    </item>
+    
+    <item>
+      <title>Android SDK issue on Windows 7 x64</title>
+      <link>https://sunpech.com/2010/01/android-sdk-issue-on-windows-7-x64/</link>
+      <pubDate>Tue, 26 Jan 2010 18:59:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/01/android-sdk-issue-on-windows-7-x64/</guid>
+      <description>I recently installed the Android SDK and Eclipse (32-bit) onto my Windows 7 Ultimate 64-bit machine. First thing I wanted to do was go through the Android Hello World Tutorial.
+Well, I ran into the following error message:
+&amp;lsquo;java&amp;rsquo; is not recognized as an internal or external command, operable program, or batch file. SWT folder &amp;ldquo; does not exist. Please set ANDROID_SWT to point to the folder containing swt.jar for your platform.</description>
+    </item>
+    
+    <item>
+      <title>My Favorite Tech and Programming News Feeds</title>
+      <link>https://sunpech.com/2010/01/my-favorite-tech-and-programming-news-feeds/</link>
+      <pubDate>Fri, 08 Jan 2010 12:35:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2010/01/my-favorite-tech-and-programming-news-feeds/</guid>
+      <description>I previously posted on my favorite tech podcasts, so I wanted to post a little snippet of my favorite tech RSS feeds from Google Reader. I read a lot more than I list here, but these are my absolute favorites.
+My favorite Tech RSS Feeds:  Lifehacker RSS  Gizmodo RSS  Mashable! RSS Silicon Alley Insider RSS   My favorite Programming RSS Feeds:  Reddit Programming RSS  Hacker News RSS  Coding Horror RSS  Devlicio.</description>
+    </item>
+    
+    <item>
+      <title>Hooked on Tech Podcasts</title>
+      <link>https://sunpech.com/2009/12/hooked-on-tech-podcasts/</link>
+      <pubDate>Tue, 08 Dec 2009 00:09:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/12/hooked-on-tech-podcasts/</guid>
+      <description>Lately I’ve been immersed in code at work as well as at home for a side project.&amp;#160; But I don’t like to code in silence all the time, so I got myself re-hooked on to listening to podcasts, while I develop.
+Here are the direct links to the current individual podcasts I subscribe to:
+ .Net Rocks 37signals Podcast Alt.NET Podcast dnrTV Hanselminutes Pragmatic Podcasts Software Engineering Radio - The Podcast for Professional Software Developers The Thirsty Developer – Podcast Windows Weekly  Or if you really trust my taste, here’s a single RSS feed to all the podcasts I subscribe to:</description>
+    </item>
+    
+    <item>
+      <title>What I love about Microsoft</title>
+      <link>https://sunpech.com/2009/09/what-i-love-about-microsoft/</link>
+      <pubDate>Tue, 08 Sep 2009 07:15:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/09/what-i-love-about-microsoft/</guid>
+      <description>I am primarily a Microsoft software developer. But I was not always a M$FT user/developer so to speak. I used to use Windows 3.1 back in the heyday, followed a little with Windows 95&amp;frasl;98. But by then, I was a college student at Boston University. The computer labs there had primarily Unix terminals and Solaris boxes. So I naturally had to use and learn these technologies. Everything from using the command shell, pine, star office, gcc compiler, etc.</description>
+    </item>
+    
+    <item>
+      <title>Free Microsoft Development Tools for Students on DreamSpark</title>
+      <link>https://sunpech.com/2009/02/free-microsoft-development-tools-for-students-on-dreamspark/</link>
+      <pubDate>Sat, 28 Feb 2009 17:38:00 -0600</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2009/02/free-microsoft-development-tools-for-students-on-dreamspark/</guid>
+      <description>On Microsoft Dreamspark, they have a very nice list of Microsoft development tools that you can download for FREE. Mind you, these aren&amp;rsquo;t just the free editions of their software, these are Standard to Professional editions that individuals and companies pay a lot of money for.
+The catch is that you need to be a student with a student email. (Something like student.name@myuniversity.edu).
+They currently offer:
+ Microsoft SQL Server 2008 Developer Edition Microsoft Visual Studio 2005 Professional Edition  Microsoft Visual Studio 2008 Professional Edition  Microsoft Expression Studio 1.</description>
+    </item>
+    
+    <item>
+      <title>A C# Code Solution for FizzBuzz</title>
+      <link>https://sunpech.com/2008/09/c-code-solution-for-fizzbuzz/</link>
+      <pubDate>Mon, 15 Sep 2008 22:20:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/09/c-code-solution-for-fizzbuzz/</guid>
+      <description>I read a slashdot article earlier today which lead me to a Coding Horror article: Why Can&amp;rsquo;t Programmers.. Program?. This lead me to the FizBuzz problem, which prompted me to write my own quickie solution in C# (as a console application).
+Problem: Write a program that prints the numbers from 1 to 100. But for multiples of three print &amp;ldquo;Fizz&amp;rdquo; instead of the number and for the multiples of five print &amp;ldquo;Buzz&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Software Development Comic</title>
+      <link>https://sunpech.com/2008/08/software-development-comic/</link>
+      <pubDate>Mon, 18 Aug 2008 13:02:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/08/software-development-comic/</guid>
+      <description>I find this comic to be hilarious.</description>
+    </item>
+    
+    <item>
+      <title>Agile Software Development</title>
+      <link>https://sunpech.com/2008/08/agile-software-development/</link>
+      <pubDate>Fri, 01 Aug 2008 06:00:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/08/agile-software-development/</guid>
+      <description>Up to this point in my consulting career, too often I&amp;rsquo;ve seen consultants (myself included) spend time writing documents describing what will be and won&amp;rsquo;t be included in the project. And pretty much every time, whatever the client committed to on paper, isn&amp;rsquo;t what the client wanted in the end. Requirements change between the start and end of a project. This is software development as it truly is.
+Don&amp;rsquo;t get me wrong, I&amp;rsquo;m not saying documentation is bad all together.</description>
+    </item>
+    
+    <item>
+      <title>Event: Social Dev Camp Chicago</title>
+      <link>https://sunpech.com/2008/07/event-social-dev-camp-chicago/</link>
+      <pubDate>Fri, 18 Jul 2008 17:49:00 -0500</pubDate>
+      <author>steven@sunpech.com (Steven Suwatanapongched)</author>
+      <guid>https://sunpech.com/2008/07/event-social-dev-camp-chicago/</guid>
+      <description>I hope I can make this! From the facebook event link, I found: Chicago Interactive Design/Development Meetup Group. So interesting!
+SocialDevCampChicago Saturday, August 9th 2008
+8:30am-6:00pm
+at Illinois Institute of Technology McCormick Tribune Center (http://www.iit.edu/mtcc/)
+Facebook event: http://www.facebook.com/event.php?eid=20586291919
+If you are developer in the midwest you might be interested in checking out the upcoming SocialDevCampChicago. SocialDevCampChicago is an unconference for people passionate about social networks, web applications, platform development, new media, and any of the exciting (but messy) topics in-between.</description>
+    </item>
+    
+  </channel>
+</rss>
