@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ $pages := first 9 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+  {{ $pages := first 5 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
   <div class="row">
     {{ range $index, $value := $pages }}
       {{ $link := .Permalink }}
