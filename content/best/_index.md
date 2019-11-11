@@ -1,6 +1,6 @@
 ---
 title: "Best"
-description: "A list of some of the best stuff I've come across."
+description: ""
 date: "2019-08-31"
 headerimage: /images/headers/bricks.jpg
 disable_feed: true
