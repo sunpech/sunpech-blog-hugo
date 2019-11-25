@@ -36,7 +36,7 @@ Here are some more ways to interact and reach me.
 
 * [@sunpech](http://www.twitter.com/sunpech)
 * [@foodishappiness](http://www.twitter.com/foodishappiness)
-* [Kit.com](https://kit.com/sunpech)
+* [kit.co](https://kit.co/sunpech)
 * [Kindle](https://kindle.amazon.com/profile/S--Suwatanapongched/1869189)
 * [About.me](http://about.me/sunpech)
 * [Pinterest](http://pinterest.com/sunpech/)
