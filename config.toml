@@ -13,7 +13,7 @@ googleAnalytics = "UA-126684-2"
 
 [params]
   mainSections = ["posts"]
-  copyrighthtml = "Copyright &copy; 2019 Sunpech Suwatanapongched"
+  copyrighthtml = "Copyright &copy; 2020 Sunpech Suwatanapongched"
   headerimage = "/images/books.jpg"
   favicon = "favicon.ico"
   # Open Graph and Twitter Cards
