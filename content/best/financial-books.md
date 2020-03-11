@@ -17,4 +17,4 @@ These are my favorite financial/investing books.
 * [Becoming an Investor: Building Wealth by Investing in Stocks, Bonds, and Mutual Funds](https://amzn.to/2mGyLjg) by Peter I. Hupalo
 * [Motley Fool Million Dollar Portfolio: How to Build and Grow a Panic-Proof Investment Portfolio](https://amzn.to/39Lt47g) by David and Tom Gardner
 
-*Last Updated January 9, 2020*
+*Last Updated March 11, 2020*
