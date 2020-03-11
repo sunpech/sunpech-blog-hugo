@@ -15,5 +15,6 @@ These are my favorite financial/investing books.
 * [One Up On Wall Street: How To Use What You Already Know To Make Money In The Market ](https://amzn.to/2NaGOz0) by Peter Lynch
 * [Beating the Street](https://amzn.to/2R07jIG) by Peter Lynch
 * [Becoming an Investor: Building Wealth by Investing in Stocks, Bonds, and Mutual Funds](https://amzn.to/2mGyLjg) by Peter I. Hupalo
+* [Motley Fool Million Dollar Portfolio: How to Build and Grow a Panic-Proof Investment Portfolio](https://amzn.to/39Lt47g) by David and Tom Gardner
 
 *Last Updated January 9, 2020*
