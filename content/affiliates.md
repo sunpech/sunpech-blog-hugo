@@ -39,6 +39,7 @@ I am an affiliate at the following sites. Clicking on any these links to join or
 
 ![Namecheap](/images/affiliates/namecheap-logo-100px.jpg)
 
+* [Brave Browser](https://brave.com/sun686) - A free open-source web browser based on Chromium. It blocks ads and website trackers, and provides a way for users to send cryptocurrency contributions in the form of Basic Attention Tokens to websites and content creators.
 * [Cloudinary](http://cloudinary.com/invites/lpov9zyyucivvxsnalc5/ehbqvpqromhkepo5z5yd) - A cloud-based image and video management solution.
 * [Digital Ocean](https://www.digitalocean.com/?refcode=cbdbc78d2cc8) - Cloud computing plans for software developers.
 * [GitKraken](https://www.gitkraken.com/invite/28dNjYLM) - Cross platform Git GUI for software developers.
