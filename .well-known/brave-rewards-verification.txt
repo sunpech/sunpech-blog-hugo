@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sunpech.com
+Token: 9ac0dff9eb45f4aef9153dd475eb4e2d2872334f3bb2a908be77d30c8f332555
