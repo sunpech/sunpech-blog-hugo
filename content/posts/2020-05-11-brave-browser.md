@@ -16,17 +16,27 @@ For a long time [Google Chrome](https://www.google.com/chrome/) was my default b
 
 Recently I decided to swith to use [Brave](https://brave.com/?ref=sun686). 
 
-## Brave's Mission
+### Brave's Mission
 
 > Brave is on a mission to fix the web by giving users a safer, faster and better browsing experience while growing support for content creators through a new attention-based ecosystem of rewards. ([source](https://brave.com/about/))
 
+![Brave Browser](/images/blog/brave-1080x628-facebook-template.jpg)
+
+### Pros and Cons
+
 Thus far the experience has been great. For one, it's much faster than Firefox. 
 
-I still don't like the amount of ads and tracking that goes on the Internet, so I still use extensions. I recommend [Privacey Badger](https://privacybadger.org/) and [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en).
+I still don't like the amount of ads and tracking that goes on the Internet, so I still use extensions to help block ads and protect my privacy. I recommend [Privacey Badger](https://privacybadger.org/) and [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), which are available on both Chrome and Firefox.
 
-The biggest drawback is that it currently has disabled syncing your Brave settings/bookmarks across devices. See: [How do I set up Sync?](https://support.brave.com/hc/en-us/articles/360021218111-How-do-I-set-up-Sync-)
+The biggest drawback is that it currently has disabled syncing your Brave settings/bookmarks across devices due to a bug/instability issue. See: [How do I set up Sync?](https://support.brave.com/hc/en-us/articles/360021218111-How-do-I-set-up-Sync-). I'm hoping they fix this issue soon as this could be a longer term deal breaker. I use multiple computers/devices and would prefer my bookmarks be synced.
 
-![Brave Browser](/images/blog/brave-1080x628-facebook-template.jpg)
+### Content Creators
+
+I did sign up as a content creator on [Brave Rewards](https://creators.brave.com/).
+
+> Brave Rewards helps you earn more for doing what you do best and get back some of that revenue lost for when your viewers use ad blocking. Get paid directly by your audience for your content, instead of relying on ad revenue.
+
+I'm not sure how
 
 ## Final Thoughts
 
@@ -38,7 +48,7 @@ I urge users to give Brave a try if they haven't already.
 
 [Download Brave](https://brave.com/?ref=sun686)
 
-### Best Extensions
+#### Best Extensions
 
 * [Keepa](https://keepa.com/) - Amazon Price Tracker
 * [Lastpass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en-US) - Free Password Manager
