@@ -1,73 +1,45 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ $pages := first 5 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+  {{ $pages := first 10 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
   <div class="row">
-    {{ range $index, $value := $pages }}
-      {{ $link := .Permalink }}
-      {{ $title := .Title}}
-      {{ $image := .Params.image }}
-      {{ $thumbnail := .Params.thumbnail }}
+    <div class="col-xl-10 col-lg-10 col-md-12 col-sm-12 col-xs-12">
+      <h1>Recent Posts</h1>
+      <ul class="list-unstyled">
+      {{ range $index, $value := $pages }}
+        {{ $link := .Permalink }}
+        {{ $title := .Title}}
+        {{ $descriptions := .Description }}
+        {{ $image := .Params.image }}
+        {{ $thumbnail := .Params.thumbnail }}
 
-      {{ if eq $index 0 }}
-        <!-- First/Top -->
-        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 pt-3">
-          <h1>Latest Post</h1>
-        </div>
-        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 pt-3">
-          <div class="card">
-            <div class="card-header">
-              <h4><a href="{{ $link }}">{{ .Title }}</a></h4>
-            </div>
-            {{ with .Params.image }}
-            <a href="{{ $link }}"><img class="card-img-top img-fluid" src="{{ $image }}"  alt="{{ $title }}" /></a>
-            {{ else }}
-            <a href="{{ $link }}"><img class="card-img-top post-img-thumb img-fluid" src="{{ $thumbnail }}"  alt="{{ $title }}" /></a>
+        <li class="media p-2 mb-3 border">
+          
+          {{ with .Params.thumbnail }}
+            <a href="{{ $link }}"><img class="card-img-top post-img-thumb img-fluid" src="{{ $thumbnail }}"  alt="{{ $title }}" /></a> 
+          {{ end }}
+          <div class="media-body pl-3">
+            <h4><a href="{{ $link }}">{{ .Title }}</a></h4>
+            <span>posted on {{.Date.Format "January 2, 2006" }}</span>
+            <p>{{ .Description }}</p>
+            {{ $taglist := .Params.tags }}
+            {{ $len := len $taglist}}
+            <i class="fa fa-tags"></i>
+            {{ range $index, $element := $taglist }}
+              <a href="/tags/{{ . | urlize }}">{{ . }}</a>{{ if not (eq (add $index 1) $len) }},&nbsp;{{ end }}
             {{ end }}
-            <div class="card-body">
-              <h5>{{ .Date.Format "January 2, 2006" }}</h5>
-              <p>{{ .Params.description }}</p>
-            </div>
-            <div class="card-footer text-muted">
-              {{ $taglist := .Params.tags }}
-              {{ $len := len $taglist}}
-              <i class="fa fa-tags"></i>
-                {{ range $index, $element := $taglist }}
-                  <a href="/tags/{{ . | urlize }}">{{ . }}</a>{{ if not (eq (add $index 1) $len) }},&nbsp;{{ end }}
-                {{ end }}
-            </div>
           </div>
-        </div>
-      {{ else }}
-        {{ if eq $index 1 }}
-          <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 pt-3">
-            <h2>Recent Posts</h2>
-          </div>
-        {{ end }}
-        <!-- All else -->
-        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-sm-12 col-xs-12 pt-3">
-          <div class="card">
-            <div class="card-header">
-              <h4><a href="{{ $link }}">{{ .Title }}</a></h4>
-            </div>
-            {{ with .Params.image }}
-            <a href="{{ $link }}"><img class="card-img-top img-fluid" src="{{ $image }}"  alt="{{ $title }}" /></a>
-            {{ else }}
-            <a href="{{ $link }}"><img class="card-img-top post-img-thumb img-fluid" src="{{ $thumbnail }}"  alt="{{ $title }}" /></a>
-            {{ end }}
-            <div class="card-body">
-              <h5>{{ .Date.Format "January 2, 2006" }}</h5>
-            </div>
-            <div class="card-footer text-muted">
-              {{ $taglist := .Params.tags }}
-              {{ $len := len $taglist}}
-              <i class="fa fa-tags"></i>
-                {{ range $index, $element := $taglist }}
-                  <a href="/tags/{{ . | urlize }}">{{ . }}</a>{{ if not (eq (add $index 1) $len) }},&nbsp;{{ end }}
-                {{ end }}
-            </div>
-          </div>
-        </div>
+        </li>
       {{ end }}
-    {{ end }}
-  </div>
+      </ul>
+    </div><!-- /col -->
+
+    <div class="col-xl-2 col-lg-2 col-md-12 col-sm-12 col-xs-12">
+      <h2>Tags</h2>
+      <ul>
+      {{ range $key, $value := .Site.Taxonomies.tags }}
+        <li><a href="/tags/{{ $key | urlize  }}">{{ $key | humanize | title }}</a> ({{ len $value }})</li>
+      {{ end }}
+      </ul>
+    </div>
+  </div><!-- /row -->
 {{ end }}

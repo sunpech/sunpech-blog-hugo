@@ -79,3 +79,7 @@ googleAnalytics = "UA-126684-2"
     isPlainText = false
 
 disableKinds = ['RSS']
+
+[taxonomies]
+tag = "tags"
+category = "categories"
