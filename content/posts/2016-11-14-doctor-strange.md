@@ -15,7 +15,7 @@ title: Doctor Strange
 ---
 
 
-The last [MCU](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe) movie for 2016, [Doctor Strange](http://www.imdb.com/title/tt1211837/) came out last week. This is my *spoilery* review which covers some plot points and my thoughts of it's potential impact on the movie universe.
+The last [MCU](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe) movie for 2016, [Doctor Strange](https://www.imdb.com/title/tt1211837/) came out last week. This is my *spoilery* review which covers some plot points and my thoughts of it's potential impact on the movie universe.
 
 ![Dr. Strange](/images/blog/dr-strange.jpg)
 
@@ -23,7 +23,7 @@ I really enjoyed the movie. It was an origin movie that formally introduced **ma
 
 ## The Good
 
-The cast is amazing. [Benedict Cumberbatch](http://www.imdb.com/name/nm1212722/), [Chiwetel Ejiofor](http://www.imdb.com/name/nm0252230/), [Rachel McAdams](http://www.imdb.com/name/nm1046097/), [Benedict Wong](http://www.imdb.com/name/nm0938950/), [Mads Mikkelsen](http://www.imdb.com/name/nm0586568/), and [Tilda Swinton](http://www.imdb.com/name/nm0842770/) were all great choices for their roles.
+The cast is amazing. [Benedict Cumberbatch](https://www.imdb.com/name/nm1212722/), [Chiwetel Ejiofor](https://www.imdb.com/name/nm0252230/), [Rachel McAdams](https://www.imdb.com/name/nm1046097/), [Benedict Wong](https://www.imdb.com/name/nm0938950/), [Mads Mikkelsen](https://www.imdb.com/name/nm0586568/), and [Tilda Swinton](https://www.imdb.com/name/nm0842770/) were all great choices for their roles.
 
 I know many were upset and accused "Hollywood" with the *[white-washing](https://en.wikipedia.org/wiki/Whitewashing_in_film)* in regards to the [The Ancient One](https://en.wikipedia.org/wiki/Ancient_One). I disagree. There are politics involved with the comics character being Tibetan, which can offend not only people but also result in the Chinese government banning the movie in their country. So it's a good move for them to not cast the character as an Asian role altogether-- and not to mention that do we need to keep pushing the stereotype of Asian monks being martial arts experts with mystical powers? I think casting Tilda Swinton avoids all that because they gave a special role to an equally amazing actress. There is a part of me that questions whether or not she's human or not-- she may just be a unicorn in disguise.
 
@@ -39,7 +39,7 @@ I was pretty excited when Baron Mordo mentions that his weapon is the *staff of 
 
 I really liked how Doctor Strange dealt with Dormammu at the end. It became apparent that he couldn't win the battle by brute force or stronger magic against a more experienced Kaecilius. The path to victory was for Strange to enter a time loop where he would fail time and again in sacrifice for planet Earth, something his character has a hard time admitting.
 
-The after credits scenes were perfect. The one with Thor links the movie back to the MCU and teases that *wizards* have a part to play in next year's [Thor: Ragnarok](http://www.imdb.com/title/tt3501632/) movie. The second after credits scene shows that the real opponent of Doctor Strange is Baron Mordo, to which he has a case about there being too many wizards messing around with the laws of nature.
+The after credits scenes were perfect. The one with Thor links the movie back to the MCU and teases that *wizards* have a part to play in next year's [Thor: Ragnarok](https://www.imdb.com/title/tt3501632/) movie. The second after credits scene shows that the real opponent of Doctor Strange is Baron Mordo, to which he has a case about there being too many wizards messing around with the laws of nature.
 
 ## The Bad
 

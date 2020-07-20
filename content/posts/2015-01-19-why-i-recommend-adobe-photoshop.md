@@ -1,27 +1,27 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1564464479286947721
-blogger_orig_url: http://www.sunpech.com/2015/01/why-i-recommend-adobe-photoshop.html
+blogger_orig_url: https://www.sunpech.com/2015/01/why-i-recommend-adobe-photoshop.html
 date: '2015-01-19T12:00:00.000-06:00'
 description: I cover why I love and recommend Adobe Photoshop Lightroom Creative Cloud.
 headerimage: /images/headers/old_cameras.jpg
-image: http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png
+image: https://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png
 modified_time: '2015-01-19T15:39:39.427-06:00'
 redirect_from: /2015/01/why-i-recommend-adobe-photoshop.html
 tags:
   - Photography
-thumbnail: http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png
+thumbnail: https://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png
 title: Why I Recommend Adobe Photoshop Lightroom
 ---
 
 
-Over the past few years, friends have been asked me photography questions in terms of camera gear and software. Perhaps I'll write a post in the future on physical camera gear, but for this post I wanted to cover <i>why I love using <a href="http://www.adobe.com/products/photoshop-lightroom.html">Adobe Photoshop Lightroom</a> </i>and <i>why you should consider it for your photo needs</i>.
+Over the past few years, friends have been asked me photography questions in terms of camera gear and software. Perhaps I'll write a post in the future on physical camera gear, but for this post I wanted to cover <i>why I love using <a href="https://www.adobe.com/products/photoshop-lightroom.html">Adobe Photoshop Lightroom</a> </i>and <i>why you should consider it for your photo needs</i>.
 
-Adobe Lightroom is essentially a trimmed down version of <a href="http://www.adobe.com/products/photoshop.html">Photoshop</a> (PS) with features built in for a Photography workflow. There are photographers that are PS purists and do everything within it. I am not one of those and spend 90% of my time in Lightroom, and maybe 10% in Photoshop for my photographs.
+Adobe Lightroom is essentially a trimmed down version of <a href="https://www.adobe.com/products/photoshop.html">Photoshop</a> (PS) with features built in for a Photography workflow. There are photographers that are PS purists and do everything within it. I am not one of those and spend 90% of my time in Lightroom, and maybe 10% in Photoshop for my photographs.
 
 This is not an extensive guide to using Lightroom (LR) and all its features.
 
-<a href="http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png" alt="" ><img   border="0" src="http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png" alt=""   /></a>
+<a href="https://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png" alt=""   /></a>
 
 ## Developing a Workflow
 
@@ -41,7 +41,7 @@ I like to rename my files to the following format: <span style="font-family: Cou
 
 My folder structure is in the format: <span style="font-family: Courier New, Courier, monospace;">PICTURES/YEAR/MONTH/DAY</span>
 
-<a href="http://3.bp.blogspot.com/-WwZ9WcYthN4/VLzD6HkfyiI/AAAAAAAB1Ck/QW6JXY9JaRY/s600/Screen%2BShot%2B2015-01-19%2Bat%2B2.43.58%2BAM.png" alt="" ><img   border="0" src="http://3.bp.blogspot.com/-WwZ9WcYthN4/VLzD6HkfyiI/AAAAAAAB1Ck/QW6JXY9JaRY/s600/Screen%2BShot%2B2015-01-19%2Bat%2B2.43.58%2BAM.png" alt="" height="166"  /></a><br /><span style="font-size: x-small;">Example folder/file naming convention.</span>
+<a href="https://3.bp.blogspot.com/-WwZ9WcYthN4/VLzD6HkfyiI/AAAAAAAB1Ck/QW6JXY9JaRY/s600/Screen%2BShot%2B2015-01-19%2Bat%2B2.43.58%2BAM.png" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-WwZ9WcYthN4/VLzD6HkfyiI/AAAAAAAB1Ck/QW6JXY9JaRY/s600/Screen%2BShot%2B2015-01-19%2Bat%2B2.43.58%2BAM.png" alt="" height="166"  /></a><br /><span style="font-size: x-small;">Example folder/file naming convention.</span>
 
 At the top folder, you may have a folder simply called "Pictures". For me I have it called "Photos Raw". This is the folder where you should organize all your photos.
 
@@ -55,7 +55,7 @@ Having these conventions gives you the long term benefit of a high level overvie
 
 You should also use photo editing software to properly create metadata information for each photo during the export/import process. This meta information is basically a set of descriptions that you can use to not only describe the photo, but to further filter and organize your photos later.
 
-<a href="http://1.bp.blogspot.com/-_idK_MTiGCM/VLzHqo7K6bI/AAAAAAAB1DA/m0PECDATmsc/s600/Screen_Shot_2015-01-19_at_2_56_51_AM.jpg" alt="" ><img   border="0" src="http://1.bp.blogspot.com/-_idK_MTiGCM/VLzHqo7K6bI/AAAAAAAB1DA/m0PECDATmsc/s600/Screen_Shot_2015-01-19_at_2_56_51_AM.jpg" alt=""  width="242" /></a><br /><span style="font-size: x-small;">Example metadata information.</span>
+<a href="https://1.bp.blogspot.com/-_idK_MTiGCM/VLzHqo7K6bI/AAAAAAAB1DA/m0PECDATmsc/s600/Screen_Shot_2015-01-19_at_2_56_51_AM.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-_idK_MTiGCM/VLzHqo7K6bI/AAAAAAAB1DA/m0PECDATmsc/s600/Screen_Shot_2015-01-19_at_2_56_51_AM.jpg" alt=""  width="242" /></a><br /><span style="font-size: x-small;">Example metadata information.</span>
 
 Say, for example, you want to only see your photos that you took in Los Angeles. Well, having the keyword "Los Angeles" in this metadata will allow you to sort out any photos you tagged as "Los Angeles". Of course this requires that you tag photos you took in Los Angeles to begin with.
 
@@ -65,13 +65,13 @@ My favorite part of the workflow is <b>editing</b> the actual photos. This may n
 
 The amount of options and sliders in LR can be a little intimidating. But they are very powerful and can help improve your photos significantly.
 
-<a href="http://2.bp.blogspot.com/-SdXai6IXJs8/VLzNr7BuyVI/AAAAAAAB1DY/Et9j-34Qkd8/s600/Screen%2BShot%2B2015-01-19%2Bat%2B3.24.40%2BAM.png" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-SdXai6IXJs8/VLzNr7BuyVI/AAAAAAAB1DY/Et9j-34Qkd8/s600/Screen%2BShot%2B2015-01-19%2Bat%2B3.24.40%2BAM.png" alt=""  width="195" /></a><br /><span style="font-size: x-small;">Screenshot of the sliders and tools in Lightroom.</span>
+<a href="https://2.bp.blogspot.com/-SdXai6IXJs8/VLzNr7BuyVI/AAAAAAAB1DY/Et9j-34Qkd8/s600/Screen%2BShot%2B2015-01-19%2Bat%2B3.24.40%2BAM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-SdXai6IXJs8/VLzNr7BuyVI/AAAAAAAB1DY/Et9j-34Qkd8/s600/Screen%2BShot%2B2015-01-19%2Bat%2B3.24.40%2BAM.png" alt=""  width="195" /></a><br /><span style="font-size: x-small;">Screenshot of the sliders and tools in Lightroom.</span>
 
 Recently I've been scanning some old photo slides from the late 1960s for my parents-- this is way before I was even born! I would scan them and then bring them into Lightroom for editing. On many of them the colors weren't vibrant and had so much visible dust or dirt particles.
 
-Below is an example of an edit of my mom in downtown Chicago in 1968. As you can see, it's already a nice photo, the subject is in focus and a nice blurred (<a href="http://en.wikipedia.org/wiki/Bokeh">bokeh</a>) background. But there's some dust particles in the upper portions of the photo and a distracting piece of litter on the ground to the left of the subject. I removed the dust, litter, boosted the colors, and added a radial vignette to the photo to make the subject more prominent.
+Below is an example of an edit of my mom in downtown Chicago in 1968. As you can see, it's already a nice photo, the subject is in focus and a nice blurred (<a href="https://en.wikipedia.org/wiki/Bokeh">bokeh</a>) background. But there's some dust particles in the upper portions of the photo and a distracting piece of litter on the ground to the left of the subject. I removed the dust, litter, boosted the colors, and added a radial vignette to the photo to make the subject more prominent.
 
-<a href="http://2.bp.blogspot.com/-ZXcYSCkP6sY/VLzMTTD65AI/AAAAAAAB1DM/Pk_4NNwNrHc/s600/Screen%2BShot%2B2015-01-17%2Bat%2B4.59.53%2BPM.png" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-ZXcYSCkP6sY/VLzMTTD65AI/AAAAAAAB1DM/Pk_4NNwNrHc/s600/Screen%2BShot%2B2015-01-17%2Bat%2B4.59.53%2BPM.png" alt="" height="454"  /></a><br /><span style="font-size: x-small;">Example before and after editing in Lightroom.</span><br /><span style="font-size: x-small;"><br /></span>The quality of the edits in Lightroom is far superior than what I've seen come out of other photo editing software.
+<a href="https://2.bp.blogspot.com/-ZXcYSCkP6sY/VLzMTTD65AI/AAAAAAAB1DM/Pk_4NNwNrHc/s600/Screen%2BShot%2B2015-01-17%2Bat%2B4.59.53%2BPM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-ZXcYSCkP6sY/VLzMTTD65AI/AAAAAAAB1DM/Pk_4NNwNrHc/s600/Screen%2BShot%2B2015-01-17%2Bat%2B4.59.53%2BPM.png" alt="" height="454"  /></a><br /><span style="font-size: x-small;">Example before and after editing in Lightroom.</span><br /><span style="font-size: x-small;"><br /></span>The quality of the edits in Lightroom is far superior than what I've seen come out of other photo editing software.
 
 ## Why Lightroom Rocks
 
@@ -87,13 +87,13 @@ Here's why it rocks:
 
 Presets. Sync. Compatible with Photoshop. And so many other features!
 
-<b>I do not recommend Adobe Lightroom for people who don't edit their photos</b>. <a href="https://www.apple.com/mac/iphoto/">iPhoto</a> and <a href="http://picasa.google.com/">Picasa</a> can handle the workflow with basic editing features, and of course transferring and organizing photos. If you're really happy using a mobile app to edit your photos, more power to you, Lightroom may not be for you then.
+<b>I do not recommend Adobe Lightroom for people who don't edit their photos</b>. <a href="https://www.apple.com/mac/iphoto/">iPhoto</a> and <a href="https://picasa.google.com/">Picasa</a> can handle the workflow with basic editing features, and of course transferring and organizing photos. If you're really happy using a mobile app to edit your photos, more power to you, Lightroom may not be for you then.
 
 ## Buy or Subscribe?
 
 Adobe offers Lightroom software for purchase by itself that you can own forever. This basically is the traditional software that you buy a specific version number and get all updates for that version number. LR is currently at version 5.x, but if version 6.x comes out, with new features, you will have to pay to upgrade, if it is even offered.
 
-Adobe also offers a <a href="http://www.adobe.com/creativecloud.html">Creative Cloud</a> (CC) subscription. I use the Photography plan which is open to everyone at $10/month and includes both Lightroom and Photoshop.
+Adobe also offers a <a href="https://www.adobe.com/creativecloud.html">Creative Cloud</a> (CC) subscription. I use the Photography plan which is open to everyone at $10/month and includes both Lightroom and Photoshop.
 
 The frequent question I get is why anyone would subscribe when they could just buy it outright.
 
@@ -109,14 +109,14 @@ In short, buy if you <i>only</i> want to use Lightroom. Subscribe if you want to
 
 Hope this post was helpful. Here are some links for you.
 
-##### <a href="http://www.amazon.com/gp/product/B00CY1OB5S/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00CY1OB5S&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=42RJZNV7AJ6RHXLW">Buy Adobe Photoshop Lightroom v5</a>
+##### <a href="https://www.amazon.com/gp/product/B00CY1OB5S/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00CY1OB5S&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=42RJZNV7AJ6RHXLW">Buy Adobe Photoshop Lightroom v5</a>
 
 Currently at $140-ish.<br />Or you can do a <a href="https://creative.adobe.com/products/download/lightroom">free trial</a>. I believe it's 30 days.
 
-##### <a href="http://www.amazon.com/gp/product/B00KNDCCE6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00KNDCCE6&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=4VHYRNIY2GKTFCIG">Subscribe to Adobe Creative Cloud for Photographers</a>
+##### <a href="https://www.amazon.com/gp/product/B00KNDCCE6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00KNDCCE6&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=4VHYRNIY2GKTFCIG">Subscribe to Adobe Creative Cloud for Photographers</a>
 
 Currently at $9.99/month.
 
-#### <a href="http://www.slrlounge.com/store-product/lightroom-presets/">SLR Lounge Presets v6</a>
+#### <a href="https://www.slrlounge.com/store-product/lightroom-presets/">SLR Lounge Presets v6</a>
 
 These are the presets I recommend and use. $149.

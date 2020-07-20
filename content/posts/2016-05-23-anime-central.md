@@ -15,9 +15,9 @@ title: Anime Central 2016
 ---
 
 
-This past weekend I attended [Anime Central](http://www.acen.org), also known as ACen. I was given a press pass and attended all three days, May 20-22nd. My main goal was to take photos of cosplayers in and out of the [Donald E. Stephens Convention Center](http://www.rosemont.com/desconvention/). ACen is the Midwest's largest anime, manga, and Japanese pop culture convention. It's [the third](http://animecons.com/articles/article.shtml/1484/Ten_Largest_North_American_Anime_Conventions_of_2015) largest anime convention, but in recent news I've heard it's the second now, behind [Anime Expo](http://www.anime-expo.org/) (AX).
+This past weekend I attended [Anime Central](https://www.acen.org), also known as ACen. I was given a press pass and attended all three days, May 20-22nd. My main goal was to take photos of cosplayers in and out of the [Donald E. Stephens Convention Center](https://www.rosemont.com/desconvention/). ACen is the Midwest's largest anime, manga, and Japanese pop culture convention. It's [the third](https://animecons.com/articles/article.shtml/1484/Ten_Largest_North_American_Anime_Conventions_of_2015) largest anime convention, but in recent news I've heard it's the second now, behind [Anime Expo](https://www.anime-expo.org/) (AX).
 
-I was surprised by the number of people after the formal con hours. It seems as though the post-con parties is where the con really kicks things up. I've heard some con-goers compare ACen to [DragonCon](http://www.dragoncon.org/), in the sense that it runs around the clock through the weekend. After a full day of walking and taking photos, I was too tired for anything after 6pm!
+I was surprised by the number of people after the formal con hours. It seems as though the post-con parties is where the con really kicks things up. I've heard some con-goers compare ACen to [DragonCon](https://www.dragoncon.org/), in the sense that it runs around the clock through the weekend. After a full day of walking and taking photos, I was too tired for anything after 6pm!
 
 **I really like how ACen has the artist alley near the front**, before many of the exhibitors. Most other conventions puts the artists to the side or the back where many convention goers may miss a lot of creative and/or local talent. Putting artist alley front/center allows most traffic to flow through and discover stuff you wouldn't find easily online.
 
@@ -29,7 +29,7 @@ I was surprised by the number of people after the formal con hours. It seems as 
 
 I was impressed with the quality of cosplay at ACen. I didn't think I would find such great subjects to photograph. I say this because I'm used to attending AX where the bar for cosplay is set pretty high.
 
-However, many of the great cosplayers I saw didn't hang out in the main lobby. A few of them were in the hotel lobby or outside near the gatherings and meetups. I walked back and forth all day long-- to put it in context, I walked more on Friday at ACen than on any day at [San Diego Comic Con](http://www.comic-con.org/cci) last year.
+However, many of the great cosplayers I saw didn't hang out in the main lobby. A few of them were in the hotel lobby or outside near the gatherings and meetups. I walked back and forth all day long-- to put it in context, I walked more on Friday at ACen than on any day at [San Diego Comic Con](https://www.comic-con.org/cci) last year.
 
 One of the things I love about cosplay at anime conventions is how it encompasses everything from comics, anime, and manga to movies, TV shows, Disney, and cartoons, and even includes zombies and video games. The community is very open and inclusive to all forms of fandom.
 

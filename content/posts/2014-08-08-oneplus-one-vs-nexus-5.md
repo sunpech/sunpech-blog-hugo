@@ -1,27 +1,27 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5527383971101594263
-blogger_orig_url: http://www.sunpech.com/2014/08/oneplus-one-vs-nexus-5.html
+blogger_orig_url: https://www.sunpech.com/2014/08/oneplus-one-vs-nexus-5.html
 date: '2014-08-08T11:00:00.000-05:00'
 headerimage: /images/headers/android.jpg
-image: http://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg
+image: https://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg
 modified_time: '2014-08-15T08:03:49.472-05:00'
 redirect_from: /2014/08/oneplus-one-vs-nexus-5.html
 tags:
   - Android
   - Google
   - Review
-thumbnail: http://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg
+thumbnail: https://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg
 title: OnePlus One vs Nexus 5
 ---
 
 
-Last month in July, I purchased two Android phones: <a href="http://www.google.com/nexus/5/">The Nexus 5</a> (N5) and the <a href="http://www.oneplus.net/">OnePlus One</a> (OPO). I initially ordered the Nexus 5 because I was sick of waiting for an OnePlus invite that I signed up for in April. Up until then, I was using a <a href="http://en.wikipedia.org/wiki/Galaxy_Nexus">Galaxy Nexus</a> for two years and its overall performance was rather sluggish and could no longer hold a charge for half a day.
+Last month in July, I purchased two Android phones: <a href="https://www.google.com/nexus/5/">The Nexus 5</a> (N5) and the <a href="https://www.oneplus.net/">OnePlus One</a> (OPO). I initially ordered the Nexus 5 because I was sick of waiting for an OnePlus invite that I signed up for in April. Up until then, I was using a <a href="https://en.wikipedia.org/wiki/Galaxy_Nexus">Galaxy Nexus</a> for two years and its overall performance was rather sluggish and could no longer hold a charge for half a day.
 
 I got the white Nexus 5 (16GB). I had it only for a few weeks before I got a OnePlus invite in mid-July. I had to act quickly since the invite was good for only 24 hours. I was already happy with the Nexus 5, but here I was given an opportunity to try out something highly sought after. So after some talking I was able to find a new home for my Nexus 5 and decided to move forward to be one of the lucky few OPO owners.
 
 My OnePlus invite email:
-<a href="http://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg" alt=""  width="492" /></a>
+<a href="https://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg" alt=""  width="492" /></a>
 
 ## Nexus 5
 
@@ -35,11 +35,11 @@ At first I thought that the phone would be too big and uncomfortable to use. Aft
 
 I cannot think of a single thing to dislike about this phone. None.
 
-<img   border="0" src="http://3.bp.blogspot.com/-__MwiiGAWVg/U-Ls8TcAXPI/AAAAAAABv9I/i7kOcQq827o/s600/2014-07-02+at+14-20-30.jpg" alt=""  style="color: #0000ee;"  />
+<img   border="0" src="https://3.bp.blogspot.com/-__MwiiGAWVg/U-Ls8TcAXPI/AAAAAAABv9I/i7kOcQq827o/s600/2014-07-02+at+14-20-30.jpg" alt=""  style="color: #0000ee;"  />
 
 ## OnePlus One
 
-The OPO is running <a href="http://www.cyanogenmod.org/">Cyanogenmod</a> 11s and it runs it rather well. A concern I had about ordering this device is that it is even bigger than the Nexus 5!
+The OPO is running <a href="https://www.cyanogenmod.org/">Cyanogenmod</a> 11s and it runs it rather well. A concern I had about ordering this device is that it is even bigger than the Nexus 5!
 
 What I love about it is that it boots and feels faster than the Nexus 5. The screen is nice and big and the CM build is rather nice. It's a cheap, 64GB black model ($350)-- which has incredible value. A device of this build would normally sell for twice the cost! The battery life is also even better than the Nexus 5-- I can get through almost 2 days of regular use!
 
@@ -53,7 +53,7 @@ What I don't like is that it's a heavier device than the Nexus 5. I can really n
 
 <b>The CM 11S build is also a bit buggy</b>. I get app crashes consistently on certain workflows. I do hope that they get fixed in the next update. Even the Android L Preview is more stable than this ROM.
 
-<a href="http://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg" alt=""   /></a>
+<a href="https://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg" alt=""   /></a>
 
 ## Final Thoughts
 

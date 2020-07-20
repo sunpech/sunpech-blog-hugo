@@ -14,7 +14,7 @@ title: Reflecting on Console Wars
 ---
 
 
-I recently finished reading [Console Wars](http://amzn.to/1RWN3PZ) by [Blake J. Harris](http://www.blakejharris.com/) and I really enjoyed the trip down memory lane. I grew up in the 1980s and 1990s and played on video game systems by [Nintendo](http://www.nintendo.com/), [Sega](http://www.sega.com/), [Sony](http://www.sony.com/), and [Atari](https://www.atari.com/). This is my reflection on this gaming era after reading this book.
+I recently finished reading [Console Wars](https://amzn.to/1RWN3PZ) by [Blake J. Harris](https://www.blakejharris.com/) and I really enjoyed the trip down memory lane. I grew up in the 1980s and 1990s and played on video game systems by [Nintendo](https://www.nintendo.com/), [Sega](https://www.sega.com/), [Sony](https://www.sony.com/), and [Atari](https://www.atari.com/). This is my reflection on this gaming era after reading this book.
 
 **Console Wars** tells the story of [Tom Kalinske](https://en.wikipedia.org/wiki/Tom_Kalinske), an American business man and CEO behind Sega of America during its meteoric rise and fall.  The book takes place between 1989 through 1996 and shows how they challenged not only Nintendo but the gaming industry as a whole.
 
@@ -44,7 +44,7 @@ Back in the late 1980s, there was no Internet as we now know it. So we had a [Ni
 
 ## Sega
 
-In 1990, when I was in middle school, the 16-bit [Sega Genesis](https://en.wikipedia.org/wiki/Sega_Genesis) was the console that most of my school friends wanted. The marketing and games available were geared to kids who grew up on the NES but wanted something more, especially sports and fighting games. [Altered Beast](https://en.wikipedia.org/wiki/Altered_Beast) was a game that looked great and came bundled with the system. I remember playing this game on the demo system at [Kohl's](http://www.kohls.com/) while my mom shopped. But many of us had Gameboys and a large library of NES games to keep us entertained. Plus we all knew that Nintendo was coming out with their own 16-bit system soon.
+In 1990, when I was in middle school, the 16-bit [Sega Genesis](https://en.wikipedia.org/wiki/Sega_Genesis) was the console that most of my school friends wanted. The marketing and games available were geared to kids who grew up on the NES but wanted something more, especially sports and fighting games. [Altered Beast](https://en.wikipedia.org/wiki/Altered_Beast) was a game that looked great and came bundled with the system. I remember playing this game on the demo system at [Kohl's](https://www.kohls.com/) while my mom shopped. But many of us had Gameboys and a large library of NES games to keep us entertained. Plus we all knew that Nintendo was coming out with their own 16-bit system soon.
 
 ![Sega Genesis](/images/blog/sega-genesis.jpg)
 
@@ -56,7 +56,7 @@ Sega released a slew of hardware from the [32x](https://en.wikipedia.org/wiki/32
 
 During this time, fighting games like [Street Fighter II](https://en.wikipedia.org/wiki/Street_Fighter_II:_The_World_Warrior) and [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat) were all the rage in the arcades. For me it was the 7-11 after school. Not only were these rival games fighting each other, but SNES and Genesis' versions also competed against each other for their fans' affection. Nintendo's family friendly policy censored the blood by replacing it with sweat while Sega's allowed for the fatalities, gore, and blood. My school friends and I all would have jumped ship to Sega if we all didn't have Super Nintendos already. I even rented the Genesis console at Blockbuster just to play games like Mortal Kombat, [Golden Axe](https://en.wikipedia.org/wiki/Golden_Axe), [X-Men](https://en.wikipedia.org/wiki/X-Men_(1993_video_game)), and other cool games that *Nintendo-didn't*.
 
-By the mid 90s, Hollywood made [Street Fighter](http://www.imdb.com/title/tt0111301/) and [Mortal Kombat](http://www.imdb.com/title/tt0113855/) movies. That's how popular these games were. More importantly, the 16-bit gaming consoles were also at the end of their lifecycle. It was the dawn of the 32-bit era. The next generation of fighting games was going 3D with games such as [Virtua Fighter](https://en.wikipedia.org/wiki/Virtua_Fighter) and [Tekken](https://en.wikipedia.org/wiki/Tekken_(video_game)). Another player was going to enter the fight against Nintendo and Sega-- Sony.
+By the mid 90s, Hollywood made [Street Fighter](https://www.imdb.com/title/tt0111301/) and [Mortal Kombat](https://www.imdb.com/title/tt0113855/) movies. That's how popular these games were. More importantly, the 16-bit gaming consoles were also at the end of their lifecycle. It was the dawn of the 32-bit era. The next generation of fighting games was going 3D with games such as [Virtua Fighter](https://en.wikipedia.org/wiki/Virtua_Fighter) and [Tekken](https://en.wikipedia.org/wiki/Tekken_(video_game)). Another player was going to enter the fight against Nintendo and Sega-- Sony.
 
 ![Fighting Games](/images/blog/fighting-games.jpg)
 
@@ -68,7 +68,7 @@ I have versions 1-3, I skipped out on the [PS4](https://en.wikipedia.org/wiki/Pl
 
 ![Playstation 1](/images/blog/playstation-one.jpg)
 
-At the 1991 Consumer Electronics Show ([CES](https://en.wikipedia.org/wiki/Consumer_Electronics_Show)), Nintendo originally was going to partner with Sony to create a CD-ROM add-on for the SNES, the [SNES-CD](https://en.wikipedia.org/wiki/SNES-CD), also known as the *Play Station*, but the partnership fell apart with Nintendo choosing Sony's rival, Phillips instead. Just last year, [one of the prototype devices was found](http://www.engadget.com/2015/11/06/nintendo-playstation-is-real-and-it-works/) and actually works!
+At the 1991 Consumer Electronics Show ([CES](https://en.wikipedia.org/wiki/Consumer_Electronics_Show)), Nintendo originally was going to partner with Sony to create a CD-ROM add-on for the SNES, the [SNES-CD](https://en.wikipedia.org/wiki/SNES-CD), also known as the *Play Station*, but the partnership fell apart with Nintendo choosing Sony's rival, Phillips instead. Just last year, [one of the prototype devices was found](https://www.engadget.com/2015/11/06/nintendo-playstation-is-real-and-it-works/) and actually works!
 
 Over the years Sony gained experience in the industry and decided they could come out with their own console system. Unlike many others, they actually succeeded. In case you don't remember, there used to be [3DO](https://en.wikipedia.org/wiki/3DO_Interactive_Multiplayer), [Atari Jaguar](https://en.wikipedia.org/wiki/Atari_Jaguar), [Philips CD-i](https://en.wikipedia.org/wiki/Philips_CD-i), and [NEC's Turbo-Grapfx](https://en.wikipedia.org/wiki/TurboGrafx-16) to name the more *popular* ones.
 
@@ -84,7 +84,7 @@ I do hope more books like this comes out that cover the different gaming eras. B
 
 ### The Gaming Historian
 
-I first heard of the book through a recommended YouTube channel: [Gaming Historian](https://www.youtube.com/gaminghistorian), a retro-gaming documentary series by [Norman Caruso](http://www.imdb.com/name/nm4752197/). He has a ton of great high quality and well researched videos, definitely check out his channel if you are into classic gaming.
+I first heard of the book through a recommended YouTube channel: [Gaming Historian](https://www.youtube.com/gaminghistorian), a retro-gaming documentary series by [Norman Caruso](https://www.imdb.com/name/nm4752197/). He has a ton of great high quality and well researched videos, definitely check out his channel if you are into classic gaming.
 
 A few relevant videos to the book:
 
@@ -99,8 +99,8 @@ A few relevant videos to the book:
 
 ### Links
 
-* [Console Wars, by Blake J. Harris on Amazon](http://amzn.to/1RWN3PZ)
-* [Gaming Historian's website](http://thegaminghistorian.com/)
+* [Console Wars, by Blake J. Harris on Amazon](https://amzn.to/1RWN3PZ)
+* [Gaming Historian's website](https://thegaminghistorian.com/)
 * [Gaming Historian on YouTube](https://www.youtube.com/gaminghistorian)
 * [Gaming Music subreddit](https://www.reddit.com/r/gamemusic/)
 * [Retro Gaming subreddit](https://www.reddit.com/r/retrogaming/)

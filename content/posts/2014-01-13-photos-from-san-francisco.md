@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-9054948656372759016
-blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-san-francisco.html
+blogger_orig_url: https://www.sunpech.com/2014/01/photos-from-san-francisco.html
 date: '2014-01-13T12:00:00.000-06:00'
 headerimage: /images/headers/old_cameras.jpg
 modified_time: '2014-11-09T14:46:51.136-06:00'
@@ -9,7 +9,7 @@ redirect_from: /2014/01/photos-from-san-francisco.html
 tags:
   - Photography
   - San Francisco
-thumbnail: http://4.bp.blogspot.com/-QAlcGfJnzzc/UqDAM7t7FBI/AAAAAAABlNw/IA-90HenTwA/s600/2013-11-30+at+19-37-15.jpg
+thumbnail: https://4.bp.blogspot.com/-QAlcGfJnzzc/UqDAM7t7FBI/AAAAAAABlNw/IA-90HenTwA/s600/2013-11-30+at+19-37-15.jpg
 title: Photos from San Francisco
 ---
 
@@ -21,17 +21,17 @@ Well, this trip was somewhat dedicated to visiting the bridge several times to g
 Here are some of my favorite shots:
 
 #### Foggy Night
-Buy prints: <a href="http://500pxart.com/photo/54092228">http://500pxart.com/photo/54092228</a>
-<img   border="0" src="http://4.bp.blogspot.com/-QAlcGfJnzzc/UqDAM7t7FBI/AAAAAAABlNw/IA-90HenTwA/s600/2013-11-30+at+19-37-15.jpg" alt=""   />
+Buy prints: <a href="https://500pxart.com/photo/54092228">https://500pxart.com/photo/54092228</a>
+<img   border="0" src="https://4.bp.blogspot.com/-QAlcGfJnzzc/UqDAM7t7FBI/AAAAAAABlNw/IA-90HenTwA/s600/2013-11-30+at+19-37-15.jpg" alt=""   />
 
 #### Golden Gate Bridge's Fog
-Buy prints: <a href="http://500pxart.com/photo/54093138">http://500pxart.com/photo/54093138</a>
-<img   border="0" src="http://4.bp.blogspot.com/-MuTCkZbF-2g/UqDANww_bhI/AAAAAAABlN4/-0Qed5uJ8Lk/s600/2013-11-30+at+19-38-59.jpg" alt=""   />
+Buy prints: <a href="https://500pxart.com/photo/54093138">https://500pxart.com/photo/54093138</a>
+<img   border="0" src="https://4.bp.blogspot.com/-MuTCkZbF-2g/UqDANww_bhI/AAAAAAABlN4/-0Qed5uJ8Lk/s600/2013-11-30+at+19-38-59.jpg" alt=""   />
 
 #### Golden Gate Bridge Sunrise
-Buy prints: <a href="http://500pxart.com/photo/54112886">http://500pxart.com/photo/54112886</a>
-<img   border="0" src="http://2.bp.blogspot.com/-KK8sgIy9two/UqDAPJFtcvI/AAAAAAABlOA/HPAOHe-fqks/s600/2013-12-01+at+07-29-52.jpg" alt=""   />
+Buy prints: <a href="https://500pxart.com/photo/54112886">https://500pxart.com/photo/54112886</a>
+<img   border="0" src="https://2.bp.blogspot.com/-KK8sgIy9two/UqDAPJFtcvI/AAAAAAABlOA/HPAOHe-fqks/s600/2013-12-01+at+07-29-52.jpg" alt=""   />
 
 #### Golden Gate Bridge's Clear Night
-Buy prints: <a href="http://500pxart.com/photo/54143106">http://500pxart.com/photo/54143106</a>
-<img   border="0" src="http://3.bp.blogspot.com/-6HyDBOb58M4/UqDASrXWxRI/AAAAAAABlOk/gX8u1oseuvQ/s600/2013-12-01+at+18-25-04.jpg" alt=""   />
+Buy prints: <a href="https://500pxart.com/photo/54143106">https://500pxart.com/photo/54143106</a>
+<img   border="0" src="https://3.bp.blogspot.com/-6HyDBOb58M4/UqDASrXWxRI/AAAAAAABlOk/gX8u1oseuvQ/s600/2013-12-01+at+18-25-04.jpg" alt=""   />

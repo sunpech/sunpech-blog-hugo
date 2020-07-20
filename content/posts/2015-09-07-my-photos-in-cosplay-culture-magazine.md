@@ -16,7 +16,7 @@ title: My Photos in Cosplay Culture Magazine
 ---
 
 
-Last week, the Halloween edition of [Cosplay Culture magazine](http://www.cosplayculture.com/) came out on newsstands. There is an article on [San Diego Comic Con](http://www.comic-con.org/cci) that features my photos in it. *The article is a ten whopping page spread!* This all started from a simple comment on an [instagram photo](https://instagram.com/p/4-9toeQR7z/).
+Last week, the Halloween edition of [Cosplay Culture magazine](https://www.cosplayculture.com/) came out on newsstands. There is an article on [San Diego Comic Con](https://www.comic-con.org/cci) that features my photos in it. *The article is a ten whopping page spread!* This all started from a simple comment on an [instagram photo](https://instagram.com/p/4-9toeQR7z/).
 
 You can find this magazine at Barnes and Noble, Target, Walmart, Ralph's, Walgreens, CVS, and other major newsstands and comic shops. I found my copies at B&N.
 
@@ -29,14 +29,14 @@ Whenever I work on photos from conventions, I do my best to identify the cosplay
 I want to give credit to these cosplayers for letting me take their photo at comic con. These are the cosplayers that appear in the article.
 
 * [Luna Lanie](https://instagram.com/lunalanie/) - Suicide Squad Harley Quinn
-* [Mick Ignis](https://www.facebook.com/OfficialMickIgnis) - Thanos (makeup by [Cinema Makeup School](http://www.cinemamakeup.com/))
+* [Mick Ignis](https://www.facebook.com/OfficialMickIgnis) - Thanos (makeup by [Cinema Makeup School](https://www.cinemamakeup.com/))
 * [Chris](https://instagram.com/chrisj1415/) - Walker
 * [LeeAnna Vamp](https://www.facebook.com/LeeAnnaVamp) - Gizmo
 * [Diffuse Moose](https://www.facebook.com/diffusemoose) - TMNT Master Splinter
 * [Kaye Tayone](https://www.facebook.com/SassyHawkeye) - GI Joe Scarlett
 * [VertVixen](https://www.facebook.com/AliciaLBellamy) - Metroid Samus
 * [Assassin Forte](https://www.facebook.com/Assassin.Forte) - Deadpool
-* [@bubbin_around](https://instagram.com/bubbin_around/) - Diablo (makeup by [Cinema Makeup School](http://www.cinemamakeup.com/))
+* [@bubbin_around](https://instagram.com/bubbin_around/) - Diablo (makeup by [Cinema Makeup School](https://www.cinemamakeup.com/))
 * [Trey Moore](https://instagram.com/drsparkey/) - Red Son Superman
 
 Here's a little behind-the-scenes of what it looks like when I edited and compiled photos before final submission.
@@ -55,7 +55,7 @@ Here are my full albums from this past year's San Diego Comic Con (SDCC). All li
 
 #### Cosplay Culture Links
 
-* [Cosplay Culture website](http://www.cosplaymagstore.com/)
+* [Cosplay Culture website](https://www.cosplaymagstore.com/)
 * [Cosplay Culture Facebook](https://www.facebook.com/cosplayculturemagazine)
 * [Cosplay Culture Instagram](https://instagram.com/cosplayculturemag/)
 * [Cosplay Culture Twitter](https://twitter.com/cosplay_culture)

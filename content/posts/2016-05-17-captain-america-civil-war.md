@@ -15,11 +15,11 @@ title: 'Captain America: Civil War'
 ---
 
 
-This is my [Captain America: Civil War](http://www.imdb.com/title/tt3498820/) review that contains **spoilers**, so if you haven't seen the movie yet, please stop reading now! I also provide some insights and predictions on what's to come. I also assume you've seen *all the movies* in the [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe) (MCU) to date.
+This is my [Captain America: Civil War](https://www.imdb.com/title/tt3498820/) review that contains **spoilers**, so if you haven't seen the movie yet, please stop reading now! I also provide some insights and predictions on what's to come. I also assume you've seen *all the movies* in the [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe) (MCU) to date.
 
 I've watched the movie *twice* now and I really like it. I even enjoyed it more the second time. Not only does it complete a trilogy of the Captain America movies, it also sets up Phase 3 of the MCU.
 
-The [Russo brothers](https://en.wikipedia.org/wiki/Russo_brothers) did an excellent job directing some of the best comic book based movies of all time and I can't wait for them to start with the Avengers Infinity War series. I'm amazed with how they handled action movies, considering that they are known for doing episodes of [Arrested Development](http://www.imdb.com/title/tt0367279/) and [Community](http://www.imdb.com/title/tt1439629/).
+The [Russo brothers](https://en.wikipedia.org/wiki/Russo_brothers) did an excellent job directing some of the best comic book based movies of all time and I can't wait for them to start with the Avengers Infinity War series. I'm amazed with how they handled action movies, considering that they are known for doing episodes of [Arrested Development](https://www.imdb.com/title/tt0367279/) and [Community](https://www.imdb.com/title/tt1439629/).
 
 ![Captain America Civil War](/images/blog/captain-america-civil-war.jpg)
 
@@ -31,21 +31,21 @@ I am very much with Steve Rogers-- Captain America. This is a [great clip](https
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vYt-31JkKvY?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The United Nations is run by people with agendas that change. Signing the papers means surrendering your right to choose. Time and again it's been shown that government and institutions cannot be trusted. The US Senate, S.H.I.E.L.D., and the [World Security Council](http://marvelcinematicuniverse.wikia.com/wiki/World_Security_Council) (WSC) were all infiltrated by Hydra.
+The United Nations is run by people with agendas that change. Signing the papers means surrendering your right to choose. Time and again it's been shown that government and institutions cannot be trusted. The US Senate, S.H.I.E.L.D., and the [World Security Council](https://marvelcinematicuniverse.wikia.com/wiki/World_Security_Council) (WSC) were all infiltrated by Hydra.
 
 I agree with Steve Rogers, *the safest hands are always your own.*
 
 ![MCU Hydra](/images/blog/mcu-hydra.jpg)
 
- During the Battle of New York, the WSC's decision was to nuke the city to save the world. In [Captain America: The Winter Soldier](http://www.imdb.com/title/tt1843866/), the helicarriers were taken over by Hydra and were repurposed into global massive killing flying battleships. Both were terrible ideas that Iron Man and Captain America each had to fix.
+ During the Battle of New York, the WSC's decision was to nuke the city to save the world. In [Captain America: The Winter Soldier](https://www.imdb.com/title/tt1843866/), the helicarriers were taken over by Hydra and were repurposed into global massive killing flying battleships. Both were terrible ideas that Iron Man and Captain America each had to fix.
 
-In [Captain America: The First Avenger](http://www.imdb.com/title/tt0458339/), Steve Rogers disobeys Colonel Chester Phillips and goes off to rescue Bucky and a hundred other captured US soldiers from the Hydra Nazis. This shows that Rogers not only has a strong friendship with Barnes but is also willing to do what he felt was right rather than be beholden to an authority.
+In [Captain America: The First Avenger](https://www.imdb.com/title/tt0458339/), Steve Rogers disobeys Colonel Chester Phillips and goes off to rescue Bucky and a hundred other captured US soldiers from the Hydra Nazis. This shows that Rogers not only has a strong friendship with Barnes but is also willing to do what he felt was right rather than be beholden to an authority.
 
 The Sokovia Accords seem to conflict with [the Good Samaritan law](https://en.wikipedia.org/wiki/Good_Samaritan_law). Not that it should be used as a blanket excuse for all actions. The question becomes: is the enhanced being acting as a good samaritan/hero or for some other reason?
 
 ### The Incredibles
 
-The issues present in Civil War are found in [Disney's The Incredibles](http://www.imdb.com/title/tt0317705/). The government is paying for all the court cases and probably all the damage caused in the altercations by *the Supers*. There is also the cost of injuries sustained by the survivors, not to mention the loss of lives. If the Supers didn't reveal their secret identities, the government relocated them and gave them new identities and amnesty so long as they never resume *hero work*.
+The issues present in Civil War are found in [Disney's The Incredibles](https://www.imdb.com/title/tt0317705/). The government is paying for all the court cases and probably all the damage caused in the altercations by *the Supers*. There is also the cost of injuries sustained by the survivors, not to mention the loss of lives. If the Supers didn't reveal their secret identities, the government relocated them and gave them new identities and amnesty so long as they never resume *hero work*.
 
 ![The Incredibles](/images/blog/the-incredibles.jpg)
 
@@ -81,7 +81,7 @@ In office scene with Gilbert Huph (Mr. Incredible) and his boss Bob, there are t
 
 >**Gilbert Huph:** Stop right now, or you're fired!
 
-Here's the [source for quotes](http://www.imdb.com/title/tt0317705/quotes) above.
+Here's the [source for quotes](https://www.imdb.com/title/tt0317705/quotes) above.
 
 ![The Incredibles - Office Scene](/images/blog/the-incredibles-office-scene.jpg)
 
@@ -91,7 +91,7 @@ Despite the laws, heroes secretly save people in disguise. If they didn't, peopl
 
 ### The Comics
 
-The [Civil War series](https://en.wikipedia.org/wiki/Civil_War_(comics)) makes a stronger case for registration and accountability than the MCU. The story starts with a *reckless group* of enhanced humans, the [New Warriors](https://en.wikipedia.org/wiki/New_Warriors), that gets into a fight resulting in an explosion that killed over 600 people. This was known as the [Stamford Incident](http://marvel.wikia.com/wiki/Stamford), and brought about the [Superhuman Registrations Act](https://en.wikipedia.org/wiki/Registration_acts_(comics)#2006_Superhuman_Registration_Act).
+The [Civil War series](https://en.wikipedia.org/wiki/Civil_War_(comics)) makes a stronger case for registration and accountability than the MCU. The story starts with a *reckless group* of enhanced humans, the [New Warriors](https://en.wikipedia.org/wiki/New_Warriors), that gets into a fight resulting in an explosion that killed over 600 people. This was known as the [Stamford Incident](https://marvel.wikia.com/wiki/Stamford), and brought about the [Superhuman Registrations Act](https://en.wikipedia.org/wiki/Registration_acts_(comics)#2006_Superhuman_Registration_Act).
 
 In the literature, the X-Men, Fantastic Four, Avengers, and other lesser known teams all co-exist in one universe. The MCU is much smaller as we know it. If anything, the MCU is one universe in multiple universes if you want to count Fox, Sony, and Universal as separate studio universes-- although you can say that Sony and MCU have merged with Spider-Man.
 
@@ -101,7 +101,7 @@ What makes the comics situation more compelling is that there are more catastrop
 
 ### Iron Man
 
-In 2008, the [first Iron Man movie](http://www.imdb.com/title/tt0371746/) started us all down a path towards the formation of the Avengers and the MCU we all love. In [Iron Man 2](http://www.imdb.com/title/tt1228705/), the US government wants the Iron Man suit, weapons, and technologies. Tony flat out tells them, "You want my property, you can't have it!" At the end of the movie, S.H.I.E.L.D.'s assessment approved Iron Man for the Avengers Initiative, but not Tony Stark because he had compulsive behavior, self-destructive tendencies, and textbook narcissism.
+In 2008, the [first Iron Man movie](https://www.imdb.com/title/tt0371746/) started us all down a path towards the formation of the Avengers and the MCU we all love. In [Iron Man 2](https://www.imdb.com/title/tt1228705/), the US government wants the Iron Man suit, weapons, and technologies. Tony flat out tells them, "You want my property, you can't have it!" At the end of the movie, S.H.I.E.L.D.'s assessment approved Iron Man for the Avengers Initiative, but not Tony Stark because he had compulsive behavior, self-destructive tendencies, and textbook narcissism.
 
 ![Iron Man 2 Senate hearing](/images/blog/iron-man-2-senate-hearing-2.jpg)
 
@@ -117,13 +117,13 @@ If the Sokovia Accords were about making improvements to the performance of the 
 
 **I question if Black Panther was even on Team Iron Man.** He was out to seek vengeance on his own. In the UN meeting before the blast, he spoke with Black Widow and said that two people in a room can get more done than a whole lot of people (the UN). His father countered that you would need many people if you need to move a piano. The funny thing is this is only true if you're talking about average people-- when it comes to enhanced individuals, one or two people may just be enough!
 
-[Chadwick Boseman](http://www.imdb.com/name/nm1569276/) was excellent as Black Panther. I look forward to seeing [Ryan Coogler](http://www.imdb.com/name/nm3363032/) direct the film.
+[Chadwick Boseman](https://www.imdb.com/name/nm1569276/) was excellent as Black Panther. I look forward to seeing [Ryan Coogler](https://www.imdb.com/name/nm3363032/) direct the film.
 
 **Black Widow's decision to help Rogers and Barnes escape made a lot of sense.** She has a dark past and at one point was Hawkeye's target to take out-- but he chose not to kill her because there was someone in there worth saving. Besides knowing that Cap wouldn't quit helping Bucky, there must have been some kind of empathy towards what Hydra put Barnes through.
 
-**A young teen Spider-Man was also a welcome addition to the film.** I thought the Peter Parker scene in Queens, New York was short, but I understand that they will flesh out that story and those characters in his own movie next year. I suspect that Aunt May knows that her nephew is Spider-Man. The age of clueless supporting characters may be over. Over the many reboots, they seem to cast a younger Aunt May each time. [Marisa Tomei](http://www.imdb.com/name/nm0000673/) is likely that hip aunt that plays along to let Peter think he has her fooled.
+**A young teen Spider-Man was also a welcome addition to the film.** I thought the Peter Parker scene in Queens, New York was short, but I understand that they will flesh out that story and those characters in his own movie next year. I suspect that Aunt May knows that her nephew is Spider-Man. The age of clueless supporting characters may be over. Over the many reboots, they seem to cast a younger Aunt May each time. [Marisa Tomei](https://www.imdb.com/name/nm0000673/) is likely that hip aunt that plays along to let Peter think he has her fooled.
 
-**Ant-Man was hilarious.** I laughed at every single line he had. I wasn't a huge fan of his solo movie, but [Paul Rudd](http://www.imdb.com/name/nm0748620/) is a comedic character that adds so much humor to any situation.
+**Ant-Man was hilarious.** I laughed at every single line he had. I wasn't a huge fan of his solo movie, but [Paul Rudd](https://www.imdb.com/name/nm0748620/) is a comedic character that adds so much humor to any situation.
 
 Vison was somewhat absent during the airport battle-- perhaps if he and/or Scarlett Witch really fought, the fight would have been deadly and short. It seemed that his role was to keep them from escaping or hurting one another too much. I would have liked if they had a shot of him floating in the middle of all the chaos of super friends fighting one another, and there to be an sadness to his eyes.
 
@@ -133,7 +133,7 @@ Zemo won at the end of the film, and he did so because he used the heroes agains
 
 ### Final Thoughts and Phase 3 Predictions
 
-The movie ended with the Avengers broken apart and half of the Avengers as fugitives from the United Nations for going against the Sokovia Accords. Civil War is going to play out throughout MCU's Phase 3, particularly in [Spiderman: Homecoming](http://www.imdb.com/title/tt2250912/), [Black Panther](http://www.imdb.com/title/tt1825683/), and maybe even [Ant-Man and the Wasp](http://www.imdb.com/title/tt5095030/). There needs to be some kind resolution to the conflict between Tony Stark and Steve Rogers.
+The movie ended with the Avengers broken apart and half of the Avengers as fugitives from the United Nations for going against the Sokovia Accords. Civil War is going to play out throughout MCU's Phase 3, particularly in [Spiderman: Homecoming](https://www.imdb.com/title/tt2250912/), [Black Panther](https://www.imdb.com/title/tt1825683/), and maybe even [Ant-Man and the Wasp](https://www.imdb.com/title/tt5095030/). There needs to be some kind resolution to the conflict between Tony Stark and Steve Rogers.
 
 What better way is there to resolve super hero conflict than the death of friends?
 
@@ -149,20 +149,20 @@ The Avengers' initiative was formed because the planet would need Earth's mighti
 
 ![Thanos with the Infinity Guantlet](/images/blog/mcu-thanos-infinity-gauntlet.jpg)
 
-I'm hoping there will be an scene, possibly an post credits scene in [Thor: Ragnarok](http://www.imdb.com/title/tt3501632/) where [The Watcher](https://en.wikipedia.org/wiki/Watcher_(comics)) appears on the moon, looking upon Earth.
+I'm hoping there will be an scene, possibly an post credits scene in [Thor: Ragnarok](https://www.imdb.com/title/tt3501632/) where [The Watcher](https://en.wikipedia.org/wiki/Watcher_(comics)) appears on the moon, looking upon Earth.
 
-Captain America: Civil War has the tone of [Star Wars: The Empire Strikes Back](http://www.imdb.com/title/tt0080684/). They've come a long way to come together as a team, but have lost their footing and are separated. We don't know how they are going to get back up and come together  before the ultimate confrontation. We're only at the beginning of Phase 3, there's so much more to come!
+Captain America: Civil War has the tone of [Star Wars: The Empire Strikes Back](https://www.imdb.com/title/tt0080684/). They've come a long way to come together as a team, but have lost their footing and are separated. We don't know how they are going to get back up and come together  before the ultimate confrontation. We're only at the beginning of Phase 3, there's so much more to come!
 
 ![Marvel Phase 3](/images/blog/marvel-phase-3.jpg)
 
 #### More Reading
 
-* [Civil War TPB](http://amzn.to/24HiOVg)
-* [Kingdom Come](http://amzn.to/1T8ffSE) - DC's futuristic world where heroes have gotten out of control.
+* [Civil War TPB](https://amzn.to/24HiOVg)
+* [Kingdom Come](https://amzn.to/1T8ffSE) - DC's futuristic world where heroes have gotten out of control.
 * [Civil War - The Complete Story](https://www.youtube.com/watch?v=Ed8UZprDgkw) read by [Comicstorian](https://www.youtube.com/user/comicstorian)
-* [The Avengers should agree to be placed under UN supervision](http://www.economist.com/news/diversions/21698458-avengers-should-agree-be-placed-under-un-supervision) via The Economist (Yes, it's a bit silly)
-* [The un-American Captain America](http://www.vox.com/2016/5/18/11692644/unamerican-captain-america-civil-war) by [Ezra Klein](http://www.vox.com/authors/ezra-klein)
-* [Captain America: Civil War: in defense of Captain America](http://www.vox.com/2016/5/19/11700560/captain-america-civil-war-defense-captain-america) by [Alex Abad-Santos](http://www.vox.com/authors/alex-abad-santos)
+* [The Avengers should agree to be placed under UN supervision](https://www.economist.com/news/diversions/21698458-avengers-should-agree-be-placed-under-un-supervision) via The Economist (Yes, it's a bit silly)
+* [The un-American Captain America](https://www.vox.com/2016/5/18/11692644/unamerican-captain-america-civil-war) by [Ezra Klein](https://www.vox.com/authors/ezra-klein)
+* [Captain America: Civil War: in defense of Captain America](https://www.vox.com/2016/5/19/11700560/captain-america-civil-war-defense-captain-america) by [Alex Abad-Santos](https://www.vox.com/authors/alex-abad-santos)
 
 #### More Civil War Reviews
 

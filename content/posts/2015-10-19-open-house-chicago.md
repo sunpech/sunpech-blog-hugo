@@ -15,15 +15,15 @@ title: Pictures from Open House Chicago 2015
 ---
 
 
-On Sunday I went to checkout [Open House Chicago](http://openhousechicago.org) and did a little photowalk of my own. I actually had no plan to go until my sister gave me her priority pass the morning of. But I'm glad I did as it was not only had some good photops, but was a nice steps in too since I use [FitBit](https://www.fitbit.com/).
+On Sunday I went to checkout [Open House Chicago](https://openhousechicago.org) and did a little photowalk of my own. I actually had no plan to go until my sister gave me her priority pass the morning of. But I'm glad I did as it was not only had some good photops, but was a nice steps in too since I use [FitBit](https://www.fitbit.com/).
 
 The places I visited:
 
 * [The Oriental Theatre](https://en.wikipedia.org/wiki/Oriental_Theatre_%28Chicago%29)
-* [Joffrey Ballet](http://www.joffrey.org/)
-* [Aon Center](http://www.aoncenter.info/toc.cfm)
+* [Joffrey Ballet](https://www.joffrey.org/)
+* [Aon Center](https://www.aoncenter.info/toc.cfm)
 * [Continental Illinois Bank Building](https://en.wikipedia.org/wiki/Continental_Illinois)
-* [The Rookery](http://therookerybuilding.com/)
+* [The Rookery](https://therookerybuilding.com/)
 
 My favorite spot was the Aon Center. I went up to the 71st floor and had a 360 degree view of Chicago from the third tallest building in the city.
 

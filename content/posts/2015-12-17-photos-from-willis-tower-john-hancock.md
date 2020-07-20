@@ -14,7 +14,7 @@ title: Photos from Willis Tower and John Hancock Observatory
 ---
 
 
-A few days ago my niece visited Chicago for the first time and I took her around to see and eat some of the best my city has to offer. Although I've [visited John Hancock Observatory before](/2014/01/photos-from-chicagos-john-hancock/), I haven't been up to [Willis Tower](http://www.willistower.com/) (specifically the [Skydeck](http://theskydeck.com/)) since it was called the [Sears Tower](https://en.wikipedia.org/wiki/Willis_Tower).
+A few days ago my niece visited Chicago for the first time and I took her around to see and eat some of the best my city has to offer. Although I've [visited John Hancock Observatory before](/2014/01/photos-from-chicagos-john-hancock/), I haven't been up to [Willis Tower](https://www.willistower.com/) (specifically the [Skydeck](https://theskydeck.com/)) since it was called the [Sears Tower](https://en.wikipedia.org/wiki/Willis_Tower).
 
 The challenge with taking photos at these locations was that we went up right after it rained and there were a lot of cloud/fog surrounding Chicago. Not to mention the windows at Willis Tower are incredibly dirty!
 
@@ -22,9 +22,9 @@ Here are some basic tips to improve your photos:
 
 1. Bring your camera right up to the windows to reduce light reflections.
 2. Use your coat to help block out rear reflections. It really helps to have a friend hold up your coat behind you or your camera. You can also use the railings.
-3. Get low and steady. Although you can't bring a tripod, you can bring a [gorillapod](http://www.amazon.com/gp/product/B000EVSLRO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000EVSLRO&linkCode=as2&tag=sunpech-20&linkId=SLSLHX3O4YJM5TAI).
+3. Get low and steady. Although you can't bring a tripod, you can bring a [gorillapod](https://www.amazon.com/gp/product/B000EVSLRO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000EVSLRO&linkCode=as2&tag=sunpech-20&linkId=SLSLHX3O4YJM5TAI).
 
-All my editing was done purely in [Adobe Lightroom](http://www.amazon.com/gp/product/B00VWCKJVA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VWCKJVA&linkCode=as2&tag=sunpech-20&linkId=CDTELKXYIG2RF3IK).
+All my editing was done purely in [Adobe Lightroom](https://www.amazon.com/gp/product/B00VWCKJVA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VWCKJVA&linkCode=as2&tag=sunpech-20&linkId=CDTELKXYIG2RF3IK).
 
 ## Willis Tower
 

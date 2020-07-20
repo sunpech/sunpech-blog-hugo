@@ -13,7 +13,7 @@ title: Why Jetbrains Toolbox is Good
 ---
 
 
-[Jetbrains](http://www.jetbrains.com), a software company that creates a wealth of software [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)s for software developers recently announced that they are moving their software over to a [software-as-a-service](https://en.wikipedia.org/wiki/Software_as_a_service) (SaaS) platform called [Jetbrains Toolbox](https://www.jetbrains.com/toolbox/).
+[Jetbrains](https://www.jetbrains.com), a software company that creates a wealth of software [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)s for software developers recently announced that they are moving their software over to a [software-as-a-service](https://en.wikipedia.org/wiki/Software_as_a_service) (SaaS) platform called [Jetbrains Toolbox](https://www.jetbrains.com/toolbox/).
 
 These are the times we live in now, and I think it's good-- for the most part.
 
@@ -59,10 +59,10 @@ From the perspective of the customer, there should also be an expectation of bet
 
 Unfortunately for me, despite me favoring Jetbrains decision to move to a SaaS model, it doesn't work out for me to be a subscriber. I wrote a whole blog post talking about how good a SaaS model is, yet I won't subscribe to it. That's simply because it's not for me. **Software as a service is popular, but it's certainly not for everyone.**
 
-I use [Rubymine](https://www.jetbrains.com/ruby/), but not often enough to warrant paying for it every month or year. I'm currently learning [vim](http://www.vim.org/) and I'm happy to fall back on [Sublime Text](https://www.sublimetext.com/) or even [Atom](https://atom.io/). These are all free options (well, I technically paid for ST).
+I use [Rubymine](https://www.jetbrains.com/ruby/), but not often enough to warrant paying for it every month or year. I'm currently learning [vim](https://www.vim.org/) and I'm happy to fall back on [Sublime Text](https://www.sublimetext.com/) or even [Atom](https://atom.io/). These are all free options (well, I technically paid for ST).
 
 Jetbrains Toolbox works out really well for the company and their loyal supporters/subscribers. However if you're like me and don't use the product daily or even weekly, then there may be a reason not to be their customer anymore. And that's fine for me, hopefuly for others like me too because there are other options.
 
-**I'd like to see Jetbrains offer both purchase and subscription models to their customers.** In some respect, they were already doing that with a yearly renewal based on the purchase date. *The target for their subscription model should really be the users that use multiple products. Single product users may be turned off by a subscription model if they don't like or use it enough.* At the very least [they are listening to feedback](http://blog.jetbrains.com/blog/2015/09/04/we-are-listening/).
+**I'd like to see Jetbrains offer both purchase and subscription models to their customers.** In some respect, they were already doing that with a yearly renewal based on the purchase date. *The target for their subscription model should really be the users that use multiple products. Single product users may be turned off by a subscription model if they don't like or use it enough.* At the very least [they are listening to feedback](https://blog.jetbrains.com/blog/2015/09/04/we-are-listening/).
 
 *This post also reminds me that I'm overdue for my visit to the dentist.*

@@ -15,7 +15,7 @@ title: Suicide Squad
 ---
 
 
-My quick *non-spoiler-y* thoughts on [Suicide Squad](http://www.imdb.com/title/tt1386697/):
+My quick *non-spoiler-y* thoughts on [Suicide Squad](https://www.imdb.com/title/tt1386697/):
 
 I went in with low expectations, overall, **the movie was just okay**. I was entertained, but not blown away by anything. If you are expecting what you saw the trailers, you are probably going to be disappointed. It's worth a watch if you want to keep up with the DC movie universe.
 
@@ -27,11 +27,11 @@ Everything below is my *spoiler filled review* of the movie.
 
 ## The Good
 
-[Viola Davis](http://www.imdb.com/name/nm0205626/) killed it as Amanda Waller. She was absolutely ruthless and I swear the temperature of the theater dropped a few degrees whenever she was on screen.
+[Viola Davis](https://www.imdb.com/name/nm0205626/) killed it as Amanda Waller. She was absolutely ruthless and I swear the temperature of the theater dropped a few degrees whenever she was on screen.
 
 ![Amanda Waller](/images/blog/suicide-squad-amanda-waller.jpg)
 
-[Cara Delevingne](http://www.imdb.com/name/nm5353321/) looks amazing as the Enchantress. I've always been fascinated with creepy witch-based characters in super hero movies-- the first of which was Scarlett Witch in [Avengers: Age of Ultron](http://www.imdb.com/title/tt2395427/) when she stood behind Tony Stark at the beginning of the movie. Throughout the movie I wanted to see more of her and I loved the dark aura they put on her. I wasn't a fan of her *dance* while she was channeling her energy to build the world ending contraption.
+[Cara Delevingne](https://www.imdb.com/name/nm5353321/) looks amazing as the Enchantress. I've always been fascinated with creepy witch-based characters in super hero movies-- the first of which was Scarlett Witch in [Avengers: Age of Ultron](https://www.imdb.com/title/tt2395427/) when she stood behind Tony Stark at the beginning of the movie. Throughout the movie I wanted to see more of her and I loved the dark aura they put on her. I wasn't a fan of her *dance* while she was channeling her energy to build the world ending contraption.
 
 ![Enchantress](/images/blog/suicide-squad-enchantress.jpg)
 
@@ -41,7 +41,7 @@ The scene where Dr. Moone summons Enchantress was one of my favorites. The hand 
 
 ## The Okay
 
-**Joker and Harley Quinn were just okay.** It's hard for [Jared Leto](http://www.imdb.com/name/nm0001467/) to follow [Heath Ledger](http://www.imdb.com/name/nm0005132/)'s rendition in [Christopher Nolan](http://www.imdb.com/name/nm0634240/)'s Batman movies. To add to that, it's also hard for the crazy duo to follow the voice actings of [Mark Hamill](http://www.imdb.com/name/nm0000434/) and [Tara Strong](http://www.imdb.com/name/nm0152839/) for Joker/Quinn. Although I must say that [Margot Robbie](http://www.imdb.com/name/nm3053338/) really does look like Harley, but there could be another movie to explore their toxic crazy relationship. It's got potential to be great though.
+**Joker and Harley Quinn were just okay.** It's hard for [Jared Leto](https://www.imdb.com/name/nm0001467/) to follow [Heath Ledger](https://www.imdb.com/name/nm0005132/)'s rendition in [Christopher Nolan](https://www.imdb.com/name/nm0634240/)'s Batman movies. To add to that, it's also hard for the crazy duo to follow the voice actings of [Mark Hamill](https://www.imdb.com/name/nm0000434/) and [Tara Strong](https://www.imdb.com/name/nm0152839/) for Joker/Quinn. Although I must say that [Margot Robbie](https://www.imdb.com/name/nm3053338/) really does look like Harley, but there could be another movie to explore their toxic crazy relationship. It's got potential to be great though.
 
 ![Joker and Harely Quinn](/images/blog/suicide-squad-joker-harley.jpg)
 
@@ -53,13 +53,13 @@ The scene where Dr. Moone summons Enchantress was one of my favorites. The hand 
 
 From the numerous trailers that came out, my impression was that they were just going to have fun where bad guys would be tasked to do things the government couldn't ask of anyone else-- yet the movie toned it down, made the *worst of the worse* likable, relatable, and heroic. A team of super villains should contrast deeply with a team of heroes with how they do things right? Not in this movie.
 
-You can really tell which actors the movie editor(s) had obligations to put the spotlight on more than others. Half of the movie's dialogue belongs to [Will Smith](http://www.imdb.com/name/nm0000226/). Often times I forgot that Killer Croc, Captain Boomerang, Katana, and Slipknot were even in the team-- well the last for obvious reasons. I think Harley Quinn's butt had more screen time than Killer Croc. Katana's blade wasn't even utilized to capture any souls-- it may as well have just been a regular sword!
+You can really tell which actors the movie editor(s) had obligations to put the spotlight on more than others. Half of the movie's dialogue belongs to [Will Smith](https://www.imdb.com/name/nm0000226/). Often times I forgot that Killer Croc, Captain Boomerang, Katana, and Slipknot were even in the team-- well the last for obvious reasons. I think Harley Quinn's butt had more screen time than Killer Croc. Katana's blade wasn't even utilized to capture any souls-- it may as well have just been a regular sword!
 
 I liked the short character intro they did at the beginning, but the constant flashbacks of Joker/Harley was annoying and ruined the pace of the movie. As much as I enjoy the Joker, there should have been less of him, and more about the squad.
 
 The scene where Joker deactivates the explosive tracker in Harley's neck and rescues her was a complete waste. Waller is captured anyway and Harley rejoins the team afterwards. It served little purpose.
 
-[Ocean's Eleven](http://www.imdb.com/title/tt0240772/) is an example of how to handle a big cast and deliver a great well paced story where everyone has their moment and backstory told.
+[Ocean's Eleven](https://www.imdb.com/title/tt0240772/) is an example of how to handle a big cast and deliver a great well paced story where everyone has their moment and backstory told.
 
 ![Ocean's Eleven](/images/blog/oceans-eleven-cast.jpg)
 

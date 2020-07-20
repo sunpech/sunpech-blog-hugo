@@ -13,7 +13,7 @@ title: 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future'
 ---
 
 
-I'm fascinated with [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) and his companies: [Tesla Motors](http://www.teslamotors.com/) and [SpaceX](http://www.spacex.com/). I recently read, [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://www.amazon.com/gp/product/0062301233/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0062301233&linkCode=as2&tag=sunpech-20&linkId=DBEJPF4ZP7PKKX4U) by [Ashlee Vance](http://www.amazon.com/Ashlee-Vance/e/B003YLHAJG/) just to learn a bit more about him.
+I'm fascinated with [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) and his companies: [Tesla Motors](https://www.teslamotors.com/) and [SpaceX](https://www.spacex.com/). I recently read, [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.amazon.com/gp/product/0062301233/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0062301233&linkCode=as2&tag=sunpech-20&linkId=DBEJPF4ZP7PKKX4U) by [Ashlee Vance](https://www.amazon.com/Ashlee-Vance/e/B003YLHAJG/) just to learn a bit more about him.
 
 ![Elon Musk Book](/images/blog/elon_musk.jpg)
 
@@ -33,7 +33,7 @@ Both of these men are people that saw an opportunity to create something that wo
 
 What makes Elon more interesting is his larger vision and potential impact on the world and future civilization.
 
-Steve Jobs' company, [Apple](http://www.apple.com), introduced us to personal computers/devices that we use to surf the web, communicate, work, play, etc. Apple, excels at selling consumer products they are convinced will enrich our lives. They're great and all-- I've used Macbook Pros for years now, as it is great hardware for me to be productive. But it competes in an industry where so many others offer similar or knock-off services/products. Most just are not as good as selling as Apple is. But I often wonder why they aren't taking more risks to make larger impact on our lives. I prefer a device with lasting batter than one that's thinner/lighter. I prefer a more stable file system that's cross platform than an upgrade to a user-interface. I prefer all products be upgraded timely than only the popular ones. The list of my complaints go on and on for a company that's headed toward being the most profitable company in history.
+Steve Jobs' company, [Apple](https://www.apple.com), introduced us to personal computers/devices that we use to surf the web, communicate, work, play, etc. Apple, excels at selling consumer products they are convinced will enrich our lives. They're great and all-- I've used Macbook Pros for years now, as it is great hardware for me to be productive. But it competes in an industry where so many others offer similar or knock-off services/products. Most just are not as good as selling as Apple is. But I often wonder why they aren't taking more risks to make larger impact on our lives. I prefer a device with lasting batter than one that's thinner/lighter. I prefer a more stable file system that's cross platform than an upgrade to a user-interface. I prefer all products be upgraded timely than only the popular ones. The list of my complaints go on and on for a company that's headed toward being the most profitable company in history.
 
 Elon is looking to bring us affordable electric cars, the best power sources, and space travel to freaking Mars and beyond. He's looking to bring us to the next level of science fiction-- the future! Similar to Google, **I feel I can dream once again about all the things I would like to see happen in my lifetime.**
 
@@ -43,7 +43,7 @@ Although Elon may not have the charisma and saleman-ship of Steve Jobs, but I re
 
 As informative as the book is, it's incomplete-- in the sense that Elon has more to do in his lifetime and is only just getting started. I do recommend the book for those interested in Elon Musk, Tesla, and/or SpaceX. It's a starter book on the first forty-three years of Elon Musk.
 
-I will follow Musk's work and companies, new and old, and see where it takes us all. For the short term, Tesla Motors is of strong interest. For the long term, SpaceX. And I guess for the medium term, [Solar City](http://www.solarcity.com/). Maybe in thirty, forty, or fifty years we get the *complete* Elon Musk book. But who can wait that long?
+I will follow Musk's work and companies, new and old, and see where it takes us all. For the short term, Tesla Motors is of strong interest. For the long term, SpaceX. And I guess for the medium term, [Solar City](https://www.solarcity.com/). Maybe in thirty, forty, or fifty years we get the *complete* Elon Musk book. But who can wait that long?
 
 ### Favorite Excerpts
 

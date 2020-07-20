@@ -15,7 +15,7 @@ title: Today's Tech TV Shows
 ---
 
 
-There are two tech TV shows that I'm enjoying right now: [Silicon Valley](http://www.imdb.com/title/tt2575988/) and [Halt and Catch Fire](http://www.imdb.com/title/tt2543312/).
+There are two tech TV shows that I'm enjoying right now: [Silicon Valley](https://www.imdb.com/title/tt2575988/) and [Halt and Catch Fire](https://www.imdb.com/title/tt2543312/).
 
 They both deal with the business and culture of technology startups, but yet are pretty different from each other. They are both on their second seasons.
 
@@ -29,20 +29,20 @@ They both deal with the business and culture of technology startups, but yet are
 
 ![Halt and Catch Fire main characters](/images/blog/halt-and-catch-fire_group.jpg)
 
-You may recognize [Lee Pace](http://www.imdb.com/name/nm1195855/), as he was in the recent Hobbit movies and Guardians of the Galaxy.
+You may recognize [Lee Pace](https://www.imdb.com/name/nm1195855/), as he was in the recent Hobbit movies and Guardians of the Galaxy.
 
 Of these two, I'm really enjoying Halt and Catch Fire. Even though I was only a child when the events of show takes place, I can still relate to the time period. If you weren't even alive during the 1980s, you may have difficulty appreciating the show.
 
 The one thing I have to criticize Silicon Valley on is that each episode is too short.  To improve, I'd like to see them move the story along faster and put more content into each episode. You know the feeling at the end of a Game of Thrones episode, you're left wanting more? Well, at the end of an Silicon Valley episode, I'm left with the thought, <i>Is that it?</i>. I'd like to see them make it a full hour show.
 
-A tech show that I dislike is [Big Bang Theory](http://www.imdb.com/title/tt0898266/). The problem is that it's a stupid show about mostly smart and ackward people. It's geared a little more for the general audience than the geek minority. It's a sitcom that's a little too formulaic and the laugh track is just stupid.
+A tech show that I dislike is [Big Bang Theory](https://www.imdb.com/title/tt0898266/). The problem is that it's a stupid show about mostly smart and ackward people. It's geared a little more for the general audience than the geek minority. It's a sitcom that's a little too formulaic and the laugh track is just stupid.
 
 ![Big Bang Theory](/images/blog/big-bang-theory.jpg)
 
-Another tech show worth mentioning is [Betas](http://www.imdb.com/title/tt3012184/). It's basically another silicon valley show that didn't get renewed for a second season by Amazon. It's a shame too as I wanted them to get another season to improve and expand upon the first.
+Another tech show worth mentioning is [Betas](https://www.imdb.com/title/tt3012184/). It's basically another silicon valley show that didn't get renewed for a second season by Amazon. It's a shame too as I wanted them to get another season to improve and expand upon the first.
 
 ![Betas](/images/blog/betas.jpg)
 
-If you like shows like [Breaking Bad](http://www.imdb.com/title/tt0903747/) or [Game of Thrones](http://www.imdb.com/title/tt0944947/), check out Halt and Catch Fire. I consider it a very under-rated show that no one is paying attention to, yet.
+If you like shows like [Breaking Bad](https://www.imdb.com/title/tt0903747/) or [Game of Thrones](https://www.imdb.com/title/tt0944947/), check out Halt and Catch Fire. I consider it a very under-rated show that no one is paying attention to, yet.
 
 ![Halt and Catch Fire](/images/blog/halt-and-catch-fire_season_2.jpg)

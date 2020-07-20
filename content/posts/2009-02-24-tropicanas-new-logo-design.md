@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6004280238372069101
-blogger_orig_url: http://www.sunpech.com/2009/02/tropicanas-new-logo-design.html
+blogger_orig_url: https://www.sunpech.com/2009/02/tropicanas-new-logo-design.html
 date: '2009-02-24T18:03:00.007-06:00'
 headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T16:59:54.574-05:00'
@@ -9,14 +9,14 @@ redirect_from: /2009/02/tropicanas-new-logo-design.html
 tags:
   - Technology
   - Design
-thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s600/1235483922047.jpg
+thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s600/1235483922047.jpg
 title: Tropicana's New Logo Design
 ---
 
 
 This morning I had a peanut butter and jelly sandwich, toasted.  It was delicious.  Along with it I had some orange juice (OJ), but not just any OJ, Minute Maid OJ.
 
-<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s600-h/1235483922047.jpg" alt=""><img    border="0" id="BLOGGER_PHOTO_ID_5306519151514531906" src="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s400/1235483922047.jpg" alt="" /></a>
+<a href="https://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s600-h/1235483922047.jpg" alt=""><img    border="0" id="BLOGGER_PHOTO_ID_5306519151514531906" src="https://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s400/1235483922047.jpg" alt="" /></a>
 
 For years I've been more of a Tropicana OJ kind-of-guy, but with Tropicana's somewhat recent logo switch on their cartons, I just felt compelled to switch.  
 
@@ -26,7 +26,7 @@ What they had before made sense (see left carton).  An orange with a straw in it
 
 Their new logo (right carton)... I don't know what that's supposed to be.  It doesn't register in my mind as any kind of orange icon or flavor.  It's generic and boring looking.
 
-<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDiJrFAI/AAAAAAAAIlo/wkUWyNsm2VQ/s600-h/tropicana.png" alt=""><img    border="0" id="BLOGGER_PHOTO_ID_5306519153772532738" src="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDiJrFAI/AAAAAAAAIlo/wkUWyNsm2VQ/s400/tropicana.png" alt="" /></a>
+<a href="https://4.bp.blogspot.com/_7U5MdumP-no/SaSLDiJrFAI/AAAAAAAAIlo/wkUWyNsm2VQ/s600-h/tropicana.png" alt=""><img    border="0" id="BLOGGER_PHOTO_ID_5306519153772532738" src="https://4.bp.blogspot.com/_7U5MdumP-no/SaSLDiJrFAI/AAAAAAAAIlo/wkUWyNsm2VQ/s400/tropicana.png" alt="" /></a>
 
 I like my OJ pulp-free.  Notice how Tropicana's old logo, the text of "No Pulp" is easy to find, top and middle.  Look at Minute Maid's logo, "Pulp Free" is right under it!  Both so simple!
 

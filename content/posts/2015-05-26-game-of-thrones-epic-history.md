@@ -12,7 +12,7 @@ title: Game of Thrones Epic History
 ---
 
 
-Are you a fan of [Game of Thrones](http://www.imdb.com/title/tt0944947/) like I am? Have you checked out [Comic Book Girl 19](https://www.youtube.com/user/comicbookgirl19)'s (CBG19) youTube videos on this book/show?
+Are you a fan of [Game of Thrones](https://www.imdb.com/title/tt0944947/) like I am? Have you checked out [Comic Book Girl 19](https://www.youtube.com/user/comicbookgirl19)'s (CBG19) youTube videos on this book/show?
 
 Well, you should. Her <i>epic history</i> videos cover all the major houses (Baratheon, Stark, Targaryen, and Lannister). She has other videos too.
 
@@ -62,7 +62,7 @@ A quick follow-up video about <b>R+L=J</b>, a popular fan theory, can be found [
 
 ### More Info on Comic Book Girl 19:
 
-* [comicbookgirl19.com](http://www.comicbookgirl19.com/)
+* [comicbookgirl19.com](https://www.comicbookgirl19.com/)
 * [@cbgirl19's Twitter](https://twitter.com/cbgirl19)
 * [comicbookgirl19's youTube](https://www.youtube.com/user/comicbookgirl19)
 * [Comicbookgirl19 Facebook](https://www.facebook.com/Comicbookgirl19)

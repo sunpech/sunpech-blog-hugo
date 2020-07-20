@@ -27,8 +27,8 @@ I am an affiliate at the following sites. Clicking on any these links to join or
 ![BorrowLenses](/images/affiliates/borrowlenses-logo-100px.jpg)
 ![Tesla](/images/affiliates/tesla-logo-red-100px.jpg)
 
-* [Amazon](http://www.amazon.com/b/ref=as_sl_pc_tf_lc?node=283155&tag=sunpech-20&camp=15329&creative=394453&linkCode=ur1&adid=198E6BMHT8CTQ90TFSZM&&ref-refURL=http%3A%2F%2Frcm-na.amazon-adsystem.com%2Fe%2Fcm%3Ft%3Dsunpech-20%26o%3D1%26p%3D26%26l%3Dur1%26category%3Dbooks%26banner%3D07A5YDZW1YN7CT62EMR2%26f%3Difr%26linkID%3DKBWCIBZRYKDS76JJ) - Buy most anything you need on Amazon.
-* [Amazon Prime](http://www.amazon.com/dp/B00DBYBNEE?_encoding=UTF8&ref=mrp_10002_shr_cpbd_rf_d&refcust=AZGEHQ225EO67OKL5ORKHN6IYE) - Sign up for Amazon Prime.
+* [Amazon](https://www.amazon.com/b/ref=as_sl_pc_tf_lc?node=283155&tag=sunpech-20&camp=15329&creative=394453&linkCode=ur1&adid=198E6BMHT8CTQ90TFSZM&&ref-refURL=http%3A%2F%2Frcm-na.amazon-adsystem.com%2Fe%2Fcm%3Ft%3Dsunpech-20%26o%3D1%26p%3D26%26l%3Dur1%26category%3Dbooks%26banner%3D07A5YDZW1YN7CT62EMR2%26f%3Difr%26linkID%3DKBWCIBZRYKDS76JJ) - Buy most anything you need on Amazon.
+* [Amazon Prime](https://www.amazon.com/dp/B00DBYBNEE?_encoding=UTF8&ref=mrp_10002_shr_cpbd_rf_d&refcust=AZGEHQ225EO67OKL5ORKHN6IYE) - Sign up for Amazon Prime.
 * [BorrowLenses](https://www.talkable.com/x/ECqWAZ) - $20 off your first order of $99+.
 * [Groupon](https://www.groupon.com/visitor_referral/h/6f92ebed-203f-48bb-a581-2ae84791f038) - I sometimes shop here for deals. But not really.
 * [kit.co](https://kit.co/sunpech) - My recommended photography gear.
@@ -40,7 +40,7 @@ I am an affiliate at the following sites. Clicking on any these links to join or
 ![Namecheap](/images/affiliates/namecheap-logo-100px.jpg)
 
 * [Brave Browser](https://brave.com/sun686) - A free open-source web browser based on Chromium. It blocks ads and website trackers, and provides a way for users to send cryptocurrency contributions in the form of Basic Attention Tokens to websites and content creators.
-* [Cloudinary](http://cloudinary.com/invites/lpov9zyyucivvxsnalc5/ehbqvpqromhkepo5z5yd) - A cloud-based image and video management solution.
+* [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/ehbqvpqromhkepo5z5yd) - A cloud-based image and video management solution.
 * [Digital Ocean](https://www.digitalocean.com/?refcode=cbdbc78d2cc8) - Cloud computing plans for software developers.
 * [GitKraken](https://www.gitkraken.com/invite/28dNjYLM) - Cross platform Git GUI for software developers.
 * [Namecheap](https://www.namecheap.com/?aff=63676) - The best domain registrar on the whole Internet.

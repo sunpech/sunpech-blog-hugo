@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8659935873398615085
-blogger_orig_url: http://www.sunpech.com/2009/01/basic-combinatorial-mathematics.html
+blogger_orig_url: https://www.sunpech.com/2009/01/basic-combinatorial-mathematics.html
 date: '2009-01-02T11:58:00.000-06:00'
 headerimage: /images/headers/technology.jpg
 modified_time: '2012-01-03T03:40:21.168-06:00'
@@ -12,7 +12,7 @@ title: Basic Combinatorial Mathematics
 ---
 
 
-I absolutely love reading <a href="http://www.codinghorror.com">CodingHorror.com</a>.  It's easily one of my favorite blogs to read about problem solving from the viewpoint of a programming/developer.  Recently, Jeff Atwood posted a problem:
+I absolutely love reading <a href="https://www.codinghorror.com">CodingHorror.com</a>.  It's easily one of my favorite blogs to read about problem solving from the viewpoint of a programming/developer.  Recently, Jeff Atwood posted a problem:
 
 <blockquote><i>Let's say, hypothetically speaking, you met someone who told you they had two children, and one of them is a girl. What are the odds that person has a boy and a girl?</i></blockquote>
 
@@ -32,6 +32,6 @@ The answer then, since we know that at least one is a girl, the BB set needs to 
 
 Links:
 <ul>
-  <li><a href="http://www.codinghorror.com/blog/archives/001203.html">The Problem of the Unfinished Game</a></li>
-  <li><a href="http://www.codinghorror.com/blog/archives/001204.html">Finishing The Game</a></li>
+  <li><a href="https://www.codinghorror.com/blog/archives/001203.html">The Problem of the Unfinished Game</a></li>
+  <li><a href="https://www.codinghorror.com/blog/archives/001204.html">Finishing The Game</a></li>
 </ul>

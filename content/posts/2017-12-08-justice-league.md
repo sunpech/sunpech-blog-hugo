@@ -14,7 +14,7 @@ title: Justice League
 ---
 
 
-I am pretty disappointed in the [Justice League](http://www.imdb.com/title/tt0974015/) (JL) movie. I went in with low expectations since it is a [Zack Snyder](http://www.imdb.com/name/nm0811583/) movie that was finished by [Joss Whedon](http://www.imdb.com/name/nm0923736/). I've reviewed [Man of Steel](/2013/06/man-of-steel-review) and [Batman vs Superman](/2016/03/batman-v-superman-dawn-of-justice-review) where I've complained about Snyder as a director. Despite Whedon's involvement, JL suffers more of the same-- great visually with unappealing characters and story.
+I am pretty disappointed in the [Justice League](https://www.imdb.com/title/tt0974015/) (JL) movie. I went in with low expectations since it is a [Zack Snyder](https://www.imdb.com/name/nm0811583/) movie that was finished by [Joss Whedon](https://www.imdb.com/name/nm0923736/). I've reviewed [Man of Steel](/2013/06/man-of-steel-review) and [Batman vs Superman](/2016/03/batman-v-superman-dawn-of-justice-review) where I've complained about Snyder as a director. Despite Whedon's involvement, JL suffers more of the same-- great visually with unappealing characters and story.
 
 Spoilers below of course.
 
@@ -22,11 +22,11 @@ Spoilers below of course.
 
 ### What I Liked
 
-[Gal Gadot](http://www.imdb.com/name/nm2933757/) looks amazing as Wonder Woman. She's the best thing about the team. [Henry Cavill](http://www.imdb.com/name/nm0147147/) and [Ben Affleck](http://www.imdb.com/name/nm0000255/) also look great as Superman and Batman respectively. The costumes on Flash and Aquaman are detailed and work for me as well.
+[Gal Gadot](https://www.imdb.com/name/nm2933757/) looks amazing as Wonder Woman. She's the best thing about the team. [Henry Cavill](https://www.imdb.com/name/nm0147147/) and [Ben Affleck](https://www.imdb.com/name/nm0000255/) also look great as Superman and Batman respectively. The costumes on Flash and Aquaman are detailed and work for me as well.
 
 The entire Justice League teaming up to fight Superman was great at showcasing how Superman is as powerful as Batman, Wonder Woman, Aquaman, Flash, and Cyborg combined!
 
-My favorite scene in the movie is where Superman was able to follow the Flash's super speed. The look on [Ezra Miller](http://www.imdb.com/name/nm3009232/) as the Flash realized that Superman could keep up with him was quite funny.
+My favorite scene in the movie is where Superman was able to follow the Flash's super speed. The look on [Ezra Miller](https://www.imdb.com/name/nm3009232/) as the Flash realized that Superman could keep up with him was quite funny.
 
 It's great that the WB is trying to soften up the DCEU, aka the Snyder-verse.
 
@@ -41,7 +41,7 @@ The dialogue and story are terrible, as it didn't advance the story or character
 I didn't understand the following:
 
 * Why was Superman so pissed when he came back to life?
-* Why did the dirt rise up from Superman's grave at the end of [Batman vs Superman](http://www.imdb.com/title/tt2975590/) if they required the motherbox and the Flash to resurrect Superman?
+* Why did the dirt rise up from Superman's grave at the end of [Batman vs Superman](https://www.imdb.com/title/tt2975590/) if they required the motherbox and the Flash to resurrect Superman?
 * Why did Superman's *death* trigger Steppenwolf to do the invasion? Why not invade during the thousands of years before Superman ever arrived on Earth?
 * If Steppenwolf could teleport directly to the motherboxes, then how exactly was the one owned by man hidden and unreachable? He telported to Themyscira and Atlantis with ease!
 
@@ -63,7 +63,7 @@ I don't see how **Superman** would ever care about humanity. Jonathan Kent said 
 
 ![Wonder Woman](/images/blog/justice-league-wonder-woman-black.jpg)
 
-I don't see **Aquaman**. I see [Jason Mamoa](http://www.imdb.com/name/nm0597388/). Perhaps he was just too good as [Khal Drogo](https://en.wikipedia.org/wiki/Khal_Drogo) from Game of Thrones. His character is under-developed and doesn't resemble any Aquaman comic I've ever read.
+I don't see **Aquaman**. I see [Jason Mamoa](https://www.imdb.com/name/nm0597388/). Perhaps he was just too good as [Khal Drogo](https://en.wikipedia.org/wiki/Khal_Drogo) from Game of Thrones. His character is under-developed and doesn't resemble any Aquaman comic I've ever read.
 
 ![Aquaman](/images/blog/justice-league-aquaman-black.jpg)
 

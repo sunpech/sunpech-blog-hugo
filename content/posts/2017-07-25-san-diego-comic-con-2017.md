@@ -22,7 +22,7 @@ title: San Diego Comic Con 2017
 
 ### Cosplay
 
-I love taking photos of cosplayers, but it's really difficult to be at the right place at the right time to catch some of the awesome cosplay. Unlike [Anime Expo](http://www.anime-expo.org/), SDCC doesn't have central locations that are great for photos. It's too much about walking around and hoping you run into something amazing.
+I love taking photos of cosplayers, but it's really difficult to be at the right place at the right time to catch some of the awesome cosplay. Unlike [Anime Expo](https://www.anime-expo.org/), SDCC doesn't have central locations that are great for photos. It's too much about walking around and hoping you run into something amazing.
 
 ![San Diego Comic Con - Cosplay Collage](/images/blog/2017-san-diego-comic-con-collage-cosplay.jpg)
 
@@ -56,14 +56,14 @@ I didn't take as many photos this year as previous years. In my group my 9.5 mon
 
 Here are some useful resources for things in and outside of Comic Con:
 
-* [SDCC Unofficial Blog](http://sdccblog.com/)
+* [SDCC Unofficial Blog](https://sdccblog.com/)
 * [Outside Comic Con](https://twitter.com/OutsideComicCon)
 
 These resources will help you with everything from getting tickets, understanding rules, the schedule, etc.
 
 Here are some post-con reviews:
 
-* [5 Winners & 5 Losers from San Diego Comic-Con 2017](http://sdccblog.com/2017/07/5-winners-5-losers-from-san-diego-comic-con-2017/)
+* [5 Winners & 5 Losers from San Diego Comic-Con 2017](https://sdccblog.com/2017/07/5-winners-5-losers-from-san-diego-comic-con-2017/)
 * [SDConCast 7/26/17 - The SDCC 2017 Wrap Up Show](https://www.youtube.com/watch?v=Rqipk6oMIUk)
 
 ## Final Thoughts

@@ -16,11 +16,11 @@ title: San Diego Comic Con 2015
 ---
 
 
-Last week I was in San Diego for [Comic Con](http://www.comic-con.org/cci). This year marks *my fifth time* that I've been to San Diego Comic Con.
+Last week I was in San Diego for [Comic Con](https://www.comic-con.org/cci). This year marks *my fifth time* that I've been to San Diego Comic Con.
 
 ![San Diego Comic Con 2015](/images/blog/san_diego_comic_con_2015.jpg)
 
-This month of July also marks twenty years since I attended my first comic convention in Chicago, when it was then known as Chicago Comic Con (it was bought by [Wizard World](http://www.wizardworld.com/chicago.html) in 1997).
+This month of July also marks twenty years since I attended my first comic convention in Chicago, when it was then known as Chicago Comic Con (it was bought by [Wizard World](https://www.wizardworld.com/chicago.html) in 1997).
 
 ![20 years of Comic Conventions](/images/blog/comic_con_20_years.jpg)
 
@@ -60,7 +60,7 @@ You can checkout my pictures in my [Super Asian America FB album](https://www.fa
 
 ### Who won Comic Con?
 
-**I thought Star Wars stole the show at Comic Con this year.** Their panel introduced the new heroes and villains of Episode VII, but also brought the old cast on stage. Plus, they brought Hall H to a special Star Wars concert as a surprise. See: [The Verge: Star Wars created the most magical event of Comic-Con](http://www.theverge.com/2015/7/13/8950017/star-wars-concert-comic-con-2015)
+**I thought Star Wars stole the show at Comic Con this year.** Their panel introduced the new heroes and villains of Episode VII, but also brought the old cast on stage. Plus, they brought Hall H to a special Star Wars concert as a surprise. See: [The Verge: Star Wars created the most magical event of Comic-Con](https://www.theverge.com/2015/7/13/8950017/star-wars-concert-comic-con-2015)
 
 The best thing from Fox was Deadpool. Fantastic Four and X-Men: Apocalypse was just okay. The Game of Thrones, Batman vs Superman, Suicide Squad, Agents of SHIELD, Agent Carter panels were all also just okay.
 
@@ -74,7 +74,7 @@ I didn't really care much for the Walking Dead panels. The Minority Report panel
 
 **Check out the smaller panels.** I say this despite me not following it myself this year. The big panels will almost always be uploaded to YouTube as some point, the coverage is immense. The smaller panels may not be recorded by an audience member. The focus, intimacy, and panel questions in smaller panels is more enjoyable in general too.
 
-**Create a schedule** at [sched.org](https://sched.org/), which Comic Con partners with every year. There's also a [mobile app](http://www.comic-con.org/apps). Fill out your schedule and have backups just in case.
+**Create a schedule** at [sched.org](https://sched.org/), which Comic Con partners with every year. There's also a [mobile app](https://www.comic-con.org/apps). Fill out your schedule and have backups just in case.
 
 Playback panels is a great place to have your lunch and catch that big panel from either Hall H or Ballroom 20 you weren't able to get into-- or rather you were unwilling to sleep on concrete the night before for.
 
@@ -108,7 +108,7 @@ Playback panels is a great place to have your lunch and catch that big panel fro
 
 * [SDConCast Special Episode - San Diego Comic-Con 2015 Wrap Up](https://www.youtube.com/watch?v=1yClDtl4oQo) (YouTube video)
 * [/r/comiccon Subreddit](https://www.reddit.com/r/comiccon)
-* My Instagram: [@sunpech](http://instagram.com/sunpech) - where I post pics first.
+* My Instagram: [@sunpech](https://instagram.com/sunpech) - where I post pics first.
 * [Flicks and the City](https://www.youtube.com/user/flicksandthecity) - This YT channel has a lot of videos from panels.
 * [Emergency Awesome](https://www.youtube.com/user/emergencyawesome) - Also a lot of YT videos of panels.
 * [My SDCC 2015 Schedule](https://comiccon2015.sched.org/sunpech)

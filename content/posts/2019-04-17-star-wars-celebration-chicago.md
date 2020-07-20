@@ -25,7 +25,7 @@ The one thing I loved was the amount of support fans gave each other and the gue
 
 There was a big push to have everyone use the [mobile app](https://www.starwarscelebration.com/Explore/Mobile-App/). But for the first two days, Thursday and Friday, there were many issues with it. People couldn't get scanned, reserve spots for the stores, and other miscellaneous issues. What ended up happening was a huge 8-hour long wait on Thursday to get into the show store. The five scanning stations for prizes were down and couldn't scan people to win prizes, which was a huge disappointment.
 
-[Reed Pop](https://www.reedpop.com) is the event organizer and usually does a pretty good job. I get the feeling they were trying some new things out and are going through some growing pains. Just a few weeks ago they put together [C2E2](http://c2e2.com/) on the other side of McCormick Place and I thought it went rather well.
+[Reed Pop](https://www.reedpop.com) is the event organizer and usually does a pretty good job. I get the feeling they were trying some new things out and are going through some growing pains. Just a few weeks ago they put together [C2E2](https://c2e2.com/) on the other side of McCormick Place and I thought it went rather well.
 
 ![Star Wars Celebration Chicago Mobile App](/images/blog/2019-star-wars-celebration-chicago-mobile-app.jpg)
 

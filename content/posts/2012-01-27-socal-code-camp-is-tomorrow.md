@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5783205170973058067
-blogger_orig_url: http://www.sunpech.com/2012/01/socal-code-camp-is-tomorrow.html
+blogger_orig_url: https://www.sunpech.com/2012/01/socal-code-camp-is-tomorrow.html
 date: '2012-01-27T19:58:00.000-06:00'
 headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-30T07:49:29.140-06:00'
@@ -13,11 +13,11 @@ title: SoCal Code Camp is tomorrow
 ---
 
 
-<a href="http://www.socalcodecamp.com/">SoCal Code Camp</a> is tomorrow. <a href="http://www.socalcodecamp.com/sessions.aspx">Sessions</a> have been posted, as well as the <a href="http://www.socalcodecamp.com/schedule.aspx">schedule</a>. It's a two day event, January 28 and 29 (Saturday and Sunday), full of sessions on a variety of software development topics.
+<a href="https://www.socalcodecamp.com/">SoCal Code Camp</a> is tomorrow. <a href="https://www.socalcodecamp.com/sessions.aspx">Sessions</a> have been posted, as well as the <a href="https://www.socalcodecamp.com/schedule.aspx">schedule</a>. It's a two day event, January 28 and 29 (Saturday and Sunday), full of sessions on a variety of software development topics.
 
 Did I mention that it's FREE?!
 
-It will be hosted at <a href="http://fullerton.edu/">California State University Fullerton</a>. Here is a <a href="http://www.fullerton.edu/campusmap/CampusMap.htm">campus map</a> to help you.
+It will be hosted at <a href="https://fullerton.edu/">California State University Fullerton</a>. Here is a <a href="https://www.fullerton.edu/campusmap/CampusMap.htm">campus map</a> to help you.
 
 I will be there bright and early volunteering and probably taking photos. Should be a good time!
 

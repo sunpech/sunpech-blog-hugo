@@ -64,7 +64,7 @@ Here's a table to illustrate:
   </tr>
 </table>
 
-It should be noted that Linux can support both HFS+ and exFAT with some free package updates, but natively supports NTFS and FAT32.  This is why Linux and open source is amazing. Also, when I say Linux, I'm referring to the major distributions such as [Ubuntu](http://www.ubuntu.com/).
+It should be noted that Linux can support both HFS+ and exFAT with some free package updates, but natively supports NTFS and FAT32.  This is why Linux and open source is amazing. Also, when I say Linux, I'm referring to the major distributions such as [Ubuntu](https://www.ubuntu.com/).
 
 ## When not to use exFAT
 

@@ -15,21 +15,21 @@ title: Guardians of the Galaxy Vol. 2
 ---
 
 
-I enjoyed watching [Guardians of the Galaxy Vol 2](http://www.imdb.com/title/tt3896198/), it's what a space adventure movie should be! What I especially love about the movie is that every character has his/her moment in the movie. It's a great sequel to the amazing [first movie](http://www.imdb.com/title/tt2015381/).
+I enjoyed watching [Guardians of the Galaxy Vol 2](https://www.imdb.com/title/tt3896198/), it's what a space adventure movie should be! What I especially love about the movie is that every character has his/her moment in the movie. It's a great sequel to the amazing [first movie](https://www.imdb.com/title/tt2015381/).
 
 The movie has FIVE post credit scenes, yes 5, so be sure to stay through the entire credit scroll to catch them all. **This is my spoiler filled review of the movie, so read no further if you haven't watched the movie yet!**
 
 ![Guardians of the Galaxy vol 2](/images/blog/guardians-of-the-galaxy-vol-2.jpg)
 
-As director [James Gunn](http://www.imdb.com/name/nm0348181/) has said, the movie is about family. The relationships between [Peter Quill](https://en.wikipedia.org/wiki/Star-Lord) and his father, [Ego](https://en.wikipedia.org/wiki/Ego_the_Living_Planet) was explored as the main story arc. But the sister relationship between  [Gamora](https://en.wikipedia.org/wiki/Gamora) and [Nebula](https://en.wikipedia.org/wiki/Nebula_(comics)),  as well as [Yondu](https://en.wikipedia.org/wiki/Yondu) and his former crew, were also explored briefly. I loved this character stories, but there were a lot of characters.
+As director [James Gunn](https://www.imdb.com/name/nm0348181/) has said, the movie is about family. The relationships between [Peter Quill](https://en.wikipedia.org/wiki/Star-Lord) and his father, [Ego](https://en.wikipedia.org/wiki/Ego_the_Living_Planet) was explored as the main story arc. But the sister relationship between  [Gamora](https://en.wikipedia.org/wiki/Gamora) and [Nebula](https://en.wikipedia.org/wiki/Nebula_(comics)),  as well as [Yondu](https://en.wikipedia.org/wiki/Yondu) and his former crew, were also explored briefly. I loved this character stories, but there were a lot of characters.
 
-A little over halfway through the movie I was wondering when the main villain would reveal itself and give focus as to what our heroes should be doing. Don't get me wrong, a Marvel movie actually developed a villain with a backstory this time, but the evil plot dropped in the last twenty minutes of the film. [The Sovereign](http://marvelcinematicuniverse.wikia.com/wiki/Sovereign) never struck me as evil, just an advanced stuck-up race that had a dispute with the Guardians of the Galaxy (GotG) about stolen batteries-- of course sure they wanted to kill them, but not evil per se.
+A little over halfway through the movie I was wondering when the main villain would reveal itself and give focus as to what our heroes should be doing. Don't get me wrong, a Marvel movie actually developed a villain with a backstory this time, but the evil plot dropped in the last twenty minutes of the film. [The Sovereign](https://marvelcinematicuniverse.wikia.com/wiki/Sovereign) never struck me as evil, just an advanced stuck-up race that had a dispute with the Guardians of the Galaxy (GotG) about stolen batteries-- of course sure they wanted to kill them, but not evil per se.
 
 The movie felt like a series of television episodes cut together where you can see each character's story arc. The team really only fought together at the beginning and end of the movie. The whole middle was just short character stories.
 
 All of this isn't bad, it just deviates from a more traditional movie story structure by having what seems like a lengthy middle section with short beginning and ending parts.
 
-Yondu, played by [Michael Rooker](http://www.imdb.com/name/nm0740264/?ref_=ttfc_fc_cl_t6) went out in a blaze of glory in a touching and appropriate ending. He also had some of the best lines of the movie.
+Yondu, played by [Michael Rooker](https://www.imdb.com/name/nm0740264/?ref_=ttfc_fc_cl_t6) went out in a blaze of glory in a touching and appropriate ending. He also had some of the best lines of the movie.
 
  * *“I’m Mary Poppins, y’all!”*
  * *“He may have been your father but he wasn’t your daddy.”*
@@ -50,17 +50,17 @@ I'm surprised they were even in the MCU, because [Watcher Uatu](https://en.wikip
 
 The original Guardians of the Galaxy from the comics were in the movie:
 
-* Stakar Ogord - [Sylvester Stallone](http://www.imdb.com/name/nm0000230/)
-* Aleta Ogord - [Michelle Yeoh](http://www.imdb.com/name/nm0000706/)
-* Charlie 27 - [Ving Rhames](http://www.imdb.com/name/nm0000609/)
-* Mainframe - [Miley Cyrus](http://www.imdb.com/name/nm1415323/)
-* Martinex - [Michael Rosenbaum](http://www.imdb.com/name/nm0742146/)
+* Stakar Ogord - [Sylvester Stallone](https://www.imdb.com/name/nm0000230/)
+* Aleta Ogord - [Michelle Yeoh](https://www.imdb.com/name/nm0000706/)
+* Charlie 27 - [Ving Rhames](https://www.imdb.com/name/nm0000609/)
+* Mainframe - [Miley Cyrus](https://www.imdb.com/name/nm1415323/)
+* Martinex - [Michael Rosenbaum](https://www.imdb.com/name/nm0742146/)
 
 Yondu used to be a part of this team. I remember reading that Marvel had plans for them in future movies, but I don't think it's set in stone yet.
 
 ### Final Thoughts
 
-I really enjoy the Guardians of the Galaxy and the whole space adventure stories of the MCU. I thought Thor movies would be the ones to tell stories of the cosmic universe in an amazing way, but it was really Guardians of the Galaxy that delivered on that so far. Although I think the upcoming [Thor: Ragnarok](http://www.imdb.com/title/tt3501632/), will help push the cosmic universe even further-- I already love the *other worldly* colors in the trailers. It just really takes me out of the Earth experience.
+I really enjoy the Guardians of the Galaxy and the whole space adventure stories of the MCU. I thought Thor movies would be the ones to tell stories of the cosmic universe in an amazing way, but it was really Guardians of the Galaxy that delivered on that so far. Although I think the upcoming [Thor: Ragnarok](https://www.imdb.com/title/tt3501632/), will help push the cosmic universe even further-- I already love the *other worldly* colors in the trailers. It just really takes me out of the Earth experience.
 
 **The cosmic universe is the post Phase 3 goal for Marvel.** If they can just get beyond Earth heroes and stories, a whole universe of possibilities will open up.
 

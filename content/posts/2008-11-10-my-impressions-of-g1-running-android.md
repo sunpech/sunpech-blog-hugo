@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6274634595402651573
-blogger_orig_url: http://www.sunpech.com/2008/11/my-impressions-of-g1-running-android.html
+blogger_orig_url: https://www.sunpech.com/2008/11/my-impressions-of-g1-running-android.html
 date: '2008-11-10T22:37:00.005-06:00'
 headerimage: /images/headers/android.jpg
 modified_time: '2014-08-08T17:01:45.552-05:00'
@@ -10,14 +10,14 @@ tags:
   - Technology
   - Review
   - Android
-thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s600/g1officialnewnew.jpg
+thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s600/g1officialnewnew.jpg
 title: My Impressions of the G1 running Android
 ---
 
 
-I've had my <a href="http://www.t-mobileg1.com/">G1</a> for a few weeks now.  My overall impressions are pretty good.  I like the touch screen, I like the free applications available through the market app, and I definitely enjoy the web browsing experience on the 3G network over my old Blackberry Pearl on the EDGE network.
+I've had my <a href="https://www.t-mobileg1.com/">G1</a> for a few weeks now.  My overall impressions are pretty good.  I like the touch screen, I like the free applications available through the market app, and I definitely enjoy the web browsing experience on the 3G network over my old Blackberry Pearl on the EDGE network.
 
-<img    border="0" id="BLOGGER_PHOTO_ID_5267257220442964562" src="http://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s400/g1officialnewnew.jpg" alt="" />
+<img    border="0" id="BLOGGER_PHOTO_ID_5267257220442964562" src="https://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s400/g1officialnewnew.jpg" alt="" />
 
 But I do have a few complaints:
 

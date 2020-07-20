@@ -14,13 +14,13 @@ title: Thoughts on Apple's Event
 ---
 
 
-Yesterday, [Apple](http://www.apple.com) had their livestream event ([September 9, 2015](http://www.apple.com/apple-events/september-2015/)) announcing a bunch of new things. As usual, I live [tweeted](https://twitter.com/sunpech) some of my thoughts during the keynote. For the most part, my tweets are meant to poke fun at everything and shouldn't be taken in the most serious context. I say this because some contacts I have take great *personal* insult whenever I poke fun of big successful companies like Apple-- that are named Apple.
+Yesterday, [Apple](https://www.apple.com) had their livestream event ([September 9, 2015](https://www.apple.com/apple-events/september-2015/)) announcing a bunch of new things. As usual, I live [tweeted](https://twitter.com/sunpech) some of my thoughts during the keynote. For the most part, my tweets are meant to poke fun at everything and shouldn't be taken in the most serious context. I say this because some contacts I have take great *personal* insult whenever I poke fun of big successful companies like Apple-- that are named Apple.
 
 ![Thoughts on Apple Event](/images/blog/thoughts_on_apple_event.jpg)
 
 ### iPad Pro
 
-**The [iPad Pro](http://www.apple.com/ipad-pro/) is the only thing that stood out to me.** I wish they had ended the keynote on this rather than have it follow the Apple Watch.
+**The [iPad Pro](https://www.apple.com/ipad-pro/) is the only thing that stood out to me.** I wish they had ended the keynote on this rather than have it follow the Apple Watch.
 
 Not only is it a bigger iPad, but there are accessories too. The Apple Pencil and keyboard both look rather nice. I see quite a few professionals that use an iPad and keyboard attachment as their daily driver. It's so convenient, especially if they are on the go for their job.
 
@@ -30,11 +30,11 @@ I consider iOS easier to use than OS X. My parents have used Windows OSes for qu
 
 As [I tweeted](https://twitter.com/sunpech/status/641663550780366848), this does put a comparable device up against Microsoft's Surface Pro. But as someone else [tweeted](https://twitter.com/shribr/status/641666188217610240), it's more similar to the Surface RT since it runs iOS not OS X.
 
-I loved [Joel Watson's](https://twitter.com/hijinksensue) comic, [Surface Tension](http://hijinksensue.com/comic/surface-tension/). It's incredibly relevant considering it was from 2012, just three years ago.
+I loved [Joel Watson's](https://twitter.com/hijinksensue) comic, [Surface Tension](https://hijinksensue.com/comic/surface-tension/). It's incredibly relevant considering it was from 2012, just three years ago.
 
 ![Surface Tension - Joel Watson](/images/blog/2012-06-19-surface-tension.jpg)
 
-I hope that for "Pro" users, it can be used to also replicate or even replace those [Wacom tablets](http://www.wacom.com/en-us/products/pen-tablets). I have one and I currently have it stored away in a box because it's bothersome to use. Don't get me wrong, it's great for my photo-editing, but it's such a pain to have lying around only for the purpose of editing photos in Photoshop/Lightroom.
+I hope that for "Pro" users, it can be used to also replicate or even replace those [Wacom tablets](https://www.wacom.com/en-us/products/pen-tablets). I have one and I currently have it stored away in a box because it's bothersome to use. Don't get me wrong, it's great for my photo-editing, but it's such a pain to have lying around only for the purpose of editing photos in Photoshop/Lightroom.
 
 It would be pretty sweet if an iPad Pro could really live up to it's "Pro" name and have such functionality so it would have many many uses. The value purchase would be incredible.
 
@@ -58,14 +58,14 @@ However, I do question the charging mechanism for this pencil. It's got a male c
 
 ### iPhone Upgrade Program
 
-I missed seeing this announcement during the keynote, but there's an [iPhone Upgrade Program](http://www.apple.com/shop/iphone/iphone-upgrade-program) that looks amazing. The plans start at $32/month.
+I missed seeing this announcement during the keynote, but there's an [iPhone Upgrade Program](https://www.apple.com/shop/iphone/iphone-upgrade-program) that looks amazing. The plans start at $32/month.
 
 * Get a new iPhone every year
 * Unlocked — choose your carrier
 * Low monthly payments
 * iPhone protection with AppleCare+
 
-Someone like my mom would benefit from this program immensely since she loves getting a new mobile phone for herself every year. Often times she pays full-price (out of contract) for a new phone. Normally this would be an unlocked phone from [Google Nexus](http://www.google.com/nexus/), but many in my family and friends has been too happy with a lot of Android prices and software performance.
+Someone like my mom would benefit from this program immensely since she loves getting a new mobile phone for herself every year. Often times she pays full-price (out of contract) for a new phone. Normally this would be an unlocked phone from [Google Nexus](https://www.google.com/nexus/), but many in my family and friends has been too happy with a lot of Android prices and software performance.
 
 Buying a phone for 1-2 years of use, only to keep it in storage thereafter can be a little ridiculous. I know I have one (see below). Why own when you can just rent? It just comes out at a little over $1 per day.
 
@@ -77,7 +77,7 @@ Buying a phone for 1-2 years of use, only to keep it in storage thereafter can b
 
 ![Apple's App Store](/images/blog/apple_app_store_screenshot.jpg)
 
-It's somewhat comical that there's no curation of apps here. It's all ranked by popularity, free, and paid apps-- which is really just cold hard numbers. And yet [Apple Music](http://www.apple.com/music/) is being pushed as curated music by experts of the industry. That said, I do have a [list of best software](https://github.com/sunpech/best_software_list) on [my Github](http://github.com/sunpech).
+It's somewhat comical that there's no curation of apps here. It's all ranked by popularity, free, and paid apps-- which is really just cold hard numbers. And yet [Apple Music](https://www.apple.com/music/) is being pushed as curated music by experts of the industry. That said, I do have a [list of best software](https://github.com/sunpech/best_software_list) on [my Github](https://github.com/sunpech).
 
 I'm also not hot on the idea of using a one hand remote to navigate around a TV screen for shopping. If there was a screen that required me to enter any of my credentials (name, password, address, credit card number, etc), I would just give up because I don't want to use a remote to navigate a on-screen keyboard to enter that all in.
 
@@ -101,6 +101,6 @@ Everything else is just okay.
 
 ### Links
 
-* [hijinksensue.com](http://hijinksensue.com)
+* [hijinksensue.com](https://hijinksensue.com)
 * [MKBHD's iPad Pro Impressions](https://www.youtube.com/watch?v=HALtebWHpNA)
 * [MKBHD's iPhone 6S Impressions](https://www.youtube.com/watch?v=gN-MeB-S8Kw)

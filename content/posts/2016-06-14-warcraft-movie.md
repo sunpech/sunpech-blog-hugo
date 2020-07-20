@@ -14,7 +14,7 @@ title: Warcraft Movie
 ---
 
 
-This is my review for the [Warcraft movie](http://www.imdb.com/title/tt0803096/), which is based off the video game.
+This is my review for the [Warcraft movie](https://www.imdb.com/title/tt0803096/), which is based off the video game.
 
 I normally give a spoiler warning, but I won't say enough about the plot of the movie to ruin anyone's experience. But in case you are sensitive to *any information* and want to go in fresh, then you should stop reading now-- but I doubt that since you've read this far already.
 
@@ -24,13 +24,13 @@ I do have some background in playing [Warcraft III](https://en.wikipedia.org/wik
 
 The movie was just okay for me. **Definitely not good, but also not as bad as it's [Rotten Tomatoes score](https://www.rottentomatoes.com/m/warcraft/): 27% currently.**
 
-**Fantasy-based movies and TV shows are hard to make for a wide audience.** No matter how much or how many people enjoyed the [Lord of the Rings trilogy](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)), some people will find it incredibly dull and won't watch it. The same could be said for the very popular [Game of Thrones](http://www.imdb.com/title/tt0944947/) series. One thing they have in common is that need time to build out the fantasy world and characters-- it's not a simple 1-2 hour commitment, it's many many hours.
+**Fantasy-based movies and TV shows are hard to make for a wide audience.** No matter how much or how many people enjoyed the [Lord of the Rings trilogy](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)), some people will find it incredibly dull and won't watch it. The same could be said for the very popular [Game of Thrones](https://www.imdb.com/title/tt0944947/) series. One thing they have in common is that need time to build out the fantasy world and characters-- it's not a simple 1-2 hour commitment, it's many many hours.
 
 You don't have to be a fan to enjoy the movie, but fans will enjoy the movie more because there are Easter eggs hidden throughout. I watched the movie in 3D, which I don't recommend for anyone because it's distracting to have the eyes wander around the screen looking for things.
 
 Blizzard has been building and expanding on the fantasy world for more than 20 years now. There's no way that a movie can capture it in a few hours. There are more races, conflicts, characters than what is presented in the movie.
 
-**The best parts of the movie were the orcs and magic portrayed.** [Duncan Jones](http://www.imdb.com/name/nm1512910/) set out to portray both sides and he did a good job fleshing out the orc tribe. The CGI looked amazing and the actors were phenomenal. I really was taken into their characters that I just didn't see actors behind the animation at all. The magic didn't need any explaining, it was just fun.
+**The best parts of the movie were the orcs and magic portrayed.** [Duncan Jones](https://www.imdb.com/name/nm1512910/) set out to portray both sides and he did a good job fleshing out the orc tribe. The CGI looked amazing and the actors were phenomenal. I really was taken into their characters that I just didn't see actors behind the animation at all. The magic didn't need any explaining, it was just fun.
 
 ![Warcraft Orcs](/images/blog/warcraft-movie-orcs.jpg)
 

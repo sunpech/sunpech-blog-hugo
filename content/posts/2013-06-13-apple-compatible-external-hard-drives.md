@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-80238894314867501
-blogger_orig_url: http://www.sunpech.com/2013/06/apple-compatible-external-hard-drives.html
+blogger_orig_url: https://www.sunpech.com/2013/06/apple-compatible-external-hard-drives.html
 date: '2013-06-13T11:00:00.000-05:00'
 headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T16:43:20.770-05:00'
@@ -10,7 +10,7 @@ tags:
   - Apple
   - Review
   - Technology
-thumbnail: http://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s600/Screen+Shot+2013-06-13+at+1.26.39+AM.png
+thumbnail: https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s600/Screen+Shot+2013-06-13+at+1.26.39+AM.png
 title: Apple Compatible External Hard Drives Are Over-Priced
 ---
 
@@ -22,29 +22,29 @@ I'd like to focus on the external hard drives, since they are currently priced d
 Comparing 1TB and 2TB external USB 3. 0 Hard Drives for Macs from Amazon and Apple's web stores:
 
 #### 1TB: $116 (Amazon)
-<a href="http://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s600/Screen+Shot+2013-06-13+at+1.26.39+AM.png" alt="" ><img   border="0" src="http://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s400/Screen+Shot+2013-06-13+at+1.26.39+AM.png" alt="" /></a>
+<a href="https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s600/Screen+Shot+2013-06-13+at+1.26.39+AM.png" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s400/Screen+Shot+2013-06-13+at+1.26.39+AM.png" alt="" /></a>
 
 <i>(Note: above product not sold directly from Amazon, but a reseller)</i>
 
 #### 1TB: $120 (Apple)
-<a href="http://2.bp.blogspot.com/-UF3F3jI50qA/UbmVlw4WGXI/AAAAAAABdPk/mysMjE5gNUk/s600/Screen+Shot+2013-06-13+at+2.48.30+AM.png" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-UF3F3jI50qA/UbmVlw4WGXI/AAAAAAABdPk/mysMjE5gNUk/s400/Screen+Shot+2013-06-13+at+2.48.30+AM.png" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-UF3F3jI50qA/UbmVlw4WGXI/AAAAAAABdPk/mysMjE5gNUk/s600/Screen+Shot+2013-06-13+at+2.48.30+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-UF3F3jI50qA/UbmVlw4WGXI/AAAAAAABdPk/mysMjE5gNUk/s400/Screen+Shot+2013-06-13+at+2.48.30+AM.png" alt=""  /></a>
 
 #### 1TB: $120 (Apple)
-<a href="http://2.bp.blogspot.com/-i5hFfdZicUY/UbmWvBRPznI/AAAAAAABdP4/S5ShtM83E64/s600/Screen+Shot+2013-06-13+at+2.53.42+AM.png" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-i5hFfdZicUY/UbmWvBRPznI/AAAAAAABdP4/S5ShtM83E64/s400/Screen+Shot+2013-06-13+at+2.53.42+AM.png" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-i5hFfdZicUY/UbmWvBRPznI/AAAAAAABdP4/S5ShtM83E64/s600/Screen+Shot+2013-06-13+at+2.53.42+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-i5hFfdZicUY/UbmWvBRPznI/AAAAAAABdP4/S5ShtM83E64/s400/Screen+Shot+2013-06-13+at+2.53.42+AM.png" alt=""  /></a>
 
 #### 2TB: $135 (Amazon)
-<a href="http://4.bp.blogspot.com/-iXouvBn2Tk0/UbmJ29TI4oI/AAAAAAABdOs/0EgkGrvNg1o/s600/Screen+Shot+2013-06-13+at+1.23.50+AM.png" alt="" ><img   border="0" src="http://4.bp.blogspot.com/-iXouvBn2Tk0/UbmJ29TI4oI/AAAAAAABdOs/0EgkGrvNg1o/s400/Screen+Shot+2013-06-13+at+1.23.50+AM.png" alt="" /></a>
+<a href="https://4.bp.blogspot.com/-iXouvBn2Tk0/UbmJ29TI4oI/AAAAAAABdOs/0EgkGrvNg1o/s600/Screen+Shot+2013-06-13+at+1.23.50+AM.png" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-iXouvBn2Tk0/UbmJ29TI4oI/AAAAAAABdOs/0EgkGrvNg1o/s400/Screen+Shot+2013-06-13+at+1.23.50+AM.png" alt="" /></a>
 
 #### 2TB: $150 (Apple)
-<a href="http://2.bp.blogspot.com/-fHPnQ7UeyWA/UbmWu_589oI/AAAAAAABdP0/dq7adFE0Hik/s600/Screen+Shot+2013-06-13+at+2.53.04+AM.png" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-fHPnQ7UeyWA/UbmWu_589oI/AAAAAAABdP0/dq7adFE0Hik/s400/Screen+Shot+2013-06-13+at+2.53.04+AM.png" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-fHPnQ7UeyWA/UbmWu_589oI/AAAAAAABdP0/dq7adFE0Hik/s600/Screen+Shot+2013-06-13+at+2.53.04+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-fHPnQ7UeyWA/UbmWu_589oI/AAAAAAABdP0/dq7adFE0Hik/s400/Screen+Shot+2013-06-13+at+2.53.04+AM.png" alt=""  /></a>
 
 Comparing 1TB and 2TB external USB 3.0 Hard Drives for Windows:
 
 #### 1TB: $80 (Amazon)
-<a href="http://1.bp.blogspot.com/-C20nFhyKiuo/UbmJ3YGUYjI/AAAAAAABdO4/wVD9x5-4HcQ/s600/Screen+Shot+2013-06-13+at+1.26.49+AM.png" alt="" ><img   border="0" src="http://1.bp.blogspot.com/-C20nFhyKiuo/UbmJ3YGUYjI/AAAAAAABdO4/wVD9x5-4HcQ/s400/Screen+Shot+2013-06-13+at+1.26.49+AM.png" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-C20nFhyKiuo/UbmJ3YGUYjI/AAAAAAABdO4/wVD9x5-4HcQ/s600/Screen+Shot+2013-06-13+at+1.26.49+AM.png" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-C20nFhyKiuo/UbmJ3YGUYjI/AAAAAAABdO4/wVD9x5-4HcQ/s400/Screen+Shot+2013-06-13+at+1.26.49+AM.png" alt=""  /></a>
 
 #### 2TB: $128 (Amazon)
-<a href="http://2.bp.blogspot.com/-7MwqxcNV1x0/UbmJ20RPEwI/AAAAAAABdO0/ekHUDm9zEOc/s600/Screen+Shot+2013-06-13+at+1.23.38+AM.png" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-7MwqxcNV1x0/UbmJ20RPEwI/AAAAAAABdO0/ekHUDm9zEOc/s400/Screen+Shot+2013-06-13+at+1.23.38+AM.png" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-7MwqxcNV1x0/UbmJ20RPEwI/AAAAAAABdO0/ekHUDm9zEOc/s600/Screen+Shot+2013-06-13+at+1.23.38+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-7MwqxcNV1x0/UbmJ20RPEwI/AAAAAAABdO0/ekHUDm9zEOc/s400/Screen+Shot+2013-06-13+at+1.23.38+AM.png" alt=""  /></a>
 
 <i>Note the screenshots of the prices above were taken on June 13, 2013.</i>
 
@@ -67,9 +67,9 @@ I just don't think an intelligent person should spend $10-40 more on something j
 After connecting the external drive to your Mac, open up Utilities -&gt; <b>Disk Utility</b>, and find the drive and select <b>Partition</b> tab, and choose Format <b>Mac OS Extended (Journaled)</b>.
 
 A screenshot of my system with my external drive(s) already formatted:
-<img   border="0" src="http://1.bp.blogspot.com/-JjhINuEeObE/UbmTRDOZuaI/AAAAAAABdPU/oxq2SFspDbk/s640/Screen+Shot+2013-06-13+at+2.38.57+AM.png" alt=""   />
+<img   border="0" src="https://1.bp.blogspot.com/-JjhINuEeObE/UbmTRDOZuaI/AAAAAAABdPU/oxq2SFspDbk/s640/Screen+Shot+2013-06-13+at+2.38.57+AM.png" alt=""   />
 
-If you want to have an external hard drive that is compatible with both Mac OS X and Windows operating systems (OS), choose to format in <a href="http://en.wikipedia.org/wiki/ExFAT">exFAT</a> in this program. Both OSes will be able to read/write to this type of partition without any third party program.
+If you want to have an external hard drive that is compatible with both Mac OS X and Windows operating systems (OS), choose to format in <a href="https://en.wikipedia.org/wiki/ExFAT">exFAT</a> in this program. Both OSes will be able to read/write to this type of partition without any third party program.
 
 This is just like how geeks wouldn't let their friends/family, or anyone really, buy Monster brand HDMI cables at Best Buy, when they're so much cheaper to buy online. The marketing is misleading and is trying to part more money from you than it should.
 

@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4436052358523078717
-blogger_orig_url: http://www.sunpech.com/2013/05/my-first-drink-and-click-la-event.html
+blogger_orig_url: https://www.sunpech.com/2013/05/my-first-drink-and-click-la-event.html
 date: '2013-05-31T20:11:00.003-05:00'
 headerimage: /images/headers/old_cameras.jpg
 modified_time: '2013-05-31T20:16:04.500-05:00'
@@ -10,7 +10,7 @@ tags:
   - Photography
   - Los Angeles
   - Photowalk
-thumbnail: http://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s600/2013-05-30+at+19-48-35.jpg
+thumbnail: https://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s600/2013-05-30+at+19-48-35.jpg
 title: My First Drink and Click LA Event
 ---
 
@@ -23,23 +23,23 @@ So as the name of the group implies, it's about getting some drinks and taking p
 
 We made three stops throughout the evening and into the night:
 <ol>
-  <li><a href="http://www.lolasla.com/">Lola's</a></li>
-  <li><a href="http://www.surlygoat.com/">The Surly Goat</a></li>
-  <li><a href="http://www.cantersdeli.com/">Canter's Deli</a></li>
+  <li><a href="https://www.lolasla.com/">Lola's</a></li>
+  <li><a href="https://www.surlygoat.com/">The Surly Goat</a></li>
+  <li><a href="https://www.cantersdeli.com/">Canter's Deli</a></li>
 </ol>
 
 My full set of pictures I took can be found <a href="https://plus.google.com/photos/101693597219413173200/albums/5884138675860285265">here</a>.
 
 Here is a group picture I took at Lola's.
-<img   border="0"  src="http://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s640/2013-05-30+at+19-48-35.jpg" alt=""  />
+<img   border="0"  src="https://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s640/2013-05-30+at+19-48-35.jpg" alt=""  />
 
 On our way to Santa Monica Blvd, I took this shot of one of the group member who obliged to get back in this position he was in earlier.
-<img   border="0"  src="http://1.bp.blogspot.com/-RHAWmT2n2k8/UaipIjOSa0I/AAAAAAABc44/lSHGVzY9zHU/s400/2013-05-30+at+19-59-51.jpg" alt="" />
+<img   border="0"  src="https://1.bp.blogspot.com/-RHAWmT2n2k8/UaipIjOSa0I/AAAAAAABc44/lSHGVzY9zHU/s400/2013-05-30+at+19-59-51.jpg" alt="" />
 
-<img   border="0" height="285" src="http://4.bp.blogspot.com/-V_xmsZIzu7c/UaipKSKjPUI/AAAAAAABc5A/AxpH9uwlANM/s400/2013-05-30+at+20-00-14.jpg" alt=""  />
+<img   border="0" height="285" src="https://4.bp.blogspot.com/-V_xmsZIzu7c/UaipKSKjPUI/AAAAAAABc5A/AxpH9uwlANM/s400/2013-05-30+at+20-00-14.jpg" alt=""  />
 
 Playing with the shutter speed to paint some light.
-<img   border="0"  src="http://2.bp.blogspot.com/-FFJBe_D2mHg/UaipR_1VDcI/AAAAAAABc5o/lLwv9dpX8dw/s400/2013-05-30+at+21-21-35.jpg" alt=""  />
+<img   border="0"  src="https://2.bp.blogspot.com/-FFJBe_D2mHg/UaipR_1VDcI/AAAAAAABc5o/lLwv9dpX8dw/s400/2013-05-30+at+21-21-35.jpg" alt=""  />
 
 I liked this stack of newspapers at Canter's Deli.
-<img   border="0"  src="http://1.bp.blogspot.com/-azm8jLucaQY/UaipheOQ4vI/AAAAAAABc64/67qdIZFtWHc/s400/2013-05-30+at+23-47-45.jpg" alt=""  />
+<img   border="0"  src="https://1.bp.blogspot.com/-azm8jLucaQY/UaipheOQ4vI/AAAAAAABc64/67qdIZFtWHc/s400/2013-05-30+at+23-47-45.jpg" alt=""  />

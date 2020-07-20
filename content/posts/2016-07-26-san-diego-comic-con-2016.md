@@ -16,7 +16,7 @@ title: San Diego Comic Con 2016
 ---
 
 
-Just got back from [San Diego Comic Con](http://www.comic-con.org/cci) and I'm super exhausted! My sisters and I were lucky this year and we got rooms at the [Manchester Grand Hyatt](http://manchester.grand.hyatt.com/en/hotel/home.html), just a few blocks away from the convention center. I even nabbed myself a [Superman Conan FunkoPop](https://www.instagram.com/p/BIIbAwrjP9A/) that was being raffled away in the very same hotel we were staying at!
+Just got back from [San Diego Comic Con](https://www.comic-con.org/cci) and I'm super exhausted! My sisters and I were lucky this year and we got rooms at the [Manchester Grand Hyatt](https://manchester.grand.hyatt.com/en/hotel/home.html), just a few blocks away from the convention center. I even nabbed myself a [Superman Conan FunkoPop](https://www.instagram.com/p/BIIbAwrjP9A/) that was being raffled away in the very same hotel we were staying at!
 
 The weather was hot as the sun was unforgiving most of the time during the day. I mostly stayed inside taking photos and walking the floor. So I don't have many pics of the off-site and outside events, as it was just too damn hot!
 
@@ -27,7 +27,7 @@ The weather was hot as the sun was unforgiving most of the time during the day. 
 ### Pokemon Go
 **If you played PoGo, then no doubt you would be staring at your phone and playing all the time.**
 
-[Pokemon Go](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/) was an extremely popular mobile game at Comic Con this year. I'd guess that about a third of the people were playing it. At many of the pokestops, lure modules were going off non-stop. I personally enjoyed catching a bunch of new Pokemon and leveling up to 23 doing some mass evolves with a lucky egg.
+[Pokemon Go](https://www.pokemon.com/us/pokemon-video-games/pokemon-go/) was an extremely popular mobile game at Comic Con this year. I'd guess that about a third of the people were playing it. At many of the pokestops, lure modules were going off non-stop. I personally enjoyed catching a bunch of new Pokemon and leveling up to 23 doing some mass evolves with a lucky egg.
 
 ![Pokemon Go](/images/blog/2016-sdcc-screenshot-pokemon-go.jpg)
 
@@ -51,18 +51,18 @@ Source: [@hardwick](https://www.instagram.com/p/BIOzMQLjLtD/)
 
 I'm a big foodie and these are the places I always go to when I'm in San Diego.
 
-* [Sushi Deli 2](http://www.sushidelitwo.com/)
-* [Kebab Shop](http://www.thekebabshop.com/)
-* [Lolita's](http://lolitasmexicanfood.com/)
+* [Sushi Deli 2](https://www.sushidelitwo.com/)
+* [Kebab Shop](https://www.thekebabshop.com/)
+* [Lolita's](https://lolitasmexicanfood.com/)
 
 
 ### Other Good Stuff
 
-The [Kevin Smith](http://www.imdb.com/name/nm0003620/) panel on Saturday night was great as usual. Hall H does empty out by evening so his panel is quite doable with a short line. I love hearing his stories, but his Q & A is section of his panel is getting shorter, as his stories get longer. It's just a nice way to wind down a long day at a con.
+The [Kevin Smith](https://www.imdb.com/name/nm0003620/) panel on Saturday night was great as usual. Hall H does empty out by evening so his panel is quite doable with a short line. I love hearing his stories, but his Q & A is section of his panel is getting shorter, as his stories get longer. It's just a nice way to wind down a long day at a con.
 
-I really enjoy having [Conan O'Brien](http://teamcoco.com/) at Comic Con. Although I never get tickets, it's another fun way to wind down a long day by watching his show at night.
+I really enjoy having [Conan O'Brien](https://teamcoco.com/) at Comic Con. Although I never get tickets, it's another fun way to wind down a long day by watching his show at night.
 
-They seem to have downgraded the playback room to a smaller room in the [San Diego Marriott Marquis and Marina](http://www.marriott.com/hotels/travel/sandt-marriott-marquis-san-diego-marina/). The room used to be in the [Omni Hotel](https://www.omnihotels.com/hotels/san-diego), but the room never fully fills to capacity.
+They seem to have downgraded the playback room to a smaller room in the [San Diego Marriott Marquis and Marina](https://www.marriott.com/hotels/travel/sandt-marriott-marquis-san-diego-marina/). The room used to be in the [Omni Hotel](https://www.omnihotels.com/hotels/san-diego), but the room never fully fills to capacity.
 
 The RFID badge system was great, despite slowing entrance/exits a bit. The pickup for bags, brochures, and lanyards is significantly shorter by having badges mailed before hand.
 
@@ -72,7 +72,7 @@ The RFID badge system was great, despite slowing entrance/exits a bit. The picku
 
 It's becoming a media circus and the mobs of fans that crowd the booths to see their movie and TV stars is getting to be ridiculous. In previous years I would be able to go take quick photos and go about my business. Now it's a crowd rush where I am stuck a tight crowd of hundreds of fans for 30-40 minutes. The fans are becoming unruly and pushy, and worst of all the security are less professional. **A few security guards actually made the situation worse by being aggressive and taunting the crowd.**
 
-Comic Con is basically line con-- there are lines for everything. I normally don't get in lines for anything because I know it's not worth it. Well, I was reminded of that when I was line a the [American Gods](http://www.imdb.com/title/tt1898069/) booth, or at least what I thought was the line. I asked the end of the line volunteer if this was the end of the line for the booth, he said "yes". So I get in line and wait about 5-10 minutes when a more senior staff member brings another group of people, tells everyone in line to step back from the booth, and tells us all to go to the end of the line along the wall. Basically, the 40-50 people waiting in line at the booth, weren't really in line because no staff there could direct or coordinate things. I just left, reminded once again that it's not worth getting in line for something unless you are really interested or are buying something.
+Comic Con is basically line con-- there are lines for everything. I normally don't get in lines for anything because I know it's not worth it. Well, I was reminded of that when I was line a the [American Gods](https://www.imdb.com/title/tt1898069/) booth, or at least what I thought was the line. I asked the end of the line volunteer if this was the end of the line for the booth, he said "yes". So I get in line and wait about 5-10 minutes when a more senior staff member brings another group of people, tells everyone in line to step back from the booth, and tells us all to go to the end of the line along the wall. Basically, the 40-50 people waiting in line at the booth, weren't really in line because no staff there could direct or coordinate things. I just left, reminded once again that it's not worth getting in line for something unless you are really interested or are buying something.
 
 ## Pictures
 

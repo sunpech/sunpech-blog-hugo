@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5389051952885032314
-blogger_orig_url: http://www.sunpech.com/2010/04/software-review-balsamiq-mockups.html
+blogger_orig_url: https://www.sunpech.com/2010/04/software-review-balsamiq-mockups.html
 date: '2010-04-06T06:00:00.000-05:00'
 headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:58:29.297-05:00'
@@ -14,9 +14,9 @@ title: 'Software Review: Balsamiq Mockups'
 ---
 
 
-I first read about <a href="http://www.balsamiq.com/products/mockups">Balsamiq Mockups</a> a few weeks ago on <a href="http://www.stackoverflow.com/">StackOverflow</a>.
+I first read about <a href="https://www.balsamiq.com/products/mockups">Balsamiq Mockups</a> a few weeks ago on <a href="https://www.stackoverflow.com/">StackOverflow</a>.
 
-In general I agree with what Jeff Atwood and Joel Spolsky said about the product on their podcast (<a href="http://itc.conversationsnetwork.org/shows/detail4048.html">IT Conversations: Episode 47</a>).  It really is a simple mockup tool that isn't about being exact and precise, but rather sketchy and fast so you can get your idea down quickly.  It makes starting something easy and fast, so you can move on to what's next.
+In general I agree with what Jeff Atwood and Joel Spolsky said about the product on their podcast (<a href="https://itc.conversationsnetwork.org/shows/detail4048.html">IT Conversations: Episode 47</a>).  It really is a simple mockup tool that isn't about being exact and precise, but rather sketchy and fast so you can get your idea down quickly.  It makes starting something easy and fast, so you can move on to what's next.
 
 ## What I like:
 

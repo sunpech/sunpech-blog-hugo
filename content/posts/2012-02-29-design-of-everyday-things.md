@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6373629466885906791
-blogger_orig_url: http://www.sunpech.com/2012/02/design-of-everyday-things.html
+blogger_orig_url: https://www.sunpech.com/2012/02/design-of-everyday-things.html
 date: '2012-02-29T16:24:00.004-06:00'
 modified_time: '2014-08-09T19:55:02.260-05:00'
 redirect_from: /2012/02/design-of-everyday-things.html
@@ -9,18 +9,18 @@ tags:
   - Review
   - Books
   - Design
-thumbnail: http://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s600/2012-02-29+at+12-22-53.jpg
+thumbnail: https://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s600/2012-02-29+at+12-22-53.jpg
 title: The Design of Everyday Things
 ---
 
 
-<a href="http://www.amazon.com/gp/product/0465067107/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0465067107">The Design of Everyday Things</a> comes highly recommended on <a href="http://www.codinghorror.com/blog/2004/02/recommended-reading-for-developers.html">Coding Horror's recommended reading list</a> as well as many other software developers. After giving it a read, I thought it was good, relevant today, but slightly dated with their examples.
+<a href="https://www.amazon.com/gp/product/0465067107/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0465067107">The Design of Everyday Things</a> comes highly recommended on <a href="https://www.codinghorror.com/blog/2004/02/recommended-reading-for-developers.html">Coding Horror's recommended reading list</a> as well as many other software developers. After giving it a read, I thought it was good, relevant today, but slightly dated with their examples.
 
-<a href="http://www.amazon.com/gp/product/0465067107/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0465067107"><br class="Apple-interchange-newline" /><img   border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=0465067107&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=sunpech-20&amp;ServiceVersion=20070822" /></a><img    border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=as2&amp;o=1&amp;a=0465067107" style="border-bottom-style: none !important; border-color: initial !important; border-image: initial !important; border-left-style: none !important; border-right-style: none !important; border-top-style: none !important; border-width: initial !important; margin-bottom: 0px !important; margin-left: 0px !important; margin-right: 0px !important; margin-top: 0px !important;" width="1" />
+<a href="https://www.amazon.com/gp/product/0465067107/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0465067107"><br class="Apple-interchange-newline" /><img   border="0" src="https://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=0465067107&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=sunpech-20&amp;ServiceVersion=20070822" /></a><img    border="0" height="1" src="https://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=as2&amp;o=1&amp;a=0465067107" style="border-bottom-style: none !important; border-color: initial !important; border-image: initial !important; border-left-style: none !important; border-right-style: none !important; border-top-style: none !important; border-width: initial !important; margin-bottom: 0px !important; margin-left: 0px !important; margin-right: 0px !important; margin-top: 0px !important;" width="1" />
 
 After reading the book, I am reminded of the light switch to my bathroom in my current apartment in Los Angeles. See below.
 
-<img   border="0" src="http://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s400/2012-02-29+at+12-22-53.jpg" alt="" />
+<img   border="0" src="https://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s400/2012-02-29+at+12-22-53.jpg" alt="" />
 
 It's such a horrible design! The left-most button, which is red, is for off. And then there are three switch combination to turn lights on. Three. It's just, awful.
 

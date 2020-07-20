@@ -14,7 +14,7 @@ title: LastPass Password Manager
 ---
 
 
-Earlier this week news broke that [LastPass](http://www.lastpass.com) had been hacked. They released a blog post: [LastPass Security Notice](https://blog.lastpass.com/2015/06/lastpass-security-notice.html/).
+Earlier this week news broke that [LastPass](https://www.lastpass.com) had been hacked. They released a blog post: [LastPass Security Notice](https://blog.lastpass.com/2015/06/lastpass-security-notice.html/).
 
 **I still believe that LastPass is a great service.**
 
@@ -83,7 +83,7 @@ I also recommend adding [Multifactor Authentication](https://lastpass.com/multif
 The important thing is that you use one. Any one. Here are the most well known ones.
 
 * [OnePassword](https://agilebits.com/onepassword)
-* [KeyPass](http://keepass.info/)
+* [KeyPass](https://keepass.info/)
 
 Do not use your browser's password storage. In fact you should change your browser's settings so that it doesn't remember any login information at all. Everything should go through your password manager.
 

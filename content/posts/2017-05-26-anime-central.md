@@ -15,7 +15,7 @@ title: Anime Central 2017
 ---
 
 
-Last weekend I was at [Anime Central](https://www.acen.org) (ACen) which was hosted at the [Donald E. Stephens Convention Center](http://www.rosemont.com/desconvention/). This was my second time attending, and I was also given a press pass again.
+Last weekend I was at [Anime Central](https://www.acen.org) (ACen) which was hosted at the [Donald E. Stephens Convention Center](https://www.rosemont.com/desconvention/). This was my second time attending, and I was also given a press pass again.
 
 I stuck around the main entrance hall/lobby for most of the convention hoping to catch cosplayers on their way in or out of the exhibit hall. It seemed this year a lot of cosplayers were more casual and spent more time in the exhibit hall than the entrance. That, or they were hanging out more at the [Hyatt Regency Hotel](https://ohare.regency.hyatt.com), which is a hotspot for cosplayers.
 

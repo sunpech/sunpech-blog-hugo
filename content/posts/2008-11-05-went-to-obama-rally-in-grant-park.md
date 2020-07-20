@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1098775083325003979
-blogger_orig_url: http://www.sunpech.com/2008/11/went-to-obama-rally-in-grant-park.html
+blogger_orig_url: https://www.sunpech.com/2008/11/went-to-obama-rally-in-grant-park.html
 date: '2008-11-05T01:11:00.004-06:00'
 headerimage: /images/headers/chicago_skyline.jpg
 modified_time: '2012-01-11T03:41:02.371-06:00'
@@ -9,7 +9,7 @@ redirect_from: /2008/11/went-to-obama-rally-in-grant-park.html
 tags:
   - Chicago
   - Personal
-thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vvHvJ0/s600/1225833347830.jpg
+thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vvHvJ0/s600/1225833347830.jpg
 title: Went to the Obama Rally in Grant Park
 ---
 
@@ -24,14 +24,14 @@ So 3pm rolls around and I stop by, one ticket available waiting at the reception
 
 Many have called this ticket the "golden ticket" also.  Because it isn't a web ticket (no +1 guest) and it wasn't sent via email to be printed out.  Mine is a genuine ticket that I guess is issued to volunteers and guests of the campaign.  I'm so glad I endorsed Barack Obama on Facebook the day before Election Day.
 
-<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vvHvJ0/s600-h/1225833347830.jpg" alt=""><img   src="http://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vvHvJ0/s400/1225833347830.jpg" alt="" border="0" id="BLOGGER_PHOTO_ID_5265067763741690258" /></a>
+<a href="https://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vvHvJ0/s600-h/1225833347830.jpg" alt=""><img   src="https://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vvHvJ0/s400/1225833347830.jpg" alt="" border="0" id="BLOGGER_PHOTO_ID_5265067763741690258" /></a>
 
 The rest was pretty much history.  I was under the impression that there would only be 70,000 people in the ticket area.  But when I got there, and looking around, I'm pretty sure there was way more than that, more like at least 100,000 people.
 
 Other than the smell of weed, farts, and horse crap, the event was pretty nice.  And of course, president elect, Barack Obama's speech was heartwarming and inspirational.  I have a feeling this will be the president my generation will measure all other presidents, in our lifetime.
 
-<a href="http://2.bp.blogspot.com/_7U5MdumP-no/SRFHPT7BBwI/AAAAAAAAIS8/UhNlIPFaErI/s600-h/1225855805269.jpg" alt=""><img   src="http://2.bp.blogspot.com/_7U5MdumP-no/SRFHPT7BBwI/AAAAAAAAIS8/UhNlIPFaErI/s400/1225855805269.jpg" alt="" border="0" id="BLOGGER_PHOTO_ID_5265067767744235266" /></a>
+<a href="https://2.bp.blogspot.com/_7U5MdumP-no/SRFHPT7BBwI/AAAAAAAAIS8/UhNlIPFaErI/s600-h/1225855805269.jpg" alt=""><img   src="https://2.bp.blogspot.com/_7U5MdumP-no/SRFHPT7BBwI/AAAAAAAAIS8/UhNlIPFaErI/s400/1225855805269.jpg" alt="" border="0" id="BLOGGER_PHOTO_ID_5265067767744235266" /></a>
 
-<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SRFHPkpKnBI/AAAAAAAAITE/5JJNdwngJO0/s600-h/1225857959427.jpg" alt=""><img   src="http://4.bp.blogspot.com/_7U5MdumP-no/SRFHPkpKnBI/AAAAAAAAITE/5JJNdwngJO0/s400/1225857959427.jpg" alt="" border="0" id="BLOGGER_PHOTO_ID_5265067772232768530" /></a>
+<a href="https://4.bp.blogspot.com/_7U5MdumP-no/SRFHPkpKnBI/AAAAAAAAITE/5JJNdwngJO0/s600-h/1225857959427.jpg" alt=""><img   src="https://4.bp.blogspot.com/_7U5MdumP-no/SRFHPkpKnBI/AAAAAAAAITE/5JJNdwngJO0/s400/1225857959427.jpg" alt="" border="0" id="BLOGGER_PHOTO_ID_5265067772232768530" /></a>
 
-<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SRFHPyU4jdI/AAAAAAAAITM/eLspSP5PUHE/s600-h/1225861077684.jpg" alt=""><img   src="http://3.bp.blogspot.com/_7U5MdumP-no/SRFHPyU4jdI/AAAAAAAAITM/eLspSP5PUHE/s400/1225861077684.jpg" alt="" border="0" id="BLOGGER_PHOTO_ID_5265067775905795538" /></a>
+<a href="https://3.bp.blogspot.com/_7U5MdumP-no/SRFHPyU4jdI/AAAAAAAAITM/eLspSP5PUHE/s600-h/1225861077684.jpg" alt=""><img   src="https://3.bp.blogspot.com/_7U5MdumP-no/SRFHPyU4jdI/AAAAAAAAITM/eLspSP5PUHE/s400/1225861077684.jpg" alt="" border="0" id="BLOGGER_PHOTO_ID_5265067775905795538" /></a>

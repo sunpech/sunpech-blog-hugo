@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3139078602405042702
-blogger_orig_url: http://www.sunpech.com/2009/02/free-microsoft-development-tools-for.html
+blogger_orig_url: https://www.sunpech.com/2009/02/free-microsoft-development-tools-for.html
 date: '2009-02-28T17:38:00.000-06:00'
 headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-03T03:54:09.869-06:00'
@@ -9,7 +9,7 @@ redirect_from: /2009/02/free-microsoft-development-tools-for.html
 tags:
   - Technology
   - Software Development
-thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s600/microsoft_dreamspark.png
+thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s600/microsoft_dreamspark.png
 title: Free Microsoft Development Tools for Students on DreamSpark
 ---
 
@@ -31,4 +31,4 @@ They currently offer:
   <li>IT Academy Student Pass </li>
 </ul>
 
-<a href="http://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s600-h/microsoft_dreamspark.png" alt=""><img   src="http://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s400/microsoft_dreamspark.png" alt="" border="0" id="BLOGGER_PHOTO_ID_5307996929058267218" /></a>
+<a href="https://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s600-h/microsoft_dreamspark.png" alt=""><img   src="https://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s400/microsoft_dreamspark.png" alt="" border="0" id="BLOGGER_PHOTO_ID_5307996929058267218" /></a>

@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4137235649584689527
-blogger_orig_url: http://www.sunpech.com/2011/02/pictures-from-february-2011-bkk-web.html
+blogger_orig_url: https://www.sunpech.com/2011/02/pictures-from-february-2011-bkk-web.html
 date: '2011-02-22T21:33:00.000-06:00'
 headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:23:36.299-05:00'
@@ -12,24 +12,24 @@ tags:
   - Travel
   - Meetup
   - Bangkok
-thumbnail: http://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s600/IMG_4802.JPG
+thumbnail: https://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s600/IMG_4802.JPG
 title: Pictures from February 2011 BKK Web Meetup
 ---
 
 
-Here are the pictures from last night's <a href="http://www.meetup.com/bkk-web/">BKK Web Meetup</a> session on Ruby on Rails. The presentation was by <a href="http://twitter.com/ches">Ches Martin</a>. Our gracious host was <a href="http://www.webcoursesbangkok.com/">Web Courses Bangkok</a>. I like how everyone who brought a laptop, brought a Macbook, as you can see from the pictures.
+Here are the pictures from last night's <a href="https://www.meetup.com/bkk-web/">BKK Web Meetup</a> session on Ruby on Rails. The presentation was by <a href="https://twitter.com/ches">Ches Martin</a>. Our gracious host was <a href="https://www.webcoursesbangkok.com/">Web Courses Bangkok</a>. I like how everyone who brought a laptop, brought a Macbook, as you can see from the pictures.
 
-<a href="http://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s1600/IMG_4802.jpg" alt="" imageanchor="1"><img   border="0"  src="http://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s320/IMG_4802.jpg" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s1600/IMG_4802.jpg" alt="" imageanchor="1"><img   border="0"  src="https://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s320/IMG_4802.jpg" alt=""  /></a>
 
-<a href="http://2.bp.blogspot.com/-s2Aq5MzDR-0/TWQAr4GF2gI/AAAAAAAAg6Q/RBoeuXANEBE/s1600/IMG_4805.jpg" alt="" imageanchor="1"><img   border="0"  src="http://2.bp.blogspot.com/-s2Aq5MzDR-0/TWQAr4GF2gI/AAAAAAAAg6Q/RBoeuXANEBE/s320/IMG_4805.jpg" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-s2Aq5MzDR-0/TWQAr4GF2gI/AAAAAAAAg6Q/RBoeuXANEBE/s1600/IMG_4805.jpg" alt="" imageanchor="1"><img   border="0"  src="https://2.bp.blogspot.com/-s2Aq5MzDR-0/TWQAr4GF2gI/AAAAAAAAg6Q/RBoeuXANEBE/s320/IMG_4805.jpg" alt=""  /></a>
 
-<a href="http://3.bp.blogspot.com/-vhbk3FNhTZ4/TWQA2co4T1I/AAAAAAAAg6k/D8d4o48P78k/s1600/IMG_4807.jpg" alt="" imageanchor="1"><img   border="0"  src="http://3.bp.blogspot.com/-vhbk3FNhTZ4/TWQA2co4T1I/AAAAAAAAg6k/D8d4o48P78k/s320/IMG_4807.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-vhbk3FNhTZ4/TWQA2co4T1I/AAAAAAAAg6k/D8d4o48P78k/s1600/IMG_4807.jpg" alt="" imageanchor="1"><img   border="0"  src="https://3.bp.blogspot.com/-vhbk3FNhTZ4/TWQA2co4T1I/AAAAAAAAg6k/D8d4o48P78k/s320/IMG_4807.jpg" alt=""  /></a>
 
-<a href="http://3.bp.blogspot.com/-G2Lo1VdQ51E/TWQA9RsNRHI/AAAAAAAAg6w/mAacujjOdDg/s1600/IMG_4811.jpg" alt="" imageanchor="1"><img   border="0"  src="http://3.bp.blogspot.com/-G2Lo1VdQ51E/TWQA9RsNRHI/AAAAAAAAg6w/mAacujjOdDg/s320/IMG_4811.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-G2Lo1VdQ51E/TWQA9RsNRHI/AAAAAAAAg6w/mAacujjOdDg/s1600/IMG_4811.jpg" alt="" imageanchor="1"><img   border="0"  src="https://3.bp.blogspot.com/-G2Lo1VdQ51E/TWQA9RsNRHI/AAAAAAAAg6w/mAacujjOdDg/s320/IMG_4811.jpg" alt=""  /></a>
 
-<a href="http://1.bp.blogspot.com/-igH-W-lAerg/TWQBsSuf54I/AAAAAAAAg8c/hn-fpCzyURg/s1600/IMG_4826.jpg" alt="" imageanchor="1"><img   border="0"  src="http://1.bp.blogspot.com/-igH-W-lAerg/TWQBsSuf54I/AAAAAAAAg8c/hn-fpCzyURg/s320/IMG_4826.jpg" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-igH-W-lAerg/TWQBsSuf54I/AAAAAAAAg8c/hn-fpCzyURg/s1600/IMG_4826.jpg" alt="" imageanchor="1"><img   border="0"  src="https://1.bp.blogspot.com/-igH-W-lAerg/TWQBsSuf54I/AAAAAAAAg8c/hn-fpCzyURg/s320/IMG_4826.jpg" alt=""  /></a>
 
-<a href="http://4.bp.blogspot.com/-n2n7mRCe_Ro/TWQCJnH4muI/AAAAAAAAg9Y/P7w4xdby0Ho/s1600/IMG_4837.jpg" alt="" imageanchor="1"><img   border="0"  src="http://4.bp.blogspot.com/-n2n7mRCe_Ro/TWQCJnH4muI/AAAAAAAAg9Y/P7w4xdby0Ho/s320/IMG_4837.jpg" alt=""  /></a>
+<a href="https://4.bp.blogspot.com/-n2n7mRCe_Ro/TWQCJnH4muI/AAAAAAAAg9Y/P7w4xdby0Ho/s1600/IMG_4837.jpg" alt="" imageanchor="1"><img   border="0"  src="https://4.bp.blogspot.com/-n2n7mRCe_Ro/TWQCJnH4muI/AAAAAAAAg9Y/P7w4xdby0Ho/s320/IMG_4837.jpg" alt=""  /></a>
 
 Full album <a href="https://picasaweb.google.com/101693597219413173200/2011FebruaryBKKWebMeetup">here</a>.
 

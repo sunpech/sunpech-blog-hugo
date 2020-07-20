@@ -1,14 +1,14 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2286525837830791660
-blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-toronto.html
+blogger_orig_url: https://www.sunpech.com/2014/01/photos-from-toronto.html
 date: '2014-01-10T12:00:00.000-06:00'
 headerimage: /images/headers/old_cameras.jpg
 modified_time: '2014-11-09T14:47:25.940-06:00'
 redirect_from: /2014/01/photos-from-toronto.html
 tags:
   - Photography
-thumbnail: http://2.bp.blogspot.com/-GPnCprSblqo/UnJeV0Ib2KI/AAAAAAABi2s/jenw0b9_upY/s600/2013-10-27+at+20-10-06.jpg
+thumbnail: https://2.bp.blogspot.com/-GPnCprSblqo/UnJeV0Ib2KI/AAAAAAABi2s/jenw0b9_upY/s600/2013-10-27+at+20-10-06.jpg
 title: Photos from Toronto
 ---
 
@@ -17,7 +17,7 @@ Last year I did some traveling in October and November. In late October, I went 
 
 While I was there I got a chance to see <i>Ai Weiwei's Forever Bicycle exhibit</i>. I can't believe there are 3,144 bicycles in the sculpture. It is quite mesmerizing though. I took some night photos there, that you can see the album <a href="https://plus.google.com/photos/+StevenSuwatanapongched/albums/5940914158795778913">here</a>.
 
-I also visited the very so colorful, <a href="http://www.kensington-market.ca/">Kensington Market</a>. Pictures can be found <a href="https://plus.google.com/photos/+StevenSuwatanapongched/albums/5940913815147924913">here</a>.
+I also visited the very so colorful, <a href="https://www.kensington-market.ca/">Kensington Market</a>. Pictures can be found <a href="https://plus.google.com/photos/+StevenSuwatanapongched/albums/5940913815147924913">here</a>.
 
 And my general photos from Toronto can be found <a href="https://plus.google.com/photos/+StevenSuwatanapongched/albums/5940913477363035793">here</a>.
 
@@ -26,14 +26,14 @@ The biggest thing I wanted to leave Toronto with was pictures of their skyline. 
 Here are three of my favorites of the Toronto skyline.
 
 #### Toronto Skyline
-Buy prints: <a href="http://500pxart.com/photo/50844494">http://500pxart.com/photo/50844494</a>
-<img   border="0" src="http://2.bp.blogspot.com/-GPnCprSblqo/UnJeV0Ib2KI/AAAAAAABi2s/jenw0b9_upY/s600/2013-10-27+at+20-10-06.jpg" alt=""   />
+Buy prints: <a href="https://500pxart.com/photo/50844494">https://500pxart.com/photo/50844494</a>
+<img   border="0" src="https://2.bp.blogspot.com/-GPnCprSblqo/UnJeV0Ib2KI/AAAAAAABi2s/jenw0b9_upY/s600/2013-10-27+at+20-10-06.jpg" alt=""   />
 
 #### Good Night, Toronto
-Buy prints: <a href="http://500pxart.com/photo/51458094">http://500pxart.com/photo/51458094</a>
-<img   border="0" src="http://2.bp.blogspot.com/-CO4fU7Q0Eds/UnJeU_FpXWI/AAAAAAABi2g/1sJtu3yhpZg/s600/2013-10-27+at+18-34-35.jpg" alt=""   />
+Buy prints: <a href="https://500pxart.com/photo/51458094">https://500pxart.com/photo/51458094</a>
+<img   border="0" src="https://2.bp.blogspot.com/-CO4fU7Q0Eds/UnJeU_FpXWI/AAAAAAABi2g/1sJtu3yhpZg/s600/2013-10-27+at+18-34-35.jpg" alt=""   />
 
 #### Toronto Skyline Colors
-Buy prints: <a href="http://500pxart.com/photo/51267068">http://500pxart.com/photo/51267068</a><img   border="0" src="http://4.bp.blogspot.com/-M27DT8UQ2HY/UnJeWRBHw1I/AAAAAAABi24/hJWHMbL2Cuo/s600/2013-10-28+at+23-21-18.jpg" alt=""   />
+Buy prints: <a href="https://500pxart.com/photo/51267068">https://500pxart.com/photo/51267068</a><img   border="0" src="https://4.bp.blogspot.com/-M27DT8UQ2HY/UnJeWRBHw1I/AAAAAAABi24/hJWHMbL2Cuo/s600/2013-10-28+at+23-21-18.jpg" alt=""   />
 
 I hope to return in the near future to take some more photos there. Toronto reminds me so much of Chicago-- clean, big, metropolitan, yet also suburban-like, with some of the most friendliest people around. My biggest praise for the city is that it has some delicious Chinese food there-- way better than Chicago's! I could almost live there if it weren't for all the <i>funny money</i> they use up there-- just kidding, I love Toronto.

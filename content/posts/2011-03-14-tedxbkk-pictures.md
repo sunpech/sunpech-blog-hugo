@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8747427407656011722
-blogger_orig_url: http://www.sunpech.com/2011/03/tedxbkk-pictures.html
+blogger_orig_url: https://www.sunpech.com/2011/03/tedxbkk-pictures.html
 date: '2011-03-14T01:17:00.000-05:00'
 modified_time: '2014-08-09T20:24:25.121-05:00'
 redirect_from: /2011/03/tedxbkk-pictures.html
@@ -15,7 +15,7 @@ title: TEDxBKK Pictures
 ---
 
 
-A few weeks back, on March 3 2011, I attended <a href="http://www.tedxbkk.com/">TEDxBKK</a> over at TCDC at the top floor at Emporium in Bangkok, Thailand. You can also follow them on twitter at <a href="http://twitter.com/#!/tedxbkk">@tedxbkk</a>. Overall it was a good turnout, but I wasn't too enthusiastic about most of the talks though. The one that stuck out the most for me was <a href="http://en.wikipedia.org/wiki/David_Christian_(historian)">David Christian</a>'s talk in the Knowledge Revolution session.  
+A few weeks back, on March 3 2011, I attended <a href="https://www.tedxbkk.com/">TEDxBKK</a> over at TCDC at the top floor at Emporium in Bangkok, Thailand. You can also follow them on twitter at <a href="https://twitter.com/#!/tedxbkk">@tedxbkk</a>. Overall it was a good turnout, but I wasn't too enthusiastic about most of the talks though. The one that stuck out the most for me was <a href="https://en.wikipedia.org/wiki/David_Christian_(historian)">David Christian</a>'s talk in the Knowledge Revolution session.  
 
 ### Pictures
 

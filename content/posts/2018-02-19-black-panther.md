@@ -24,12 +24,12 @@ The characters were really solid. It's an all-star cast!
 
 ![Black Panther cast](/images/blog/black-panther-cast.jpg)
 
-[Letitia Wright](http://www.imdb.com/name/nm4004793/) is amazing as Black Panther's sister, Shuri. She was having fun and it really showed. She's also starred in an episode of Black Mirror: [Black Museum](http://www.imdb.com/title/tt5058700/).
+[Letitia Wright](https://www.imdb.com/name/nm4004793/) is amazing as Black Panther's sister, Shuri. She was having fun and it really showed. She's also starred in an episode of Black Mirror: [Black Museum](https://www.imdb.com/title/tt5058700/).
 
-[Michael B. Jordan](http://www.imdb.com/name/nm0430107/) knocked it out of the park as Erik Killmonger. Marvel finally did a villain justice by fleshing out a backstory with motivation for why he does the things he does. As a child, he knows he is from Wakanda and a potential heir to the throne. He returns home to find his father dead with claw marks. All his father wanted to do was help arm his people to fight back. It's so tragic!
+[Michael B. Jordan](https://www.imdb.com/name/nm0430107/) knocked it out of the park as Erik Killmonger. Marvel finally did a villain justice by fleshing out a backstory with motivation for why he does the things he does. As a child, he knows he is from Wakanda and a potential heir to the throne. He returns home to find his father dead with claw marks. All his father wanted to do was help arm his people to fight back. It's so tragic!
 ## The Bad
 
-I thought the fight sequences weren't as dramatic as [Captain America: Civil War](http://www.imdb.com/title/tt3498820/). Most notably the final fight between Black Panther and Erik Killmonger. 
+I thought the fight sequences weren't as dramatic as [Captain America: Civil War](https://www.imdb.com/title/tt3498820/). Most notably the final fight between Black Panther and Erik Killmonger. 
 
 The problem is that these two individual not only have enhanced physical abilities due to the special herb, they also are wearing vibranium outfits that makes them virtually indestrucible! They could fight for days or even weeks, so the writers had to place the final fight along the CG tracks where the suits would yield/weaken.
 
@@ -46,7 +46,7 @@ There is the change that T'Challa must go through to become king, despite his fa
 
 There's a lot to unpack in the movie. It can be analzyed for quite some time, and possibly a complaint to be had is that the movie isn't long enough to delve into everything as much as it could have-- considering it's a movie that's PG-13 and 2 hour 14 minutes long, which is already long.
 
-I pointed out more "bad things" I disliked than I liked only because there's a lot going for the movie. It's a good movie with small imperfections that were easy to point out. But overall I loved the movie and look forward to director [Ryan Coogler](http://www.imdb.com/name/nm3363032/)'s future work.
+I pointed out more "bad things" I disliked than I liked only because there's a lot going for the movie. It's a good movie with small imperfections that were easy to point out. But overall I loved the movie and look forward to director [Ryan Coogler](https://www.imdb.com/name/nm3363032/)'s future work.
 
 ![Erik Killmonger and Black Panther](/images/blog/black-panther-erik-killmonger.jpg)
 

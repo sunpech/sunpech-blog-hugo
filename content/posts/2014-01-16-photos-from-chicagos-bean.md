@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5345695750799205786
-blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-chicagos-bean.html
+blogger_orig_url: https://www.sunpech.com/2014/01/photos-from-chicagos-bean.html
 date: '2014-01-16T11:00:00.000-06:00'
 headerimage: /images/headers/chicago_bean.jpg
 modified_time: '2014-11-09T14:46:14.559-06:00'
@@ -9,7 +9,7 @@ redirect_from: /2014/01/photos-from-chicagos-bean.html
 tags:
   - Chicago
   - Photography
-thumbnail: http://3.bp.blogspot.com/-50djAaDv4Pg/Us8CvGqedSI/AAAAAAABl4E/HJOo2KUgzaU/s600/2014-01-04+at+07-33-31.jpg
+thumbnail: https://3.bp.blogspot.com/-50djAaDv4Pg/Us8CvGqedSI/AAAAAAABl4E/HJOo2KUgzaU/s600/2014-01-04+at+07-33-31.jpg
 title: Photos from Chicago's Bean
 ---
 
@@ -20,16 +20,16 @@ During my extensive stay in Chicago, I visited a few landmarks to take some pict
 
 I wrote <a href="/2014/01/photos-from-chicagos-john-hancock">a blog post</a> covering my photos from John Hancock Observatory already.
 
-One of my first stops was a sunrise of <a href="http://en.wikipedia.org/wiki/Cloud_Gate">Cloud Gate</a>, also commonly referred to as "The Bean". What I love about morning shots, especially on weekends, is that there's barely anyone there. Plus it certainly helped that it was winter! And for the most part it was rather desolate, but there was a couple there doing engagement shots with a photographer. They certainly had some guts to take off their jackets that morning!
+One of my first stops was a sunrise of <a href="https://en.wikipedia.org/wiki/Cloud_Gate">Cloud Gate</a>, also commonly referred to as "The Bean". What I love about morning shots, especially on weekends, is that there's barely anyone there. Plus it certainly helped that it was winter! And for the most part it was rather desolate, but there was a couple there doing engagement shots with a photographer. They certainly had some guts to take off their jackets that morning!
 
 You can view my full album from Chicago <a href="https://plus.google.com/photos/101693597219413173200/albums/5966991023328463857">here</a>.
 
 #### The Winter Bean
-Buy print: <a href="http://500pxart.com/photo/57011446">http://500pxart.com/photo/57011446</a>
-<img   border="0" src="http://3.bp.blogspot.com/-50djAaDv4Pg/Us8CvGqedSI/AAAAAAABl4E/HJOo2KUgzaU/s600/2014-01-04+at+07-33-31.jpg" alt=""   />
+Buy print: <a href="https://500pxart.com/photo/57011446">https://500pxart.com/photo/57011446</a>
+<img   border="0" src="https://3.bp.blogspot.com/-50djAaDv4Pg/Us8CvGqedSI/AAAAAAABl4E/HJOo2KUgzaU/s600/2014-01-04+at+07-33-31.jpg" alt=""   />
 
 A closer shot of Cloud Gate
-<img   border="0" src="http://3.bp.blogspot.com/-w6ikMtMON4o/Us8CwrIqacI/AAAAAAABlyg/c03ZUieFAEQ/s600/2014-01-04+at+07-44-17.jpg" alt=""   />
+<img   border="0" src="https://3.bp.blogspot.com/-w6ikMtMON4o/Us8CwrIqacI/AAAAAAABlyg/c03ZUieFAEQ/s600/2014-01-04+at+07-44-17.jpg" alt=""   />
 
 A wide angle shot of Chicago from Randolph St.
-<img   border="0" src="http://1.bp.blogspot.com/-Gjtv-iFujmw/Us8Cx3djAYI/AAAAAAABlyo/frp74ylRC6A/s600/2014-01-04+at+08-02-04.jpg" alt="" />
+<img   border="0" src="https://1.bp.blogspot.com/-Gjtv-iFujmw/Us8Cx3djAYI/AAAAAAABlyo/frp74ylRC6A/s600/2014-01-04+at+08-02-04.jpg" alt="" />

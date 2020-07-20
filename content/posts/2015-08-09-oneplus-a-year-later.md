@@ -27,7 +27,7 @@ However, it's not all sunshine and rainbows with my OnePlus One (OPO). Outside t
 
 ### OnePlus and Cyanogen Problems
 
-The [breakup](http://www.androidauthority.com/cyanogen-ends-partnership-with-oneplus-604572/) between [OnePlus](https://oneplus.net/) and [Cyanogen](https://cyngn.com/) over exclusivity in India is a huge letdown. It seems to indicate that Cyanogen is interested in making money over building a good relationship. They like [talking big](http://www.androidauthority.com/first-cyanogen-phone-without-google-blu-596283/) about taking over the mobile industry, yet burn the bridges they cross. This is unprofessional and immature. But there are things that haven't been revealed publicly about their relationship that may justify this-- so maybe we should give both companies the benefit of the doubt.
+The [breakup](https://www.androidauthority.com/cyanogen-ends-partnership-with-oneplus-604572/) between [OnePlus](https://oneplus.net/) and [Cyanogen](https://cyngn.com/) over exclusivity in India is a huge letdown. It seems to indicate that Cyanogen is interested in making money over building a good relationship. They like [talking big](https://www.androidauthority.com/first-cyanogen-phone-without-google-blu-596283/) about taking over the mobile industry, yet burn the bridges they cross. This is unprofessional and immature. But there are things that haven't been revealed publicly about their relationship that may justify this-- so maybe we should give both companies the benefit of the doubt.
 
 Cyanogen can't keep their word about having an Android port within 90 days (3 months) of a major Android release. When company makes a promise to their fans, they put their name brand on the line. It's better not to give an ETA than to set up paying customers for disappointment. As far as I know, they've never been able to meet this promise. They are also VC-funded and have taken my money, so it's no longer just open source software.
 
@@ -59,5 +59,5 @@ I actually find the [Moto G](https://www.motorola.com/us/motomaker?pid=FLEXR4&ac
 * [A Few Words on OnePlus Marketing](https://blog.oneplus.net/2015/07/a-few-words-on-oneplus-marketing/) (OnePlus blog)
 * [Regarding Android L](https://forums.oneplus.net/threads/regarding-android-l.49957/) (OnePlus forum)
 * [Cyanogen's Commitment to our Users](https://cyngn.com/blog/commitment-to-our-users) (Cyanogen blog)
-* [OnePlus released its own version of Android as a replacement for Cyanogen](http://www.theverge.com/2015/4/4/8344931/oneplus-one-oxygenos-rom-download-available) (The Verge)
-* [Does Cyanogen really have more users than Windows Mobile and BlackBerry combined? ](http://www.digitaltrends.com/mobile/does-cyanogen-really-have-more-users-than-windows-mobile-and-blackberry-combined/)
+* [OnePlus released its own version of Android as a replacement for Cyanogen](https://www.theverge.com/2015/4/4/8344931/oneplus-one-oxygenos-rom-download-available) (The Verge)
+* [Does Cyanogen really have more users than Windows Mobile and BlackBerry combined? ](https://www.digitaltrends.com/mobile/does-cyanogen-really-have-more-users-than-windows-mobile-and-blackberry-combined/)

@@ -16,35 +16,35 @@ Here are some more ways to interact and reach me.
 
 ### Photography
 
-* [SunpechPhotography.com](http://sunpechphotography.com)
+* [SunpechPhotography.com](https://sunpechphotography.com)
 * [Facebook/SunpechPhotography](https://www.facebook.com/SunpechPhotography)
-* [500px](http://500px.com/sunpech)
-* [Flickr](http://www.flickr.com/photos/sunpech/sets/)
-* [Instagram](http://instagram.com/sunpech)
-* [Twenty20](http://twenty20.com/sunpech)
+* [500px](https://500px.com/sunpech)
+* [Flickr](https://www.flickr.com/photos/sunpech/sets/)
+* [Instagram](https://instagram.com/sunpech)
+* [Twenty20](https://twenty20.com/sunpech)
 
 ### Software Development
 
-* [Github](http://github.com/sunpech)
-* [Bitbucket](http://bitbucket.org/sunpech)
+* [Github](https://github.com/sunpech)
+* [Bitbucket](https://bitbucket.org/sunpech)
 * [GitLab](https://gitlab.com/u/sunpech)
 * [CoderWall](https://coderwall.com/sunpech)
-* [Careers 2.0](http://careers.stackoverflow.com/sunpech)
-* [LinkedIn](http://www.linkedin.com/in/sunpech)
+* [Careers 2.0](https://careers.stackoverflow.com/sunpech)
+* [LinkedIn](https://www.linkedin.com/in/sunpech)
 
 ### Social Me
 
-* [@sunpech](http://www.twitter.com/sunpech)
-* [@foodishappiness](http://www.twitter.com/foodishappiness)
+* [@sunpech](https://www.twitter.com/sunpech)
+* [@foodishappiness](https://www.twitter.com/foodishappiness)
 * [kit.co](https://kit.co/sunpech)
 * [Kindle](https://kindle.amazon.com/profile/S--Suwatanapongched/1869189)
-* [About.me](http://about.me/sunpech)
-* [Pinterest](http://pinterest.com/sunpech/)
+* [About.me](https://about.me/sunpech)
+* [Pinterest](https://pinterest.com/sunpech/)
 
 ### Other Sites
 
-* [Foodishappiness.com](http://www.foodishappiness.com/)
-* [spong.org](http://spong.org/) - Blog content merged into sunpech.com now
-* [my Depaul University site](http://students.depaul.edu/~ssuwatan/) - Disabled alumni accounts.
-* [my Boston University site](http://cs-people.bu.edu/spong) - Also disabled alumni accounts. But I have a [gitub repo](https://github.com/sunpech/boston_university_website) containing what it used to look like.
+* [Foodishappiness.com](https://www.foodishappiness.com/)
+* [spong.org](https://spong.org/) - Blog content merged into sunpech.com now
+* [my Depaul University site](https://students.depaul.edu/~ssuwatan/) - Disabled alumni accounts.
+* [my Boston University site](https://cs-people.bu.edu/spong) - Also disabled alumni accounts. But I have a [gitub repo](https://github.com/sunpech/boston_university_website) containing what it used to look like.
 

@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1597576104515014308
-blogger_orig_url: http://www.sunpech.com/2008/10/my-first-blog-entry-from-my-g1.html
+blogger_orig_url: https://www.sunpech.com/2008/10/my-first-blog-entry-from-my-g1.html
 date: '2008-10-21T08:24:00.003-05:00'
 headerimage: /images/headers/android.jpg
 modified_time: '2014-08-07T19:36:22.285-05:00'

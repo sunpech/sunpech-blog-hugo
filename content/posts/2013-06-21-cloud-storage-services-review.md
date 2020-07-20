@@ -1,7 +1,7 @@
 ---
 author: "Steven Suwatanapongched"
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2824231464794545018
-blogger_orig_url: http://www.sunpech.com/2013/06/cloud-storage-services-review.html
+blogger_orig_url: https://www.sunpech.com/2013/06/cloud-storage-services-review.html
 date: '2013-06-21T09:58:00.000-05:00'
 headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-07T20:12:47.462-05:00'
@@ -9,7 +9,7 @@ redirect_from: /2013/06/cloud-storage-services-review.html
 tags:
   - Review
   - Technology
-thumbnail: http://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s600/Cloud_Storage_Apps.jpg
+thumbnail: https://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s600/Cloud_Storage_Apps.jpg
 title: Cloud Storage Services Review
 ---
 
@@ -25,9 +25,9 @@ Things I try to consider:
   <li>Anything else more than storage</li>
 </ul>
 
-<img   border="0" src="http://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s400/Cloud_Storage_Apps.jpg" alt=""  />
+<img   border="0" src="https://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s400/Cloud_Storage_Apps.jpg" alt=""  />
 
-### <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000828861">Amazon Cloud Drive</a>
+### <a href="https://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000828861">Amazon Cloud Drive</a>
 
 I really do not use this service. It just does not fit into any workflow whatsoever. They currently offer just 5 GB free and no referral plan, but they do offer <a href="https://www.amazon.com/clouddrive/manage">storage subscriptions</a>.
 
@@ -35,7 +35,7 @@ Music purchased through Amazon is stored for free-- it does not count towards cl
 
 They offer a 100 GB plan for $50 per year.
 
-### <a href="http://www.box.net/">Box.net</a>
+### <a href="https://www.box.net/">Box.net</a>
 
 They once had an offer for Android users to receive 50 GB of storage by signing up and installing their app. I very much took advantage of this deal and ended up dropping Dropbox because Box offered me such a large amount. But normally, they offer just 5 GB free.
 
@@ -45,7 +45,7 @@ Their <a href="https://www.box.com/settings/sync">desktop client sync tool</a> i
 
 I'm moving away from using this app. It's causing me a lot of problems with my Mac OS X. It's just eating up a lot of storage space. Here is a screenshot of the log folder that just grows to outrageous size over a few days:
 
-<a href="http://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s600/screenshot_BoxSync.jpg" alt="" ><img   border="0"  src="http://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s400/screenshot_BoxSync.jpg" alt=""  /></a>
+<a href="https://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s600/screenshot_BoxSync.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s400/screenshot_BoxSync.jpg" alt=""  /></a>
 
 The command I ran in the terminal is:
 <span style="font-family: Courier New, Courier, monospace;">du -sch ~/Library/Logs/Box Sync</span>
@@ -60,7 +60,7 @@ They offer monthly <a href="https://www.copy.com/price/">pricing plans</a>. They
 
 My Copy referral: <a href="https://copy.com/?r=1u9vhV">https://copy.com?r=1u9vhV</a>
 
-### <a href="http://db.tt/pHCTifn">DropBox</a>
+### <a href="https://db.tt/pHCTifn">DropBox</a>
 
 Possibly the most well known and most senior of all the services. This is what everyone started using at first. But their referral rate is only at 500 MB per friend. Their setup and sync tool is much easier to setup and use than Box's. They start you off with just 2 GB of storage.
 
@@ -68,9 +68,9 @@ They offer a 100 GB plan for $99 per year.
 
 I don't really use them anymore as other services do everything they offer and give more storage.
 
-My Dropbox referral: <a href="http://db.tt/pHCTifn">http://db.tt/pHCTifn</a>
+My Dropbox referral: <a href="https://db.tt/pHCTifn">https://db.tt/pHCTifn</a>
 
-### <a href="http://drive.google.com/">Google Drive</a>
+### <a href="https://drive.google.com/">Google Drive</a>
 
 What I love about Google's implementation is that it spawned from Google Docs, which I was already a big fan of.
 
@@ -78,7 +78,7 @@ Here it is in a nutshell: If you use Google Docs, you already use Google Drive. 
 
 I'm not sure how to measure how much storage they offer as Google is always upping the amount of free storage across their products, which all add up to some amount. I personally have 30+ GB of storage across my Google services. I want to say that average users probably start off with 15 GB free storage, but I'm not 100% sure.
 
-### <a href="http://windows.microsoft.com/en-us/skydrive/download">SkyDrive</a>
+### <a href="https://windows.microsoft.com/en-us/skydrive/download">SkyDrive</a>
 
 This is Microsoft's cloud storage service. I don't use it as much as I don't really use Windows too much these days. But they should be mentioned because a lot of people still use PCs and devices. What's nice about them is that they have both a Mac desktop sync client as well as an Android/iPhone mobile apps.
 
@@ -91,7 +91,7 @@ You may have noticed that I left out iCloud. Well, right off it just doesn't wor
 
 Speaking of apps, on my phone I have all the apps installed, but really only use half of them.
 
-<img   border="0"  src="http://3.bp.blogspot.com/-eJbpX9PkakE/UZ3ZHGiXnMI/AAAAAAABcy8/xxPbQHRaExI/s400/Screenshot_2013-05-23-01-41-16.png" alt="" />
+<img   border="0"  src="https://3.bp.blogspot.com/-eJbpX9PkakE/UZ3ZHGiXnMI/AAAAAAABcy8/xxPbQHRaExI/s400/Screenshot_2013-05-23-01-41-16.png" alt="" />
 
 <span style="font-size: small;">screenshot of my Android phone's folder of Cloud apps</span>
 
@@ -99,7 +99,7 @@ Speaking of apps, on my phone I have all the apps installed, but really only use
 
 My <i>current</i> favorite is: <a href="https://copy.com/?r=1u9vhV"><b>Copy</b></a>.
 
-<img   border="0" src="http://2.bp.blogspot.com/-I3qZdkEuruM/UZ30KiXSmTI/AAAAAAABczc/wC0HXl1J91g/s200/cb555b2b988984a493d0398b74220248.png" alt="" />
+<img   border="0" src="https://2.bp.blogspot.com/-I3qZdkEuruM/UZ30KiXSmTI/AAAAAAABczc/wC0HXl1J91g/s200/cb555b2b988984a493d0398b74220248.png" alt="" />
 
 It may have to do with the fact that it's pretty darn easy to sign up and set up. Their referrals are crazy good by giving 5 GB to both people. Their pricing plans are monthly, so commitment is friendly to individuals. Using my referral link starts you off with 20GB! I believe if you tweet out a link, you can earn another 2GB!
 
