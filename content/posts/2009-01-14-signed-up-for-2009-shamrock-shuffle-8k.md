@@ -9,7 +9,8 @@ redirect_from: /2009/01/signed-up-for-2009-shamrock-shuffle-8k.html
 tags:
   - Chicago
   - Personal
-thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s600/shamrock_shuffle_2009_8k_map.png
+old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s600/shamrock_shuffle_2009_8k_map.png
+thumbnail: /images/blog/tn_shamrock_shuffle_2009_8k_map.jpg
 title: Signed up for the 2009 Shamrock Shuffle 8k run
 ---
 
@@ -18,13 +19,11 @@ After hearing that several friends will be doing the <a href="https://www.shamro
 
 I look at this as a way to start out 2009 and hopefully, the rest of my life:  As a fresh start to making a better me.
 
-<a href="https://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s600-h/shamrock_shuffle_2009_8k_map.png" alt=""><img    border="0" id="BLOGGER_PHOTO_ID_5291369033444476818" src="https://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s400/shamrock_shuffle_2009_8k_map.png" alt="" /></a>
+![Shamrock Shuffle 2009 8K Map](/images/blog/shamrock_shuffle_2009_8k_map.jpg)
 
 A pic of me from 2007 finishing the race:
 
-<a href="https://4.bp.blogspot.com/_7U5MdumP-no/SW67RFgrHSI/AAAAAAAAIcc/OG5WyaFkeUA/s600-h/Shamrock+Shuffle+2007+finish.jpg" alt=""><img    border="0" id="BLOGGER_PHOTO_ID_5291372514418302242" src="https://4.bp.blogspot.com/_7U5MdumP-no/SW67RFgrHSI/AAAAAAAAIcc/OG5WyaFkeUA/s400/Shamrock+Shuffle+2007+finish.jpg" alt="" /></a>
+![Shamrock Shuffle 2007 Finish](/images/blog/Shamrock-Shuffle-2007-finish.jpg)
 
-Link:
-<ul>
-  <li><a href="https://www.runnersworld.com/">RunnersWorld.com</a></li>
-</ul>
+### Link:
+* [RunnersWorld.com](https://www.runnersworld.com/)

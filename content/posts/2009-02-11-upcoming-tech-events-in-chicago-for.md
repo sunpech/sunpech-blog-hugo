@@ -9,25 +9,26 @@ redirect_from: /2009/02/upcoming-tech-events-in-chicago-for.html
 tags:
   - Chicago
   - Meetup
+thumbnail: /images/blog/tn_274022609.jpg
 title: Upcoming Tech Events in Chicago for February
 ---
 
 
-<img    border="0" src="https://images.eventbrite.com/logos/274022609.png" alt="" style="height: 200px; width: 358px;" />
+![Twestival](/images/blog/274022609.png)
 
 ### Chicago Twestival!
 
-Date: Thursday, February 12, 2009<br />
-Time: 6:30 PM - 8:30 PM (CT)<br />
-Place: Catalyst Ranch - 656 W Randolph Dr Chicago IL<br />
-Cost: $10 donation<br />
-RSVP: <a href="https://www.chicagotwestival.eventbrite.com/">https://www.chicagotwestival.eventbrite.com</a>
+Date: Thursday, February 12, 2009\
+Time: 6:30 PM - 8:30 PM (CT)\
+Place: Catalyst Ranch - 656 W Randolph Dr Chicago IL\
+Cost: $10 donation\
+RSVP: [https://www.chicagotwestival.eventbrite.com](https://www.chicagotwestival.eventbrite.com/)
 
-<img    border="0" src="https://farm4.static.flickr.com/3483/3215808421_a7f488d93c_o.jpg" alt="" />
+![Tech Cocktail Chicago](/images/blog/3215808421_a7f488d93c_o.jpg)
 
 ### Event: TECH cocktail Chicago 10
-Date: Thursday, February 19, 2009<br />
-Time: 6:30pm - 9pm<br />
-Place: John Barleycorn’s - 3524 N Clark (where it always is)<br />
-Cost: $0 (per usual)<br />
-RSVP: <a href="https://techcocktail-chicago-10.eventbrite.com/">https://techcocktail-chicago-10.eventbrite.com</a>
+Date: Thursday, February 19, 2009\
+Time: 6:30pm - 9pm\
+Place: John Barleycorn’s - 3524 N Clark (where it always is)\
+Cost: $0 (per usual)\
+RSVP: [https://techcocktail-chicago-10.eventbrite.com](https://techcocktail-chicago-10.eventbrite.com/)

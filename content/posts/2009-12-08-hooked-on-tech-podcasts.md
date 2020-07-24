@@ -8,30 +8,30 @@ modified_time: '2012-01-01T23:01:12.355-06:00'
 redirect_from: /2009/12/hooked-on-tech-podcasts.html
 tags:
   - Software Development
+thumbnail: /images/blog/tn_default.jpg
 title: Hooked on Tech Podcasts
 ---
 
 
-Lately I’ve been immersed in code at work as well as at home for a side project.&#160; But I don’t like to code in silence all the time, so I got myself re-hooked on to listening to podcasts, while I develop.
+Lately I’ve been immersed in code at work as well as at home for a side project. But I don’t like to code in silence all the time, so I got myself re-hooked on to listening to podcasts, while I develop.
 
 Here are the direct links to the current individual podcasts I subscribe to:
 
-<ul>   
-  <li><a href="https://feeds.feedburner.com/netRocksFullMp3Downloads" target="_blank" rel="noopener noreferrer">.Net Rocks</a></li>    
-  <li><a href="https://feeds.feedburner.com/37signals_podcast" target="_blank" rel="noopener noreferrer">37signals Podcast</a></li>    
-  <li><a href="https://feeds.feedburner.com/altnetpodcast" target="_blank" rel="noopener noreferrer">Alt.NET Podcast</a></li>    
-  <li><a href="https://feeds.feedburner.com/DnrtvWmv" target="_blank" rel="noopener noreferrer">dnrTV</a></li>
-  <li><a href="https://feeds.feedburner.com/HanselminutesCompleteMP3" target="_blank" rel="noopener noreferrer">Hanselminutes</a></li>    
-  <li><a href="https://pragprog.com/podcasts/feed.rss" target="_blank" rel="noopener noreferrer">Pragmatic Podcasts</a></li>    
-  <li><a href="https://se-radio.net/rss" target="_blank" rel="noopener noreferrer">Software Engineering Radio - The Podcast for Professional Software Developers</a></li>    
-  <li><a href="https://feeds.feedburner.com/ThirstyDeveloperPodcast" target="_blank" rel="noopener noreferrer">The Thirsty Developer – Podcast</a></li>    
-  <li><a href="https://leoville.tv/podcasts/ww.xml" target="_blank" rel="noopener noreferrer">Windows Weekly</a></li>
-</ul>
+   
+  * [.Net Rocks](https://feeds.feedburner.com/netRocksFullMp3Downloads)
+  * [37Signals Podcast](https://feeds.feedburner.com/37signals_podcast)
+  * [Alt.NET Podcast](https://feeds.feedburner.com/altnetpodcast)
+  * [dnrTV](https://feeds.feedburner.com/DnrtvWmv)
+  * [Hanselminutes](https://feeds.feedburner.com/HanselminutesCompleteMP3)
+  * [Pragmatic Podcasts](https://pragprog.com/podcasts/feed.rss)
+  * [Software Engineering Radio - The Podcast for Professional Software Developers](https://se-radio.net/rss)
+  * [The Thirsty Developer - Podcast](https://feeds.feedburner.com/ThirstyDeveloperPodcast)
+  * [Windows Weekly](https://leoville.tv/podcasts/ww.xml)
+
 
 Or if you really trust my taste, here’s a single RSS feed to all the podcasts I subscribe to:
 
-<ul>
-  <li><a href="https://www.google.com/reader/public/atom/user%2F16938590580940313293%2Flabel%2FPodcasts" target="_blank" rel="noopener noreferrer">Steven's Podcast RSS feed on Google Reader</a></li>
-</ul>
+  * [Steven's Podcast RSS feed on Google Reader](https://www.google.com/reader/public/atom/user%2F16938590580940313293%2Flabel%2FPodcasts)
 
-The latter link will get updated with new feeds I find interesting.&#160; Enjoy!
+
+The latter link will get updated with new feeds I find interesting. Enjoy!

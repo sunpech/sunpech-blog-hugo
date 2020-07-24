@@ -8,13 +8,14 @@ modified_time: '2012-01-03T03:40:21.168-06:00'
 redirect_from: /2009/01/basic-combinatorial-mathematics.html
 tags:
   - Technology
+thumbnail: /images/blog/tn_default.jpg
 title: Basic Combinatorial Mathematics
 ---
 
 
-I absolutely love reading <a href="https://www.codinghorror.com">CodingHorror.com</a>.  It's easily one of my favorite blogs to read about problem solving from the viewpoint of a programming/developer.  Recently, Jeff Atwood posted a problem:
+I absolutely love reading [CodingHorror.com](https://www.codinghorror.com).  It's easily one of my favorite blogs to read about problem solving from the viewpoint of a programming/developer.  Recently, Jeff Atwood posted a problem:
 
-<blockquote><i>Let's say, hypothetically speaking, you met someone who told you they had two children, and one of them is a girl. What are the odds that person has a boy and a girl?</i></blockquote>
+> *Let's say, hypothetically speaking, you met someone who told you they had two children, and one of them is a girl. What are the odds that person has a boy and a girl?*
 
 I was surprised by the number of readers who responded who got it wrong, very wrong.  Quite a few who commented answered one-half, 50%.  Reasoning ranged from it's always half, or because the ordering doesn't matter-- and that there are only 3 sets to choose from.  The latter of which I want to discuss.
 
@@ -30,8 +31,7 @@ Having only 3 sets is basically saying that it's equally likely that a couple wi
 
 The answer then, since we know that at least one is a girl, the BB set needs to get tossed out, leaving GG, BG, GB.  So then 2 out of the 3 sets can have boys, so there is a 2/3 chance that the couple's second child is a boy.
 
-Links:
-<ul>
-  <li><a href="https://www.codinghorror.com/blog/archives/001203.html">The Problem of the Unfinished Game</a></li>
-  <li><a href="https://www.codinghorror.com/blog/archives/001204.html">Finishing The Game</a></li>
-</ul>
+### Links:
+
+* [The Problem of the Unfinished Game](https://blog.codinghorror.com/the-problem-of-the-unfinished-game/)
+* [Finishing the Game](https://blog.codinghorror.com/finishing-the-game/)

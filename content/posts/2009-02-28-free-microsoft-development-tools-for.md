@@ -9,26 +9,25 @@ redirect_from: /2009/02/free-microsoft-development-tools-for.html
 tags:
   - Technology
   - Software Development
-thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s600/microsoft_dreamspark.png
+old_thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s600/microsoft_dreamspark.png
+thumbnail: /images/blog/tn_microsoft_dreamspark.jpg
 title: Free Microsoft Development Tools for Students on DreamSpark
 ---
 
 
-On <a href="https://www.dreamspark.com">Microsoft Dreamspark</a>, they have a very nice list of Microsoft development tools that you can download for FREE.  Mind you, these aren't just the free editions of their software, these are <b>Standard </b>to <b>Professional </b>editions that individuals and companies pay a lot of money for.
+On [Microsoft Dreamspark](https://www.dreamspark.com), they have a very nice list of Microsoft development tools that you can download for FREE.  Mind you, these aren't just the free editions of their software, these are **Standard** to **Professional** editions that individuals and companies pay a lot of money for.
 
-<i>The catch is that you need to be a student with a student email.  (Something like student.name@myuniversity.edu).</i>
+*The catch is that you need to be a student with a student email.  (Something like student.name@myuniversity.edu).*
 
 They currently offer:
 
-<ul>
-  <li>Microsoft SQL Server 2008 Developer Edition</li>
-  <li>Microsoft Visual Studio 2005 Professional Edition </li>
-  <li>Microsoft Visual Studio 2008 Professional Edition </li>
-  <li>Microsoft Expression Studio 1.0 </li>
-  <li>Microsoft Expression Studio 2 Trial Edition (includes Web, Blend, Media, and Design) </li>
-  <li>Microsoft Windows Server 2003 R2 Standard Edition </li>
-  <li>Microsoft Windows Server 2008 Standard Edition </li>
-  <li>IT Academy Student Pass </li>
-</ul>
+* Microsoft SQL Server 2008 Developer Edition
+* Microsoft Visual Studio 2005 Professional Edition 
+* Microsoft Visual Studio 2008 Professional Edition 
+* Microsoft Expression Studio 1.0 
+* Microsoft Expression Studio 2 Trial Edition (includes Web, Blend, Media, and Design) 
+* Microsoft Windows Server 2003 R2 Standard Edition 
+* Microsoft Windows Server 2008 Standard Edition 
+* IT Academy Student Pass 
 
-<a href="https://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s600-h/microsoft_dreamspark.png" alt=""><img   src="https://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s400/microsoft_dreamspark.png" alt="" border="0" id="BLOGGER_PHOTO_ID_5307996929058267218" /></a>
+![Microsoft Dreamspark](/images/blog/microsoft_dreamspark.png)
