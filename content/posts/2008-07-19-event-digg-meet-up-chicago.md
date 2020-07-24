@@ -9,17 +9,20 @@ redirect_from: /2008/07/event-digg-meet-up-chicago.html
 tags:
   - Chicago
   - Meetup
-thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SHQq7sxM-8I/AAAAAAAAAks/lcoBl4SRTVI/s600/digg_chicago.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SHQq7sxM-8I/AAAAAAAAAks/lcoBl4SRTVI/s600/digg_chicago.jpg
+thumbnail: /images/blog/tn_digg-chicago-smartbar.jpg
 title: 'Event: Digg Meet-Up Chicago'
 ---
 
 
-I published this on my other blog, but wanted to post here too.  Looks like <a href="https://www.digg.com/">Digg</a> is coming to Chicago!
+I published this on my other blog, but wanted to post here too.  Looks like [Digg](https://www.digg.com/) is coming to Chicago!
 
-<a href="https://upcoming.yahoo.com/event/830845/"><img    border="0" id="BLOGGER_PHOTO_ID_5220845073147427778" src="https://1.bp.blogspot.com/_7U5MdumP-no/SHQq7sxM-8I/AAAAAAAAAks/lcoBl4SRTVI/s400/digg_chicago.jpg" alt="" /></a>
+[https://upcoming.yahoo.com/event/830845/](https://upcoming.yahoo.com/event/830845/)
 
-#### Wednesday, July 23, 2008
-6-10 pm<br />
-<a href="https://www.smartbarchicago.com/">SmartBar</a><br />
-3730 N. Clark Street<br />
+![Digg Chicago](/images/blog/digg_chicago.jpg)
+
+**Wednesday, July 23, 2008**\
+6-10 pm\
+[SmartBar](https://www.smartbarchicago.com/)\
+3730 N. Clark Street\
 Chicago, Illinois 60613

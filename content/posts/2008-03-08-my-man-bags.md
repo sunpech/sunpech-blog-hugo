@@ -7,17 +7,22 @@ modified_time: '2012-01-03T03:33:36.704-06:00'
 redirect_from: /2008/03/my-man-bags.html
 tags:
   - Personal
-thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/R9NZa__IjYI/AAAAAAAAAg8/CmnXYhGEx1E/s600/31LvL228ARL._AA280_.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/R9NZa__IjYI/AAAAAAAAAg8/CmnXYhGEx1E/s600/31LvL228ARL._AA280_.jpg
+thumbnail: /images/blog/tn_my-man-bags.jpg
 title: My Man Bags
 ---
 
 
-I went on an online shopping spree earlier this week and bought some <a href="https://en.wikipedia.org/wiki/Manbag">Man bags</a> for myself.  I only bought 2, but from the set below, I'm showing 2 because I ordered the one on the left (the more green/olive color), but I received the one on the right (brownish/dark-green).  At first I was going to send it back, but I grew attached to the color and didn't want to go through the hassle of sending it back.  This one is for when I want to pack my laptop to go.
+I went on an online shopping spree earlier this week and bought some [Man bags](https://en.wikipedia.org/wiki/Manbag) for myself.  I only bought 2, but from the set below, I'm showing 2 because I ordered the one on the left (the more green/olive color), but I received the one on the right (brownish/dark-green).  At first I was going to send it back, but I grew attached to the color and didn't want to go through the hassle of sending it back.  This one is for when I want to pack my laptop to go.
 
-<img    border="0" id="BLOGGER_PHOTO_ID_5175578717166538114" src="https://1.bp.blogspot.com/_7U5MdumP-no/R9NZa__IjYI/AAAAAAAAAg8/CmnXYhGEx1E/s400/31LvL228ARL._AA280_.jpg" alt="" /><img    border="0" id="BLOGGER_PHOTO_ID_5175578871785360786" src="https://1.bp.blogspot.com/_7U5MdumP-no/R9NZj__IjZI/AAAAAAAAAhE/KLN1I9GPFDE/s400/41dkFMUqoML._AA280_.jpg" alt="" />
+![Man Bag](/images/blog/31LvL228ARL._AA280_.jpg)
 
-Now, for my remaining purchase I bought myself a "Jack Sack".  It's basically the same man bag that <a href="https://en.wikipedia.org/wiki/Jack_Bauer">Jack Bauer</a> uses in <a href="https://en.wikipedia.org/wiki/24_(TV_series)">24</a>.  Can you believe someone actually has a blog (<a href="https://thejacksack.blogspot.com/">jacksack.blogspot.com</a>) about it?  Amazing.  This one is for my general use, a book, magazines, some papers/folders, diffuse kits, and pens.  You know, the regular stuff.
+![Man Bag 2](/images/blog//41dkFMUqoML._AA280_.jpg)
 
-<img    border="0" id="BLOGGER_PHOTO_ID_5175578880375295410" src="https://3.bp.blogspot.com/_7U5MdumP-no/R9NZkf_IjbI/AAAAAAAAAhU/QzqDCoZPkGo/s400/thejacksack.jpg" alt="" /><img    border="0" id="BLOGGER_PHOTO_ID_5175578876080328098" src="https://2.bp.blogspot.com/_7U5MdumP-no/R9NZkP_IjaI/AAAAAAAAAhM/wppPMN3gJS0/s400/51LFVWoFvxL._AA280_.jpg" alt="" />
+Now, for my remaining purchase I bought myself a "Jack Sack".  It's basically the same man bag that [Jack Bauer](https://en.wikipedia.org/wiki/Jack_Bauer) uses in [24](https://en.wikipedia.org/wiki/24_(TV_series)).  Can you believe someone actually has a blog ([jacksack.blogspot.com](https://thejacksack.blogspot.com/")) about it?  Amazing.  This one is for my general use, a book, magazines, some papers/folders, diffuse kits, and pens.  You know, the regular stuff.
 
-Overall, I'm happy with my purchases.  These bags are nice and sturdy, and I'm ok with it getting a little dirty.  I've been mostly using my <a href="https://www.diesel.com/">Diesel</a> bag, but it's a fake my sister bought me from Thailand and it's starting to wear down.
+![Jack Bauer](/images/blog/thejacksack.jpg)
+
+![Man Bag 3](/images/blog/51LFVWoFvxL._AA280_.jpg)
+
+Overall, I'm happy with my purchases.  These bags are nice and sturdy, and I'm ok with it getting a little dirty.  I've been mostly using my [Diesel](https://www.diesel.com/) bag, but it's a fake my sister bought me from Thailand and it's starting to wear down.

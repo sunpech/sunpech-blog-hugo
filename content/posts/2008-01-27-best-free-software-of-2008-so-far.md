@@ -8,6 +8,7 @@ modified_time: '2012-01-03T03:43:02.293-06:00'
 redirect_from: /2008/01/best-free-software-of-2008-so-far.html
 tags:
   - Technology
+thumbnail: /images/blog/tn_default.jpg
 title: Best Free Software of 2008 (so far)
 ---
 
@@ -16,25 +17,21 @@ I find myself reinstalling software on another friend's laptop yet again.  What 
 
 Here is a list of the most common FREE programs I recommend for typical users:
 
-<ul>
-  <li>Antivirus: <a href="https://www.avast.com/eng/avast_4_home.html" target="_blank" rel="noopener noreferrer">Avast Home Edition</a> or <a href="https://free.grisoft.com/" target="_blank" rel="noopener noreferrer">AVG Free</a></li>
-  <li>Firewall: <a href="https://www.personalfirewall.comodo.com/" target="_blank" rel="noopener noreferrer">Comodo Firewall</a></li>
-  <li>Web Browser: <a href="https://www.mozilla.com/firefox/" target="_blank" rel="noopener noreferrer">Mozilla Firefox</a></li>
-  <li>Spyware detection: <a href="https://www.microsoft.com/athome/security/spyware/software/default.mspx" target="_blank" rel="noopener noreferrer">Microsoft Defender</a></li>
-  <li>Image Editing: <a href="https://www.getpaint.net/" target="_blank" rel="noopener noreferrer">Paint.net</a></li>
-  <li>Compression: <a href="https://www.7-zip.org/" target="_blank" rel="noopener noreferrer">7 Zip</a></li>
-  <li>Chat: <a href="https://talk.google.com/" target="_blank" rel="noopener noreferrer">Google Talk</a></li>
-  <li>Picture manager: <a href="https://picasa.google.com/" target="_blank" rel="noopener noreferrer">Google Picasa</a></li>
-</ul>
+* Antivirus: [Avast Home Edition](https://www.avast.com/eng/avast_4_home.html) or [AVG Free](https://free.grisoft.com)
+* Firewall: [Comodo Firewall](https://www.personalfirewall.comodo.com/)
+* Web Browser: [Mozilla Firefox](https://www.mozilla.com/firefox/)
+* Spyware detection: [Microsoft Defender](https://www.microsoft.com/athome/security/spyware/software/default.mspx)
+* Image Editing: [Paint.net](https://www.getpaint.net/")
+* Compression: [7 Zip](https://www.7-zip.org/")
+* Chat: [Google Talk](https://talk.google.com/")
+* Picture manager: [Google Picasa](https://picasa.google.com/")
 
 Other notable programs are:
 
-<ul>
-  <li>Bittorrent client: <a href="https://www.utorrent.com/" target="_blank" rel="noopener noreferrer">utorrent</a> (also get <a href="https://phoenixlabs.org/pg2/" target="_blank" rel="noopener noreferrer">Peer Guardian</a>)</li>
-  <li>Media Players: <a href="https://www.winamp.com/" target="_blank" rel="noopener noreferrer">Winamp</a>, <a href="https://www.videolan.org/vlc/" target="_blank" rel="noopener noreferrer">VLC</a>, and <a href="https://www.divx.com/" target="_blank" rel="noopener noreferrer">Divx</a></li>
-  <li>Office Suite: <a href="https://www.openoffice.org/" target="_blank" rel="noopener noreferrer">Open Office</a></li>
-  <li>Email client: <a href="https://www.mozilla.com/thunderbird/" target="_blank" rel="noopener noreferrer">Mozilla Thunderbird</a></li>
-  <li>FTP: <a href="https://filezilla-project.org/" target="_blank" rel="noopener noreferrer">Filezilla</a></li>
-</ul>
+* Bittorrent client: [https://www.utorrent.com/](utorrent) (also get [Peer Guardian](https://phoenixlabs.org/pg2/))
+* Media Players: [Winamp](https://www.winamp.com/), [VLC](https://www.videolan.org/vlc/), and [Divx](https://www.divx.com/)
+* Office Suite: [Open Office](https://www.openoffice.org/)
+* Email client: [Mozilla Thunderbird](https://www.mozilla.com/thunderbird/)
+* FTP: [Filezilla](https://filezilla-project.org/")
 
-If you feel this list is incomplete, check out: <a href="https://www.techsupportalert.com/best_46_free_utilities.htm">The 46 Best-ever Freeware Utilities</a>
+If you feel this list is incomplete, check out: [The 46 Best-ever Freeware Utilities](https://www.techsupportalert.com/best_46_free_utilities.htm)

@@ -10,20 +10,19 @@ tags:
   - Technology
   - Review
   - Android
-thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s600/g1officialnewnew.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s600/g1officialnewnew.jpg
+thumbnail: /images/blog/tn_g1officialnewnew.jpg
 title: My Impressions of the G1 running Android
 ---
 
 
-I've had my <a href="https://www.t-mobileg1.com/">G1</a> for a few weeks now.  My overall impressions are pretty good.  I like the touch screen, I like the free applications available through the market app, and I definitely enjoy the web browsing experience on the 3G network over my old Blackberry Pearl on the EDGE network.
+I've had my [G1](https://www.t-mobileg1.com/) for a few weeks now.  My overall impressions are pretty good.  I like the touch screen, I like the free applications available through the market app, and I definitely enjoy the web browsing experience on the 3G network over my old Blackberry Pearl on the EDGE network.
 
-<img    border="0" id="BLOGGER_PHOTO_ID_5267257220442964562" src="https://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s400/g1officialnewnew.jpg" alt="" />
+![G1 official](/images/blog/g1officialnewnew.jpg)
 
 But I do have a few complaints:
 
-<ul>
-  <li><b>Battery Life is too short</b>.  I can maybe go for a maximum of 2 days without a recharge if I very minimal use of the phone.  But I suppose this is understandable since it is 3G and touchscreen.</li>
-  <li><b>3G network still not available everywhere</b>.  I go to the Chicago suburbs, and I'm back on the EDGE network when I want to browse.</li>
-  <li><b>Facebook's regular website is not G1 friendly</b>.  This is not the G1's fault.  In fact I use the Facebook iphone website instead.</li>
-  <li><b>Gmail's contact does not sync well</b>.  This is what pisses me off the most.  Since your contact list is from your Gmail account (at least it should be for back-up purposes), it's a one way sync: Gmail app to phone.  If you enter a new contact in the phone, it will not sync up into the Gmail app, or at least not quickly.</li>
-</ul>
+* **Battery Life is too short**.  I can maybe go for a maximum of 2 days without a recharge if I very minimal use of the phone.  But I suppose this is understandable since it is 3G and touchscreen.
+* **3G network still not available everywhere**.  I go to the Chicago suburbs, and I'm back on the EDGE network when I want to browse.
+* **Facebook's regular website is not G1 friendly**.  This is not the G1's fault.  In fact I use the Facebook iphone website instead.
+* **Gmail's contact does not sync well**.  This is what pisses me off the most.  Since your contact list is from your Gmail account (at least it should be for back-up purposes), it's a one way sync: Gmail app to phone.  If you enter a new contact in the phone, it will not sync up into the Gmail app, or at least not quickly.

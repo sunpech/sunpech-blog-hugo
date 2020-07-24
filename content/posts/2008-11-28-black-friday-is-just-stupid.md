@@ -7,18 +7,17 @@ modified_time: '2012-01-03T03:33:36.687-06:00'
 redirect_from: /2008/11/black-friday-is-just-stupid.html
 tags:
   - Personal
-thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/STA1GJdqx8I/AAAAAAAAIXg/GqO1waJAekQ/s600/shopping_lines.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/STA1GJdqx8I/AAAAAAAAIXg/GqO1waJAekQ/s600/shopping_lines.jpg
+thumbnail: /images/blog/tn_shopping_lines.jpg
 title: Black Friday is just Stupid
 ---
 
 
 To my recollection, I've only ever participated in a Black Friday event back in 2006.  And it was really really tough.  In a nutshell, I went shopping at midnight, went home to nap, then went out again to shop during the day, totally 15 some hours of shopping by day's end.  It's something that I hope to never do again in my life.  (Note: I only did this because some girls wanted to do some shopping).
 
-The point I wanted to make, is that Black Friday is stupid and represents some of the things that's wrong with this country (USA).  The following article on <a href="https://www.gizmodo.com/">Gizmodo</a> really sums it up:
+The point I wanted to make, is that Black Friday is stupid and represents some of the things that's wrong with this country (USA).  The following article on [Gizmodo](https://www.gizmodo.com/) really sums it up: [10 Reasons We're Doomed: Black Friday Edition](https://gizmodo.com/5098946/10-reasons-were-doomed-black-friday-edition)
 
-<a href="https://gizmodo.com/5098946/10-reasons-were-doomed-black-friday-edition">10 Reasons We're Doomed: Black Friday Edition</a>
-
-<img    border="0" id="BLOGGER_PHOTO_ID_5273773543386695618" src="https://1.bp.blogspot.com/_7U5MdumP-no/STA1GJdqx8I/AAAAAAAAIXg/GqO1waJAekQ/s400/shopping_lines.jpg" alt="" />
+![Shopping Lines](/images/blog/shopping_lines.jpg)
 
 What's stupid about it is how so many people camp outside the stores, lining up in the cold weather, to buy crap they don't really need.  Like yesterday, I heard on the radio that some people have been camping outside Best Buy (BB) for 5 days.  When a man was asked by the reporter what he was planning to buy, the fool replied that he did not know.
 
@@ -30,6 +29,4 @@ For me, this year, I did my shopping online.  I knew what I wanted to get.  No l
 
 And now I can add, dangerous and potentially life-threatening to your health/well-being:
 
-<ul>
-  <li><a href="https://www.nydailynews.com/ny_local/2008/11/28/2008-11-28_worker_dies_at_long_island_walmart_after.html">Worker dies at Long Island Wal-Mart after being trampled in Black Friday stampede</a></li>
-</ul>
+* [Worker dies at Long Island Wal-Mart after being trampled in Black Friday stampede](https://www.nydailynews.com/ny_local/2008/11/28/2008-11-28_worker_dies_at_long_island_walmart_after.html)

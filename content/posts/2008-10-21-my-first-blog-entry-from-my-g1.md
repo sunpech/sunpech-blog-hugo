@@ -9,6 +9,7 @@ redirect_from: /2008/10/my-first-blog-entry-from-my-g1.html
 tags:
   - Technology
   - Android
+thumbnail: /images/blog/tn_default.jpg
 title: My First Blog Entry from my G1
 ---
 

@@ -8,32 +8,31 @@ modified_time: '2012-01-03T03:43:02.341-06:00'
 redirect_from: /2008/02/yellow-dog-linux-on-my-ps3.html
 tags:
   - Technology
-thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/R8HwfwhSFsI/AAAAAAAAAgI/DUh0vPPHiSg/s600/ydl_logo.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/R8HwfwhSFsI/AAAAAAAAAgI/DUh0vPPHiSg/s600/ydl_logo.jpg
+thumbnail: /images/blog/tn_yellow-dog-linux-logo.jpg
 title: Yellow Dog Linux on my PS3
 ---
 
 
 Over the weekend, mostly on Saturday I spent doing 2 main things:
 
-<ol>
-  <li>Tried to install <b>Microsoft Visual Studio .Net 2008</b> onto my Lenovo Thinkpad T60 laptop</li>
-  <li>Installed Linux onto my PS3</li>
-</ol>
 
-The development tool installation didn't take well at all, but the Linux install went very well, a bit long to download, install, and configure everything, but overall very well.  The distro I chose was <a href="https://www.terrasoftsolutions.com/products/ydl/">Yellow Dog Linux</a>, specifically for the PS3.  The driving force behind this is that I have a USB external hard drive which is in NTFS, which the PS3 currently cannot read.  So the workaround is to install another operating system (OS) onto the PS3, and have that run instead, which will be able to read the files.
+  1. Tried to install **Microsoft Visual Studio .Net 2008** onto my Lenovo Thinkpad T60 laptop
+  2. Installed Linux onto my PS3
 
-<img    border="0" id="BLOGGER_PHOTO_ID_5170678275589150402" src="https://1.bp.blogspot.com/_7U5MdumP-no/R8HwfwhSFsI/AAAAAAAAAgI/DUh0vPPHiSg/s400/ydl_logo.jpg" alt="" />
+
+The development tool installation didn't take well at all, but the Linux install went very well, a bit long to download, install, and configure everything, but overall very well.  The distro I chose was [Yellow Dog Linux](https://www.terrasoftsolutions.com/products/ydl/), specifically for the PS3.  The driving force behind this is that I have a USB external hard drive which is in NTFS, which the PS3 currently cannot read.  So the workaround is to install another operating system (OS) onto the PS3, and have that run instead, which will be able to read the files.
+
+![Yellow Dog Linux](/images/blog/ydl_logo.jpg)
 
 Here are the links I used to get it all done with:
 
-<ul>
-  <li><a href="https://en.wikipedia.org/wiki/Linux_for_PlayStation_3">Linux for PS3 wiki</a></li>
-  <li><a href="https://www.ps3grid.net/install_linux.php">Installing Linux on the PlayStation3: A short guide</a>
-</li>
-  <li><a href="https://tictech2.blogspot.com/2007/01/installing-vlc-on-ps3-running-yellowdog.html">Installing YUMEX and VLC on PS3</a></li>
-  <li><a href="https://www.yellowdog-board.com/viewtopic.php?p=9876">ydl 5.0.1 has ntfs support</a></li>
-</ul>
+* [Linux for PS3 wiki](https://en.wikipedia.org/wiki/Linux_for_PlayStation_3)
+* [Installing Linux on the PlayStation3: A short guide](https://www.ps3grid.net/install_linux.php)
+* [Installing YUMEX and VLC on PS3](https://tictech2.blogspot.com/2007/01/installing-vlc-on-ps3-running-yellowdog.html)
+* [ydl 5.0.1 has ntfs support](https://www.yellowdog-board.com/viewtopic.php?p=9876)
+
 
 And that's about all you would need to install linux onto your PS3.  Of course when I did it I didn't back up my saved games and lost everything.  On the bright side though, I was able to re-download my purchased games off the PS3 Network, which was pretty sweet.  
 
-<b>Update 2/24/2008 @ 5:57pm</b> I got Visual Studio .Net 2008 to install on my laptop finally.  Had to mount the ISO as it's own drive and installed directly from there.  I used <a href="https://download.microsoft.com/download/7/b/6/7b6abd84-7841-4978-96f5-bd58df02efa2/winxpvirtualcdcontrolpanel_21.exe">winXP Virtual CD Control Panel</a>.
+**Update 2/24/2008 @ 5:57pm** I got Visual Studio .Net 2008 to install on my laptop finally.  Had to mount the ISO as it's own drive and installed directly from there.  I used [winXP Virtual CD Control Panel](https://download.microsoft.com/download/7/b/6/7b6abd84-7841-4978-96f5-bd58df02efa2/winxpvirtualcdcontrolpanel_21.exe).

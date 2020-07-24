@@ -9,18 +9,19 @@ redirect_from: /2008/05/tech-cocktail-chicago-8.html
 tags:
   - Chicago
   - Meetup
-thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s600/112682035.jpg
+old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s600/112682035.jpg
+thumbnail: /images/blog/tn_techcocktail.jpg
 title: Tech Cocktail Chicago 8
 ---
 
 
 I'm pretty excited about going to the Tech Cocktail Chicago 8 event this evening.  I'm just so curious as to what kind of exciting tech people/companies are here in Chicago!
 
-<a href="https://www.techcocktail.com"><img   src="https://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s400/112682035.jpg" alt="" border="0"  id="BLOGGER_PHOTO_ID_5205798744897293426" /></a>
+![Tech Cocktail](/images/blog/techcocktail.jpg)
 
-John Barleycorn Wrigleyville<br />
-3524 N Clark St<br />
-Upstairs<br />
-Chicago, IL 60657 <br />
-Thursday, May 29, 2008 from 06:30 PM - 08:00 PM (CT)<br />
-<a href="https://tech-cocktail-chicago-8.eventbrite.com/">https://tech-cocktail-chicago-8.eventbrite.com</a>
+John Barleycorn Wrigleyville\
+3524 N Clark St\
+Upstairs\
+Chicago, IL 60657\
+Thursday, May 29, 2008 from 06:30 PM - 08:00 PM (CT)\
+[https://tech-cocktail-chicago-8.eventbrite.com](https://tech-cocktail-chicago-8.eventbrite.com/)

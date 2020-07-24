@@ -9,13 +9,14 @@ redirect_from: /2008/10/t-mobile-to-ship-g1-early.html
 tags:
   - Technology
   - Android
-thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SPvKJ1MI4gI/AAAAAAAAIJE/LamGf5KMYTs/s600/tmobile_g1_arrive_early.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SPvKJ1MI4gI/AAAAAAAAIJE/LamGf5KMYTs/s600/tmobile_g1_arrive_early.jpg
+thumbnail: /images/blog/tn_tmobile-g1-arrive-early.jpg
 title: T-mobile to ship G1 early?
 ---
 
 
-As my friend Ben pointed out, it's possible that our pre-ordered G1 phones will arrive earlier than expected.  Tomorrow, Monday, October 20, 2008 to be exact.  Upon checking my order status on <a href="https://www.ups.com">UPS.com</a>, I found the following:
+As my friend Ben pointed out, it's possible that our pre-ordered G1 phones will arrive earlier than expected.  Tomorrow, Monday, October 20, 2008 to be exact.  Upon checking my order status on [UPS.com](https://www.ups.com), I found the following:
 
-<img   src="https://1.bp.blogspot.com/_7U5MdumP-no/SPvKJ1MI4gI/AAAAAAAAIJE/LamGf5KMYTs/s400/tmobile_g1_arrive_early.jpg" alt="" border="0" id="BLOGGER_PHOTO_ID_5259019260130812418" />
+![Tmobile G1 Arrive Early](/images/blog/tmobile-g1-arrive-early.jpg)
 
 So it looks like my Google phone is here in Chicago, and is set to ship tomorrow!

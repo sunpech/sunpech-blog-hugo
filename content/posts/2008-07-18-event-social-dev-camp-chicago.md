@@ -10,16 +10,17 @@ tags:
   - Chicago
   - Software Development
   - Meetup
+thumbnail: /images/blog/tn_default.jpg
 title: 'Event: Social Dev Camp Chicago'
 ---
 
 
-I hope I can make this!  From the facebook event link, I found: <a href="https://webdesign.meetup.com/473/">Chicago Interactive Design/Development Meetup Group</a>.  So interesting!
+I hope I can make this!  From the facebook event link, I found: [Chicago Interactive Design/Development Meetup Group](https://webdesign.meetup.com/473/).  So interesting!
 
-<a href="https://barcamp.pbwiki.com/SocialDevCampChicago">SocialDevCampChicago</a>
-Saturday, August 9th 2008<br />
-8:30am-6:00pm<br />
-at Illinois Institute of Technology McCormick Tribune Center (<a href="https://www.iit.edu/mtcc/">https://www.iit.edu/mtcc/</a>)<br />
-Facebook event: <a href="https://www.facebook.com/event.php?eid=20586291919">https://www.facebook.com/event.php?eid=20586291919</a>
+[SocialDevCampChicago](https://barcamp.pbwiki.com/SocialDevCampChicago)\
+Saturday, August 9th 2008\
+8:30am-6:00pm\
+at Illinois Institute of Technology McCormick Tribune Center ([https://www.iit.edu/mtcc/]("https://www.iit.edu/mtcc/))\
+Facebook event: [https://www.facebook.com/event.php?eid=20586291919](https://www.facebook.com/event.php?eid=20586291919)
 
-<blockquote><i>If you are developer in the midwest you might be interested in checking out the upcoming <a href="https://barcamp.pbwiki.com/SocialDevCampChicago">SocialDevCampChicago</a>. SocialDevCampChicago is an unconference for people passionate about social networks, web applications, platform development, new media, and any of the exciting (but messy) topics in-between. This event promises to be a packed day of sharing, learning, coding, and relationship building with thought leaders in the social web landscape! (source: <a href="https://techcocktail.com/home/2008/07/18/socialdevcampchicago-is-coming-soon-rsvp/">TechCocktail</a>)</i></blockquote>
+> *If you are developer in the midwest you might be interested in checking out the upcoming [SocialDevCampChicago](https://barcamp.pbwiki.com/SocialDevCampChicago). SocialDevCampChicago is an unconference for people passionate about social networks, web applications, platform development, new media, and any of the exciting (but messy) topics in-between. This event promises to be a packed day of sharing, learning, coding, and relationship building with thought leaders in the social web landscape! (source: [TechCocktail](https://techcocktail.com/home/2008/07/18/socialdevcampchicago-is-coming-soon-rsvp/))*

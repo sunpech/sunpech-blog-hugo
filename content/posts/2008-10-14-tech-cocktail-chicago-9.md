@@ -11,19 +11,20 @@ tags:
   - Review
   - Personal
   - Meetup
-thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s600/112682035.jpg
+old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s600/112682035.jpg
+thumbnail: /images/blog/techcocktail.jpg
 title: Tech Cocktail Chicago 9
 ---
 
 
 Another <a href="https://en.wikipedia.org/wiki/Digerati">digerati</a> networking event coming up in November!  Last time I went I had a pretty good time talking with various people in the Chicago tech community.  Only wish my company would sport me with actual up-to-date business cards!
 
-<a href="https://www.techcocktail.com"><img   src="https://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s400/112682035.jpg" alt="" border="0"  /></a>
+![Tech Cocktail](/images/blog/techcocktail.jpg)
 
-When: Thursday, November 6, 2008 - 6:30 p.m. to 9:00 p.m. CST
-Where: John Barleycorn Wrigleyville
-<a href="https://techcocktail.com/home/2008/10/14/tech-cocktail-chicago-9-rsvp-today/">Tech Cocktail Chicago 9</a>
+When: Thursday, November 6, 2008 - 6:30 p.m. to 9:00 p.m. CST\
+Where: John Barleycorn Wrigleyville\
+[Tech Cocktail Chicago 9](https://techcocktail.com/home/2008/10/14/tech-cocktail-chicago-9-rsvp-today/)
 
-I also recently joined the community: <a href="https://iam.techcocktail.com/">iam.techcocktail.com</a>
+I also recently joined the community: [iam.techcocktail.com](https://iam.techcocktail.com/)
 
-You can see my personal blog's previous posting on Tech Cocktail 8 <a href="/2008/05/tech-cocktail-chicago-8">here</a>.
+You can see my personal blog's previous posting on Tech Cocktail 8 [here](/2008/05/tech-cocktail-chicago-8).
