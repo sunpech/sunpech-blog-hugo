@@ -9,13 +9,14 @@ redirect_from: /2010/04/linkedin-mobile-apps-no-love-for.html
 tags:
   - Technology
   - Android
-thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/S77EJIvaBsI/AAAAAAAAOIw/9EPHSPihs2s/s600/linkedin_mobile_no_love_for_android.png
+old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/S77EJIvaBsI/AAAAAAAAOIw/9EPHSPihs2s/s600/linkedin_mobile_no_love_for_android.png
+thumbnail: /images/blog/tn_linkedin_mobile_no_love_for_android.jpg
 title: 'LinkedIn Mobile Apps: No Love for Android'
 ---
 
 
-Got this in my inbox from <a href="https://www.linkedin.com/">LinkedIn</a>.  iPhone: check.  Blackberry: check.  Palm: check....
+Got this in my inbox from [LinkedIn](https://www.linkedin.com/).  iPhone: check.  Blackberry: check.  Palm: check....
 
 No love for Android.
 
-<img   border="0" src="https://4.bp.blogspot.com/_7U5MdumP-no/S77EJIvaBsI/AAAAAAAAOIw/9EPHSPihs2s/s640/linkedin_mobile_no_love_for_android.png" alt=""  />
+![LinkedIN Mobile: No Love for Android](/images/blog/linkedin_mobile_no_love_for_android.png)

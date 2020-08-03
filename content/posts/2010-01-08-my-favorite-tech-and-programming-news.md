@@ -8,34 +8,26 @@ modified_time: '2012-01-03T00:58:24.801-06:00'
 redirect_from: /2010/01/my-favorite-tech-and-programming-news.html
 tags:
   - Software Development
+thumbnail: /images/blog/tn_default.jpg
 title: My Favorite Tech and Programming News Feeds
 ---
 
 
-I previously posted on <a href="2009/12/hooked-on-tech-podcasts">my favorite tech podcasts</a>, so I wanted to post a little snippet of my favorite tech RSS feeds from <a href="https://reader.google.com/">Google Reader</a>.  I read a lot more than I list here, but these are my absolute favorites.
+I previously posted on [my favorite tech podcasts](/2009/12/hooked-on-tech-podcasts), so I wanted to post a little snippet of my favorite tech RSS feeds from [Google Reader](https://reader.google.com/).  I read a lot more than I list here, but these are my absolute favorites.
 
 #### My favorite Tech RSS Feeds:
-<ul>
-    <li><a href="https://lifehacker.com/index.xml">Lifehacker RSS</a>
-  </li>
-    <li><a href="https://gizmodo.com/index.xml">Gizmodo RSS</a>
-  </li>
-    <li><a href="https://feeds2.feedburner.com/Mashable">Mashable! RSS</a></li>
-    <li><a href="https://feedproxy.google.com/typepad/alleyinsider/silicon_alley_insider">Silicon Alley Insider RSS</a>
-  </li>
+  * [Lifehacker RSS](https://lifehacker.com/index.xml)
+  * [Gizmodo RSS](https://gizmodo.com/index.xml)
+  * [Mashable! RSS](https://feeds2.feedburner.com/Mashable)
+  * [Silicon Alley Insider RSS](https://feedproxy.google.com/typepad/alleyinsider/silicon_alley_insider)
+  
 </ul>
 
 #### My favorite Programming RSS Feeds:
-<ul>
-    <li><a href="https://www.reddit.com/r/programming/.rss">Reddit Programming RSS</a>
-  </li>
-    <li><a href="https://news.ycombinator.com/rss">Hacker News RSS</a>
-  </li>
-    <li><a href="https://feeds.feedburner.com/codinghorror">Coding Horror RSS</a>
-  </li>
-    <li><a href="https://feeds.feedburner.com/Devlicious">Devlicio.us RSS</a>
-  </li>
-    <li><a href="https://feeds.feedburner.com/CodeBetter">CodeBetter.Com RSS</a></li>
-    <li><a href="https://syndication.thedailywtf.com/TheDailyWtf">The Daily WTF RSS</a>
-  </li>
-</ul>
+  * [Reddit Programming RSS](https://www.reddit.com/r/programming/.rss)
+  * [Hacker News RSS](https://news.ycombinator.com/rss)
+  * [Coding Horror RSS](https://feeds.feedburner.com/codinghorror)
+  * [Devlicio.us RSS](https://feeds.feedburner.com/Devlicious)
+  * [CodeBetter.Com RSS](https://feeds.feedburner.com/CodeBetter)
+  * [The Daily WTF RSS](https://syndication.thedailywtf.com/TheDailyWtf)
+  

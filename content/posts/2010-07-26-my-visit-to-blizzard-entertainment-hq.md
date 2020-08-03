@@ -7,33 +7,34 @@ modified_time: '2014-08-19T02:33:54.768-05:00'
 redirect_from: /2010/07/my-visit-to-blizzard-entertainment-hq.html
 tags:
   - Personal
-thumbnail: https://1.bp.blogspot.com/-8tLJ84y31BE/TEze0DUpkEI/AAAAAAAAUHA/6a5d4SBGIqY/s600/IMG_1625.JPG
+old_thumbnail: https://1.bp.blogspot.com/-8tLJ84y31BE/TEze0DUpkEI/AAAAAAAAUHA/6a5d4SBGIqY/s600/IMG_1625.JPG
+thumbnail: /images/blog/tn_blizzard-hq.jpg
 title: My visit to Blizzard Entertainment HQ
 ---
 
 
-On my way to Los Angeles from San Diego, I had the opportunity to stop by the <a href="https://www.blizzard.com/">Blizzard Entertainment</a> HQ in Irvine, California.  I must say that they have an awesome campus with very developer/designer friendly offices.  Toys and models everywhere!
+On my way to Los Angeles from San Diego, I had the opportunity to stop by the [Blizzard](https://www.blizzard.com/) HQ in Irvine, California.  I must say that they have an awesome campus with very developer/designer friendly offices.  Toys and models everywhere!
 
-Here some pictures, full set of pictures can be found <a href="https://picasaweb.google.com/101693597219413173200/2010July25BlizzardEntertainmentHQVisit">here</a>.
+Here some pictures, full set of pictures can be found [here](https://photos.app.goo.gl/UafLMb2x11BcWma69).
 
-<a href="https://1.bp.blogspot.com/-8tLJ84y31BE/TEze0DUpkEI/AAAAAAAAUHA/6a5d4SBGIqY/s600/IMG_1625.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-8tLJ84y31BE/TEze0DUpkEI/AAAAAAAAUHA/6a5d4SBGIqY/s600/IMG_1625.jpg" alt=""  /></a>
+![Blizzard HQ 1](/images/blog/IMG_1625.jpg)
 
-<a href="https://3.bp.blogspot.com/-HZwLvNs6qM8/TEze2V6TJ6I/AAAAAAAAUHI/0_Ca5BAZGiM/s600/IMG_1626.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-HZwLvNs6qM8/TEze2V6TJ6I/AAAAAAAAUHI/0_Ca5BAZGiM/s600/IMG_1626.jpg" alt=""  /></a>
+![Blizzard HQ 2](/images/blog/IMG_1626.jpg)
 
-<a href="https://3.bp.blogspot.com/-sBskaPuZVzM/TEzfUfYi5RI/AAAAAAAAUI8/JG2U10yP2J8/s600/IMG_1637.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-sBskaPuZVzM/TEzfUfYi5RI/AAAAAAAAUI8/JG2U10yP2J8/s600/IMG_1637.jpg" alt=""  /></a>
+![Blizzard HQ 3](/images/blog/IMG_1637.jpg)
 
-<a href="https://4.bp.blogspot.com/-vOc8-4FUxOc/TEzfbjhmPlI/AAAAAAAAUJg/rio1k9WeiOQ/s600/IMG_1641.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-vOc8-4FUxOc/TEzfbjhmPlI/AAAAAAAAUJg/rio1k9WeiOQ/s600/IMG_1641.jpg" alt=""  /></a>
+![Blizzard HQ 4](/images/blog/IMG_1641.jpg)
 
-<a href="https://1.bp.blogspot.com/-yEW9j4z7ggk/TEzgSVngHKI/AAAAAAAAUNw/wRWOyz0a98Y/s600/IMG_1669.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-yEW9j4z7ggk/TEzgSVngHKI/AAAAAAAAUNw/wRWOyz0a98Y/s600/IMG_1669.jpg" alt=""  /></a>
+![Blizzard HQ 5](/images/blog/IMG_1669.jpg)
 
-<a href="https://4.bp.blogspot.com/-_vO446I9Uk8/TEzg5SbXRlI/AAAAAAAAUQ8/azuK21ceXAw/s600/IMG_1692.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-_vO446I9Uk8/TEzg5SbXRlI/AAAAAAAAUQ8/azuK21ceXAw/s600/IMG_1692.jpg" alt=""  /></a>
+![Blizzard HQ 6](/images/blog/IMG_1692.jpg)
 
-<a href="https://2.bp.blogspot.com/-MNT-a7fzrwM/TEzg-Mn7eJI/AAAAAAAAURM/4g8KpYM_Zkw/s600/IMG_1694.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-MNT-a7fzrwM/TEzg-Mn7eJI/AAAAAAAAURM/4g8KpYM_Zkw/s600/IMG_1694.jpg" alt=""  /></a>
+![Blizzard HQ 7](/images/blog/IMG_1694.jpg)
 
-<a href="https://1.bp.blogspot.com/-JUGPTTVxZ60/TEzhuGOKK4I/AAAAAAAAUVA/5RSCYPRHdss/s600/IMG_1725.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-JUGPTTVxZ60/TEzhuGOKK4I/AAAAAAAAUVA/5RSCYPRHdss/s600/IMG_1725.jpg" alt=""  /></a>
+![Blizzard HQ 8](/images/blog/IMG_1725.jpg)
 
-<a href="https://4.bp.blogspot.com/-dAYi8VtWMvA/TEzh_scMFDI/AAAAAAAAUWM/Kup1RvLeI3A/s600/IMG_1738.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-dAYi8VtWMvA/TEzh_scMFDI/AAAAAAAAUWM/Kup1RvLeI3A/s600/IMG_1738.jpg" alt=""  /></a>
+![Blizzard HQ 9](/images/blog/IMG_1738.jpg)
 
-<a href="https://3.bp.blogspot.com/-obmGKbeqqsk/TEziFMEw9KI/AAAAAAAAUWk/iXbMKP3mVL0/s600/IMG_1741.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-obmGKbeqqsk/TEziFMEw9KI/AAAAAAAAUWk/iXbMKP3mVL0/s600/IMG_1741.jpg" alt=""  /></a>
+![Blizzard HQ 10](/images/blog/IMG_1741.jpg)
 
-For more pictures, check out: <a href="https://www.techxav.com/2009/12/22/inside-blizzard-hq-pics/">Inside Blizzard Headquarters [PICS]</a>
+For more pictures, check out: [Inside Blizzard Headquarters [PICS]](https://www.techxav.com/2009/12/22/inside-blizzard-hq-pics/).

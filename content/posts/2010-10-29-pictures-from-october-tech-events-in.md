@@ -10,41 +10,42 @@ tags:
   - Chicago
   - Software Development
   - Meetup
-thumbnail: https://3.bp.blogspot.com/-O0lbvGCN9P0/TLZpPDAMokI/AAAAAAAAa1Y/p3lDcp2iYAk/s600/IMG_3133.jpg
+old_thumbnail: https://3.bp.blogspot.com/-O0lbvGCN9P0/TLZpPDAMokI/AAAAAAAAa1Y/p3lDcp2iYAk/s600/IMG_3133.jpg
+thumbnail: /images/blog/tn_2010-october-tech.jpg
 title: Pictures from October Tech Events in Chicago
 ---
 
 
 ### Chicago Alt.net on October 13, 2010
 
-Event: <a href="https://chicagoalt.net/event/october-2010-meeting-specflow--one-step-closer-to-executable-specifications">SpecFlow: One Step closer to Executable Specifications</a><br />
-Speaker: <a href="https://twitter.com/sergiopereira">Sergio Pereira</a><br />
-<a href="https://sergiopereira.com/blog">https://sergiopereira.com/blog</a><br />
-<a href="https://chicagoalt.net/">Chicago Alt.net website</a><br />
+Event: [SpecFlow: One Step closer to Executable Specifications](https://chicagoalt.net/event/october-2010-meeting-specflow--one-step-closer-to-executable-specifications)\
+Speaker: [Sergio Pereira](https://twitter.com/sergiopereira)\
+[https://sergiopereira.com/blog](https://sergiopereira.com/blog)\
+[Chicago Alt.net website](https://chicagoalt.net/)
 
-<a href="https://3.bp.blogspot.com/-O0lbvGCN9P0/TLZpPDAMokI/AAAAAAAAa1Y/p3lDcp2iYAk/s600/IMG_3133.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-O0lbvGCN9P0/TLZpPDAMokI/AAAAAAAAa1Y/p3lDcp2iYAk/s320/IMG_3133.jpg" alt=""  /></a>
+![SpecFlow 1](/images/blog/IMG_3133.jpg)
 
-<a href="https://3.bp.blogspot.com/-5PACEHoEFxc/TLZpVg6Bd7I/AAAAAAAAa1o/PhYzORerEqk/s600/IMG_3135.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-5PACEHoEFxc/TLZpVg6Bd7I/AAAAAAAAa1o/PhYzORerEqk/s320/IMG_3135.jpg" alt=""  /></a>
+![SpecFlow 1](/images/blog/IMG_3135.jpg)
 
-<a href="https://3.bp.blogspot.com/-JvK_F14zty4/TLZpYUYRa1I/AAAAAAAAa1w/I7GSbKGXPsg/s600/IMG_3136.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-JvK_F14zty4/TLZpYUYRa1I/AAAAAAAAa1w/I7GSbKGXPsg/s320/IMG_3136.jpg" alt=""  /></a>
+![SpecFlow 1](/images/blog/IMG_3136.jpg)
 
-<a href="https://3.bp.blogspot.com/-WNcy9xV6sHA/TLZtJ8aNlzI/AAAAAAAAa2Y/9d_T0T3ptTc/s600/IMG_3139.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-WNcy9xV6sHA/TLZtJ8aNlzI/AAAAAAAAa2Y/9d_T0T3ptTc/s320/IMG_3139.jpg" alt=""  /></a>
+![SpecFlow 1](/images/blog/IMG_3139.jpg)
 
-<a href="https://2.bp.blogspot.com/-Jngut6fkkYA/TLZtP-k4TkI/AAAAAAAAa2o/UWX5xNAw1vE/s600/IMG_3141.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-Jngut6fkkYA/TLZtP-k4TkI/AAAAAAAAa2o/UWX5xNAw1vE/s320/IMG_3141.jpg" alt=""  /></a>
+![SpecFlow 1](/images/blog/IMG_3141.jpg)
 
-Full album <a href="https://picasaweb.google.com/sunpech/2010OctoberChicagoAltNetSergioPereiraOnSpecflow">here</a>.
+Full album [here](https://photos.app.goo.gl/myztJ34qe254Uyoq5).
 
 ### Chicago ACM on October 18, 2010
 
-Event: From Spider-Man to Avatar: Achieving Photoreal Digital Actors<br />
-Speaker: Paul Debevec from USC Institute for Creative Technologies <br />
-<a href="https://www.debevec.org/">www.debevec.org</a><br />
-<a href="https://www.chicagoacm.org/">Chicago ACM website</a>
+Event: From Spider-Man to Avatar: Achieving Photoreal Digital Actors\
+Speaker: Paul Debevec from USC Institute for Creative Technologies \
+[www.debevec.org](https://www.debevec.org/)\
+[Chicago ACM website](https://www.chicagoacm.org/)
 
-<a href="https://1.bp.blogspot.com/-oN1kNikh-Ug/TL1Bb7QQjsI/AAAAAAAAbXs/xgLPzA0AYjI/s600/IMG_20101018_170343.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-oN1kNikh-Ug/TL1Bb7QQjsI/AAAAAAAAbXs/xgLPzA0AYjI/s320/IMG_20101018_170343.jpg" alt=""  /></a>
+![Chicago ACM 1](/images/blog/IMG_20101018_170343.jpg)
 
-<a href="https://3.bp.blogspot.com/-QrBl9nwv1Ck/TL1Bd2J8sjI/AAAAAAAAbX0/vnAl1TvWg14/s600/IMG_20101018_170417.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-QrBl9nwv1Ck/TL1Bd2J8sjI/AAAAAAAAbX0/vnAl1TvWg14/s320/IMG_20101018_170417.jpg" alt=""  /></a>
+![Chicago ACM 2](/images/blog/IMG_20101018_170417.jpg)
 
-<a href="https://4.bp.blogspot.com/-a0R4chSMIpI/TL1BhOncOoI/AAAAAAAAbYE/go5UOZKkVc0/s600/IMG_20101018_170844.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-a0R4chSMIpI/TL1BhOncOoI/AAAAAAAAbYE/go5UOZKkVc0/s320/IMG_20101018_170844.jpg" alt=""  /></a>
+![Chicago ACM 3](/images/blog/IMG_20101018_170844.jpg)
 
-Full album <a href="https://picasaweb.google.com/sunpech/ChicagoACM">here</a>.
+Full album [here](https://photos.app.goo.gl/6g84qcuATCG5M7w96)

@@ -11,20 +11,24 @@ tags:
   - Software Development
   - Android
   - Guide
-thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/S1-JuvXb-TI/AAAAAAAAOEc/-7CpDZMLDBA/s600/Android_error_message_64bit.jpg
+old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/S1-JuvXb-TI/AAAAAAAAOEc/-7CpDZMLDBA/s600/Android_error_message_64bit.jpg
+thumbnail: /images/blog/tn_default.jpg
 title: Android SDK issue on Windows 7 x64
 ---
 
 
-I recently installed the <a href="https://developer.android.com/sdk/">Android SDK</a> and <a href="https://www.eclipse.org/downloads/">Eclipse</a> (32-bit) onto my Windows 7 Ultimate 64-bit machine.  First thing I wanted to do was go through the <a href="https://developer.android.com/guide/tutorials/hello-world.html">Android Hello World Tutorial</a>.
+I recently installed the [Android SDK](https://developer.android.com/sdk/) and [Eclipse](https://www.eclipse.org/downloads/) (32-bit) onto my Windows 7 Ultimate 64-bit machine.  First thing I wanted to do was go through the [Android Hello World Tutorial](https://developer.android.com/guide/tutorials/hello-world.html).
 
 Well, I ran into the following error message:
 
-<blockquote><span style="font-family: 'Courier New', Courier, monospace;">'java' is not recognized as an internal or external command, operable program, or batch file.  SWT folder '' does not exist.  Please set ANDROID_SWT to point to the folder containing swt.jar for your platform.</span></blockquote><a href="https://3.bp.blogspot.com/_7U5MdumP-no/S1-JuvXb-TI/AAAAAAAAOEc/-7CpDZMLDBA/s600-h/Android_error_message_64bit.jpg" alt=""  style="clear: left; display: inline !important; float: left; margin-bottom: 1em; margin-right: 1em;"><img   border="0" height="64" src="https://3.bp.blogspot.com/_7U5MdumP-no/S1-JuvXb-TI/AAAAAAAAOEc/-7CpDZMLDBA/s640/Android_error_message_64bit.jpg" alt=""  /></a>
 
 
-I read somewhere that I should install the x64 Java version.  However, when I went to <a href="https://www.java.com/en/download/manual.jsp">Java download page</a>, it didn't even have the x64 version available to download.  Turns out that the problem was that I was using <a href="https://www.google.com/chrome">Google Chrome</a> to browse there.  I had to use Internet Explorer (x64 bit version) to get the x64 Java link to even show up!
+> 'java' is not recognized as an internal or external command, operable program, or batch file.  SWT folder '' does not exist.  Please set ANDROID_SWT to point to the folder containing swt.jar for your platform.
 
-This worked for me, but you can check out the following link at StackOverflow:
 
-<a href="https://stackoverflow.com/questions/1919340/android-sdk-setup-under-windows-7-pro-64-bit">https://stackoverflow.com/questions/1919340/android-sdk-setup-under-windows-7-pro-64-bit</a>
+![Android Error Message 64-bit](/images/blog/Android_error_message_64bit.jpg)
+
+
+I read somewhere that I should install the x64 Java version.  However, when I went to [Java download page](https://www.java.com/en/download/manual.jsp), it didn't even have the x64 version available to download.  Turns out that the problem was that I was using [Google Chrome](https://www.google.com/chrome) to browse there.  I had to use Internet Explorer (x64 bit version) to get the x64 Java link to even show up!
+
+This worked for me, but you can check out the following link at StackOverflow: [https://stackoverflow.com/questions/1919340/android-sdk-setup-under-windows-7-pro-64-bit](https://stackoverflow.com/questions/1919340/android-sdk-setup-under-windows-7-pro-64-bit)

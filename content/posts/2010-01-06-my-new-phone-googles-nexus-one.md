@@ -10,33 +10,34 @@ tags:
   - Technology
   - Android
   - Google
-thumbnail: https://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s600/IMG_0115.JPG
+old_thumbnail: https://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s600/IMG_0115.JPG
+thumbnail: /images/blog/tn_nexus-one.jpg
 title: 'My New Phone: Google''s Nexus One'
 ---
 
 
-Yesterday Google gave a presentation on the Google Nexus One.  I watched it on the <a href="https://live.gizmodo.com/">Gizmodo Liveblog</a>.  Ten minutes after reading the blog and looking at the pictures, I was sold.  I knew I was eventually going to get it, but I didn't know until that moment that that was the moment I was going to get it.
+Yesterday Google gave a presentation on the Google Nexus One.  I watched it on the [Gizmodo Liveblog](https://live.gizmodo.com/).  Ten minutes after reading the blog and looking at the pictures, I was sold.  I knew I was eventually going to get it, but I didn't know until that moment that that was the moment I was going to get it.
 
 I bought the phone yesterday, 1/5/2010, at 1:05pm.  Overnight FedEx shipping (free).  It arrived today at 1:22pm.  Awesome.
 
-The Nexus One can be purchased here: <a href="https://www.google.com/phone">https://www.google.com/phone</a>
+The Nexus One can be purchased here: [https://www.google.com/phone](https://www.google.com/phone)
 
-<a href="https://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s600/IMG_0115.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s600/IMG_0115.jpg" alt="" /></a>
+![Phone 1](/images/blog/IMG_0114.jpg)
 
-<a href="https://2.bp.blogspot.com/-cuUyyetoHGE/S0VhxRM6e7I/AAAAAAAAN7o/xHEE2YUhpXw/s600/IMG_0116.jpg" alt=""><img   border="0" src="https://2.bp.blogspot.com/-cuUyyetoHGE/S0VhxRM6e7I/AAAAAAAAN7o/xHEE2YUhpXw/s600/IMG_0116.jpg" alt=""   /></a>
+![Phone 2](/images/blog/IMG_0115.jpg)
 
-<a href="https://3.bp.blogspot.com/-oG74-SnRlzs/S0Vhx65gF7I/AAAAAAAAN7s/ZHoDbylKgGQ/s600/IMG_0117.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-oG74-SnRlzs/S0Vhx65gF7I/AAAAAAAAN7s/ZHoDbylKgGQ/s600/IMG_0117.jpg" alt=""   /></a>
+![Phone 3](/images/blog/IMG_0116.jpg)
 
-<a href="https://2.bp.blogspot.com/-gfKCeQMPjY4/S0VhyOqfAQI/AAAAAAAAN7w/vIach-UdiNQ/s600/IMG_0118.jpg" alt=""><img   border="0" src="https://2.bp.blogspot.com/-gfKCeQMPjY4/S0VhyOqfAQI/AAAAAAAAN7w/vIach-UdiNQ/s600/IMG_0118.jpg" alt=""   /></a>
+![Phone 4](/images/blog/IMG_0117.jpg)
 
-<a href="https://2.bp.blogspot.com/-lB4XMZX1JmY/S0VhyU_EfqI/AAAAAAAAN70/bhNSJxeGlls/s600/IMG_0119.jpg" alt=""><img   border="0" src="https://2.bp.blogspot.com/-lB4XMZX1JmY/S0VhyU_EfqI/AAAAAAAAN70/bhNSJxeGlls/s600/IMG_0119.jpg" alt=""   /></a>
+![Phone 5](/images/blog/IMG_0118.jpg)
 
-<a href="https://4.bp.blogspot.com/-i32GHsKtmmE/S0VhyqNMNuI/AAAAAAAAN74/GaFqWFK25wg/s600/IMG_0120.jpg" alt=""><img   border="0" src="https://4.bp.blogspot.com/-i32GHsKtmmE/S0VhyqNMNuI/AAAAAAAAN74/GaFqWFK25wg/s600/IMG_0120.jpg" alt=""   /></a>
+![Phone 6](/images/blog/IMG_0119.jpg)
 
-<a href="https://3.bp.blogspot.com/-dS-Jz5TbKDo/S0Vhy2PcKmI/AAAAAAAAN78/W7gGUpkXSGI/s600/IMG_0124.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-dS-Jz5TbKDo/S0Vhy2PcKmI/AAAAAAAAN78/W7gGUpkXSGI/s600/IMG_0124.jpg" alt=""   /></a>
+![Phone 7](/images/blog/IMG_0120.jpg)
 
-<a href="https://3.bp.blogspot.com/-fah4M6iQWRg/S0VhzNMp3xI/AAAAAAAAN8A/rO1m74iqqmA/s600/IMG_0114.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-fah4M6iQWRg/S0VhzNMp3xI/AAAAAAAAN8A/rO1m74iqqmA/s600/IMG_0114.jpg" alt=""   /></a>
+![Phone 8](/images/blog/IMG_0124.jpg)
 
-<a href="https://3.bp.blogspot.com/-sJv5nliFM7I/S0VlVyHoxTI/AAAAAAAAN9I/-aQ9SnBMHzU/s600/IMG_0128.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-sJv5nliFM7I/S0VlVyHoxTI/AAAAAAAAN9I/-aQ9SnBMHzU/s600/IMG_0128.jpg" alt=""   /></a>
+![Phone 9](/images/blog/IMG_0128.jpg)
 
-<a href="https://4.bp.blogspot.com/-cN3l_qkvyQo/S0VlWIklHCI/AAAAAAAAN9M/mtjzVHzb1Ds/s600/IMG_0129.jpg" alt=""><img   border="0" src="https://4.bp.blogspot.com/-cN3l_qkvyQo/S0VlWIklHCI/AAAAAAAAN9M/mtjzVHzb1Ds/s600/IMG_0129.jpg" alt=""   /></a>
+![Phone 10](/images/blog/IMG_0129.jpg)

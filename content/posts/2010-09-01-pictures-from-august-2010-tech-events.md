@@ -10,7 +10,8 @@ tags:
   - Chicago
   - Software Development
   - Meetup
-thumbnail: https://4.bp.blogspot.com/-sc46VNkERnw/TFjFkiFetVI/AAAAAAAAUzc/qpO0N8edO9U/s600/IMG_1799.JPG
+old_thumbnail: https://4.bp.blogspot.com/-sc46VNkERnw/TFjFkiFetVI/AAAAAAAAUzc/qpO0N8edO9U/s600/IMG_1799.JPG
+thumbnail: /images/blog/tn_2010-tech-events.jpg
 title: Pictures from the August 2010 Tech Events in Chicago
 ---
 
@@ -20,72 +21,72 @@ I was on a bit of a vacation in July so I forgot to post August events before th
 ### Chicago Ruby Meetup on August 3, 2010
 Presentations on: Agile with Pivotal Tracker and jQuery and Rails 3.0
 
-<a href="https://4.bp.blogspot.com/-sc46VNkERnw/TFjFkiFetVI/AAAAAAAAUzc/qpO0N8edO9U/s600/IMG_1799.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-sc46VNkERnw/TFjFkiFetVI/AAAAAAAAUzc/qpO0N8edO9U/s320/IMG_1799.jpg" alt=""  /></a>
+![Chicago Ruby 1](/images/blog/IMG_1799.jpg)
 
-<a href="https://1.bp.blogspot.com/-xagLEuGPMiQ/TFjFpQAUzaI/AAAAAAAAUzw/Ao2oVleLF9A/s600/IMG_1801.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-xagLEuGPMiQ/TFjFpQAUzaI/AAAAAAAAUzw/Ao2oVleLF9A/s320/IMG_1801.jpg" alt=""  /></a>
+![Chicago Ruby 2](/images/blog/IMG_1801.jpg)
 
-<a href="https://2.bp.blogspot.com/-PATiKp7CkwU/TFjFrS8ZmSI/AAAAAAAAUz4/aAD9d9QPTUM/s600/IMG_1802.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-PATiKp7CkwU/TFjFrS8ZmSI/AAAAAAAAUz4/aAD9d9QPTUM/s320/IMG_1802.jpg" alt=""  /></a>
+![Chicago Ruby 3](/images/blog/IMG_1802.jpg)
 
-<a href="https://4.bp.blogspot.com/-WhJDRNUFQ_c/TFjFvjoHtGI/AAAAAAAAU0I/gu7jh9Q5Cq4/s600/IMG_1805.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-WhJDRNUFQ_c/TFjFvjoHtGI/AAAAAAAAU0I/gu7jh9Q5Cq4/s320/IMG_1805.jpg" alt=""  /></a>
+![Chicago Ruby 4](/images/blog/IMG_1805.jpg)
 
-<a href="https://1.bp.blogspot.com/-hzcfm2tfO7o/TFjFxckpSLI/AAAAAAAAU0Q/ZC6gc5S7_0Q/s600/IMG_1806.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-hzcfm2tfO7o/TFjFxckpSLI/AAAAAAAAU0Q/ZC6gc5S7_0Q/s320/IMG_1806.jpg" alt=""  /></a>
+![Chicago Ruby 5](/images/blog/IMG_1806.jpg)
 
-Full album <a href="https://picasaweb.google.com/sunpech/2010August3ChicagoRubyMeetup">here</a>.
+Full album [here](https://photos.app.goo.gl/Gr5yrxA7HU7LsTpo8).
 
 ### Chicago Alt.net on August 11, 2010
-<a href="https://twitter.com/FAWAD">Fawad Halim</a> gave a presentation on <a href="https://chicagoalt.net/event/August2010Meeting-Python-for-NET-Developers">Python for .Net Developers</a>.
+[Fawad Halim](https://twitter.com/FAWAD) gave a presentation on [Python for .Net Developers](https://chicagoalt.net/event/August2010Meeting-Python-for-NET-Developers).
 
-<a href="https://3.bp.blogspot.com/-_4DJQiXbliI/TGNn74P1sgI/AAAAAAAAU6E/qwmBjmH2JIM/s600/IMG_1812.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-_4DJQiXbliI/TGNn74P1sgI/AAAAAAAAU6E/qwmBjmH2JIM/s320/IMG_1812.jpg" alt=""  /></a>
+![Python for .Net Developers 1](/images/blog/IMG_1812.jpg)
 
-<a href="https://4.bp.blogspot.com/-YH6H7wOfAkI/TGNoB1_csgI/AAAAAAAAU6Y/LR35Quwv2fc/s600/IMG_1818.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-YH6H7wOfAkI/TGNoB1_csgI/AAAAAAAAU6Y/LR35Quwv2fc/s320/IMG_1818.jpg" alt=""  /></a>
+![Python for .Net Developers 2](/images/blog/IMG_1818.jpg)
 
-<a href="https://2.bp.blogspot.com/-9EpLszfRBrE/TGNoC1WASMI/AAAAAAAAU6g/BCYB4tjTyaQ/s600/IMG_1821.CR2.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-9EpLszfRBrE/TGNoC1WASMI/AAAAAAAAU6g/BCYB4tjTyaQ/s320/IMG_1821.CR2.jpg" alt=""  /></a>
+![Python for .Net Developers 3](/images/blog/IMG_1821.jpg)
 
-<a href="https://1.bp.blogspot.com/-B43uA8w4PhI/TGNqV4NDniI/AAAAAAAAU7o/ShvY4rEKy7M/s600/IMG_1827.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-B43uA8w4PhI/TGNqV4NDniI/AAAAAAAAU7o/ShvY4rEKy7M/s320/IMG_1827.jpg" alt=""  /></a>
+![Python for .Net Developers 4](/images/blog/IMG_1827.jpg)
 
-Full album <a href="https://picasaweb.google.com/sunpech/2010AugustChicagoAltNetFawadHalimPythonForNetDevelopers">here</a>.
+Full album [here](https://photos.app.goo.gl/LfA9u3iJ5TuooukR9).
 
 ### Spiked Cocoa Event on August 19, 2010
 
-<a href="https://www.fadingred.com/">Fading Red</a> hosted a <a href="https://spikedcocoa.com/">Spiked Cocoa</a> event.  It was pretty interesting as this was the first time I went to an event that comprised mostly of Apple enthusiasts/developers.  I must say it was a different crowd than Microsoft/.Net, Android/Java, and the Ruby guys.  Which is a good thing.  In attendance with me were: <a href="https://twitter.com/escoz">@escoz</a>, <a href="https://twitter.com/bwilken">@bwilken</a>, and <a href="https://twitter.com/klmcmahon">@klmcmahon</a>.
+[Fading Red](https://www.fadingred.com/) hosted a [Spiked Cocoa](https://spikedcocoa.com/) event.  It was pretty interesting as this was the first time I went to an event that comprised mostly of Apple enthusiasts/developers.  I must say it was a different crowd than Microsoft/.Net, Android/Java, and the Ruby guys.  Which is a good thing.  In attendance with me were: [@escoz](https://twitter.com/escoz), [@bwilken](https://twitter.com/bwilken), and [@klmcmahon](https://twitter.com/klmcmahon).
 
-Presentations (<i>lightning talks</i> as they called it) from the website:
-<ul>
-  <li><a href="https://twitter.com/rentzsch">@rentzsch</a> on Core Data</li>
-  <li><a href="https://twitter.com/mccarron">@mccarron</a> on Converting Apps from iPhone to iPad</li>
-  <li><a href="https://twitter.com/hammerdr">@hammerdr</a> on Cappucinno</li>
-</ul>
+Presentations (*lightning talks* as they called it) from the website:
 
-<a href="https://4.bp.blogspot.com/-GT9j-Wcxvsc/TG4RN-HaOLI/AAAAAAAAVLE/Q83YZfphe_A/s600/IMG_1882.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-GT9j-Wcxvsc/TG4RN-HaOLI/AAAAAAAAVLE/Q83YZfphe_A/s320/IMG_1882.jpg" alt=""  /></a>
+* [@rentzsch](https://twitter.com/rentzsch) on Core Data
+* [@mccarron](https://twitter.com/mccarron) on Converting Apps from iPhone to iPad
+* [@hammerdr](https://twitter.com/hammerdr) on Cappucinno
 
-<a href="https://2.bp.blogspot.com/-CYwfQ1HRlyg/TG4VUOmN3_I/AAAAAAAAVLw/IjwxB1H3Yi4/s600/IMG_1899.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-CYwfQ1HRlyg/TG4VUOmN3_I/AAAAAAAAVLw/IjwxB1H3Yi4/s320/IMG_1899.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-vjPzNLnK6D0/TG4Wb1NiOHI/AAAAAAAAVMI/WBCF1F5SUrY/s600/IMG_1905.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-vjPzNLnK6D0/TG4Wb1NiOHI/AAAAAAAAVMI/WBCF1F5SUrY/s320/IMG_1905.jpg" alt=""  /></a>
+![Spiked Cococa 1](/images/blog/IMG_1882.jpg)
 
-<a href="https://1.bp.blogspot.com/--nC8qgYl7GQ/TG4ZCYBBxxI/AAAAAAAAVNk/7ETY2TQSzPk/s600/IMG_1930.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/--nC8qgYl7GQ/TG4ZCYBBxxI/AAAAAAAAVNk/7ETY2TQSzPk/s320/IMG_1930.jpg" alt=""  /></a>
+![Spiked Cococa 2](/images/blog/IMG_1899.jpg)
 
-<a href="https://3.bp.blogspot.com/-iHrxCwyfcbM/TG4ZGCtFxaI/AAAAAAAAVNs/MQ6DUJDzCnQ/s600/IMG_1933.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-iHrxCwyfcbM/TG4ZGCtFxaI/AAAAAAAAVNs/MQ6DUJDzCnQ/s320/IMG_1933.jpg" alt=""  /></a>
+![Spiked Cococa 3](/images/blog/IMG_1905.jpg)
 
-<a href="https://1.bp.blogspot.com/-fLTxcVZ_NbQ/TG4ZJ9tTstI/AAAAAAAAVN0/tzLhac1Bkrs/s600/IMG_1935.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-fLTxcVZ_NbQ/TG4ZJ9tTstI/AAAAAAAAVN0/tzLhac1Bkrs/s320/IMG_1935.jpg" alt=""  /></a>
+![Spiked Cococa 4](/images/blog/IMG_1930.jpg)
 
-<a href="https://1.bp.blogspot.com/-dxJ9_lq35Uw/TG4aPvh8zNI/AAAAAAAAVOQ/dNRSAUUjqKk/s600/IMG_1938.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-dxJ9_lq35Uw/TG4aPvh8zNI/AAAAAAAAVOQ/dNRSAUUjqKk/s320/IMG_1938.jpg" alt=""  /></a>
+![Spiked Cococa 5](/images/blog/IMG_1933.jpg)
 
-<a href="https://3.bp.blogspot.com/-Rn_PRbND8Ww/TG4bXOSL3OI/AAAAAAAAVOk/nZxyd0PD188/s600/IMG_1944.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-Rn_PRbND8Ww/TG4bXOSL3OI/AAAAAAAAVOk/nZxyd0PD188/s320/IMG_1944.jpg" alt=""  /></a>
+![Spiked Cococa 6](/images/blog/IMG_1935.jpg)
 
-Full album <a href="https://picasaweb.google.com/sunpech/2010August19SpikedCocoaEvent">here</a>.
+![Spiked Cococa 7](/images/blog/IMG_1938.jpg)
+
+![Spiked Cococa 8](/images/blog/IMG_1944.jpg)
+
+Full album [here](https://photos.app.goo.gl/ZbQf74N4H74PGJfj9).
 
 ### Software Craftsman that happen to like whiskey on August 31, 2010
 
-<a href="https://twitter.com/bwilken/">@bwilken</a> put together a meetup at The Boiler Room at 2210 North California Avenue, Chicago.  It was a very casual and laid back event for software craftsman.  The PB&amp;J was awesome too.  PB&amp;J = Pizza, Beer, &amp; Jameson.
+[@bwilken](https://twitter.com/bwilken/) put together a meetup at The Boiler Room at 2210 North California Avenue, Chicago.  It was a very casual and laid back event for software craftsman.  The PB&amp;J was awesome too.  PB&amp;J = Pizza, Beer, &amp; Jameson.
 
-<a href="https://3.bp.blogspot.com/-oN-FO2_I1y4/TH3oCVApm-I/AAAAAAAAWco/fLTqQjsvf_Q/s600/IMG_2256.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-oN-FO2_I1y4/TH3oCVApm-I/AAAAAAAAWco/fLTqQjsvf_Q/s320/IMG_2256.jpg" alt=""  /></a>
+![Software Craftsman 1](/images/blog/IMG_2256.jpg)
 
-<a href="https://1.bp.blogspot.com/-v-aWUcadXHM/TH3oO4XRBNI/AAAAAAAAWdM/Lqy3664OfuA/s600/IMG_2259.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-v-aWUcadXHM/TH3oO4XRBNI/AAAAAAAAWdM/Lqy3664OfuA/s320/IMG_2259.jpg" alt=""  /></a>
+![Software Craftsman 2](/images/blog/IMG_2259.jpg)
 
-<a href="https://3.bp.blogspot.com/-Wa7XXMQBIzs/TH32Af1gU3I/AAAAAAAAWeA/jORrdLhX0Gk/s600/IMG_2262.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-Wa7XXMQBIzs/TH32Af1gU3I/AAAAAAAAWeA/jORrdLhX0Gk/s320/IMG_2262.jpg" alt=""  /></a>
+![Software Craftsman 3](/images/blog/IMG_2262.jpg)
 
-<a href="https://4.bp.blogspot.com/-7rH47q7f1Zw/TH32FdbloBI/AAAAAAAAWeM/uCUM5frHcI8/s600/IMG_2263.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-7rH47q7f1Zw/TH32FdbloBI/AAAAAAAAWeM/uCUM5frHcI8/s320/IMG_2263.jpg" alt=""  /></a>
+![Software Craftsman 4](/images/blog/IMG_2263.jpg)
 
-<a href="https://1.bp.blogspot.com/-zbyTiRQiaR0/TH33QX2wsoI/AAAAAAAAWes/PKLt1P7csgk/s600/IMG_2266.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-zbyTiRQiaR0/TH33QX2wsoI/AAAAAAAAWes/PKLt1P7csgk/s320/IMG_2266.jpg" alt=""  /></a>
+![Software Craftsman 5](/images/blog/IMG_2266.jpg)
 
-Full album <a href="https://picasaweb.google.com/sunpech/2010August31SoftwareCraftsmanWhiskeyEvent">here</a>.
+Full album [here](https://photos.app.goo.gl/aWc44d1DTMaJ2twD7).

@@ -9,15 +9,16 @@ redirect_from: /2010/02/programmer-cartoon-your-company-app.html
 tags:
   - Software Development
   - Funny
-thumbnail: https://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s600/intapplications.jpg
+old_thumbnail: https://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s600/intapplications.jpg
+thumbnail: /images/blog/tn_your-company-app.jpg
 title: 'Programmer Cartoon: Your Company App'
 ---
 
 
-I was watching <a href="https://www.youtube.com/watch?v=NWHfY_lvKIQ">Joel Spolsky Tech Talk at Google about StackOverflow</a>, and he brought up a URL on "programmer cartoon".  The link is: <a href="https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon">https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon</a>.
+I was watching [Joel Spolsky Tech Talk at Google about StackOverflow](https://www.youtube.com/watch?v=NWHfY_lvKIQ), and he brought up a URL on "programmer cartoon".  The link is: [https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon](https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon).
 
 This may be my new favorite...
 
-<a href="https://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s600/intapplications.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s600/intapplications.jpg" alt=""  /></a>
+![Your Company App](/images/blog/intapplications.jpg)
 
-Here is the original link to the comic post:<a href="https://stuffthathappens.com/blog/2008/03/05/simplicity/">https://stuffthathappens.com/blog/2008/03/05/simplicity/</a>
+Here is the original link to the comic post: [https://stuffthathappens.com/blog/2008/03/05/simplicity/](https://stuffthathappens.com/blog/2008/03/05/simplicity/)

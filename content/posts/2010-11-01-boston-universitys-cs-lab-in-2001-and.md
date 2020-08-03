@@ -8,7 +8,8 @@ redirect_from: /2010/11/boston-universitys-cs-lab-in-2001-and.html
 tags:
   - Boston
   - Funny
-thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SMSIl-Lcz5I/AAAAAAAAcTg/0IsD2RutCFo/s600/nt_side.jpg
+old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SMSIl-Lcz5I/AAAAAAAAcTg/0IsD2RutCFo/s600/nt_side.jpg
+thumbnail: /images/blog/tn_boston-university-computer-lab.jpg
 title: Boston University's CS lab in 2001 and 2010
 ---
 
@@ -18,15 +19,19 @@ In September 2010, I had the opportunity to visit Boston as part of my All-You-C
 ### Back in 2001:
 
 Windows machines running Windows 2000 Prof.
-<a href="https://3.bp.blogspot.com/_7U5MdumP-no/SMSIl-Lcz5I/AAAAAAAAcTg/0IsD2RutCFo/s144/nt_side.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/_7U5MdumP-no/SMSIl-Lcz5I/AAAAAAAAcTg/0IsD2RutCFo/s400/nt_side.jpg" alt=""  /></a>
+
+![Windows 2000 Prof](/images/blog/nt_side.jpg)
 
 Solaris machines
-<a href="https://3.bp.blogspot.com/_7U5MdumP-no/SMSIlvVhB-I/AAAAAAAAcTg/pchWxt9tAGA/s144/solaris_side.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/_7U5MdumP-no/SMSIlvVhB-I/AAAAAAAAcTg/pchWxt9tAGA/s400/solaris_side.jpg" alt=""  /></a> 
+
+![Solaris machines](/images/blog/solaris_side.jpg)
 
 ### Now in 2010:
 
 Windows machines
-<a href="https://1.bp.blogspot.com/_7U5MdumP-no/TIt5Z-hpcDI/AAAAAAAAW_s/s--t8pnAFkQ/s144/IMG_2377.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/_7U5MdumP-no/TIt5Z-hpcDI/AAAAAAAAW_s/s--t8pnAFkQ/s400/IMG_2377.jpg" alt=""   /></a> 
+
+![Windows machines](/images/blog/IMG_2377.jpg)
 
 Computers running BU Linux
-<a href="https://1.bp.blogspot.com/_7U5MdumP-no/TIt5bNbDmLI/AAAAAAAAW_0/OPDw7Q2ci1U/s144/IMG_2378.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/_7U5MdumP-no/TIt5bNbDmLI/AAAAAAAAW_0/OPDw7Q2ci1U/s400/IMG_2378.jpg" alt=""   /></a> 
+
+![BU Linux](/images/blog/IMG_2378.jpg) 

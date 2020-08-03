@@ -10,34 +10,35 @@ tags:
   - Chicago
   - Software Development
   - Meetup
+thumbnail: /images/blog/tn_default.jpg
 title: June 2010 Tech Events in Chicago
 ---
 
 
 A decent amount of Tech events for the month of June here in Chicago:
 
-<b>Wednesday, June 02, 2010 from 6:00 PM - 8:00 PM (CT)</b><br />
-MVVM with Damon Payne<br />
-<a href="https://chicagosilverlight.eventbrite.com/">The Chicago Silverlight User Group</a> (Eventbrite link)
+**Wednesday, June 02, 2010 from 6:00 PM - 8:00 PM (CT)**\
+MVVM with Damon Payne\
+[The Chicago Silverlight User Group](https://chicagosilverlight.eventbrite.com/) (Eventbrite link)
 
-<b>Tuesday, June 8, 2010 from 5:30PM - 7:30PM (CT)</b><br />
-<a href="https://www.meetup.com/Chicago-APM">Chicago Agile Project Management Meetup Group</a>
+**Tuesday, June 8, 2010 from 5:30PM - 7:30PM (CT)**\
+[Chicago Agile Project Management Meetup Group](https://www.meetup.com/Chicago-APM)
 
-<b>Wednesday, June 09, 2010 from 6:00 PM - 8:30 PM (CT)</b><br />
-Well Behaved JavaScript With Screw.Unit<br />
-<a href="https://altnetchicago-groupsite.eventbrite.com/">Chicago Alt.net</a> (Eventbrite link)
+**Wednesday, June 09, 2010 from 6:00 PM - 8:30 PM (CT)**\
+Well Behaved JavaScript With Screw.Unit\
+[Chicago Alt.net](https://altnetchicago-groupsite.eventbrite.com/) (Eventbrite link)
 
-<b>Friday, June 11, 2010 from 8:15 AM - 6:00 PM (CT)</b><br />
-<b>Saturday, June 12, 2010 from 8:15 AM - 8:00 PM (CT)</b><br />
-<a href="https://www.msregistration.com/content/eventselection.asp?eventid=22557&amp;CcpSubsiteID=181&amp;vdid=432">Microsoft Web Camps</a>
+**Friday, June 11, 2010 from 8:15 AM - 6:00 PM (CT)**\
+**Saturday, June 12, 2010 from 8:15 AM - 8:00 PM (CT)**\
+[Microsoft Web Camps](https://www.msregistration.com/content/eventselection.asp?eventid=22557&amp;CcpSubsiteID=181&amp;vdid=432)
 
-<b>Wednesday, June 16, 2010 from 5:30 PM - 8:00 PM (CT)</b><br />
-<a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032454984&amp;Culture=en-US">Visual Studio User Group Presents: A first look at Microsoft’s Scrum Process template with Richard Hundhausen</a>
+**Wednesday, June 16, 2010 from 5:30 PM - 8:00 PM (CT)**\
+[Visual Studio User Group Presents: A first look at Microsoft’s Scrum Process template with Richard Hundhausen](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032454984&amp;Culture=en-US)
 
-<b>Thursday, June 24, 2010 from 6:30 PM - 9:00 PM (CT)</b><br />
-<a href="https://mobiletechcocktailchicago2.eventbrite.com/">Mobile TECH cocktail Chicago 2 presented by Microsoft Windows Phone 7</a> (Eventbrite link)
+**Thursday, June 24, 2010 from 6:30 PM - 9:00 PM (CT)**\
+[Mobile TECH cocktail Chicago 2 presented by Microsoft Windows Phone 7](https://mobiletechcocktailchicago2.eventbrite.com/) (Eventbrite link)
 
-<b>Wednesday, June 30, 2010 at 6:00 PM (CT</b><br />
-<a href="https://www.meetup.com/QAtools/">Performance and Automation Testing Meetup</a> (Meetup link)
+**Wednesday, June 30, 2010 at 6:00 PM (CT**\
+[Performance and Automation Testing Meetup](https://www.meetup.com/QAtools/) (Meetup link)
 
-<i>Note: I'll be sure to add more events as I find them.</i>
+*Note: I'll be sure to add more events as I find them.*

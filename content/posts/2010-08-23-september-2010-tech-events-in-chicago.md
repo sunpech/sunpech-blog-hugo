@@ -10,37 +10,38 @@ tags:
   - Chicago
   - Software Development
   - Meetup
+thumbnail: /images/blog/tn_default.jpg
 title: September 2010 Tech Events in Chicago
 ---
 
 
-<a href="https://www.nerddinner.com/2850">NerdDinner Chicago - .NET Enthusiasts Unite !!!!</a><br />
+[NerdDinner Chicago - .NET Enthusiasts Unite !!!!](www.nerddinner.com/2850")\
 Wednesday, September 1, 2010 at 6:15 PM (CT)
 
-<a href="https://chicagoruby.org/">Chicago Ruby</a><br />
-Tuesday, September 7, 2010 from 6:00 PM - 8:00 PM (CT)<br />
-There will be a meetup on <a href="https://www.meetup.com/ChicagoRuby/calendar/13617875/">Mongoid &amp; Rails 3</a>.
+[Chicago Ruby](chicagoruby.org/)\
+Tuesday, September 7, 2010 from 6:00 PM - 8:00 PM (CT)\
+There will be a meetup on [](www.meetup.com/ChicagoRuby/calendar/13617875/">Mongoid &amp; Rails 3</a>.
 
-<a href="https://chicagoalt.net/Home">Chicago Alt.net</a><br />
-Wednesday, September 8, 2010 from 6:00 PM - 9:00 PM (CT)<br />
-Should be a talk about <a href="https://seleniumhq.org/">Selenium</a> by <a href="https://twitter.com/bwilken">@bwilken</a>.
+[Chicago Alt.net](chicagoalt.net/Home)\
+Wednesday, September 8, 2010 from 6:00 PM - 9:00 PM (CT)\
+Should be a talk about [](seleniumhq.org/">Selenium</a> by [](twitter.com/bwilken">@bwilken</a>.
 
-<a href="https://www.meetup.com/ChicagoRuby/calendar/13432737/">Chicago Ruby Hack Night</a><br />
+[Chicago Ruby Hack Night](www.meetup.com/ChicagoRuby/calendar/13432737/)\
 Thursday, September 9, 2010 from 5:30 PM - 8:00 PM (CT)
 
-<a href="https://windycityrails.org/">Windy City Rails</a><br />
-Saturday, September 11, 2010 from 8:00 AM - 6:00 PM (CT)<br />
+[Windy City Rails](windycityrails.org/)\
+Saturday, September 11, 2010 from 8:00 AM - 6:00 PM (CT)\
 Unfortunately I won't be able to attend this event as I'll be at Tech in the Middle event.  I'd like to be able to attend this event on the same day, but the ticket prices are a bit high for me.
 
-<a href="https://techinthemiddle.com/"><s>Tech in the Middle 2010</s></a><br />
-<u><s>Saturday, September 11, 2010 from 9:00 AM - 5:00 PM (CT)</s></u><br />
-<u><s>I will be attending this event.  I haven't planned my schedule for the day yet, but I'm looking forward to this event.  I'll be sure to bring my camera there too.</s></u>
-<span style="color: red;"><b>This event has been postponed to Spring 2011!</b></span>
+~~[Tech in the Middle 2010](techinthemiddle.com/)~~\
+~~Saturday, September 11, 2010 from 9:00 AM - 5:00 PM (CT)~~\
+~~I will be attending this event.  I haven't planned my schedule for the day yet, but I'm looking forward to this event.  I'll be sure to bring my camera there too.~~
+**This event has been postponed to Spring 2011!**
 
-<a href="https://www.meetup.com/Chicago-APM/calendar/13164567/">Chicago Agile Project Management Meetup Group Monthly Meetup</a><br />
+[Chicago Agile Project Management Meetup Group Monthly Meetup](www.meetup.com/Chicago-APM/calendar/13164567/)\
 Tuesday, September 14, 2010 from 5:30 PM to 8:00 PM (CT)
 
-<a href="https://chicagoandroid20100925.eventbrite.com/">Chicago Android training by Mark Murphy #2</a><br />
+[Chicago Android training by Mark Murphy #2](chicagoandroid20100925.eventbrite.com/)\
 Saturday, September 25, 2010 from 8:00 AM - 5:00 PM (CT)
 
-<i>Note: Of course I'll add more events as I find out about them.</i>
+*Note: Of course I'll add more events as I find out about them.*

@@ -18,10 +18,10 @@ I just finished rooting my Nexus One and installed Thai fonts onto it.  I had to
 
 Here's how to do it:
 
-Step 1: Root your phone.  You can read about that and watch a video: <a href="https://androidandme.com/2010/01/hacks/video-how-to-unlock-and-root-a-nexus-one/">Video: How to unlock and root a Nexus One</a>.
+Step 1: Root your phone.  You can read about that and watch a video: [Video: How to unlock and root a Nexus One](https://androidandme.com/2010/01/hacks/video-how-to-unlock-and-root-a-nexus-one/).
 
-Step 2: Watch the Thai video of how this guy did it.  <a href="https://www.youtube.com/watch?v=Eisltouk2Zw">Thai font for Nexus One</a>.  I also downloaded the Thai fonts <a href="https://sites.google.com/site/ohmrefresh/fonts.zip?attredirects=0&d=1">here</a> (source: <a href="https://www.droidsans.com/node/1279">Droidsans.com</a>).  You can read and see pics of the steps too at: <a href="https://www.pdamobiz.com/forum/forum_posts.asp?TID=276942&PN=1">Android Review: แกะกล่อง Nexus One ฉบับย่อ พร้อม Root ลงไทย By PDAMobiz</a>.
+Step 2: Watch the Thai video of how this guy did it.  [Thai font for Nexus One](https://www.youtube.com/watch?v=Eisltouk2Zw).  I also downloaded the Thai fonts [here](https://sites.google.com/site/ohmrefresh/fonts.zip?attredirects=0&d=1) (source: [Droidsans.com](https://www.droidsans.com/node/1279)).  You can read and see pics of the steps too at: [Android Review: แกะกล่อง Nexus One ฉบับย่อ พร้อม Root ลงไทย By PDAMobiz](https://www.pdamobiz.com/forum/forum_posts.asp?TID=276942&PN=1).
 
-<div class="video-container"><iframe width="420" height="315" src="https://www.youtube.com/embed/Eisltouk2Zw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{{< youtube id="Eisltouk2Zw" autoplay="false" >}}
 
 Awesome.
