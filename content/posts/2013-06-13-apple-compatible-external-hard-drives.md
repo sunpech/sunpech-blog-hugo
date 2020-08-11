@@ -10,7 +10,7 @@ tags:
   - Apple
   - Review
   - Technology
-thumbnail: https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s600/Screen+Shot+2013-06-13+at+1.26.39+AM.png
+thumbnail: https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s800/Screen+Shot+2013-06-13+at+1.26.39+AM.png
 title: Apple Compatible External Hard Drives Are Over-Priced
 ---
 
@@ -22,29 +22,29 @@ I'd like to focus on the external hard drives, since they are currently priced d
 Comparing 1TB and 2TB external USB 3. 0 Hard Drives for Macs from Amazon and Apple's web stores:
 
 #### 1TB: $116 (Amazon)
-<a href="https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s600/Screen+Shot+2013-06-13+at+1.26.39+AM.png" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s400/Screen+Shot+2013-06-13+at+1.26.39+AM.png" alt="" /></a>
+<a href="https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s800/Screen+Shot+2013-06-13+at+1.26.39+AM.png" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s400/Screen+Shot+2013-06-13+at+1.26.39+AM.png" alt="" /></a>
 
 <i>(Note: above product not sold directly from Amazon, but a reseller)</i>
 
 #### 1TB: $120 (Apple)
-<a href="https://2.bp.blogspot.com/-UF3F3jI50qA/UbmVlw4WGXI/AAAAAAABdPk/mysMjE5gNUk/s600/Screen+Shot+2013-06-13+at+2.48.30+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-UF3F3jI50qA/UbmVlw4WGXI/AAAAAAABdPk/mysMjE5gNUk/s400/Screen+Shot+2013-06-13+at+2.48.30+AM.png" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-UF3F3jI50qA/UbmVlw4WGXI/AAAAAAABdPk/mysMjE5gNUk/s800/Screen+Shot+2013-06-13+at+2.48.30+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-UF3F3jI50qA/UbmVlw4WGXI/AAAAAAABdPk/mysMjE5gNUk/s400/Screen+Shot+2013-06-13+at+2.48.30+AM.png" alt=""  /></a>
 
 #### 1TB: $120 (Apple)
-<a href="https://2.bp.blogspot.com/-i5hFfdZicUY/UbmWvBRPznI/AAAAAAABdP4/S5ShtM83E64/s600/Screen+Shot+2013-06-13+at+2.53.42+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-i5hFfdZicUY/UbmWvBRPznI/AAAAAAABdP4/S5ShtM83E64/s400/Screen+Shot+2013-06-13+at+2.53.42+AM.png" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-i5hFfdZicUY/UbmWvBRPznI/AAAAAAABdP4/S5ShtM83E64/s800/Screen+Shot+2013-06-13+at+2.53.42+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-i5hFfdZicUY/UbmWvBRPznI/AAAAAAABdP4/S5ShtM83E64/s400/Screen+Shot+2013-06-13+at+2.53.42+AM.png" alt=""  /></a>
 
 #### 2TB: $135 (Amazon)
-<a href="https://4.bp.blogspot.com/-iXouvBn2Tk0/UbmJ29TI4oI/AAAAAAABdOs/0EgkGrvNg1o/s600/Screen+Shot+2013-06-13+at+1.23.50+AM.png" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-iXouvBn2Tk0/UbmJ29TI4oI/AAAAAAABdOs/0EgkGrvNg1o/s400/Screen+Shot+2013-06-13+at+1.23.50+AM.png" alt="" /></a>
+<a href="https://4.bp.blogspot.com/-iXouvBn2Tk0/UbmJ29TI4oI/AAAAAAABdOs/0EgkGrvNg1o/s800/Screen+Shot+2013-06-13+at+1.23.50+AM.png" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-iXouvBn2Tk0/UbmJ29TI4oI/AAAAAAABdOs/0EgkGrvNg1o/s400/Screen+Shot+2013-06-13+at+1.23.50+AM.png" alt="" /></a>
 
 #### 2TB: $150 (Apple)
-<a href="https://2.bp.blogspot.com/-fHPnQ7UeyWA/UbmWu_589oI/AAAAAAABdP0/dq7adFE0Hik/s600/Screen+Shot+2013-06-13+at+2.53.04+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-fHPnQ7UeyWA/UbmWu_589oI/AAAAAAABdP0/dq7adFE0Hik/s400/Screen+Shot+2013-06-13+at+2.53.04+AM.png" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-fHPnQ7UeyWA/UbmWu_589oI/AAAAAAABdP0/dq7adFE0Hik/s800/Screen+Shot+2013-06-13+at+2.53.04+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-fHPnQ7UeyWA/UbmWu_589oI/AAAAAAABdP0/dq7adFE0Hik/s400/Screen+Shot+2013-06-13+at+2.53.04+AM.png" alt=""  /></a>
 
 Comparing 1TB and 2TB external USB 3.0 Hard Drives for Windows:
 
 #### 1TB: $80 (Amazon)
-<a href="https://1.bp.blogspot.com/-C20nFhyKiuo/UbmJ3YGUYjI/AAAAAAABdO4/wVD9x5-4HcQ/s600/Screen+Shot+2013-06-13+at+1.26.49+AM.png" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-C20nFhyKiuo/UbmJ3YGUYjI/AAAAAAABdO4/wVD9x5-4HcQ/s400/Screen+Shot+2013-06-13+at+1.26.49+AM.png" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-C20nFhyKiuo/UbmJ3YGUYjI/AAAAAAABdO4/wVD9x5-4HcQ/s800/Screen+Shot+2013-06-13+at+1.26.49+AM.png" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-C20nFhyKiuo/UbmJ3YGUYjI/AAAAAAABdO4/wVD9x5-4HcQ/s400/Screen+Shot+2013-06-13+at+1.26.49+AM.png" alt=""  /></a>
 
 #### 2TB: $128 (Amazon)
-<a href="https://2.bp.blogspot.com/-7MwqxcNV1x0/UbmJ20RPEwI/AAAAAAABdO0/ekHUDm9zEOc/s600/Screen+Shot+2013-06-13+at+1.23.38+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-7MwqxcNV1x0/UbmJ20RPEwI/AAAAAAABdO0/ekHUDm9zEOc/s400/Screen+Shot+2013-06-13+at+1.23.38+AM.png" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-7MwqxcNV1x0/UbmJ20RPEwI/AAAAAAABdO0/ekHUDm9zEOc/s800/Screen+Shot+2013-06-13+at+1.23.38+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-7MwqxcNV1x0/UbmJ20RPEwI/AAAAAAABdO0/ekHUDm9zEOc/s400/Screen+Shot+2013-06-13+at+1.23.38+AM.png" alt=""  /></a>
 
 <i>Note the screenshots of the prices above were taken on June 13, 2013.</i>
 

@@ -10,19 +10,19 @@ tags:
   - Travel
   - Meetup
   - Bangkok
-thumbnail: https://lh3.googleusercontent.com/-VjBD7Li-SdM/TX2vnTjIE6I/AAAAAAAAhxo/QvaAmkTLvpM/s600/IMG_20110303_134105.jpg
+old_thumbnail: https://lh3.googleusercontent.com/-VjBD7Li-SdM/TX2vnTjIE6I/AAAAAAAAhxo/QvaAmkTLvpM/s800/IMG_20110303_134105.jpg
+thumbnail: /images/blog/tn_tedxbkk.jpg
 title: TEDxBKK Pictures
 ---
 
-
-A few weeks back, on March 3 2011, I attended <a href="https://www.tedxbkk.com/">TEDxBKK</a> over at TCDC at the top floor at Emporium in Bangkok, Thailand. You can also follow them on twitter at <a href="https://twitter.com/#!/tedxbkk">@tedxbkk</a>. Overall it was a good turnout, but I wasn't too enthusiastic about most of the talks though. The one that stuck out the most for me was <a href="https://en.wikipedia.org/wiki/David_Christian_(historian)">David Christian</a>'s talk in the Knowledge Revolution session.  
+A few weeks back, on March 3 2011, I attended [TEDxBKK](https://www.tedxbkk.com/) over at TCDC at the top floor at Emporium in Bangkok, Thailand. You can also follow them on twitter at [@tedxbkk](https://twitter.com/#!/tedxbkk). Overall it was a good turnout, but I wasn't too enthusiastic about most of the talks though. The one that stuck out the most for me was [David Christian's](https://en.wikipedia.org/wiki/David_Christian_(historian)) talk in the Knowledge Revolution session.  
 
 ### Pictures
 
-<a href="https://lh3.googleusercontent.com/-VjBD7Li-SdM/TX2vnTjIE6I/AAAAAAAAhxo/QvaAmkTLvpM/s1600/IMG_20110303_134105.jpg" alt="" imageanchor="1"><img   border="0" src="https://lh3.googleusercontent.com/-VjBD7Li-SdM/TX2vnTjIE6I/AAAAAAAAhxo/QvaAmkTLvpM/s400/IMG_20110303_134105.jpg" alt=""  /></a> 
+![TedXBKK 1](/images/blog/IMG_20110303_134105.jpg) 
 
-<a href="https://lh3.googleusercontent.com/-e_OVh9bNEcA/TX2vrg6_geI/AAAAAAAAhxs/P56SvF0Shqg/s1600/IMG_20110303_134212.jpg" alt="" imageanchor="1"><img   border="0" src="https://lh3.googleusercontent.com/-e_OVh9bNEcA/TX2vrg6_geI/AAAAAAAAhxs/P56SvF0Shqg/s400/IMG_20110303_134212.jpg" alt="" /></a> 
+![TedXBKK 2](/images/blog/IMG_20110303_134212.jpg)
 
-<a href="https://lh6.googleusercontent.com/-_o_4cZBw2Y8/TX2vwyt18II/AAAAAAAAhxw/KwJImHvnFrY/s1600/IMG_20110303_134858.jpg" alt="" imageanchor="1"><img   border="0"  src="https://lh6.googleusercontent.com/-_o_4cZBw2Y8/TX2vwyt18II/AAAAAAAAhxw/KwJImHvnFrY/s400/IMG_20110303_134858.jpg" alt="" /></a> 
+![TedXBKK 3](/images/blog/IMG_20110303_134858.jpg)
 
-<a href="https://lh3.googleusercontent.com/-EnAX-jFveok/TX2v1Z6gFDI/AAAAAAAAhx0/WtvOIZehKRA/s1600/IMG_20110303_143234.jpg" alt="" imageanchor="1"><img   border="0" src="https://lh3.googleusercontent.com/-EnAX-jFveok/TX2v1Z6gFDI/AAAAAAAAhx0/WtvOIZehKRA/s400/IMG_20110303_143234.jpg" alt="" /></a> 
+![TedXBKK 4](/images/blog/IMG_20110303_143234.jpg)

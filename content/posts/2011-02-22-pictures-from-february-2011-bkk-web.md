@@ -12,25 +12,26 @@ tags:
   - Travel
   - Meetup
   - Bangkok
-thumbnail: https://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s600/IMG_4802.JPG
+old_thumbnail: https://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s800/IMG_4802.JPG
+thumbnail: /images/blog/tn_2011-bkk-web-meetup.jpg
 title: Pictures from February 2011 BKK Web Meetup
 ---
 
 
-Here are the pictures from last night's <a href="https://www.meetup.com/bkk-web/">BKK Web Meetup</a> session on Ruby on Rails. The presentation was by <a href="https://twitter.com/ches">Ches Martin</a>. Our gracious host was <a href="https://www.webcoursesbangkok.com/">Web Courses Bangkok</a>. I like how everyone who brought a laptop, brought a Macbook, as you can see from the pictures.
+Here are the pictures from last night's [BKK Web Meetup](https://www.meetup.com/bkk-web/) session on Ruby on Rails. The presentation was by [Ches Martin](https://twitter.com/ches). Our gracious host was [Web Courses Bangkok](https://www.webcoursesbangkok.com/). I like how everyone who brought a laptop, brought a Macbook, as you can see from the pictures.
 
-<a href="https://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s1600/IMG_4802.jpg" alt="" imageanchor="1"><img   border="0"  src="https://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s320/IMG_4802.jpg" alt=""  /></a>
+![2011 February BKK Web Meetup 1](/images/blog/IMG_4802.jpg)
 
-<a href="https://2.bp.blogspot.com/-s2Aq5MzDR-0/TWQAr4GF2gI/AAAAAAAAg6Q/RBoeuXANEBE/s1600/IMG_4805.jpg" alt="" imageanchor="1"><img   border="0"  src="https://2.bp.blogspot.com/-s2Aq5MzDR-0/TWQAr4GF2gI/AAAAAAAAg6Q/RBoeuXANEBE/s320/IMG_4805.jpg" alt=""  /></a>
+![2011 February BKK Web Meetup 2](/images/blog/IMG_4805.jpg)
 
-<a href="https://3.bp.blogspot.com/-vhbk3FNhTZ4/TWQA2co4T1I/AAAAAAAAg6k/D8d4o48P78k/s1600/IMG_4807.jpg" alt="" imageanchor="1"><img   border="0"  src="https://3.bp.blogspot.com/-vhbk3FNhTZ4/TWQA2co4T1I/AAAAAAAAg6k/D8d4o48P78k/s320/IMG_4807.jpg" alt=""  /></a>
+![2011 February BKK Web Meetup 3](/images/blog/IMG_4807.jpg)
 
-<a href="https://3.bp.blogspot.com/-G2Lo1VdQ51E/TWQA9RsNRHI/AAAAAAAAg6w/mAacujjOdDg/s1600/IMG_4811.jpg" alt="" imageanchor="1"><img   border="0"  src="https://3.bp.blogspot.com/-G2Lo1VdQ51E/TWQA9RsNRHI/AAAAAAAAg6w/mAacujjOdDg/s320/IMG_4811.jpg" alt=""  /></a>
+![2011 February BKK Web Meetup 4](/images/blog/IMG_4811.jpg)
 
-<a href="https://1.bp.blogspot.com/-igH-W-lAerg/TWQBsSuf54I/AAAAAAAAg8c/hn-fpCzyURg/s1600/IMG_4826.jpg" alt="" imageanchor="1"><img   border="0"  src="https://1.bp.blogspot.com/-igH-W-lAerg/TWQBsSuf54I/AAAAAAAAg8c/hn-fpCzyURg/s320/IMG_4826.jpg" alt=""  /></a>
+![2011 February BKK Web Meetup 5](/images/blog/IMG_4826.jpg)
 
-<a href="https://4.bp.blogspot.com/-n2n7mRCe_Ro/TWQCJnH4muI/AAAAAAAAg9Y/P7w4xdby0Ho/s1600/IMG_4837.jpg" alt="" imageanchor="1"><img   border="0"  src="https://4.bp.blogspot.com/-n2n7mRCe_Ro/TWQCJnH4muI/AAAAAAAAg9Y/P7w4xdby0Ho/s320/IMG_4837.jpg" alt=""  /></a>
+![2011 February BKK Web Meetup 6](/images/blog/IMG_4837.jpg)
 
-Full album <a href="https://picasaweb.google.com/101693597219413173200/2011FebruaryBKKWebMeetup">here</a>.
+Full album [here](https://photos.app.goo.gl/BoxkWycQeera2LTz6).
 
 Afterwards was the usual beer meetup at Singha Beer Park a few blocks away (towards Asok BTS). It was a fun tech talk among expats here in Bangkok. Some of the topics that came up was how to have more of these tech events in Bangkok, community building, and possibly finding sponsorship for food/prizes. For one thing, we'd love to see more of the local Thais show up. Although, most of the talks would probably be in English, which I'm guessing could be a struggle for those that do not understand English well.

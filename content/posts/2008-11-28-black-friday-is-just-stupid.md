@@ -7,7 +7,7 @@ modified_time: '2012-01-03T03:33:36.687-06:00'
 redirect_from: /2008/11/black-friday-is-just-stupid.html
 tags:
   - Personal
-old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/STA1GJdqx8I/AAAAAAAAIXg/GqO1waJAekQ/s600/shopping_lines.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/STA1GJdqx8I/AAAAAAAAIXg/GqO1waJAekQ/s800/shopping_lines.jpg
 thumbnail: /images/blog/tn_shopping_lines.jpg
 title: Black Friday is just Stupid
 ---

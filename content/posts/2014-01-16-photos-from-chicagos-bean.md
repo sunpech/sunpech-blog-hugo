@@ -9,7 +9,7 @@ redirect_from: /2014/01/photos-from-chicagos-bean.html
 tags:
   - Chicago
   - Photography
-thumbnail: https://3.bp.blogspot.com/-50djAaDv4Pg/Us8CvGqedSI/AAAAAAABl4E/HJOo2KUgzaU/s600/2014-01-04+at+07-33-31.jpg
+thumbnail: https://3.bp.blogspot.com/-50djAaDv4Pg/Us8CvGqedSI/AAAAAAABl4E/HJOo2KUgzaU/s800/2014-01-04+at+07-33-31.jpg
 title: Photos from Chicago's Bean
 ---
 
@@ -26,10 +26,10 @@ You can view my full album from Chicago <a href="https://plus.google.com/photos/
 
 #### The Winter Bean
 Buy print: <a href="https://500pxart.com/photo/57011446">https://500pxart.com/photo/57011446</a>
-<img   border="0" src="https://3.bp.blogspot.com/-50djAaDv4Pg/Us8CvGqedSI/AAAAAAABl4E/HJOo2KUgzaU/s600/2014-01-04+at+07-33-31.jpg" alt=""   />
+<img   border="0" src="https://3.bp.blogspot.com/-50djAaDv4Pg/Us8CvGqedSI/AAAAAAABl4E/HJOo2KUgzaU/s800/2014-01-04+at+07-33-31.jpg" alt=""   />
 
 A closer shot of Cloud Gate
-<img   border="0" src="https://3.bp.blogspot.com/-w6ikMtMON4o/Us8CwrIqacI/AAAAAAABlyg/c03ZUieFAEQ/s600/2014-01-04+at+07-44-17.jpg" alt=""   />
+<img   border="0" src="https://3.bp.blogspot.com/-w6ikMtMON4o/Us8CwrIqacI/AAAAAAABlyg/c03ZUieFAEQ/s800/2014-01-04+at+07-44-17.jpg" alt=""   />
 
 A wide angle shot of Chicago from Randolph St.
-<img   border="0" src="https://1.bp.blogspot.com/-Gjtv-iFujmw/Us8Cx3djAYI/AAAAAAABlyo/frp74ylRC6A/s600/2014-01-04+at+08-02-04.jpg" alt="" />
+<img   border="0" src="https://1.bp.blogspot.com/-Gjtv-iFujmw/Us8Cx3djAYI/AAAAAAABlyo/frp74ylRC6A/s800/2014-01-04+at+08-02-04.jpg" alt="" />

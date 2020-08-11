@@ -10,7 +10,7 @@ tags:
   - Technology
   - Review
   - Android
-old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s600/g1officialnewnew.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s800/g1officialnewnew.jpg
 thumbnail: /images/blog/tn_g1officialnewnew.jpg
 title: My Impressions of the G1 running Android
 ---

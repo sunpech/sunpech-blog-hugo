@@ -11,7 +11,7 @@ tags:
   - Cosplay
   - San Diego
   - San Diego Comic Con
-thumbnail: https://2.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAABg6M/ZHHW9sGZQDM/s600/2013-07-18+at+17-23-17.jpg
+thumbnail: https://2.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAABg6M/ZHHW9sGZQDM/s800/2013-07-18+at+17-23-17.jpg
 title: San Diego Comic Con 2013
 ---
 
@@ -28,54 +28,54 @@ Here are my albums on G+ (and Facebook-- FB):
 
 ### Pictures
 
-<img   border="0" src="https://2.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAABg6M/ZHHW9sGZQDM/s600/2013-07-18+at+17-23-17.jpg" alt=""  />
+<img   border="0" src="https://2.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAABg6M/ZHHW9sGZQDM/s800/2013-07-18+at+17-23-17.jpg" alt=""  />
 
 The San Diego Convention Center from the East side
-<img   border="0" src="https://4.bp.blogspot.com/-IjOzv_gACgE/Ue-M8eD59uI/AAAAAAABguw/XLPw26Am3aQ/s600/2013-07-18+at+11-03-01.jpg" alt=""  />
+<img   border="0" src="https://4.bp.blogspot.com/-IjOzv_gACgE/Ue-M8eD59uI/AAAAAAABguw/XLPw26Am3aQ/s800/2013-07-18+at+11-03-01.jpg" alt=""  />
 
-<img   border="0"  src="https://1.bp.blogspot.com/-x5MGiDvyv6Y/Ue-N0pRSr5I/AAAAAAABgz8/rFZn5KZdUi0/s600/2013-07-18+at+11-44-19.jpg" alt=""  />
+<img   border="0"  src="https://1.bp.blogspot.com/-x5MGiDvyv6Y/Ue-N0pRSr5I/AAAAAAABgz8/rFZn5KZdUi0/s800/2013-07-18+at+11-44-19.jpg" alt=""  />
 
-<img   border="0"  src="https://2.bp.blogspot.com/-O3bS851OgO0/Ue-OgaiA75I/AAAAAAABg4M/AaALEoeImFs/s600/2013-07-18+at+12-20-51.jpg" alt=""  />
+<img   border="0"  src="https://2.bp.blogspot.com/-O3bS851OgO0/Ue-OgaiA75I/AAAAAAABg4M/AaALEoeImFs/s800/2013-07-18+at+12-20-51.jpg" alt=""  />
 
 Teen Titans Go!
-<img   border="0" src="https://3.bp.blogspot.com/-oCRUYCtFcUU/Ue-PHBbA-vI/AAAAAAABg7k/BojUn9s69Qw/s600/2013-07-19+at+10-43-44.jpg" alt=""  />
+<img   border="0" src="https://3.bp.blogspot.com/-oCRUYCtFcUU/Ue-PHBbA-vI/AAAAAAABg7k/BojUn9s69Qw/s800/2013-07-19+at+10-43-44.jpg" alt=""  />
 
 Galactus!
-<img   border="0"  src="https://4.bp.blogspot.com/-G2jFQm6a9bw/Ue-PSpy2hMI/AAAAAAABg8k/B1BdaITG-QA/s600/2013-07-19+at+11-07-42.jpg" alt=""  />
+<img   border="0"  src="https://4.bp.blogspot.com/-G2jFQm6a9bw/Ue-PSpy2hMI/AAAAAAABg8k/B1BdaITG-QA/s800/2013-07-19+at+11-07-42.jpg" alt=""  />
 
 <a href="https://twitter.com/AdrianneCurry">Adrianne Curry</a> doing some interviews outside.
-<img   border="0"  src="https://1.bp.blogspot.com/-qewDQgEwWfA/Ue-PxosE-2I/AAAAAAABg_U/4aPxBZ5GFhU/s600/2013-07-19+at+12-33-49.jpg" alt=""  />
+<img   border="0"  src="https://1.bp.blogspot.com/-qewDQgEwWfA/Ue-PxosE-2I/AAAAAAABg_U/4aPxBZ5GFhU/s800/2013-07-19+at+12-33-49.jpg" alt=""  />
 
-<img   border="0"  src="https://1.bp.blogspot.com/-5GpIXv5q0UM/Ue-PypF5t6I/AAAAAAABg_c/Nv_vqj0WFD4/s600/2013-07-19+at+12-39-29.jpg" alt=""  />
+<img   border="0"  src="https://1.bp.blogspot.com/-5GpIXv5q0UM/Ue-PypF5t6I/AAAAAAABg_c/Nv_vqj0WFD4/s800/2013-07-19+at+12-39-29.jpg" alt=""  />
 
-<img   border="0"  src="https://1.bp.blogspot.com/--HqCYKfkmco/Ue-P3uFsHvI/AAAAAAABg_0/NAwpeae93No/s600/2013-07-19+at+13-05-09.jpg" alt=""  />
+<img   border="0"  src="https://1.bp.blogspot.com/--HqCYKfkmco/Ue-P3uFsHvI/AAAAAAABg_0/NAwpeae93No/s800/2013-07-19+at+13-05-09.jpg" alt=""  />
 
 This is an actual costume/machine just outside of the Omni Hotel.
-<img   border="0"  src="https://2.bp.blogspot.com/-50pNKPdw-YQ/Ue-QDX3QHPI/AAAAAAABhA8/aKSrrBJ4pFg/s600/2013-07-19+at+14-17-41.jpg" alt=""  />
+<img   border="0"  src="https://2.bp.blogspot.com/-50pNKPdw-YQ/Ue-QDX3QHPI/AAAAAAABhA8/aKSrrBJ4pFg/s800/2013-07-19+at+14-17-41.jpg" alt=""  />
 
-<img   border="0"  src="https://4.bp.blogspot.com/-UAkJitE59ts/Ue-QQqL0JKI/AAAAAAABhCE/hvaYNNpTLeg/s600/2013-07-19+at+16-30-32.jpg" alt=""  />
+<img   border="0"  src="https://4.bp.blogspot.com/-UAkJitE59ts/Ue-QQqL0JKI/AAAAAAABhCE/hvaYNNpTLeg/s800/2013-07-19+at+16-30-32.jpg" alt=""  />
 
-<img   border="0"  src="https://2.bp.blogspot.com/-LANgTK_gGzQ/Ue-QbPGBL4I/AAAAAAABhC8/-QArmvcWAmA/s600/2013-07-20+at+11-52-24.jpg" alt=""  />
+<img   border="0"  src="https://2.bp.blogspot.com/-LANgTK_gGzQ/Ue-QbPGBL4I/AAAAAAABhC8/-QArmvcWAmA/s800/2013-07-20+at+11-52-24.jpg" alt=""  />
 
 Some pictures from panels:
 
-<img   border="0" src="https://3.bp.blogspot.com/-zunCEuxDIKU/Ue-KYRBu8KI/AAAAAAABgh8/YmlPDDRGofg/s600/2013-07-18+at+19-08-50.jpg" alt=""  />
+<img   border="0" src="https://3.bp.blogspot.com/-zunCEuxDIKU/Ue-KYRBu8KI/AAAAAAABgh8/YmlPDDRGofg/s800/2013-07-18+at+19-08-50.jpg" alt=""  />
 
 Jim Lee doing some live sketches and giving them away!
-<img   border="0"  src="https://1.bp.blogspot.com/-RrhNXmRDBcc/Ue-Lcpr0itI/AAAAAAABgn8/iHnHL8zhyYA/s600/2013-07-20+at+14-17-05.jpg" alt=""  />
+<img   border="0"  src="https://1.bp.blogspot.com/-RrhNXmRDBcc/Ue-Lcpr0itI/AAAAAAABgn8/iHnHL8zhyYA/s800/2013-07-20+at+14-17-05.jpg" alt=""  />
 
 Neil Gaiman on Sandman's 25th Anniversary
-<img   border="0"  src="https://2.bp.blogspot.com/-AY7lBYyAUCs/Ue-L8o64rUI/AAAAAAABgrE/hfxqPJ1Noe4/s600/2013-07-20+at+15-27-12.jpg" alt=""  />
+<img   border="0"  src="https://2.bp.blogspot.com/-AY7lBYyAUCs/Ue-L8o64rUI/AAAAAAABgrE/hfxqPJ1Noe4/s800/2013-07-20+at+15-27-12.jpg" alt=""  />
 
 ### Some Thoughts
 
 What I loved about this con was the amount of participation by young fans (kids) and girls cosplaying. A bigger demographic outside the typical teen to 40+ year old guys are now in attendance. A lot of families went together too. I also saw kids going up to the microphone to ask questions at comic panels! There's probably a greater percentage of kids that are more in tune with <i>actual comics</i> than adults at Comic Con now. This is great!
 
-<img   border="0" src="https://1.bp.blogspot.com/-uL8-3dnscRg/Ue-Q2H056xI/AAAAAAABhFE/C2jNth1Uvss/s600/2013-07-20+at+18-50-36.jpg" alt=""  />
+<img   border="0" src="https://1.bp.blogspot.com/-uL8-3dnscRg/Ue-Q2H056xI/AAAAAAABhFE/C2jNth1Uvss/s800/2013-07-20+at+18-50-36.jpg" alt=""  />
 
 Also, too often at <i>guy-oriented </i>conventions, there are scantily-clad booth babes at every aisle. This year, there weren't so many. It does bother me if the message being sent to young girls that cosplaying means to <i>only</i> dress in some sexy bikini costume. Again, the feel of Comic-con is a bit more family friendly.
 
-<img   border="0"  src="https://3.bp.blogspot.com/-ISJpiEFA9cg/Ue-Po2S5HwI/AAAAAAABg-k/UW6a7WmiXL0/s600/2013-07-19+at+12-16-04.jpg" alt=""  />
+<img   border="0"  src="https://3.bp.blogspot.com/-ISJpiEFA9cg/Ue-Po2S5HwI/AAAAAAABg-k/UW6a7WmiXL0/s800/2013-07-19+at+12-16-04.jpg" alt=""  />
 
 There's usually like 100,000+ people that go each year, and the exhibit floor is packed shoulder to shoulder. This year, the layout had a big improvement. They spaced out some of the bigger booths out so the traffic wouldn't be so heavy in certain areas. Granted, certain booths areas will always be crowded-- the WB, Fox, Legendary Pictures, etc. So it definitely felt more balanced, and not every movie studio had a booth this year-- which again, I think is good because the event is Comic-con, <i>not Movie/Entertainment-con</i>.
 

@@ -10,39 +10,40 @@ tags:
   - Chicago
   - Software Development
   - Meetup
-thumbnail: https://2.bp.blogspot.com/-N_2PXu0zwmE/TkM-aoAp9nI/AAAAAAAAtNI/yorZqGndvo0/s600/2011-08-10+at+18-34-11.jpg
+old_thumbnail: https://2.bp.blogspot.com/-N_2PXu0zwmE/TkM-aoAp9nI/AAAAAAAAtNI/yorZqGndvo0/s800/2011-08-10-at-18-34-11.jpg
+thumbnail: /images/blog/tn_2011-chicago-alt-net-coffeescript.jpg
 title: 'Pictures from Chicago Alt.net: Coffeescript'
 ---
 
 
-Here are the pictures I took from tonight's <a href="https://chicagoalt.net/">Chicago Alt.net</a> August 2011 meetup on <a href="https://jashkenas.github.com/coffee-script/">Coffeescript</a>, presented by <a href="https://twitter.com/#!/fawad">Fawad Halim</a>.
+Here are the pictures I took from tonight's [Chicago Alt.net](https://chicagoalt.net) August 2011 meetup on [Coffeescript](https://jashkenas.github.com/coffee-script/), presented by [Fawad Halim](https://twitter.com/#!/fawad).
 
 ### Pictures
 
-<a href="https://2.bp.blogspot.com/-N_2PXu0zwmE/TkM-aoAp9nI/AAAAAAAAtNI/yorZqGndvo0/s600/2011-08-10+at+18-34-11.jpg" alt=""><img    border="0"  src="https://2.bp.blogspot.com/-N_2PXu0zwmE/TkM-aoAp9nI/AAAAAAAAtNI/yorZqGndvo0/s320/2011-08-10+at+18-34-11.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 1](/images/blog/2011-08-10-at-18-34-11.jpg)
 
-<a href="https://3.bp.blogspot.com/-pM-GGw71ATA/TkM-bI_XR-I/AAAAAAAAtNM/-jkJqx82_GE/s600/2011-08-10+at+18-34-21.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-pM-GGw71ATA/TkM-bI_XR-I/AAAAAAAAtNM/-jkJqx82_GE/s320/2011-08-10+at+18-34-21.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 2](/images/blog/2011-08-10-at-18-34-21.jpg)
 
-<a href="https://1.bp.blogspot.com/-qMARSaUEyIA/TkM-bvNAtkI/AAAAAAAAtNQ/Pcd4_k3vOqw/s600/2011-08-10+at+18-35-55.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-qMARSaUEyIA/TkM-bvNAtkI/AAAAAAAAtNQ/Pcd4_k3vOqw/s320/2011-08-10+at+18-35-55.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 3](/images/blog/2011-08-10-at-18-35-55.jpg)
 
-<a href="https://3.bp.blogspot.com/-qrnrbU16wR0/TkM-b2JcmrI/AAAAAAAAtNU/cMKr2-WLmbA/s600/2011-08-10+at+18-36-00.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-qrnrbU16wR0/TkM-b2JcmrI/AAAAAAAAtNU/cMKr2-WLmbA/s320/2011-08-10+at+18-36-00.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 4](/images/blog/2011-08-10-at-18-36-00.jpg)
 
-<a href="https://2.bp.blogspot.com/-VUL_HbbQK7U/TkM-cXWlUsI/AAAAAAAAtNY/ugLmO8zo7_o/s600/2011-08-10+at+18-38-56.jpg" alt=""><img    border="0"  src="https://2.bp.blogspot.com/-VUL_HbbQK7U/TkM-cXWlUsI/AAAAAAAAtNY/ugLmO8zo7_o/s320/2011-08-10+at+18-38-56.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 5](/images/blog/2011-08-10-at-18-38-56.jpg)
 
-<a href="https://2.bp.blogspot.com/-0sB_3aFYlc0/TkM-czlU6nI/AAAAAAAAtNc/5Mkz2bIYCdM/s600/2011-08-10+at+18-49-32.jpg" alt=""><img    border="0"  src="https://2.bp.blogspot.com/-0sB_3aFYlc0/TkM-czlU6nI/AAAAAAAAtNc/5Mkz2bIYCdM/s320/2011-08-10+at+18-49-32.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 6](/images/blog/2011-08-10-at-18-49-32.jpg)
 
-<a href="https://3.bp.blogspot.com/-B4SFoh3Vt-o/TkM-dT4iypI/AAAAAAAAtNg/2whWjh5y3fM/s600/2011-08-10+at+18-50-42.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-B4SFoh3Vt-o/TkM-dT4iypI/AAAAAAAAtNg/2whWjh5y3fM/s320/2011-08-10+at+18-50-42.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 7](/images/blog/2011-08-10-at-18-50-42.jpg)
 
-<a href="https://1.bp.blogspot.com/-2rZKRUcMCG8/TkM-dyhHlhI/AAAAAAAAtNk/cEeJipf3bkg/s600/2011-08-10+at+18-51-01.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-2rZKRUcMCG8/TkM-dyhHlhI/AAAAAAAAtNk/cEeJipf3bkg/s320/2011-08-10+at+18-51-01.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 8](/images/blog/2011-08-10-at-18-51-01.jpg)
 
-<a href="https://2.bp.blogspot.com/-Y-XAvZ1aIVU/TkM-eSEVh6I/AAAAAAAAtNo/PVCX5fjOWoI/s600/2011-08-10+at+18-55-51.jpg" alt=""><img    border="0"  src="https://2.bp.blogspot.com/-Y-XAvZ1aIVU/TkM-eSEVh6I/AAAAAAAAtNo/PVCX5fjOWoI/s320/2011-08-10+at+18-55-51.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 9](/images/blog/2011-08-10-at-18-55-51.jpg)
 
-<a href="https://3.bp.blogspot.com/-b_mDSGiiQ2E/TkM-fEhsnhI/AAAAAAAAtNs/7oLxyL-BZO0/s600/2011-08-10+at+18-55-59.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-b_mDSGiiQ2E/TkM-fEhsnhI/AAAAAAAAtNs/7oLxyL-BZO0/s320/2011-08-10+at+18-55-59.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 10](/images/blog/2011-08-10-at-18-55-59.jpg)
 
-<a href="https://4.bp.blogspot.com/-duab10XiKok/TkM-fcj9eMI/AAAAAAAAtNw/6vgYJ2hhFkA/s600/2011-08-10+at+18-56-00.jpg" alt=""><img    border="0"  src="https://4.bp.blogspot.com/-duab10XiKok/TkM-fcj9eMI/AAAAAAAAtNw/6vgYJ2hhFkA/s320/2011-08-10+at+18-56-00.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 11](/images/blog/2011-08-10-at-18-56-00.jpg)
 
-<a href="https://1.bp.blogspot.com/-DkvKJb6J9jI/TkM-fqUqKAI/AAAAAAAAtN0/4RCeVBJVcSk/s600/2011-08-10+at+19-49-28.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-DkvKJb6J9jI/TkM-fqUqKAI/AAAAAAAAtN0/4RCeVBJVcSk/s320/2011-08-10+at+19-49-28.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 12](/images/blog/2011-08-10-at-19-49-28.jpg)
 
-<a href="https://4.bp.blogspot.com/-Gdx6ZkO87Os/TkM-gInJaPI/AAAAAAAAtN4/CiSBMY2_VOE/s600/2011-08-10+at+19-53-46.jpg" alt=""><img    border="0"  src="https://4.bp.blogspot.com/-Gdx6ZkO87Os/TkM-gInJaPI/AAAAAAAAtN4/CiSBMY2_VOE/s320/2011-08-10+at+19-53-46.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 13](/images/blog/2011-08-10-at-19-53-46.jpg)
 
-<a href="https://3.bp.blogspot.com/-kjXWOwPhjZc/TkM-gWy1BDI/AAAAAAAAtN8/cNsgjtBqZII/s600/2011-08-10+at+19-54-50.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-kjXWOwPhjZc/TkM-gWy1BDI/AAAAAAAAtN8/cNsgjtBqZII/s320/2011-08-10+at+19-54-50.jpg" alt=""  /></a>
+![2011 Chicago Alt.net Coffeescript - 14](/images/blog/2011-08-10-at-19-54-50.jpg)

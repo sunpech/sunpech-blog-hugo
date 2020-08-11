@@ -5,13 +5,13 @@ blogger_orig_url: https://www.sunpech.com/2014/09/building-my-own-photography-si
 date: '2014-09-22T18:35:00.001-05:00'
 description: I stopped using SmugMug and other paid hosting solutions and built my own photography website for Sunpech Photography.
 headerimage: /images/headers/old_cameras.jpg
-image: https://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s600/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png
+image: https://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s800/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png
 modified_time: '2014-09-22T18:35:51.362-05:00'
 redirect_from: /2014/09/building-my-own-photography-site.html
 tags:
   - Photography
   - Software Development
-thumbnail: https://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s600/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png
+thumbnail: https://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s800/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png
 title: Building my own Photography Site
 ---
 
@@ -34,4 +34,4 @@ I'm happy to announce that I have launched it in it's current state, which I dee
 
 My renovated photography site: <a href="https://www.sunpechphotography.com/">https://www.sunpechphotography.com</a>
 
-<a href="https://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s600/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s600/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png" alt="" /></a>
+<a href="https://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s800/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s800/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png" alt="" /></a>

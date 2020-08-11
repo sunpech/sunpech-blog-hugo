@@ -9,7 +9,7 @@ tags:
   - Photography
   - Photowalk
   - Los Angeles
-thumbnail: https://3.bp.blogspot.com/-iE17riuDdCA/UjM0MhyCZYI/AAAAAAAByzk/kgqHbG0vXVA/s600/2013-09-12%2Bat%2B20-32-38.jpg
+thumbnail: https://3.bp.blogspot.com/-iE17riuDdCA/UjM0MhyCZYI/AAAAAAAByzk/kgqHbG0vXVA/s800/2013-09-12%2Bat%2B20-32-38.jpg
 title: Drink and Click LA Downtown Artwalk
 ---
 

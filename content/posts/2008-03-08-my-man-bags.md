@@ -7,7 +7,7 @@ modified_time: '2012-01-03T03:33:36.704-06:00'
 redirect_from: /2008/03/my-man-bags.html
 tags:
   - Personal
-old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/R9NZa__IjYI/AAAAAAAAAg8/CmnXYhGEx1E/s600/31LvL228ARL._AA280_.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/R9NZa__IjYI/AAAAAAAAAg8/CmnXYhGEx1E/s800/31LvL228ARL._AA280_.jpg
 thumbnail: /images/blog/tn_my-man-bags.jpg
 title: My Man Bags
 ---

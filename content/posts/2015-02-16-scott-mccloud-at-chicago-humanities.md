@@ -5,13 +5,13 @@ blogger_orig_url: https://www.sunpech.com/2015/02/scott-mccloud-at-chicago-human
 date: '2015-02-16T11:00:00.000-06:00'
 description: My thoughts and photos from Scott McCloud's appearance at the Chicago Humanities event at the Chicago Art Institute.
 headerimage: /images/headers/chicago_skyline.jpg
-image: https://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo/s600/B9byWCtCAAEa_L_.jpg
+image: https://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo/s800/B9byWCtCAAEa_L_.jpg
 modified_time: '2015-02-16T11:00:05.156-06:00'
 redirect_from: /2015/02/scott-mccloud-at-chicago-humanities.html
 tags:
   - Chicago
   - Events
-thumbnail: https://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo/s600/B9byWCtCAAEa_L_.jpg
+thumbnail: https://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo/s800/B9byWCtCAAEa_L_.jpg
 title: Scott McCloud at Chicago Humanities Festival
 ---
 
@@ -36,15 +36,15 @@ These are the books I own and have read by Mr. McCloud.
   <li><a href="https://www.amazon.com/gp/product/1596435739/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1596435739&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=P7VEXVXZUOHLG7TR">The Sculptor</a></li>
 </ul>
 
-<img   border="0" src="https://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo/s600/B9byWCtCAAEa_L_.jpg" alt="" />
+<img   border="0" src="https://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo/s800/B9byWCtCAAEa_L_.jpg" alt="" />
 
 <h2>Pictures</h2>
 Lynne Thomas and Scott McCloud sit down for a conversation.
-<img   border="0" src="https://1.bp.blogspot.com/-CBa1QRbJ5zA/VN7nI06rzpI/AAAAAAAB4Xo/_bLYK9foMLc/s600/2015-02-13%2Bat%2B18-25-56.jpg" alt=""   />
+<img   border="0" src="https://1.bp.blogspot.com/-CBa1QRbJ5zA/VN7nI06rzpI/AAAAAAAB4Xo/_bLYK9foMLc/s800/2015-02-13%2Bat%2B18-25-56.jpg" alt=""   />
 
-<img   border="0" src="https://2.bp.blogspot.com/-ex1PTi4iSOU/VN7nNCqbEPI/AAAAAAAB4YQ/oJfJAfVD_bM/s600/2015-02-13%2Bat%2B18-34-40.jpg" alt=""   />
+<img   border="0" src="https://2.bp.blogspot.com/-ex1PTi4iSOU/VN7nNCqbEPI/AAAAAAAB4YQ/oJfJAfVD_bM/s800/2015-02-13%2Bat%2B18-34-40.jpg" alt=""   />
 
-<img   border="0" src="https://3.bp.blogspot.com/-UFz5oa6DfE4/VN7nJnALZKI/AAAAAAAB4Xw/b06HEOn92Kc/s600/2015-02-13%2Bat%2B18-27-44.jpg" alt=""   />
+<img   border="0" src="https://3.bp.blogspot.com/-UFz5oa6DfE4/VN7nJnALZKI/AAAAAAAB4Xw/b06HEOn92Kc/s800/2015-02-13%2Bat%2B18-27-44.jpg" alt=""   />
 
 Scott McCloud signed my books!
-<img   border="0" src="https://3.bp.blogspot.com/-vs94ecMt_rA/VN7nQxl7RgI/AAAAAAAB4Y4/gdQQz9a-988/s600/2015-02-13%2Bat%2B20-10-32.jpg" alt=""   />
+<img   border="0" src="https://3.bp.blogspot.com/-vs94ecMt_rA/VN7nQxl7RgI/AAAAAAAB4Y4/gdQQz9a-988/s800/2015-02-13%2Bat%2B20-10-32.jpg" alt=""   />

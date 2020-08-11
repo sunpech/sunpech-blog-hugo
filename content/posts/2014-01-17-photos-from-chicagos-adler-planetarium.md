@@ -9,7 +9,7 @@ redirect_from: /2014/01/photos-from-chicagos-adler-planetarium.html
 tags:
   - Chicago
   - Photography
-thumbnail: https://4.bp.blogspot.com/-kWmgKh2VP3c/UteDJfhJZ0I/AAAAAAABl4c/KLz7N_h1A84/s600/2014-01-12+at+16-56-36.jpg
+thumbnail: https://4.bp.blogspot.com/-kWmgKh2VP3c/UteDJfhJZ0I/AAAAAAABl4c/KLz7N_h1A84/s800/2014-01-12+at+16-56-36.jpg
 title: Photos from Chicago's Adler Planetarium
 ---
 
@@ -24,12 +24,12 @@ You can view my full album from Chicago <a href="https://plus.google.com/photos/
 
 #### Chicago Winter Sunset
 Buy print: <a href="https://500pxart.com/photo/58449824">https://500pxart.com/photo/58449824</a>
-<img   border="0" src="https://4.bp.blogspot.com/-kWmgKh2VP3c/UteDJfhJZ0I/AAAAAAABl4c/KLz7N_h1A84/s600/2014-01-12+at+16-56-36.jpg" alt=""   />
+<img   border="0" src="https://4.bp.blogspot.com/-kWmgKh2VP3c/UteDJfhJZ0I/AAAAAAABl4c/KLz7N_h1A84/s800/2014-01-12+at+16-56-36.jpg" alt=""   />
 
 #### Chicago from the Adler Planetarium
 Buy print: <a href="https://500pxart.com/photo/57661802">https://500pxart.com/photo/57661802</a>
-<img   border="0" src="https://1.bp.blogspot.com/-fmjoN5zagrQ/UteDKVUZ2GI/AAAAAAABl4k/mszOUp4gOJc/s600/2014-01-12+at+17-51-42.jpg" alt=""   />
+<img   border="0" src="https://1.bp.blogspot.com/-fmjoN5zagrQ/UteDKVUZ2GI/AAAAAAABl4k/mszOUp4gOJc/s800/2014-01-12+at+17-51-42.jpg" alt=""   />
 
 #### Chicago Skyline - Peace
 Buy print: <a href="https://500pxart.com/photo/57866660">https://500pxart.com/photo/57866660</a>
-<img   border="0" src="https://4.bp.blogspot.com/-K5Nalnzt9RY/UteDLDaN2gI/AAAAAAABl4s/zx_wfMLoXyU/s600/2014-01-12+at+18-13-20.jpg" alt=""   />
+<img   border="0" src="https://4.bp.blogspot.com/-K5Nalnzt9RY/UteDLDaN2gI/AAAAAAABl4s/zx_wfMLoXyU/s800/2014-01-12+at+18-13-20.jpg" alt=""   />

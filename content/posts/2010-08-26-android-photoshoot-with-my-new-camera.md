@@ -10,7 +10,7 @@ tags:
   - Technology
   - Photography
   - Android
-old_thumbnail: https://2.bp.blogspot.com/-il8rnMQNWH0/THW4cqvg3KI/AAAAAAAAV_Y/J5s28A1dNks/s600/daylight-2141.jpg
+old_thumbnail: https://2.bp.blogspot.com/-il8rnMQNWH0/THW4cqvg3KI/AAAAAAAAV_Y/J5s28A1dNks/s800/daylight-2141.jpg
 thumbnail: /images/blog/tn_android-photoshoot.jpg
 title: An Android Photoshoot with my new Camera Lens
 ---

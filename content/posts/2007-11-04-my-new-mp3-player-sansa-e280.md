@@ -7,7 +7,7 @@ modified_time: '2012-01-11T04:05:03.224-06:00'
 redirect_from: /2007/11/my-new-mp3-player-sansa-e280.html
 tags:
   - Music
-old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/Ry30XI_pzwI/AAAAAAAAAMk/AbpH5ogrTNk/s600/sansa_e280.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/Ry30XI_pzwI/AAAAAAAAAMk/AbpH5ogrTNk/s800/sansa_e280.jpg
 thumbnail: /images/blog/tn_sansa_e280.jpg
 title: 'My new mp3 player: Sansa e280'
 ---

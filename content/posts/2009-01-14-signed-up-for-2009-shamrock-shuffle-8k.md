@@ -9,7 +9,7 @@ redirect_from: /2009/01/signed-up-for-2009-shamrock-shuffle-8k.html
 tags:
   - Chicago
   - Personal
-old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s600/shamrock_shuffle_2009_8k_map.png
+old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s800/shamrock_shuffle_2009_8k_map.png
 thumbnail: /images/blog/tn_shamrock_shuffle_2009_8k_map.jpg
 title: Signed up for the 2009 Shamrock Shuffle 8k run
 ---

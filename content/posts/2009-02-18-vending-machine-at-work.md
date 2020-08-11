@@ -10,7 +10,7 @@ tags:
   - Chicago
   - Personal
   - Funny
-old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SZzbaX6EZ2I/AAAAAAAAIks/UHThbD6zBb0/s600/vending_machine.jpg
+old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SZzbaX6EZ2I/AAAAAAAAIks/UHThbD6zBb0/s800/vending_machine.jpg
 thumbnail: /images/blog/tn_vending_machine.jpg
 title: The Vending Machine at Work
 ---

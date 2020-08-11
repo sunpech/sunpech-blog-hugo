@@ -9,7 +9,7 @@ redirect_from: /2013/02/pictures-from-uncubed-la.html
 tags:
   - Los Angeles
   - Events
-thumbnail: https://1.bp.blogspot.com/--h90gI86ngk/UQujbs79HbI/AAAAAAABYjk/uTbcvf8c3X8/s600/2013-01-31+at+13-07-49.jpg
+thumbnail: https://1.bp.blogspot.com/--h90gI86ngk/UQujbs79HbI/AAAAAAABYjk/uTbcvf8c3X8/s800/2013-01-31+at+13-07-49.jpg
 title: Pictures from UnCubed LA
 ---
 

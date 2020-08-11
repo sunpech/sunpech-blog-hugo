@@ -7,12 +7,12 @@ modified_time: '2014-08-08T16:44:05.675-05:00'
 redirect_from: /2013/01/cleaning-up-old-social-accounts.html
 tags:
   - Social Media
-thumbnail: https://3.bp.blogspot.com/-0u0hAs9jI6k/UOqVkz_QO8I/AAAAAAABX_g/ijuyfQp5cDg/s600/trash-can-icon.jpg
+thumbnail: https://3.bp.blogspot.com/-0u0hAs9jI6k/UOqVkz_QO8I/AAAAAAABX_g/ijuyfQp5cDg/s800/trash-can-icon.jpg
 title: Cleaning Up Old Social Accounts
 ---
 
 
-<img   border="0" src="https://3.bp.blogspot.com/-0u0hAs9jI6k/UOqVkz_QO8I/AAAAAAABX_g/ijuyfQp5cDg/s600/trash-can-icon.jpg" alt="" />
+<img   border="0" src="https://3.bp.blogspot.com/-0u0hAs9jI6k/UOqVkz_QO8I/AAAAAAABX_g/ijuyfQp5cDg/s800/trash-can-icon.jpg" alt="" />
 
 A week ago I deleted my <a href="https://www.instagram.com/">Instagram</a> and <a href="https://www.path.com/">Path</a> accounts.
 

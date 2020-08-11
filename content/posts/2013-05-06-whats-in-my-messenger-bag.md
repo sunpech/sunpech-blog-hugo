@@ -8,7 +8,7 @@ modified_time: '2014-08-09T09:27:52.936-05:00'
 redirect_from: /2013/05/whats-in-my-messenger-bag.html
 tags:
   - Technology
-thumbnail: https://1.bp.blogspot.com/-Cj7bH46Csqg/UYGjcgSyDUI/AAAAAAABbz0/k62j6FJQKJU/s600/2013-05-01+at+15-16-14.jpg
+thumbnail: https://1.bp.blogspot.com/-Cj7bH46Csqg/UYGjcgSyDUI/AAAAAAABbz0/k62j6FJQKJU/s800/2013-05-01+at+15-16-14.jpg
 title: What's In My Messenger Bag
 ---
 

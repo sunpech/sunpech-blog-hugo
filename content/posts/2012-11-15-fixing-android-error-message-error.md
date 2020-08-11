@@ -10,7 +10,7 @@ tags:
   - Technology
   - Android
   - Guide
-thumbnail: https://4.bp.blogspot.com/-DbUPW35q1z8/UKQaM0IRF2I/AAAAAAABVvg/ZrAWFQtepXc/s600/A7j94bVCYAI6WZd.png-large.jpg
+thumbnail: https://4.bp.blogspot.com/-DbUPW35q1z8/UKQaM0IRF2I/AAAAAAABVvg/ZrAWFQtepXc/s800/A7j94bVCYAI6WZd.png-large.jpg
 title: Fixing an Android Error Message - Error retrieving information from server
 ---
 

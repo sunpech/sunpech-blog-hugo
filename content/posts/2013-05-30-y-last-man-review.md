@@ -10,7 +10,7 @@ tags:
   - Review
   - Books
   - Comics
-thumbnail: https://2.bp.blogspot.com/-ovArPrDyoUQ/UafznelRNiI/AAAAAAABc3k/uLnxDACopuk/s600/IMG_20130530_174718.jpg
+thumbnail: https://2.bp.blogspot.com/-ovArPrDyoUQ/UafznelRNiI/AAAAAAABc3k/uLnxDACopuk/s800/IMG_20130530_174718.jpg
 title: 'Y: The Last Man Review'
 ---
 

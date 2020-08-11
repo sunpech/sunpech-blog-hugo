@@ -9,7 +9,7 @@ redirect_from: /2013/06/cloud-storage-services-review.html
 tags:
   - Review
   - Technology
-thumbnail: https://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s600/Cloud_Storage_Apps.jpg
+thumbnail: https://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s800/Cloud_Storage_Apps.jpg
 title: Cloud Storage Services Review
 ---
 
@@ -45,7 +45,7 @@ Their <a href="https://www.box.com/settings/sync">desktop client sync tool</a> i
 
 I'm moving away from using this app. It's causing me a lot of problems with my Mac OS X. It's just eating up a lot of storage space. Here is a screenshot of the log folder that just grows to outrageous size over a few days:
 
-<a href="https://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s600/screenshot_BoxSync.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s400/screenshot_BoxSync.jpg" alt=""  /></a>
+<a href="https://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s800/screenshot_BoxSync.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s400/screenshot_BoxSync.jpg" alt=""  /></a>
 
 The command I ran in the terminal is:
 <span style="font-family: Courier New, Courier, monospace;">du -sch ~/Library/Logs/Box Sync</span>

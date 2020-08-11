@@ -9,7 +9,7 @@ redirect_from: /2012/04/coworking-at-nextspace-la.html
 tags:
   - Los Angeles
   - Meetup
-thumbnail: https://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s600/2012-04-20+at+10-17-56.jpg
+thumbnail: https://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s800/2012-04-20+at+10-17-56.jpg
 title: Coworking at NextSpace LA
 ---
 
@@ -23,30 +23,30 @@ Culver City, CA 90232
 Some pictures I snapped:
 
 The outside of NextSpace LA
-<a href="https://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s600/2012-04-20+at+10-17-56.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s320/2012-04-20+at+10-17-56.jpg" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s800/2012-04-20+at+10-17-56.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s800/2012-04-20+at+10-17-56.jpg" alt=""  /></a>
 
 The entrance downstairs
-<a href="https://4.bp.blogspot.com/-1n6EqHViKgE/T5KQ3TvwAsI/AAAAAAABFhI/Zr8WBTINV4w/s600/2012-04-20+at+10-18-08.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-1n6EqHViKgE/T5KQ3TvwAsI/AAAAAAABFhI/Zr8WBTINV4w/s320/2012-04-20+at+10-18-08.jpg" alt=""  /></a>
+<a href="https://4.bp.blogspot.com/-1n6EqHViKgE/T5KQ3TvwAsI/AAAAAAABFhI/Zr8WBTINV4w/s800/2012-04-20+at+10-18-08.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-1n6EqHViKgE/T5KQ3TvwAsI/AAAAAAABFhI/Zr8WBTINV4w/s800/2012-04-20+at+10-18-08.jpg" alt=""  /></a>
 
-<a href="https://2.bp.blogspot.com/--MBWIuoHTlg/T5KQ4gTLPxI/AAAAAAABFhQ/bWSXW595Fzo/s600/2012-04-20+at+10-19-46.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/--MBWIuoHTlg/T5KQ4gTLPxI/AAAAAAABFhQ/bWSXW595Fzo/s320/2012-04-20+at+10-19-46.jpg" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/--MBWIuoHTlg/T5KQ4gTLPxI/AAAAAAABFhQ/bWSXW595Fzo/s800/2012-04-20+at+10-19-46.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/--MBWIuoHTlg/T5KQ4gTLPxI/AAAAAAABFhQ/bWSXW595Fzo/s800/2012-04-20+at+10-19-46.jpg" alt=""  /></a>
 
 Once you are up the stairs, some relaxing areas to sit.
-<a href="https://4.bp.blogspot.com/-ux_nWWuRtcw/T5KRAEUpoqI/AAAAAAABFig/1J10dCHnAPw/s600/2012-04-20+at+12-49-16.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-ux_nWWuRtcw/T5KRAEUpoqI/AAAAAAABFig/1J10dCHnAPw/s320/2012-04-20+at+12-49-16.jpg" alt=""  /></a>
+<a href="https://4.bp.blogspot.com/-ux_nWWuRtcw/T5KRAEUpoqI/AAAAAAABFig/1J10dCHnAPw/s800/2012-04-20+at+12-49-16.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-ux_nWWuRtcw/T5KRAEUpoqI/AAAAAAABFig/1J10dCHnAPw/s800/2012-04-20+at+12-49-16.jpg" alt=""  /></a>
 
-<a href="https://4.bp.blogspot.com/-CWJ_XsEE5VI/T5KQ_fDJ19I/AAAAAAABFiY/V8sbI5I-O1M/s600/2012-04-20+at+12-48-59.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-CWJ_XsEE5VI/T5KQ_fDJ19I/AAAAAAABFiY/V8sbI5I-O1M/s320/2012-04-20+at+12-48-59.jpg" alt=""  /></a>
+<a href="https://4.bp.blogspot.com/-CWJ_XsEE5VI/T5KQ_fDJ19I/AAAAAAABFiY/V8sbI5I-O1M/s800/2012-04-20+at+12-48-59.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-CWJ_XsEE5VI/T5KQ_fDJ19I/AAAAAAABFiY/V8sbI5I-O1M/s800/2012-04-20+at+12-48-59.jpg" alt=""  /></a>
 
 The main area.
-<a href="https://3.bp.blogspot.com/-I2wHsYDioi4/T5KQ7Wqyy0I/AAAAAAABFho/kaSrwq8gYEw/s600/2012-04-20+at+12-46-23.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-I2wHsYDioi4/T5KQ7Wqyy0I/AAAAAAABFho/kaSrwq8gYEw/s320/2012-04-20+at+12-46-23.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-I2wHsYDioi4/T5KQ7Wqyy0I/AAAAAAABFho/kaSrwq8gYEw/s800/2012-04-20+at+12-46-23.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-I2wHsYDioi4/T5KQ7Wqyy0I/AAAAAAABFho/kaSrwq8gYEw/s800/2012-04-20+at+12-46-23.jpg" alt=""  /></a>
 
 This is where I sat.
-<a href="https://2.bp.blogspot.com/-zk_eTr0ZQZI/T5KQ51cqhPI/AAAAAAABFhY/C0qMNkiUBHk/s600/2012-04-20+at+10-31-56.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-zk_eTr0ZQZI/T5KQ51cqhPI/AAAAAAABFhY/C0qMNkiUBHk/s320/2012-04-20+at+10-31-56.jpg" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-zk_eTr0ZQZI/T5KQ51cqhPI/AAAAAAABFhY/C0qMNkiUBHk/s800/2012-04-20+at+10-31-56.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-zk_eTr0ZQZI/T5KQ51cqhPI/AAAAAAABFhY/C0qMNkiUBHk/s800/2012-04-20+at+10-31-56.jpg" alt=""  /></a>
 
-<a href="https://2.bp.blogspot.com/-jlu78QwG7jA/T5KQ6nvi-fI/AAAAAAABFhg/4lxRg997nVE/s600/2012-04-20+at+12-46-15.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-jlu78QwG7jA/T5KQ6nvi-fI/AAAAAAABFhg/4lxRg997nVE/s320/2012-04-20+at+12-46-15.jpg" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-jlu78QwG7jA/T5KQ6nvi-fI/AAAAAAABFhg/4lxRg997nVE/s800/2012-04-20+at+12-46-15.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-jlu78QwG7jA/T5KQ6nvi-fI/AAAAAAABFhg/4lxRg997nVE/s800/2012-04-20+at+12-46-15.jpg" alt=""  /></a>
 
 The who's who at NextSpace LA.
-<a href="https://3.bp.blogspot.com/-CYHh0X2lyqo/T5KQ9J5CotI/AAAAAAABFh4/m3H9fCOOBYs/s600/2012-04-20+at+12-46-43.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-CYHh0X2lyqo/T5KQ9J5CotI/AAAAAAABFh4/m3H9fCOOBYs/s320/2012-04-20+at+12-46-43.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-CYHh0X2lyqo/T5KQ9J5CotI/AAAAAAABFh4/m3H9fCOOBYs/s800/2012-04-20+at+12-46-43.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-CYHh0X2lyqo/T5KQ9J5CotI/AAAAAAABFh4/m3H9fCOOBYs/s800/2012-04-20+at+12-46-43.jpg" alt=""  /></a>
 
 The back area.
-<a href="https://3.bp.blogspot.com/-ZegSp5lvWA4/T5KQ-ERAXxI/AAAAAAABFiI/e_LnXY13Ty0/s600/2012-04-20+at+12-47-08.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-ZegSp5lvWA4/T5KQ-ERAXxI/AAAAAAABFiI/e_LnXY13Ty0/s320/2012-04-20+at+12-47-08.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-ZegSp5lvWA4/T5KQ-ERAXxI/AAAAAAABFiI/e_LnXY13Ty0/s800/2012-04-20+at+12-47-08.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-ZegSp5lvWA4/T5KQ-ERAXxI/AAAAAAABFiI/e_LnXY13Ty0/s800/2012-04-20+at+12-47-08.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-xk6RvpQjtLA/T5KQ-pTP67I/AAAAAAABFiQ/u3Yn4TepyX8/s600/2012-04-20+at+12-47-19.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-xk6RvpQjtLA/T5KQ-pTP67I/AAAAAAABFiQ/u3Yn4TepyX8/s320/2012-04-20+at+12-47-19.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-xk6RvpQjtLA/T5KQ-pTP67I/AAAAAAABFiQ/u3Yn4TepyX8/s800/2012-04-20+at+12-47-19.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-xk6RvpQjtLA/T5KQ-pTP67I/AAAAAAABFiQ/u3Yn4TepyX8/s800/2012-04-20+at+12-47-19.jpg" alt=""  /></a>

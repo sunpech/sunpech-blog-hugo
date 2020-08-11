@@ -11,7 +11,7 @@ tags:
   - Cosplay
   - Comic Con
   - San Diego
-old_thumbnail: https://2.bp.blogspot.com/-5Efz3YK1MKc/TEe39nW4D4I/AAAAAAAASi4/LPrSKE5oPl8/s600/IMG_0989.JPG
+old_thumbnail: https://2.bp.blogspot.com/-5Efz3YK1MKc/TEe39nW4D4I/AAAAAAAASi4/LPrSKE5oPl8/s800/IMG_0989.JPG
 thumbnail: /images/blog/tn_2010-sdcc.jpg
 title: San Diego Comic Con 2010
 ---

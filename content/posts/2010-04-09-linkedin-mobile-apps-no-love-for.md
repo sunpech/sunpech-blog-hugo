@@ -9,7 +9,7 @@ redirect_from: /2010/04/linkedin-mobile-apps-no-love-for.html
 tags:
   - Technology
   - Android
-old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/S77EJIvaBsI/AAAAAAAAOIw/9EPHSPihs2s/s600/linkedin_mobile_no_love_for_android.png
+old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/S77EJIvaBsI/AAAAAAAAOIw/9EPHSPihs2s/s800/linkedin_mobile_no_love_for_android.png
 thumbnail: /images/blog/tn_linkedin_mobile_no_love_for_android.jpg
 title: 'LinkedIn Mobile Apps: No Love for Android'
 ---

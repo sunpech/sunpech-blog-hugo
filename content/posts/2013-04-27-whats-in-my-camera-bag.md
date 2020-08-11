@@ -8,7 +8,7 @@ modified_time: '2013-04-27T19:13:01.730-05:00'
 redirect_from: /2013/04/whats-in-my-camera-bag.html
 tags:
   - Photography
-thumbnail: https://4.bp.blogspot.com/-itgDoYkpqyw/UXw5PYB4hxI/AAAAAAABbvo/f3YFiG4A5XA/s600/IMG_20130427_134020.jpg
+thumbnail: https://4.bp.blogspot.com/-itgDoYkpqyw/UXw5PYB4hxI/AAAAAAABbvo/f3YFiG4A5XA/s800/IMG_20130427_134020.jpg
 title: What's In My Camera Bag
 ---
 

@@ -10,7 +10,7 @@ tags:
   - Review
   - Los Angeles
   - Movies
-thumbnail: https://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s600/2012-02-08+at+23-15-52.jpg
+thumbnail: https://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s800/2012-02-08+at+23-15-52.jpg
 title: Jiro Dreams of Sushi
 ---
 
@@ -25,9 +25,9 @@ When asked what his favorite sushi restaurant is in LA, he said it was <a href="
 
 The movie will be out in the US on <b>March 9, 2012</b>. I recommend everyone check it out!
 
-<a href="https://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s600/2012-02-08+at+23-15-52.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s400/2012-02-08+at+23-15-52.jpg" alt=""  /></a>
+<a href="https://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s800/2012-02-08+at+23-15-52.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s400/2012-02-08+at+23-15-52.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-Cst8etJmzTY/TzNzzMzuVEI/AAAAAAAA6EQ/7lHoXgbHUk4/s600/2012-02-08+at+18-09-50.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-Cst8etJmzTY/TzNzzMzuVEI/AAAAAAAA6EQ/7lHoXgbHUk4/s400/2012-02-08+at+18-09-50.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-Cst8etJmzTY/TzNzzMzuVEI/AAAAAAAA6EQ/7lHoXgbHUk4/s800/2012-02-08+at+18-09-50.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-Cst8etJmzTY/TzNzzMzuVEI/AAAAAAAA6EQ/7lHoXgbHUk4/s400/2012-02-08+at+18-09-50.jpg" alt=""  /></a>
 
 
 Please check out my food blog: <a href="https://www.foodishappiness.com/">Foodishappiness.com</a>. I also tweet at <a href="https://www.twitter.com/foodishappiness">@foodishappiness</a>.

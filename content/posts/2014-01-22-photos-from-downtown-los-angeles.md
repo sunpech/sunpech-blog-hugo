@@ -9,7 +9,7 @@ redirect_from: /2014/01/photos-from-downtown-los-angeles.html
 tags:
   - Los Angeles
   - Photography
-thumbnail: https://4.bp.blogspot.com/-qOzeWRvkWp4/Ut7zFjZJN8I/AAAAAAABl_g/lMz5WbG8z8E/s600/2014-01-18+at+17-58-51.jpg
+thumbnail: https://4.bp.blogspot.com/-qOzeWRvkWp4/Ut7zFjZJN8I/AAAAAAABl_g/lMz5WbG8z8E/s800/2014-01-18+at+17-58-51.jpg
 title: Photos from Downtown Los Angeles
 ---
 
@@ -26,11 +26,11 @@ Here are my photos:
 
 #### Downtown Los Angeles
 Buy prints: <a href="https://500pxart.com/photo/58388314">https://500pxart.com/photo/58388314</a>
-<img   border="0" src="https://4.bp.blogspot.com/-qOzeWRvkWp4/Ut7zFjZJN8I/AAAAAAABl_g/lMz5WbG8z8E/s600/2014-01-18+at+17-58-51.jpg" alt=""   />
+<img   border="0" src="https://4.bp.blogspot.com/-qOzeWRvkWp4/Ut7zFjZJN8I/AAAAAAABl_g/lMz5WbG8z8E/s800/2014-01-18+at+17-58-51.jpg" alt=""   />
 
 #### Los Angeles Skyline from LADWP
 Buy prints: <a href="https://500pxart.com/photo/58498860">https://500pxart.com/photo/58498860</a>
-<img   border="0" src="https://1.bp.blogspot.com/-iZJATpi0YC0/Ut7zGnfcsbI/AAAAAAABl_0/i4RfREvevYY/s600/2014-01-18+at+18-26-34.jpg" alt=""   />
+<img   border="0" src="https://1.bp.blogspot.com/-iZJATpi0YC0/Ut7zGnfcsbI/AAAAAAABl_0/i4RfREvevYY/s800/2014-01-18+at+18-26-34.jpg" alt=""   />
 
 More city and landscape photos from the past few months:
 

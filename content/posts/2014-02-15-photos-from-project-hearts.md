@@ -9,7 +9,7 @@ redirect_from: /2014/02/photos-from-project-hearts.html
 tags:
   - Los Angeles
   - Photography
-thumbnail: https://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s600/2014-02-13+at+20-13-11.jpg
+thumbnail: https://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s800/2014-02-13+at+20-13-11.jpg
 title: Photos from Project Hearts
 ---
 
@@ -20,7 +20,7 @@ The kit itself is just okay. I've had it for a few years now, but never shot wit
 
 #### Project Hearts
 Buy print: <a href="https://500pxart.com/photo/60973944">https://500pxart.com/photo/60973944</a>
-<a href="https://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s600/2014-02-13+at+20-13-11.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s600/2014-02-13+at+20-13-11.jpg" alt=""   /></a>
+<a href="https://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s800/2014-02-13+at+20-13-11.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s800/2014-02-13+at+20-13-11.jpg" alt=""   /></a>
 
 #### Hearts at El Rey Theatre
-<a href="https://1.bp.blogspot.com/-AmE-vWINv9c/Uv5eeZ7pRhI/AAAAAAABmVk/twSglMi1Hmc/s600/2014-02-13+at+20-20-58.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-AmE-vWINv9c/Uv5eeZ7pRhI/AAAAAAABmVk/twSglMi1Hmc/s600/2014-02-13+at+20-20-58.jpg" alt="" /></a>
+<a href="https://1.bp.blogspot.com/-AmE-vWINv9c/Uv5eeZ7pRhI/AAAAAAABmVk/twSglMi1Hmc/s800/2014-02-13+at+20-20-58.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-AmE-vWINv9c/Uv5eeZ7pRhI/AAAAAAABmVk/twSglMi1Hmc/s800/2014-02-13+at+20-20-58.jpg" alt="" /></a>

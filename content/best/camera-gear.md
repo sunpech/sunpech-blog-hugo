@@ -12,7 +12,7 @@ disable_feed: true
 
 I primarily use and recommend Canon gear, and it's not because I'm a Canon fanboy or anti-Nikon-- it's simply because I started with a Canon DSLR and just stuck with that since 2007. If I had started with Nikon, I probably would be using their products.
 
-![Canon Logo](https://2.bp.blogspot.com/-EIv-9wQd9oc/UuHlexyMb6I/AAAAAAABmCo/tAOpussPvEI/s600/canon-logo.jpg)
+![Canon Logo](https://2.bp.blogspot.com/-EIv-9wQd9oc/UuHlexyMb6I/AAAAAAABmCo/tAOpussPvEI/s800/canon-logo.jpg)
 
 Anyway, people often ask me for camera recommendations and I honestly don't know what their needs or lifestyle is like to give them a single answer. However, I can make a list of camera gear I own that I would recommend.
 
@@ -22,7 +22,7 @@ I started with a [Rebel XT](https://www.amazon.com/gp/product/B0007QKN22/ref=as_
 
 My main DSLR is the full frame [Canon 5D Mark III](https://www.amazon.com/gp/product/B007FGYZFI/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007FGYZFI&amp;linkCode=as2&amp;tag=sunpech-20), which I bring with me most everywhere. This is by far the best DSLR I've ever used and I am most happy with.
 
-![Cameras Bodies](https://1.bp.blogspot.com/-QpZoHRN_zBw/U-f8Akb_h5I/AAAAAAABwqs/naV_KfVsBfg/s600/2014-08-10+at+15-59-45.jpg)
+![Cameras Bodies](https://1.bp.blogspot.com/-QpZoHRN_zBw/U-f8Akb_h5I/AAAAAAABwqs/naV_KfVsBfg/s800/2014-08-10+at+15-59-45.jpg)
 
 <small>Canon Rebel XT, 60D, and 5D Mark III (left to right)</small>
 
@@ -42,7 +42,7 @@ For my secondary body, I put on the [Canon 24-105mm f/4 IS L](https://www.amazon
 
 When I do event photography at conventions and shows, I absolutely love using my [Canon 70-200mm f/2.8 L IS II](https://www.amazon.com/gp/product/B0033PRWSW/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0033PRWSW&amp;linkCode=as2&amp;tag=sunpech-20). The images are just so tact sharp and the image stabilizer is amazing. I also use this for my portraits.
 
-![Camera Lenses](https://1.bp.blogspot.com/-UqAx1B2IRao/U-f-XpozWaI/AAAAAAABwrM/KVns8YN009Q/s600/2014-08-10+at+16-17-51.jpg)
+![Camera Lenses](https://1.bp.blogspot.com/-UqAx1B2IRao/U-f-XpozWaI/AAAAAAABwrM/KVns8YN009Q/s800/2014-08-10+at+16-17-51.jpg)
 
 <small>(70-200mm, 24-70mm, 24-105mm, 16-35mm, 50mm)</small>
 
@@ -58,7 +58,7 @@ Some place do not allow me to set up a tripod, so I use a *gorillapod* instead. 
 
 The first flash I bought was the [Canon Speedlite 430EX II](https://www.amazon.com/gp/product/B001CCAISE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001CCAISE&amp;linkCode=as2&amp;tag=sunpech-20). The second and main one I use is the [Canon Speedlite 600EX-RT](https://www.amazon.com/gp/product/B007FH1KX2/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007FH1KX2&amp;linkCode=as2&amp;tag=sunpech-20).
 
-![Camera Flashes](https://3.bp.blogspot.com/-1z1zojdLyoA/U-f8QGWfFpI/AAAAAAABwq0/Mi8H0lBiiIw/s600/2014-08-10+at+16-01-17.jpg)
+![Camera Flashes](https://3.bp.blogspot.com/-1z1zojdLyoA/U-f8QGWfFpI/AAAAAAABwq0/Mi8H0lBiiIw/s800/2014-08-10+at+16-01-17.jpg)
 
 <small>430EX II and 600EX-RT (left to right)</small>
 

@@ -5,13 +5,13 @@ blogger_orig_url: https://www.sunpech.com/2015/04/map-your-mouses-back-and-forwa
 date: '2015-04-09T10:00:00.000-05:00'
 description: My guide on how to enable your mouse's buttons to your browser's back/forth buttons.
 headerimage: /images/headers/technology.jpg
-image: https://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s600/IMG_20150408_153732.jpg
+image: https://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s800/IMG_20150408_153732.jpg
 modified_time: '2015-04-09T10:00:00.953-05:00'
 redirect_from: /2015/04/map-your-mouses-back-and-forward.html
 tags:
   - Guide
   - Technology
-thumbnail: https://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s600/IMG_20150408_153732.jpg
+thumbnail: https://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s800/IMG_20150408_153732.jpg
 title: Map Your Mouse's Back and Forward Buttons on a Mac
 ---
 
@@ -20,7 +20,7 @@ I've been using OS X as my main OS for almost five years now. But one thing that
 
 Here's a picture of my mouse with the buttons that under Windows, normally maps to forward and back in the web browser.
 
-<img   border="0" src="https://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s600/IMG_20150408_153732.jpg" alt=""   />
+<img   border="0" src="https://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s800/IMG_20150408_153732.jpg" alt=""   />
 
 By default, OS X does not have such functionality. Interestingly enough, my Ubuntu Linux machines has them working by default, same as Windows.
 
@@ -34,11 +34,11 @@ Open BetterTouchTool app and it should prompt you to change a Security &amp; Pri
 
 Under <span style="font-family: Courier New, Courier, monospace;">System Preferences -&gt; Security &amp; Privacy -&gt; Privacy</span>, click on <span style="font-family: Courier New, Courier, monospace;">Accessibility</span> tab and <b>enable</b> <b>BetterTouchTool.app</b> from the list on the right.
 
-<img   border="0" src="https://2.bp.blogspot.com/-GMV5qgREdR8/VSWW-KSh7gI/AAAAAAAB5Gc/8AMdbUeG850/s600/Screen%2BShot%2B2015-04-08%2Bat%2B4.00.23%2BPM.png" alt="" />
+<img   border="0" src="https://2.bp.blogspot.com/-GMV5qgREdR8/VSWW-KSh7gI/AAAAAAAB5Gc/8AMdbUeG850/s800/Screen%2BShot%2B2015-04-08%2Bat%2B4.00.23%2BPM.png" alt="" />
 
 From there, you'll then be able to add the mappings by selecting Normal Mice on the top, then click on Add New Button. On the bottom left, select a mouse button by actually clicking it, then in the Custom Keyboard Shortcut section, press the Command + Left Arrow or Command + Right arrow buttons on the keyboard to add the mappings to the corresponding mouse buttons. It should look like the screenshot below.
 
-<img   border="0" src="https://4.bp.blogspot.com/-tmt2CaMYbhQ/VSWYMSg-ktI/AAAAAAAB5Go/c2Uw4Y6TDSA/s600/Screen_Shot_2015-04-08_at_3_51_08_PM.jpg" alt="" />
+<img   border="0" src="https://4.bp.blogspot.com/-tmt2CaMYbhQ/VSWYMSg-ktI/AAAAAAAB5Go/c2Uw4Y6TDSA/s800/Screen_Shot_2015-04-08_at_3_51_08_PM.jpg" alt="" />
 
 And that's it! Now in your web browser you'll have back and forward shortcuts working!
 

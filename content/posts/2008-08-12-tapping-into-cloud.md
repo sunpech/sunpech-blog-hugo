@@ -8,7 +8,7 @@ modified_time: '2012-01-03T03:43:02.260-06:00'
 redirect_from: /2008/08/tapping-into-cloud.html
 tags:
   - Technology
-old_thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/SKJv-gJLYkI/AAAAAAAAAlQ/VNgf9rCJw1I/s600/datacenter.gif
+old_thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/SKJv-gJLYkI/AAAAAAAAAlQ/VNgf9rCJw1I/s800/datacenter.gif
 thumbnail: /images/blog/tn_datacenter.jpg
 title: Tapping into the Cloud
 ---

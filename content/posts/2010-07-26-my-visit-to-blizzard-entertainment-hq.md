@@ -7,7 +7,7 @@ modified_time: '2014-08-19T02:33:54.768-05:00'
 redirect_from: /2010/07/my-visit-to-blizzard-entertainment-hq.html
 tags:
   - Personal
-old_thumbnail: https://1.bp.blogspot.com/-8tLJ84y31BE/TEze0DUpkEI/AAAAAAAAUHA/6a5d4SBGIqY/s600/IMG_1625.JPG
+old_thumbnail: https://1.bp.blogspot.com/-8tLJ84y31BE/TEze0DUpkEI/AAAAAAAAUHA/6a5d4SBGIqY/s800/IMG_1625.JPG
 thumbnail: /images/blog/tn_blizzard-hq.jpg
 title: My visit to Blizzard Entertainment HQ
 ---

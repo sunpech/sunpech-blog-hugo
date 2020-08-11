@@ -8,7 +8,7 @@ modified_time: '2012-01-11T03:41:02.434-06:00'
 redirect_from: /2008/02/belkins-pre-n-router-laggy-on-ps3.html
 tags:
   - Technology
-old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/R69A6AhSFhI/AAAAAAAAAds/Jl8Jn6m7-Xg/s600/belkin-pre-n-250x250.JPG
+old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/R69A6AhSFhI/AAAAAAAAAds/Jl8Jn6m7-Xg/s800/belkin-pre-n-250x250.JPG
 thumbnail: /images/blog/tn_default.jpg
 title: Belkin's Pre N Router Laggy on PS3 network
 ---

@@ -8,7 +8,7 @@ modified_time: '2012-01-03T03:54:09.889-06:00'
 redirect_from: /2008/10/using-google-docs-as-collaboration-tool.html
 tags:
   - Technology
-old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SORXyukPKJI/AAAAAAAAIHs/mn5kb3gxf64/s600/google_doc.jpg
+old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SORXyukPKJI/AAAAAAAAIHs/mn5kb3gxf64/s800/google_doc.jpg
 thumbnail: /images/blog/tn_google-doc.jpg
 title: Using Google Docs as a Collaboration Tool
 ---

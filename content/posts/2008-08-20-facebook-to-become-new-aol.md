@@ -9,7 +9,7 @@ redirect_from: /2008/08/facebook-to-become-new-aol.html
 tags:
   - Technology
   - Social Media
-old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SKuMp6JQvsI/AAAAAAAAAmQ/4waYOTE3SV8/s600/prodigy.png
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SKuMp6JQvsI/AAAAAAAAAmQ/4waYOTE3SV8/s800/prodigy.png
 thumbnail: /images/blog/tn_aol.jpg
 title: Facebook to become the new AOL?
 ---

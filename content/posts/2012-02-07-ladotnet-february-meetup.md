@@ -10,7 +10,7 @@ tags:
   - Software Development
   - Los Angeles
   - Meetup
-thumbnail: https://3.bp.blogspot.com/-jitl_GPSx3o/TzDqRVlAABI/AAAAAAAA5xM/HVj9IsMtvQE/s600/2012-02-06+at+18-29-34.jpg
+thumbnail: https://3.bp.blogspot.com/-jitl_GPSx3o/TzDqRVlAABI/AAAAAAAA5xM/HVj9IsMtvQE/s800/2012-02-06+at+18-29-34.jpg
 title: LADOTNET February Meetup
 ---
 
@@ -31,43 +31,43 @@ Where: <a href="https://www.anderson.ucla.edu/">UCLA Anderson School of Manageme
 
 You can see <i>all</i> the pictures I took at the event <a href="https://picasaweb.google.com/sunpech/2012Meetups?authuser=0&amp;feat=directlink">here</a>, where I dump all my meetup pictures for this year. Here are some of the pictures I took:
 
-<a href="https://3.bp.blogspot.com/-jitl_GPSx3o/TzDqRVlAABI/AAAAAAAA5xM/HVj9IsMtvQE/s600/2012-02-06+at+18-29-34.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-jitl_GPSx3o/TzDqRVlAABI/AAAAAAAA5xM/HVj9IsMtvQE/s320/2012-02-06+at+18-29-34.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-jitl_GPSx3o/TzDqRVlAABI/AAAAAAAA5xM/HVj9IsMtvQE/s800/2012-02-06+at+18-29-34.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-jitl_GPSx3o/TzDqRVlAABI/AAAAAAAA5xM/HVj9IsMtvQE/s800/2012-02-06+at+18-29-34.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-C28fit2nZ-A/TzDqUYWxOiI/AAAAAAAA5xc/vZv6EJWcn9E/s600/2012-02-06+at+18-50-17.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-C28fit2nZ-A/TzDqUYWxOiI/AAAAAAAA5xc/vZv6EJWcn9E/s320/2012-02-06+at+18-50-17.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-C28fit2nZ-A/TzDqUYWxOiI/AAAAAAAA5xc/vZv6EJWcn9E/s800/2012-02-06+at+18-50-17.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-C28fit2nZ-A/TzDqUYWxOiI/AAAAAAAA5xc/vZv6EJWcn9E/s800/2012-02-06+at+18-50-17.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-1LUCVEBKBmc/TzDqWWjy7QI/AAAAAAAA5x0/u3hdHND2VSI/s600/2012-02-06+at+18-58-57.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-1LUCVEBKBmc/TzDqWWjy7QI/AAAAAAAA5x0/u3hdHND2VSI/s320/2012-02-06+at+18-58-57.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-1LUCVEBKBmc/TzDqWWjy7QI/AAAAAAAA5x0/u3hdHND2VSI/s800/2012-02-06+at+18-58-57.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-1LUCVEBKBmc/TzDqWWjy7QI/AAAAAAAA5x0/u3hdHND2VSI/s800/2012-02-06+at+18-58-57.jpg" alt=""  /></a>
 
-<a href="https://2.bp.blogspot.com/-zykF3TM6wYA/TzDqXJKFHNI/AAAAAAAA5x8/hwnQvgPvuP8/s600/2012-02-06+at+18-59-22.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-zykF3TM6wYA/TzDqXJKFHNI/AAAAAAAA5x8/hwnQvgPvuP8/s320/2012-02-06+at+18-59-22.jpg" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-zykF3TM6wYA/TzDqXJKFHNI/AAAAAAAA5x8/hwnQvgPvuP8/s800/2012-02-06+at+18-59-22.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-zykF3TM6wYA/TzDqXJKFHNI/AAAAAAAA5x8/hwnQvgPvuP8/s800/2012-02-06+at+18-59-22.jpg" alt=""  /></a>
 
-<a href="https://1.bp.blogspot.com/-FSgnyKTDSsU/TzDqZ4Jn26I/AAAAAAAA5yc/DmHoIrLQ4HE/s600/2012-02-06+at+19-00-36.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-FSgnyKTDSsU/TzDqZ4Jn26I/AAAAAAAA5yc/DmHoIrLQ4HE/s320/2012-02-06+at+19-00-36.jpg" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-FSgnyKTDSsU/TzDqZ4Jn26I/AAAAAAAA5yc/DmHoIrLQ4HE/s800/2012-02-06+at+19-00-36.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-FSgnyKTDSsU/TzDqZ4Jn26I/AAAAAAAA5yc/DmHoIrLQ4HE/s800/2012-02-06+at+19-00-36.jpg" alt=""  /></a>
 
-<a href="https://2.bp.blogspot.com/-ahTch4xcZOI/TzDqd0vXOzI/AAAAAAAA5zM/MuS4S996eNY/s600/2012-02-06+at+19-03-02.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-ahTch4xcZOI/TzDqd0vXOzI/AAAAAAAA5zM/MuS4S996eNY/s320/2012-02-06+at+19-03-02.jpg" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-ahTch4xcZOI/TzDqd0vXOzI/AAAAAAAA5zM/MuS4S996eNY/s800/2012-02-06+at+19-03-02.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-ahTch4xcZOI/TzDqd0vXOzI/AAAAAAAA5zM/MuS4S996eNY/s800/2012-02-06+at+19-03-02.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-61_rYZRi_NI/TzDqgFlhjSI/AAAAAAAA5zk/30NLjoCpTkg/s600/2012-02-06+at+19-04-08.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-61_rYZRi_NI/TzDqgFlhjSI/AAAAAAAA5zk/30NLjoCpTkg/s320/2012-02-06+at+19-04-08.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-61_rYZRi_NI/TzDqgFlhjSI/AAAAAAAA5zk/30NLjoCpTkg/s800/2012-02-06+at+19-04-08.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-61_rYZRi_NI/TzDqgFlhjSI/AAAAAAAA5zk/30NLjoCpTkg/s800/2012-02-06+at+19-04-08.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-t4TaMDzX26M/TzDqi0u6YTI/AAAAAAAA5z8/jA7lW9O_LZQ/s600/2012-02-06+at+19-08-47.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-t4TaMDzX26M/TzDqi0u6YTI/AAAAAAAA5z8/jA7lW9O_LZQ/s320/2012-02-06+at+19-08-47.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-t4TaMDzX26M/TzDqi0u6YTI/AAAAAAAA5z8/jA7lW9O_LZQ/s800/2012-02-06+at+19-08-47.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-t4TaMDzX26M/TzDqi0u6YTI/AAAAAAAA5z8/jA7lW9O_LZQ/s800/2012-02-06+at+19-08-47.jpg" alt=""  /></a>
 
 John Shiple
-<a href="https://1.bp.blogspot.com/-FPnad57_ksg/TzDqy-aHTRI/AAAAAAAA52Q/VCiCKgXiJa4/s600/2012-02-06+at+19-27-17.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-FPnad57_ksg/TzDqy-aHTRI/AAAAAAAA52Q/VCiCKgXiJa4/s320/2012-02-06+at+19-27-17.jpg" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-FPnad57_ksg/TzDqy-aHTRI/AAAAAAAA52Q/VCiCKgXiJa4/s800/2012-02-06+at+19-27-17.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-FPnad57_ksg/TzDqy-aHTRI/AAAAAAAA52Q/VCiCKgXiJa4/s800/2012-02-06+at+19-27-17.jpg" alt=""  /></a>
 
-<a href="https://2.bp.blogspot.com/-gpzk5Ujr9XE/TzDqwce5uyI/AAAAAAAA514/K-iX-UhqNXA/s600/2012-02-06+at+19-21-01.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-gpzk5Ujr9XE/TzDqwce5uyI/AAAAAAAA514/K-iX-UhqNXA/s320/2012-02-06+at+19-21-01.jpg" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-gpzk5Ujr9XE/TzDqwce5uyI/AAAAAAAA514/K-iX-UhqNXA/s800/2012-02-06+at+19-21-01.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-gpzk5Ujr9XE/TzDqwce5uyI/AAAAAAAA514/K-iX-UhqNXA/s800/2012-02-06+at+19-21-01.jpg" alt=""  /></a>
 
-<a href="https://1.bp.blogspot.com/-NDwrUkd9PD8/TzDq3d85H_I/AAAAAAAA53A/18CajaepW_Y/s600/2012-02-06+at+19-32-18.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-NDwrUkd9PD8/TzDq3d85H_I/AAAAAAAA53A/18CajaepW_Y/s320/2012-02-06+at+19-32-18.jpg" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-NDwrUkd9PD8/TzDq3d85H_I/AAAAAAAA53A/18CajaepW_Y/s800/2012-02-06+at+19-32-18.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-NDwrUkd9PD8/TzDq3d85H_I/AAAAAAAA53A/18CajaepW_Y/s800/2012-02-06+at+19-32-18.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-b98JUY4eNGU/TzDq56NxufI/AAAAAAAA53Y/-R4RMfBxGGc/s600/2012-02-06+at+19-37-57.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-b98JUY4eNGU/TzDq56NxufI/AAAAAAAA53Y/-R4RMfBxGGc/s320/2012-02-06+at+19-37-57.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-b98JUY4eNGU/TzDq56NxufI/AAAAAAAA53Y/-R4RMfBxGGc/s800/2012-02-06+at+19-37-57.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-b98JUY4eNGU/TzDq56NxufI/AAAAAAAA53Y/-R4RMfBxGGc/s800/2012-02-06+at+19-37-57.jpg" alt=""  /></a>
 
-<a href="https://2.bp.blogspot.com/-1-SRdC2DbEg/TzDq8mHdCoI/AAAAAAAA54A/Xy6Bp6jaacQ/s600/2012-02-06+at+19-42-59.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-1-SRdC2DbEg/TzDq8mHdCoI/AAAAAAAA54A/Xy6Bp6jaacQ/s320/2012-02-06+at+19-42-59.jpg" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-1-SRdC2DbEg/TzDq8mHdCoI/AAAAAAAA54A/Xy6Bp6jaacQ/s800/2012-02-06+at+19-42-59.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-1-SRdC2DbEg/TzDq8mHdCoI/AAAAAAAA54A/Xy6Bp6jaacQ/s800/2012-02-06+at+19-42-59.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-BM8ZMu-_4Lk/TzDrBn7ovCI/AAAAAAAA544/Fj0_IjSpMcI/s600/2012-02-06+at+20-11-56.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-BM8ZMu-_4Lk/TzDrBn7ovCI/AAAAAAAA544/Fj0_IjSpMcI/s320/2012-02-06+at+20-11-56.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-BM8ZMu-_4Lk/TzDrBn7ovCI/AAAAAAAA544/Fj0_IjSpMcI/s800/2012-02-06+at+20-11-56.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-BM8ZMu-_4Lk/TzDrBn7ovCI/AAAAAAAA544/Fj0_IjSpMcI/s800/2012-02-06+at+20-11-56.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-C0uUJWSPAOU/TzDrC2U_CII/AAAAAAAA55Q/gG34ptPk1Ng/s600/2012-02-06+at+20-42-23.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-C0uUJWSPAOU/TzDrC2U_CII/AAAAAAAA55Q/gG34ptPk1Ng/s320/2012-02-06+at+20-42-23.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-C0uUJWSPAOU/TzDrC2U_CII/AAAAAAAA55Q/gG34ptPk1Ng/s800/2012-02-06+at+20-42-23.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-C0uUJWSPAOU/TzDrC2U_CII/AAAAAAAA55Q/gG34ptPk1Ng/s800/2012-02-06+at+20-42-23.jpg" alt=""  /></a>
 
 Beer and hanging out at <a href="https://www.busbysla.com/">Busby's</a> after the meetup.
-<a href="https://2.bp.blogspot.com/-ON1eg3ldXUc/TzDrD_osykI/AAAAAAAA55Y/KyzBZuILfzY/s600/2012-02-06+at+21-47-43.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-ON1eg3ldXUc/TzDrD_osykI/AAAAAAAA55Y/KyzBZuILfzY/s320/2012-02-06+at+21-47-43.jpg" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-ON1eg3ldXUc/TzDrD_osykI/AAAAAAAA55Y/KyzBZuILfzY/s800/2012-02-06+at+21-47-43.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-ON1eg3ldXUc/TzDrD_osykI/AAAAAAAA55Y/KyzBZuILfzY/s800/2012-02-06+at+21-47-43.jpg" alt=""  /></a>
 
-<a href="https://2.bp.blogspot.com/-jHl95McFH3I/TzDrE7rOJrI/AAAAAAAA55g/sJdGARUUx_Q/s600/2012-02-06+at+21-47-55.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-jHl95McFH3I/TzDrE7rOJrI/AAAAAAAA55g/sJdGARUUx_Q/s320/2012-02-06+at+21-47-55.jpg" alt=""  /></a>
+<a href="https://2.bp.blogspot.com/-jHl95McFH3I/TzDrE7rOJrI/AAAAAAAA55g/sJdGARUUx_Q/s800/2012-02-06+at+21-47-55.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-jHl95McFH3I/TzDrE7rOJrI/AAAAAAAA55g/sJdGARUUx_Q/s800/2012-02-06+at+21-47-55.jpg" alt=""  /></a>
 
-<a href="https://1.bp.blogspot.com/-NNO5_a0lugY/TzDrJkCA60I/AAAAAAAA56U/6OaSV0DRIYY/s600/2012-02-06+at+22-05-00.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-NNO5_a0lugY/TzDrJkCA60I/AAAAAAAA56U/6OaSV0DRIYY/s320/2012-02-06+at+22-05-00.jpg" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-NNO5_a0lugY/TzDrJkCA60I/AAAAAAAA56U/6OaSV0DRIYY/s800/2012-02-06+at+22-05-00.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-NNO5_a0lugY/TzDrJkCA60I/AAAAAAAA56U/6OaSV0DRIYY/s800/2012-02-06+at+22-05-00.jpg" alt=""  /></a>
 
 Some recent articles I've read:
 

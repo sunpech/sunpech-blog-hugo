@@ -10,7 +10,7 @@ tags:
   - Los Angeles
   - Events
   - Code Camp
-thumbnail: https://3.bp.blogspot.com/-c0HUzw7CqWw/UIIIhnLmWBI/AAAAAAABVOc/J2Fu10yEWNc/s600/2012-10-14+at+09-35-38.jpg
+thumbnail: https://3.bp.blogspot.com/-c0HUzw7CqWw/UIIIhnLmWBI/AAAAAAABVOc/J2Fu10yEWNc/s800/2012-10-14+at+09-35-38.jpg
 title: SoCal Code Camp at USC
 ---
 

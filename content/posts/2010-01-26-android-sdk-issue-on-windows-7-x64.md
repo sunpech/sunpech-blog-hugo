@@ -11,7 +11,7 @@ tags:
   - Software Development
   - Android
   - Guide
-old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/S1-JuvXb-TI/AAAAAAAAOEc/-7CpDZMLDBA/s600/Android_error_message_64bit.jpg
+old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/S1-JuvXb-TI/AAAAAAAAOEc/-7CpDZMLDBA/s800/Android_error_message_64bit.jpg
 thumbnail: /images/blog/tn_default.jpg
 title: Android SDK issue on Windows 7 x64
 ---

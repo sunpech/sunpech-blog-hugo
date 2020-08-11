@@ -9,7 +9,7 @@ redirect_from: /2013/04/be-considerate-of-other-photographers.html
 tags:
   - Photography
   - Travel
-thumbnail: https://3.bp.blogspot.com/-dSsewRaCBs4/UXw5SGYDdsI/AAAAAAABbvw/F96m8A4vlJI/s600/2013-04-19+at+12-23-23.jpg
+thumbnail: https://3.bp.blogspot.com/-dSsewRaCBs4/UXw5SGYDdsI/AAAAAAABbvw/F96m8A4vlJI/s800/2013-04-19+at+12-23-23.jpg
 title: Be Considerate of Other Photographers
 ---
 
@@ -44,4 +44,4 @@ Okay, rant over. Sharing time. One photo only though, I like to keep this weddin
 
 Here is a shot of the gazebo before the wedding. This is one of my favorite shots I took in the Bahamas.
 
-<img   border="0" src="https://3.bp.blogspot.com/-dSsewRaCBs4/UXw5SGYDdsI/AAAAAAABbvw/F96m8A4vlJI/s600/2013-04-19+at+12-23-23.jpg" alt=""  />
+<img   border="0" src="https://3.bp.blogspot.com/-dSsewRaCBs4/UXw5SGYDdsI/AAAAAAABbvw/F96m8A4vlJI/s800/2013-04-19+at+12-23-23.jpg" alt=""  />

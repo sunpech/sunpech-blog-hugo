@@ -10,7 +10,7 @@ tags:
   - Technology
   - Android
   - Guide
-old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/THt8iBDVVQI/AAAAAAAAWWA/ppE6gy3cFIw/s600/Screen+shot+2010-08-30+at+4.40.01+AM.png
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/THt8iBDVVQI/AAAAAAAAWWA/ppE6gy3cFIw/s800/Screen+shot+2010-08-30+at+4.40.01+AM.png
 thumbnail: /images/blog/tn_install-thai-fonts-android.jpg
 title: Installing Thai fonts onto an Android device
 ---

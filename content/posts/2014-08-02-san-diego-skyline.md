@@ -9,7 +9,7 @@ redirect_from: /2014/08/san-diego-skyline.html
 tags:
   - Photography
   - San Diego
-thumbnail: https://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s600/2014-07-22+at+21-32-55.jpg
+thumbnail: https://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s800/2014-07-22+at+21-32-55.jpg
 title: San Diego Skyline
 ---
 
@@ -21,4 +21,4 @@ I was there for <a href="https://www.comic-con.org/cci">Comic Con</a> a few days
 I was planning to take shots in bulb-mode, but I forgot to bring my shutter release. So I just stuck in aperture-priority mode around f/8 on my tripod and hoped that no ferries would come into the shot for the long exposure.
 
 Buy Print: <a href="https://500pxart.com/photo/77506553">https://500pxart.com/photo/77506553</a>
-<a href="https://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s600/2014-07-22+at+21-32-55.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s600/2014-07-22+at+21-32-55.jpg" alt=""   /></a>
+<a href="https://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s800/2014-07-22+at+21-32-55.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s800/2014-07-22+at+21-32-55.jpg" alt=""   /></a>

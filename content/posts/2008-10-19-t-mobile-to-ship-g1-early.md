@@ -9,7 +9,7 @@ redirect_from: /2008/10/t-mobile-to-ship-g1-early.html
 tags:
   - Technology
   - Android
-old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SPvKJ1MI4gI/AAAAAAAAIJE/LamGf5KMYTs/s600/tmobile_g1_arrive_early.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SPvKJ1MI4gI/AAAAAAAAIJE/LamGf5KMYTs/s800/tmobile_g1_arrive_early.jpg
 thumbnail: /images/blog/tn_tmobile-g1-arrive-early.jpg
 title: T-mobile to ship G1 early?
 ---

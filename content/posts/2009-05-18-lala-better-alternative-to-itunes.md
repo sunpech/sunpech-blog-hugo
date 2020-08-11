@@ -10,7 +10,7 @@ tags:
   - Music
   - Technology
   - Review
-old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/ShGPRxWqbBI/AAAAAAAAIn4/QkHHq1JcEFo/s600/screenshot_LALA.png
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/ShGPRxWqbBI/AAAAAAAAIn4/QkHHq1JcEFo/s800/screenshot_LALA.png
 thumbnail: /images/blog/tn_screenshot-lala.jpg
 title: 'LaLa.com: A Better Alternative to iTunes'
 ---

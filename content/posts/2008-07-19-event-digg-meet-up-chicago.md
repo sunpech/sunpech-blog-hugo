@@ -9,7 +9,7 @@ redirect_from: /2008/07/event-digg-meet-up-chicago.html
 tags:
   - Chicago
   - Meetup
-old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SHQq7sxM-8I/AAAAAAAAAks/lcoBl4SRTVI/s600/digg_chicago.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SHQq7sxM-8I/AAAAAAAAAks/lcoBl4SRTVI/s800/digg_chicago.jpg
 thumbnail: /images/blog/tn_digg-chicago-smartbar.jpg
 title: 'Event: Digg Meet-Up Chicago'
 ---

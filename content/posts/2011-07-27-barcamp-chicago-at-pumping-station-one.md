@@ -7,67 +7,69 @@ headerimage: /images/headers/chicago_skyline.jpg
 modified_time: '2014-08-21T02:04:33.752-05:00'
 redirect_from: /2011/07/barcamp-chicago-at-pumping-station-one.html
 tags:
-  - Chicago
-  - Meetup
-thumbnail: https://3.bp.blogspot.com/-JQi0iKrv5Js/ThpxKmxHdJI/AAAAAAAAscU/Ki9EZUFycQo/s600/2011-07-09+at+14-17-28.jpg
+ - Chicago
+ - Meetup
+old_thumbnail: https://3.bp.blogspot.com/-JQi0iKrv5Js/ThpxKmxHdJI/AAAAAAAAscU/Ki9EZUFycQo/s800/2011-07-09-at-14-17-28.jpg
+thumbnail: /images/blog/tn_2011-chicago-barcamp-pumping-station-one.jpg
 title: Barcamp Chicago at Pumping Station One
 ---
-
 
 I went to check out <a href="https://barcampchicago.org/">Barcamp Chicago</a> earlier this month, on July 9, 2011. It was held at <a href="https://pumpingstationone.org/">Pumping Station One</a>, a <a href="https://en.wikipedia.org/wiki/Hackerspace">hackerspace</a> here in Chicago. I didn't stay too long, as it was a really nice day out.  
 
 Here are most of the pictures I took:  
 
 This is the entrance
-<a href="https://3.bp.blogspot.com/-JQi0iKrv5Js/ThpxKmxHdJI/AAAAAAAAscU/Ki9EZUFycQo/s600/2011-07-09+at+14-17-28.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-JQi0iKrv5Js/ThpxKmxHdJI/AAAAAAAAscU/Ki9EZUFycQo/s400/2011-07-09+at+14-17-28.jpg" alt=""   /></a>
+
+![2011 Barcaamp Chicago at Pumping Station One - 1](/images/blog/2011-07-09-at-14-17-28.jpg)
 
 After the hallway entrance, this what you first see
-<a href="https://3.bp.blogspot.com/-tMBkJjb1v2o/ThpxLXSTJ8I/AAAAAAAAscY/Iz-HmdG6Zio/s600/2011-07-09+at+14-17-05.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-tMBkJjb1v2o/ThpxLXSTJ8I/AAAAAAAAscY/Iz-HmdG6Zio/s400/2011-07-09+at+14-17-05.jpg" alt=""   /></a>
 
-<a href="https://4.bp.blogspot.com/-rh9BgfsUiGQ/ThpxMH9xRWI/AAAAAAAAscc/6R6IMiqnoKk/s600/2011-07-09+at+14-16-51.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-rh9BgfsUiGQ/ThpxMH9xRWI/AAAAAAAAscc/6R6IMiqnoKk/s400/2011-07-09+at+14-16-51.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 2](/images/blog/2011-07-09-at-14-17-05.jpg)
 
-<a href="https://4.bp.blogspot.com/-EIEREwM9KP8/ThpxMzNjFMI/AAAAAAAAscg/ovzZkmcYpgE/s600/2011-07-09+at+14-17-00.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-EIEREwM9KP8/ThpxMzNjFMI/AAAAAAAAscg/ovzZkmcYpgE/s400/2011-07-09+at+14-17-00.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 3](/images/blog/2011-07-09-at-14-16-51.jpg)
 
-<a href="https://4.bp.blogspot.com/-RdQ9w1R343Q/ThpxNsVqE5I/AAAAAAAAsck/vbgWvs_pTmA/s600/2011-07-09+at+14-16-45.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-RdQ9w1R343Q/ThpxNsVqE5I/AAAAAAAAsck/vbgWvs_pTmA/s400/2011-07-09+at+14-16-45.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 4](/images/blog/2011-07-09-at-14-17-00.jpg)
 
-<a href="https://3.bp.blogspot.com/-nBYw_FaCrz0/ThpxOSLDWqI/AAAAAAAAsco/E_oO9wg_DKM/s600/2011-07-09+at+14-16-39.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-nBYw_FaCrz0/ThpxOSLDWqI/AAAAAAAAsco/E_oO9wg_DKM/s400/2011-07-09+at+14-16-39.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 5](/images/blog/2011-07-09-at-14-16-45.jpg)
 
-<a href="https://1.bp.blogspot.com/-Puu2D861u5o/ThpxPMlKBeI/AAAAAAAAscs/Mnrx8B_8uiw/s600/2011-07-09+at+14-16-27.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-Puu2D861u5o/ThpxPMlKBeI/AAAAAAAAscs/Mnrx8B_8uiw/s400/2011-07-09+at+14-16-27.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 6](/images/blog/2011-07-09-at-14-16-39.jpg)
 
-<a href="https://3.bp.blogspot.com/-zt0-w9fgJv0/ThpxPx8oUCI/AAAAAAAAscw/31e7xH41PVU/s600/2011-07-09+at+14-15-51.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-zt0-w9fgJv0/ThpxPx8oUCI/AAAAAAAAscw/31e7xH41PVU/s400/2011-07-09+at+14-15-51.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 7](/images/blog/2011-07-09-at-14-16-27.jpg)
 
-<a href="https://3.bp.blogspot.com/-rnk-riZQF2o/ThpxQrkCMrI/AAAAAAAAsc0/ZzdVsWyaEao/s600/2011-07-09+at+14-16-00.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-rnk-riZQF2o/ThpxQrkCMrI/AAAAAAAAsc0/ZzdVsWyaEao/s400/2011-07-09+at+14-16-00.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 8](/images/blog/2011-07-09-at-14-15-51.jpg)
 
-<a href="https://1.bp.blogspot.com/-raVKFiCZZdE/ThpxRTChhDI/AAAAAAAAsc4/rec98HkAwt4/s600/2011-07-09+at+14-16-08.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-raVKFiCZZdE/ThpxRTChhDI/AAAAAAAAsc4/rec98HkAwt4/s400/2011-07-09+at+14-16-08.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 9](/images/blog/2011-07-09-at-14-16-00.jpg)
 
-<a href="https://2.bp.blogspot.com/-3XVJYJJthps/ThpxSASKbHI/AAAAAAAAsc8/TFf7XZ5T1Uw/s600/2011-07-09+at+14-15-44.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-3XVJYJJthps/ThpxSASKbHI/AAAAAAAAsc8/TFf7XZ5T1Uw/s400/2011-07-09+at+14-15-44.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 10](/images/blog/2011-07-09-at-14-16-08.jpg)
 
-<a href="https://3.bp.blogspot.com/-Ydm9rHEr5vs/ThpxTLTbFBI/AAAAAAAAsdA/KlHv31CpzEc/s600/2011-07-09+at+14-14-34.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-Ydm9rHEr5vs/ThpxTLTbFBI/AAAAAAAAsdA/KlHv31CpzEc/s400/2011-07-09+at+14-14-34.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 11](/images/blog/2011-07-09-at-14-15-44.jpg)
 
-<a href="https://3.bp.blogspot.com/-0DXYNo7WnFo/ThpxUB39KII/AAAAAAAAsdE/EAqCwcIQKJg/s600/2011-07-09+at+14-15-42.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-0DXYNo7WnFo/ThpxUB39KII/AAAAAAAAsdE/EAqCwcIQKJg/s400/2011-07-09+at+14-15-42.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 12](/images/blog/2011-07-09-at-14-14-34.jpg)
 
-<a href="https://2.bp.blogspot.com/-0UjMYj0siHE/ThpxVIcxnKI/AAAAAAAAsdI/fT_u-HRA9VA/s600/2011-07-09+at+14-13-48.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-0UjMYj0siHE/ThpxVIcxnKI/AAAAAAAAsdI/fT_u-HRA9VA/s400/2011-07-09+at+14-13-48.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 13](/images/blog/2011-07-09-at-14-15-42.jpg)
 
-<a href="https://4.bp.blogspot.com/-51wk-J_LV7c/ThpxWM5sJhI/AAAAAAAAsdM/jVD2sPgODzM/s600/2011-07-09+at+14-13-31.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-51wk-J_LV7c/ThpxWM5sJhI/AAAAAAAAsdM/jVD2sPgODzM/s400/2011-07-09+at+14-13-31.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 14](/images/blog/2011-07-09-at-14-13-48.jpg)
 
-<a href="https://1.bp.blogspot.com/-WYGoIPKWZ7o/ThpxXHmZ3kI/AAAAAAAAsdQ/bDmGItOG_To/s600/2011-07-09+at+14-12-13.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-WYGoIPKWZ7o/ThpxXHmZ3kI/AAAAAAAAsdQ/bDmGItOG_To/s400/2011-07-09+at+14-12-13.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 15](/images/blog/2011-07-09-at-14-13-31.jpg)
 
-<a href="https://2.bp.blogspot.com/-OZQSbzly3X0/ThpxZFFRHiI/AAAAAAAAsdY/wDRaalduUc0/s600/2011-07-09+at+14-05-02.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-OZQSbzly3X0/ThpxZFFRHiI/AAAAAAAAsdY/wDRaalduUc0/s400/2011-07-09+at+14-05-02.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 16](/images/blog/2011-07-09-at-14-12-13.jpg)
 
-<a href="https://4.bp.blogspot.com/-_usdQY7KmQk/ThpxZwj4yOI/AAAAAAAAsdc/KquWmsgq1Fk/s600/2011-07-09+at+14-12-07.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-_usdQY7KmQk/ThpxZwj4yOI/AAAAAAAAsdc/KquWmsgq1Fk/s400/2011-07-09+at+14-12-07.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 17](/images/blog/2011-07-09-at-14-05-02.jpg)
 
-<a href="https://2.bp.blogspot.com/-gFUqKlRJzyQ/ThpxasEf_NI/AAAAAAAAsdg/z8TTf_Ai78w/s600/2011-07-09+at+14-04-51.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-gFUqKlRJzyQ/ThpxasEf_NI/AAAAAAAAsdg/z8TTf_Ai78w/s400/2011-07-09+at+14-04-51.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 18](/images/blog/2011-07-09-at-14-12-07.jpg)
 
-<a href="https://4.bp.blogspot.com/-dEZSNpmO6Vc/Thpxbr4rktI/AAAAAAAAsdk/hfWsWvv3aug/s600/2011-07-09+at+14-02-59.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-dEZSNpmO6Vc/Thpxbr4rktI/AAAAAAAAsdk/hfWsWvv3aug/s400/2011-07-09+at+14-02-59.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 19](/images/blog/2011-07-09-at-14-04-51.jpg)
 
-<a href="https://3.bp.blogspot.com/-Qq02JGbljBc/Thpxcjj1OgI/AAAAAAAAsdo/U1MzocqSRYI/s600/2011-07-09+at+13-12-09.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-Qq02JGbljBc/Thpxcjj1OgI/AAAAAAAAsdo/U1MzocqSRYI/s400/2011-07-09+at+13-12-09.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 20](/images/blog/2011-07-09-at-14-02-59.jpg)
 
-<a href="https://4.bp.blogspot.com/-EGUATW09YCM/ThpxdXhbxNI/AAAAAAAAsds/9Hvya4SmmEw/s600/2011-07-09+at+13-12-03.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-EGUATW09YCM/ThpxdXhbxNI/AAAAAAAAsds/9Hvya4SmmEw/s400/2011-07-09+at+13-12-03.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 21](/images/blog/2011-07-09-at-13-12-09.jpg)
 
-<a href="https://2.bp.blogspot.com/-SmJ6ep25hq4/ThpxeTjtZhI/AAAAAAAAsdw/SC42Ntb0HRM/s600/2011-07-09+at+12-34-33.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-SmJ6ep25hq4/ThpxeTjtZhI/AAAAAAAAsdw/SC42Ntb0HRM/s400/2011-07-09+at+12-34-33.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 22](/images/blog/2011-07-09-at-13-12-03.jpg)
 
-<a href="https://2.bp.blogspot.com/-YqmrOFK3Yfw/ThpxfPOvuII/AAAAAAAAsd0/a1Vx4IUo2sI/s600/2011-07-09+at+12-33-46.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-YqmrOFK3Yfw/ThpxfPOvuII/AAAAAAAAsd0/a1Vx4IUo2sI/s400/2011-07-09+at+12-33-46.jpg" alt=""   /></a>
+![2011 Barcaamp Chicago at Pumping Station One - 23](/images/blog/2011-07-09-at-12-34-33.jpg)
 
-<a href="https://pumpingstationone.org/">Pumping Station One</a><br />
-3354 N. Elston<br />
+![2011 Barcaamp Chicago at Pumping Station One - 24](/images/blog/2011-07-09-at-12-33-46.jpg)
+
+[Pumping Station One - 1](https://pumpingstationone.org/)\
+3354 N. Elston\
 Chicago, IL 60618

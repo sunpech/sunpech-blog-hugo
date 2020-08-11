@@ -10,7 +10,7 @@ tags:
   - Photography
   - Los Angeles
   - Photowalk
-thumbnail: https://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s600/2013-05-30+at+19-48-35.jpg
+thumbnail: https://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s800/2013-05-30+at+19-48-35.jpg
 title: My First Drink and Click LA Event
 ---
 

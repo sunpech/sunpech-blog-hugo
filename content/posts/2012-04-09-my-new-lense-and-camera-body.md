@@ -8,7 +8,7 @@ modified_time: '2012-04-09T14:36:34.872-05:00'
 redirect_from: /2012/04/my-new-lense-and-camera-body.html
 tags:
   - Photography
-thumbnail: https://3.bp.blogspot.com/-wA0U05podk0/T4AhgtRPfQI/AAAAAAABAr4/eCBf62xy0pc/s600/2012-04-04+at+17-19-47.jpg
+thumbnail: https://3.bp.blogspot.com/-wA0U05podk0/T4AhgtRPfQI/AAAAAAABAr4/eCBf62xy0pc/s800/2012-04-04+at+17-19-47.jpg
 title: My new lense and camera body
 ---
 

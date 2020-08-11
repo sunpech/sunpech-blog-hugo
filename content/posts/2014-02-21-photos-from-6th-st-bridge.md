@@ -9,7 +9,7 @@ redirect_from: /2014/02/photos-from-6th-st-bridge.html
 tags:
   - Los Angeles
   - Photography
-thumbnail: https://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s600/2014-02-15+at+19-45-14.jpg
+thumbnail: https://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s800/2014-02-15+at+19-45-14.jpg
 title: Photos from 6th St Bridge
 ---
 
@@ -26,13 +26,13 @@ Below are three pictures taken from relatively the same spot on the bridge. I pr
 
 #### Dark DTLA
 Buy print: <a href="https://500pxart.com/photo/61340603">https://500pxart.com/photo/61340603</a>
-<a href="https://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s600/2014-02-15+at+19-45-14.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s600/2014-02-15+at+19-45-14.jpg" alt="" /></a>
+<a href="https://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s800/2014-02-15+at+19-45-14.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s800/2014-02-15+at+19-45-14.jpg" alt="" /></a>
 
 #### DTLA Skyline
 Buy print: <a href="https://500pxart.com/photo/61433677">https://500pxart.com/photo/61433677</a>
-<a href="https://4.bp.blogspot.com/-Dt6gpobxkb4/UwN-_Ot3FkI/AAAAAAABmYE/zfW6_txP7AM/s600/2014-02-15+at+20-08-49.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-Dt6gpobxkb4/UwN-_Ot3FkI/AAAAAAABmYE/zfW6_txP7AM/s600/2014-02-15+at+20-08-49.jpg" alt=""   /></a>
+<a href="https://4.bp.blogspot.com/-Dt6gpobxkb4/UwN-_Ot3FkI/AAAAAAABmYE/zfW6_txP7AM/s800/2014-02-15+at+20-08-49.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-Dt6gpobxkb4/UwN-_Ot3FkI/AAAAAAABmYE/zfW6_txP7AM/s800/2014-02-15+at+20-08-49.jpg" alt=""   /></a>
 
 #### Starbust DTLA
-<a href="https://2.bp.blogspot.com/-YEfS6a44_sY/UwN--Sj1i6I/AAAAAAABmX8/4Vp_CpPNNuQ/s600/2014-02-15+at+19-57-58.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-YEfS6a44_sY/UwN--Sj1i6I/AAAAAAABmX8/4Vp_CpPNNuQ/s600/2014-02-15+at+19-57-58.jpg" alt=""   /></a>
+<a href="https://2.bp.blogspot.com/-YEfS6a44_sY/UwN--Sj1i6I/AAAAAAABmX8/4Vp_CpPNNuQ/s800/2014-02-15+at+19-57-58.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-YEfS6a44_sY/UwN--Sj1i6I/AAAAAAABmX8/4Vp_CpPNNuQ/s800/2014-02-15+at+19-57-58.jpg" alt=""   /></a>
 
 To view my collection of pictures taken in Los Angeles, <a href="https://plus.google.com/photos/101693597219413173200/albums/5971477409792464481">click here</a>.

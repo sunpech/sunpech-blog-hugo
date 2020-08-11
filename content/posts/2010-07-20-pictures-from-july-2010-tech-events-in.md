@@ -9,7 +9,7 @@ redirect_from: /2010/07/pictures-from-july-2010-tech-events-in.html
 tags:
   - Chicago
   - Software Development
-old_thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/TEUN8thQXxI/AAAAAAAASVM/sM6lMLptc74/s600/2010-07-06+18.11.49.jpg
+old_thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/TEUN8thQXxI/AAAAAAAASVM/sM6lMLptc74/s800/2010-07-06+18.11.49.jpg
 thumbnail: /images/blog/tn_2010-07-06-18.11.49.jpg
 title: Pictures from the July 2010 Tech Events in Chicago
 ---

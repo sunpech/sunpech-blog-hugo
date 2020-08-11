@@ -9,7 +9,7 @@ redirect_from: /2009/02/tropicanas-new-logo-design.html
 tags:
   - Technology
   - Design
-old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s600/1235483922047.jpg
+old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s800/1235483922047.jpg
 thumbnail: /images/blog/tn_1235483922047.jpg
 title: Tropicana's New Logo Design
 ---

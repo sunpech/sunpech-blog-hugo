@@ -9,7 +9,7 @@ redirect_from: /2008/11/went-to-obama-rally-in-grant-park.html
 tags:
   - Chicago
   - Personal
-old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vvHvJ0/s600/1225833347830.jpg
+old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vvHvJ0/s800/1225833347830.jpg
 thumbnail: /images/blog/tn_obama-rally-grant-park.jpg
 title: Went to the Obama Rally in Grant Park
 ---

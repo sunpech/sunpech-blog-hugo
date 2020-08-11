@@ -9,7 +9,8 @@ redirect_from: /2011/02/pictures-of-transformers-3-set-in.html
 tags:
   - Chicago
   - Movies
-thumbnail: https://3.bp.blogspot.com/-uYsvUKhyzLg/TWOHIoUIjvI/AAAAAAAAg3A/acnXcX2HpG8/s600/IMG_0479.JPG
+old_thumbnail: https://3.bp.blogspot.com/-uYsvUKhyzLg/TWOHIoUIjvI/AAAAAAAAg3A/acnXcX2HpG8/s800/IMG_0479.JPG
+thumbnail: /images/blog/tn_2010-transformers-3-set.jpg
 title: Pictures of Transformers 3 Set in Chicago
 ---
 
@@ -17,51 +18,51 @@ title: Pictures of Transformers 3 Set in Chicago
 I just realized I never formally made a blog post on all the pictures I took of the Transformers 3 set in Chicago of Summer of 2010. Many of the photos I took weren't that far from the office I was working at.
 
 Here you go, enjoy the albums:
-<ul>
-  <li><a href="https://picasaweb.google.com/101693597219413173200/2010Transformers3Set">2010 Transformers 3 Set</a></li>
-  <li><a href="https://picasaweb.google.com/sunpech/2010July17Transformers3Set">2010 July 17 Transformers 3 Set</a></li>
-  <li><a href="https://picasaweb.google.com/sunpech/2010August1Transformers3Set">2010 August 1 Transformers 3 Set</a></li>
-  <li><a href="https://picasaweb.google.com/sunpech/2010August19TransformersSet?feat=flashalbum">2010 August 19 Transformers Set</a></li>
-</ul>
+
+* [2010 Transformers 3 Set](https://photos.app.goo.gl/xNE75NAFejYckH68A)
+* [2010 July 17 Transformers 3 Set](https://photos.app.goo.gl/WqaDQVEfLU8b5CUv7)
+* [2010 August 1 Transformers 3 Set](https://photos.app.goo.gl/xNE75NAFejYckH68A)
+* [2010 August 19 Transformers Set](https://photos.app.goo.gl/fisJD4AQyY7QTBUA7)
+
 
 ### Pictures
 
-<a href="https://3.bp.blogspot.com/-uYsvUKhyzLg/TWOHIoUIjvI/AAAAAAAAg3A/acnXcX2HpG8/s1600/IMG_0479.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-uYsvUKhyzLg/TWOHIoUIjvI/AAAAAAAAg3A/acnXcX2HpG8/s320/IMG_0479.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 1](/images/blog/IMG_0479.jpg)
 
-<a href="https://2.bp.blogspot.com/-TB5GlMLLcHg/TWOHZiAr1XI/AAAAAAAAg3Q/mAd1k2cj1r4/s1600/IMG_0481.jpg" alt=""><img   border="0" src="https://2.bp.blogspot.com/-TB5GlMLLcHg/TWOHZiAr1XI/AAAAAAAAg3Q/mAd1k2cj1r4/s320/IMG_0481.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 2](/images/blog/IMG_0481.jpg)
 
-<a href="https://3.bp.blogspot.com/-de7NesaAiq0/TWOHhOrHr9I/AAAAAAAAg3Y/dMuo1vVGQoI/s1600/IMG_0482.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-de7NesaAiq0/TWOHhOrHr9I/AAAAAAAAg3Y/dMuo1vVGQoI/s320/IMG_0482.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 3](/images/blog/IMG_0482.jpg)
 
-<a href="https://4.bp.blogspot.com/-UmVtRzob3b0/TWOHsT4zYFI/AAAAAAAAg3k/iyIMoW17Aoo/s1600/IMG_0487.jpg" alt=""><img   border="0" src="https://4.bp.blogspot.com/-UmVtRzob3b0/TWOHsT4zYFI/AAAAAAAAg3k/iyIMoW17Aoo/s320/IMG_0487.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 4](/images/blog/IMG_0487.jpg)
 
-<a href="https://3.bp.blogspot.com/-_PCTjnYbrXo/TWOI1gRIfRI/AAAAAAAAg5I/diyq2EZCfJ8/s1600/2010-07-10+18.18.55.jpg" alt=""><img   border="0" height="240" src="https://3.bp.blogspot.com/-_PCTjnYbrXo/TWOI1gRIfRI/AAAAAAAAg5I/diyq2EZCfJ8/s320/2010-07-10+18.18.55.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 5](/images/blog/2010-07-10-18.18.55.jpg)
 
-<a href="https://1.bp.blogspot.com/-9koCvJth0Ik/TWOI8n1CawI/AAAAAAAAg5Q/6YHhtjTCSN4/s1600/2010-07-10+18.20.15.jpg" alt=""><img   border="0" height="240" src="https://1.bp.blogspot.com/-9koCvJth0Ik/TWOI8n1CawI/AAAAAAAAg5Q/6YHhtjTCSN4/s320/2010-07-10+18.20.15.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 6](/images/blog/2010-07-10-18.20.15.jpg)
 
-<a href="https://4.bp.blogspot.com/-yhgIwY8HG7k/TEMobNc2jZI/AAAAAAAARgI/zAto67qPbFM/s1600/IMG_0741.jpg" alt=""><img   border="0" src="https://4.bp.blogspot.com/-yhgIwY8HG7k/TEMobNc2jZI/AAAAAAAARgI/zAto67qPbFM/s320/IMG_0741.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 7](/images/blog/IMG_0741.jpg)
 
-<a href="https://4.bp.blogspot.com/-LUNKUZsgXq0/TFY4fIxN7pI/AAAAAAAAUnM/stQl7--wTDk/s1600/IMG_1747.jpg" alt=""><img   border="0" src="https://4.bp.blogspot.com/-LUNKUZsgXq0/TFY4fIxN7pI/AAAAAAAAUnM/stQl7--wTDk/s320/IMG_1747.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 8](/images/blog/IMG_1747.jpg)
 
-<a href="https://3.bp.blogspot.com/-PvX-Pp_QFJU/TFY5prsaWFI/AAAAAAAAUnc/7iMVbU4FdOg/s1600/IMG_1748.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-PvX-Pp_QFJU/TFY5prsaWFI/AAAAAAAAUnc/7iMVbU4FdOg/s320/IMG_1748.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 9](/images/blog/IMG_1748.jpg)
 
-<a href="https://1.bp.blogspot.com/-3kJRHi1zCeY/TFY-BKRkJvI/AAAAAAAAUr4/5p51QqdUQjs/s1600/IMG_1776.jpg" alt=""><img   border="0" src="https://1.bp.blogspot.com/-3kJRHi1zCeY/TFY-BKRkJvI/AAAAAAAAUr4/5p51QqdUQjs/s320/IMG_1776.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 10](/images/blog/IMG_1776.jpg)
 
-<a href="https://3.bp.blogspot.com/-MMU-gWX1v_g/TFY_bbJSPZI/AAAAAAAAUtY/Bd-01iov-Do/s1600/IMG_1784.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-MMU-gWX1v_g/TFY_bbJSPZI/AAAAAAAAUtY/Bd-01iov-Do/s320/IMG_1784.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 11](/images/blog/IMG_1784.jpg)
 
-<a href="https://3.bp.blogspot.com/-ibGJusb1U40/TFY_fCmqwnI/AAAAAAAAUtk/8yYIFHCd3Fo/s1600/IMG_1785.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-ibGJusb1U40/TFY_fCmqwnI/AAAAAAAAUtk/8yYIFHCd3Fo/s320/IMG_1785.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 12](/images/blog/IMG_1785.jpg)
 
-<a href="https://3.bp.blogspot.com/-Eozczc-QSk0/TFY_knRm-2I/AAAAAAAAUt0/1RCCouEUaws/s1600/IMG_1787.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-Eozczc-QSk0/TFY_knRm-2I/AAAAAAAAUt0/1RCCouEUaws/s320/IMG_1787.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 13](/images/blog/IMG_1787.jpg)
 
-<a href="https://1.bp.blogspot.com/-nc_KCg5tM7o/TFY_qvaHOvI/AAAAAAAAUuE/QP_UOc57v8g/s1600/IMG_1789.jpg" alt=""><img   border="0" src="https://1.bp.blogspot.com/-nc_KCg5tM7o/TFY_qvaHOvI/AAAAAAAAUuE/QP_UOc57v8g/s320/IMG_1789.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 14](/images/blog/IMG_1789.jpg)
 
-<a href="https://1.bp.blogspot.com/-HQKVzaDrEk0/TG4etypJuvI/AAAAAAAAVR8/hGdjBPvCNGw/s1600/IMG_1917.jpg" alt=""><img   border="0" src="https://1.bp.blogspot.com/-HQKVzaDrEk0/TG4etypJuvI/AAAAAAAAVR8/hGdjBPvCNGw/s320/IMG_1917.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 15](/images/blog/IMG_1917.jpg)
 
-<a href="https://3.bp.blogspot.com/-fIG7KdctzEg/TG4fyxlW1MI/AAAAAAAAVR8/K5Vc9CSS9sk/s1600/IMG_1919.jpg" alt=""><img   border="0" src="https://3.bp.blogspot.com/-fIG7KdctzEg/TG4fyxlW1MI/AAAAAAAAVR8/K5Vc9CSS9sk/s320/IMG_1919.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 16](/images/blog/IMG_1919.jpg)
 
-<a href="https://1.bp.blogspot.com/-GngUN3z9lxU/TG4hy1p6a2I/AAAAAAAAVR8/dXp2vwVkszM/s1600/IMG_1920.jpg" alt=""><img   border="0" src="https://1.bp.blogspot.com/-GngUN3z9lxU/TG4hy1p6a2I/AAAAAAAAVR8/dXp2vwVkszM/s320/IMG_1920.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 17](/images/blog/IMG_1920.jpg)
 
-<a href="https://4.bp.blogspot.com/-uNpKKsnP6SU/TG4h7HPRkxI/AAAAAAAAVR8/uKFkxCOU8gs/s1600/IMG_1922.jpg" alt=""><img   border="0" src="https://4.bp.blogspot.com/-uNpKKsnP6SU/TG4h7HPRkxI/AAAAAAAAVR8/uKFkxCOU8gs/s320/IMG_1922.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 18](/images/blog/IMG_1922.jpg)
 
-<a href="https://4.bp.blogspot.com/-uuwuwSgJKOY/TG4lHb0YIaI/AAAAAAAAVR8/MR48KlSOC08/s1600/IMG_1926.jpg" alt=""><img   border="0" src="https://4.bp.blogspot.com/-uuwuwSgJKOY/TG4lHb0YIaI/AAAAAAAAVR8/MR48KlSOC08/s320/IMG_1926.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 19](/images/blog/IMG_1926.jpg)
 
-<a href="https://4.bp.blogspot.com/-XNaK1BoAXzM/TG4lMNELNqI/AAAAAAAAVR8/Pb7CfIQY1t8/s1600/IMG_1927.jpg" alt=""><img   border="0" src="https://4.bp.blogspot.com/-XNaK1BoAXzM/TG4lMNELNqI/AAAAAAAAVR8/Pb7CfIQY1t8/s320/IMG_1927.jpg" alt="" /></a>
+![2010 Transformers 3 Movie - 20](/images/blog/IMG_1927.jpg)

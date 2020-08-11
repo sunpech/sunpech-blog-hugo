@@ -8,7 +8,7 @@ modified_time: '2012-01-03T03:43:02.341-06:00'
 redirect_from: /2008/02/yellow-dog-linux-on-my-ps3.html
 tags:
   - Technology
-old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/R8HwfwhSFsI/AAAAAAAAAgI/DUh0vPPHiSg/s600/ydl_logo.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/R8HwfwhSFsI/AAAAAAAAAgI/DUh0vPPHiSg/s800/ydl_logo.jpg
 thumbnail: /images/blog/tn_yellow-dog-linux-logo.jpg
 title: Yellow Dog Linux on my PS3
 ---

@@ -10,49 +10,49 @@ tags:
   - Chicago
   - Software Development
   - Meetup
-thumbnail: https://1.bp.blogspot.com/-mQ_mE8LWKKM/TnGB6qLKqnI/AAAAAAAAucU/7ElGf42YqLY/s600/2011-09-14+at+16-28-37.jpg
+old_thumbnail: https://1.bp.blogspot.com/-mQ_mE8LWKKM/TnGB6qLKqnI/AAAAAAAAucU/7ElGf42YqLY/s800/2011-09-14-at-16-28-37.jpg
+thumbnail: /images/blog/tn_2011-objective-c-ios-net-developers.jpg
 title: Pictures from Objective-C and iOS for .NET Developers
 ---
 
+Last night I went to my favorite local user group, [Chicago Alt.net](https://chicagoalt.net) ([@ChicagoAltNet](https://twitter.com/#!/chicagoaltnet)).
 
-Last night I went to my favorite local user group, <a href="https://chicagoalt.net/">Chicago Alt.net</a> (<a href="https://twitter.com/#!/chicagoaltnet">@ChicagoAltNet</a>).
+[Eduardo Scoz](https://twitter.com/#!/escoz) presented on Objective-C and iOS. Great talk and a very big turnout. I haven't seen this many developers show up for an Alt.net meetup here since [Uncle Bob Martin](https://twitter.com/#!/unclebobmartin) did a presentation.
 
-<a href="https://twitter.com/#!/escoz">Eduardo Scoz</a> presented on Objective-C and iOS. Great talk and a very big turnout. I haven't seen this many developers show up for an Alt.net meetup here since <a href="https://twitter.com/#!/unclebobmartin">Uncle Bob Martin</a> did a presentation.
-
-Here are some of the photos I took. If you are looking for a full set of photos I took from various meetups I attend, including this one, I dump them all in <a href="https://picasaweb.google.com/101693597219413173200/2011TechMeetups">this Picasa album</a>.
+Here are some of the photos I took. If you are looking for a full set of photos I took from various meetups I attend, including this one, I dump them all in this ~~Picasa~~ [Google Photos album](https://photos.app.goo.gl/Mzu5KzD4q9zqcitF6).
 
 ### Pictures
 
-<a href="https://1.bp.blogspot.com/-mQ_mE8LWKKM/TnGB6qLKqnI/AAAAAAAAucU/7ElGf42YqLY/s600/2011-09-14+at+16-28-37.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-mQ_mE8LWKKM/TnGB6qLKqnI/AAAAAAAAucU/7ElGf42YqLY/s320/2011-09-14+at+16-28-37.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 1](/images/blog/2011-09-14-at-16-28-37.jpg)
 
-<a href="https://4.bp.blogspot.com/--71D1pvzHTw/TnGB7KcnkrI/AAAAAAAAucY/7ZSjOX3ttUo/s600/2011-09-14+at+16-26-54.jpg" alt=""><img    border="0"  src="https://4.bp.blogspot.com/--71D1pvzHTw/TnGB7KcnkrI/AAAAAAAAucY/7ZSjOX3ttUo/s320/2011-09-14+at+16-26-54.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 2](/images/blog/2011-09-14-at-16-26-54.jpg)
 
-<a href="https://1.bp.blogspot.com/-kMThEpwcdUE/TnGB9nTkJkI/AAAAAAAAuck/CMOp6VuPl7U/s600/2011-09-14+at+16-27-58.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-kMThEpwcdUE/TnGB9nTkJkI/AAAAAAAAuck/CMOp6VuPl7U/s320/2011-09-14+at+16-27-58.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 3](/images/blog/2011-09-14-at-16-27-58.jpg)
 
-<a href="https://1.bp.blogspot.com/-Lms5FSJxrCg/TnGB-HMRXLI/AAAAAAAAuco/CeMII4OPNUk/s600/2011-09-14+at+16-28-01.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-Lms5FSJxrCg/TnGB-HMRXLI/AAAAAAAAuco/CeMII4OPNUk/s320/2011-09-14+at+16-28-01.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 4](/images/blog/2011-09-14-at-16-28-01.jpg)
 
-<a href="https://1.bp.blogspot.com/-ElYxyjd05DA/TnGB-3y8NBI/AAAAAAAAucs/tAaSJCHERWo/s600/2011-09-14+at+16-29-38.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-ElYxyjd05DA/TnGB-3y8NBI/AAAAAAAAucs/tAaSJCHERWo/s320/2011-09-14+at+16-29-38.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 5](/images/blog/2011-09-14-at-16-29-38.jpg)
 
-<a href="https://4.bp.blogspot.com/-MbC_p2vxCo0/TnGB_cK7aqI/AAAAAAAAucw/IXuxm1AGGYk/s600/2011-09-14+at+16-32-19.jpg" alt=""><img    border="0"  src="https://4.bp.blogspot.com/-MbC_p2vxCo0/TnGB_cK7aqI/AAAAAAAAucw/IXuxm1AGGYk/s320/2011-09-14+at+16-32-19.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 6](/images/blog/2011-09-14-at-16-32-19.jpg)
 
-<a href="https://3.bp.blogspot.com/-VORjvV-aiG4/TnGCAIo4IeI/AAAAAAAAuc0/E62DiVshjos/s600/2011-09-14+at+16-33-05.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-VORjvV-aiG4/TnGCAIo4IeI/AAAAAAAAuc0/E62DiVshjos/s320/2011-09-14+at+16-33-05.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 7](/images/blog/2011-09-14-at-16-33-05.jpg)
 
-<a href="https://1.bp.blogspot.com/-c-BsH82CjWs/TnGCA5j5lRI/AAAAAAAAuc4/YxrdGK0Fr4g/s600/2011-09-14+at+16-34-53.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-c-BsH82CjWs/TnGCA5j5lRI/AAAAAAAAuc4/YxrdGK0Fr4g/s320/2011-09-14+at+16-34-53.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 8](/images/blog/2011-09-14-at-16-34-53.jpg)
 
-<a href="https://4.bp.blogspot.com/-QwG0DRqAnd0/TnGCCBEWpOI/AAAAAAAAudA/Rvgplry3Zl8/s600/2011-09-14+at+16-35-32.jpg" alt=""><img    border="0"  src="https://4.bp.blogspot.com/-QwG0DRqAnd0/TnGCCBEWpOI/AAAAAAAAudA/Rvgplry3Zl8/s320/2011-09-14+at+16-35-32.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 9](/images/blog/2011-09-14-at-16-35-32.jpg)
 
-<a href="https://3.bp.blogspot.com/-OvNuDX1fDfE/TnGCHbkgQ9I/AAAAAAAAudU/YIrqStP8928/s600/2011-09-14+at+16-38-01.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-OvNuDX1fDfE/TnGCHbkgQ9I/AAAAAAAAudU/YIrqStP8928/s320/2011-09-14+at+16-38-01.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 10](/images/blog/2011-09-14-at-16-38-01.jpg)
 
-<a href="https://3.bp.blogspot.com/-qlliDSOlNvw/TnGCICmFefI/AAAAAAAAudY/jsVv2G4EaFE/s600/2011-09-14+at+16-39-27.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-qlliDSOlNvw/TnGCICmFefI/AAAAAAAAudY/jsVv2G4EaFE/s320/2011-09-14+at+16-39-27.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 11](/images/blog/2011-09-14-at-16-39-27.jpg)
 
-<a href="https://2.bp.blogspot.com/-fgx-AeGszeo/TnGCMPoiJaI/AAAAAAAAud4/tFm-kiQzhIE/s600/2011-09-14+at+16-53-58.jpg" alt=""><img    border="0"  src="https://2.bp.blogspot.com/-fgx-AeGszeo/TnGCMPoiJaI/AAAAAAAAud4/tFm-kiQzhIE/s320/2011-09-14+at+16-53-58.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 12](/images/blog/2011-09-14-at-16-53-58.jpg)
 
-<a href="https://3.bp.blogspot.com/-VxvMFex8468/TnGCMgXuo9I/AAAAAAAAud8/OvUO4mRLhOI/s600/2011-09-14+at+17-06-10.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-VxvMFex8468/TnGCMgXuo9I/AAAAAAAAud8/OvUO4mRLhOI/s320/2011-09-14+at+17-06-10.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 13](/images/blog/2011-09-14-at-17-06-10.jpg)
 
-<a href="https://3.bp.blogspot.com/-UbuV55l95mI/TnGCP8sOy8I/AAAAAAAAueQ/B_rJJ-RrrxM/s600/2011-09-14+at+17-20-49.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-UbuV55l95mI/TnGCP8sOy8I/AAAAAAAAueQ/B_rJJ-RrrxM/s320/2011-09-14+at+17-20-49.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 14](/images/blog/2011-09-14-at-17-20-49.jpg)
 
-<a href="https://1.bp.blogspot.com/-EQxUTt0OwHE/TnGCRQiQ7MI/AAAAAAAAuec/7bw8P5MlrUY/s600/2011-09-14+at+17-31-04.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-EQxUTt0OwHE/TnGCRQiQ7MI/AAAAAAAAuec/7bw8P5MlrUY/s320/2011-09-14+at+17-31-04.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 15](/images/blog/2011-09-14-at-17-31-04.jpg)
 
-<a href="https://1.bp.blogspot.com/-0EDX9wp2Dec/TnGCUx1VNYI/AAAAAAAAuew/BK03Bw0CnGg/s600/2011-09-14+at+17-35-33.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-0EDX9wp2Dec/TnGCUx1VNYI/AAAAAAAAuew/BK03Bw0CnGg/s320/2011-09-14+at+17-35-33.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 16](/images/blog/2011-09-14-at-17-35-33.jpg)
 
-<a href="https://3.bp.blogspot.com/-tG5BIKFN4Rc/TnGCW0KTdtI/AAAAAAAAue8/D36MxIyzvTQ/s600/2011-09-14+at+18-04-31.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-tG5BIKFN4Rc/TnGCW0KTdtI/AAAAAAAAue8/D36MxIyzvTQ/s320/2011-09-14+at+18-04-31.jpg" alt=""  /></a>
+![2011 Objective-C and iOS for .Net Developers - 17](/images/blog/2011-09-14-at-18-04-31.jpg)

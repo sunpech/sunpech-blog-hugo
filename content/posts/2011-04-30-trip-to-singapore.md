@@ -10,36 +10,37 @@ tags:
   - Personal
   - Travel
   - Singapore
-thumbnail: https://3.bp.blogspot.com/-YqGssZIltHs/TbQt1qQRk0I/AAAAAAAAm6U/lJ3I9xCjPxg/s600/IMG_6276.JPG
+old_thumbnail: https://3.bp.blogspot.com/-YqGssZIltHs/TbQt1qQRk0I/AAAAAAAAm6U/lJ3I9xCjPxg/s800/IMG_6276.JPG
+thumbnail: /images/blog/tn_2011-singapore-trip.jpg
 title: Trip to Singapore
 ---
 
 
-I went to Singapore over the weekend (April 21-25) for <a href="https://reddotrubyconf.com/">Red Dot Ruby Conf</a>. It was my first time to Singapore. I didn't travel around too much, as I was in a conference for two full days (Friday and Saturday).
+I went to Singapore over the weekend (April 21-25) for [Red Dot Ruby Conf](https://reddotrubyconf.com/). It was my first time to Singapore. I didn't travel around too much, as I was in a conference for two full days (Friday and Saturday).
 
 Some things I noticed about Singapore:
 
-<ul>
-  <li>No mosquitoes</li>
-  <li>Hot and humid like Bangkok, but more pleasant</li>
-  <li>Plenty of jay-walkers</li>
-  <li>Seems the major things to do are shop and eat</li>
-  <li>3G is everywhere, generally very good</li>
-  <li>Singlish takes some getting used to</li>
-  <li>Singapore is full of folks from everywhere</li>
-  <li>Super clean everywhere</li>
-  <li>No traffic-- seems well managed</li>
-</ul>
+* No mosquitoes
+* Hot and humid like Bangkok, but more pleasant
+* Plenty of jay-walkers
+* Seems the major things to do are shop and eat
+* 3G is everywhere, generally very good
+* Singlish takes some getting used to
+* Singapore is full of folks from everywhere
+* Super clean everywhere
+* No traffic-- seems well managed
 
 I ate out often at hawker centers.  
 
-<a href="https://3.bp.blogspot.com/-YqGssZIltHs/TbQt1qQRk0I/AAAAAAAAm6U/lJ3I9xCjPxg/s400/IMG_6276.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-YqGssZIltHs/TbQt1qQRk0I/AAAAAAAAm6U/lJ3I9xCjPxg/s400/IMG_6276.jpg" alt=""   /></a>
+![2011 Singapore Trip 1](/images/blog/IMG_6276.jpg)
 
 Checked out Orchard Road.  
-<a href="https://2.bp.blogspot.com/-8eY7o-Q4ci0/TbQujGobjoI/AAAAAAAAm8o/8SewDRCC2pQ/s600/2011-04-24+at+10-37-39.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-8eY7o-Q4ci0/TbQujGobjoI/AAAAAAAAm8o/8SewDRCC2pQ/s400/2011-04-24+at+10-37-39.jpg" alt=""   /></a>
+
+![2011 Singapore Trip 2](/images/blog/2011-04-24-at-10-37-39.jpg)
 
 Also had the chance to visit <a href="https://hackerspace.sg/">Hackerspace</a>.  
 
-<a href="https://2.bp.blogspot.com/-uiQ7yiwwmSQ/TbQvaLrEI3I/AAAAAAAAm_s/GGev35vjINs/s600/2011-04-24+at+18-07-21.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-uiQ7yiwwmSQ/TbQvaLrEI3I/AAAAAAAAm_s/GGev35vjINs/s400/2011-04-24+at+18-07-21.jpg" alt=""   /></a>
+![2011 Singapore Trip 3](/images/blog/2011-04-24-at-18-07-21.jpg)
 
-Full album <a href="https://plus.google.com/photos/+StevenSuwatanapongched/albums/5599150284035065121?banner=pwa">here</a>.
+Full album [here](https://photos.app.goo.gl/e1gP5YDC9EVq1vLd6).
+

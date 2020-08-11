@@ -10,7 +10,7 @@ tags:
   - Chicago
   - Software Development
   - Meetup
-old_thumbnail: https://1.bp.blogspot.com/-rWqazTtf9iA/TH8rs73uKrI/AAAAAAAAWgw/4K_p-sF0oVw/s600/IMG_2267.jpg
+old_thumbnail: https://1.bp.blogspot.com/-rWqazTtf9iA/TH8rs73uKrI/AAAAAAAAWgw/4K_p-sF0oVw/s800/IMG_2267.jpg
 thumbnail: /images/blog/tn_2010-september-tech-event.jpg
 title: Pictures from September Tech Events in Chicago
 ---

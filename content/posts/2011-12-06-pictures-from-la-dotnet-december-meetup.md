@@ -10,44 +10,42 @@ tags:
   - Software Development
   - Los Angeles
   - Meetup
-thumbnail: https://2.bp.blogspot.com/-pCkOKh6JiaQ/Tt25R0BSYTI/AAAAAAAAxtg/4ZTwhQ45MVM/s600/2011-12-05+at+19-31-47.jpg
+old_thumbnail: https://2.bp.blogspot.com/-pCkOKh6JiaQ/Tt25R0BSYTI/AAAAAAAAxtg/4ZTwhQ45MVM/s800/2011-12-05-at-19-31-47.jpg
+thumbnail: /images/blog/tn_2011-la-dotnet-december-meetup.jpg
 title: Pictures from LA DotNet December Meetup
 ---
 
-
-I've been in living in Los Angeles for two months now. About a month ago I finally bought a car to get around in. On Monday, December 5, 2011, I was able to attend my first the <a href="https://www.ladotnet.org/">Los Angeles .Net Developer's Group</a> hosted at <a href="https://www.blankspaces.com/">Blankspaces</a>.
+I've been in living in Los Angeles for two months now. About a month ago I finally bought a car to get around in. On Monday, December 5, 2011, I was able to attend my first the [Los Angeles .Net Developer's Group](https://www.ladotnet.org) hosted at [Blankspaces](https://www.blankspaces.com).
 
 There were two presentations:
 
-<ul>
-  <li><a href="https://twitter.com/#!/danielegan">Daniel Egan</a> presented on <em>Diving into Windows Phone Market: Should I make the jump?</em></li>
-  <li><a href="https://blog.toetapz.com/">Henry Lee</a> presented on <em>Making Money with Windows Phone</em>.</li>
-</ul>
+* [Daniel Egan](https://twitter.com/#!/danielegan) presented on *Diving into Windows Phone Market: Should I make the jump?*
+* [Henry Lee](https://blog.toetapz.com) presented on *Making Money with Windows Phone*.
 
-Great presentations and socialable group of developers. I look forward to attending more events like these here in Los Angeles. I also found out that there will be an upcoming <a href="https://www.lacodecamp.com/">LA Code Camp</a> (<a href="https://www.socalcodecamp.com/">SoCal Code Camp</a>) coming the last weekend of January in 2012 (Jan 28 and 28th). Can't wait to check that out next month!
+Great presentations and socialable group of developers. I look forward to attending more events like these here in Los Angeles. I also found out that there will be an upcoming [LA Code Camp](https://www.lacodecamp.com) ([SoCal Code Camp](https://www.socalcodecamp.com)) coming the last weekend of January in 2012 (Jan 28 and 28th). Can't wait to check that out next month!
 
-Here are some of the pictures. Full set of pictures can be found <a href="https://picasaweb.google.com/sunpech/2011LADOTNET?authuser=0&amp;feat=directlink">here</a>.
+Here are some of the pictures. Full set of pictures can be found [here](https://photos.app.goo.gl/DoxLWTUGCrEFS8zG8)
 
-<a href="https://2.bp.blogspot.com/-pCkOKh6JiaQ/Tt25R0BSYTI/AAAAAAAAxtg/4ZTwhQ45MVM/s600/2011-12-05+at+19-31-47.jpg" alt=""><img    border="0"  src="https://2.bp.blogspot.com/-pCkOKh6JiaQ/Tt25R0BSYTI/AAAAAAAAxtg/4ZTwhQ45MVM/s320/2011-12-05+at+19-31-47.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 1](/images/blog/2011-12-05-at-19-31-47.jpg)
 
-<a href="https://2.bp.blogspot.com/-l6Eb1q5Twb4/Tt25St6l_MI/AAAAAAAAxtk/02Dol4yMi7w/s600/2011-12-05+at+19-58-26.jpg" alt=""><img    border="0"  src="https://2.bp.blogspot.com/-l6Eb1q5Twb4/Tt25St6l_MI/AAAAAAAAxtk/02Dol4yMi7w/s320/2011-12-05+at+19-58-26.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 2](/images/blog/2011-12-05-at-19-58-26.jpg)
 
-<a href="https://1.bp.blogspot.com/-YdCRvg-PN6c/Tt25Tjh7oaI/AAAAAAAAxto/Q_X43EYc7rs/s600/2011-12-05+at+20-02-55.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-YdCRvg-PN6c/Tt25Tjh7oaI/AAAAAAAAxto/Q_X43EYc7rs/s320/2011-12-05+at+20-02-55.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 3](/images/blog/2011-12-05-at-20-02-55.jpg)
 
-<a href="https://3.bp.blogspot.com/-5RqHNiUahh0/Tt25VclRZjI/AAAAAAAAxtw/glVr1BQpnFo/s600/2011-12-05+at+20-04-25.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-5RqHNiUahh0/Tt25VclRZjI/AAAAAAAAxtw/glVr1BQpnFo/s320/2011-12-05+at+20-04-25.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 4](/images/blog/2011-12-05-at-20-04-25.jpg)
 
-<a href="https://3.bp.blogspot.com/-_faf49MZ_xQ/Tt25XzwJ2qI/AAAAAAAAxt8/h1TXWbNJLCM/s600/2011-12-05+at+20-05-47.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-_faf49MZ_xQ/Tt25XzwJ2qI/AAAAAAAAxt8/h1TXWbNJLCM/s320/2011-12-05+at+20-05-47.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 5](/images/blog/2011-12-05-at-20-05-47.jpg)
 
-<a href="https://4.bp.blogspot.com/-k63o5VapOyQ/Tt25czWGjNI/AAAAAAAAxuU/ZKN-T7o3hrU/s600/2011-12-05+at+20-14-02.jpg" alt=""><img    border="0"  src="https://4.bp.blogspot.com/-k63o5VapOyQ/Tt25czWGjNI/AAAAAAAAxuU/ZKN-T7o3hrU/s320/2011-12-05+at+20-14-02.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 6](/images/blog/2011-12-05-at-20-14-02.jpg)
 
-<a href="https://1.bp.blogspot.com/-HI1bF9SpojM/Tt25evJIAAI/AAAAAAAAxuc/ayLvWRNXB3c/s600/2011-12-05+at+20-14-57.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-HI1bF9SpojM/Tt25evJIAAI/AAAAAAAAxuc/ayLvWRNXB3c/s320/2011-12-05+at+20-14-57.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 7](/images/blog/2011-12-05-at-20-14-57.jpg)
 
-<a href="https://1.bp.blogspot.com/-G0us_dm6MAQ/Tt25fsDsHBI/AAAAAAAAxug/Y4hFYg9BguU/s600/2011-12-05+at+20-17-50.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-G0us_dm6MAQ/Tt25fsDsHBI/AAAAAAAAxug/Y4hFYg9BguU/s320/2011-12-05+at+20-17-50.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 8](/images/blog/2011-12-05-at-20-17-50.jpg)
 
-<a href="https://1.bp.blogspot.com/-2PSXUQUp7o4/Tt25hlcKbKI/AAAAAAAAxuo/x_XjW7z5vy0/s600/2011-12-05+at+20-25-14.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-2PSXUQUp7o4/Tt25hlcKbKI/AAAAAAAAxuo/x_XjW7z5vy0/s320/2011-12-05+at+20-25-14.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 9](/images/blog/2011-12-05-at-20-25-14.jpg)
 
-<a href="https://3.bp.blogspot.com/-iytF0dycyow/Tt25kvaK1qI/AAAAAAAAxu0/FavR25Mnb9c/s600/2011-12-05+at+20-29-45.jpg" alt=""><img    border="0"  src="https://3.bp.blogspot.com/-iytF0dycyow/Tt25kvaK1qI/AAAAAAAAxu0/FavR25Mnb9c/s320/2011-12-05+at+20-29-45.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 10](/images/blog/2011-12-05-at-20-29-45.jpg)
 
-<a href="https://2.bp.blogspot.com/-3ofFT_TBSbI/Tt25roMJ5fI/AAAAAAAAxvY/C1m4CjvzwhM/s600/2011-12-05+at+21-25-16.jpg" alt=""><img    border="0"  src="https://2.bp.blogspot.com/-3ofFT_TBSbI/Tt25roMJ5fI/AAAAAAAAxvY/C1m4CjvzwhM/s320/2011-12-05+at+21-25-16.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 11](/images/blog/2011-12-05-at-21-25-16.jpg)
 
-<a href="https://1.bp.blogspot.com/-E4Q-WCVAwHo/Tt25x-MN3iI/AAAAAAAAxv4/irDsrRdiKHU/s600/2011-12-05+at+21-47-50.jpg" alt=""><img    border="0"  src="https://1.bp.blogspot.com/-E4Q-WCVAwHo/Tt25x-MN3iI/AAAAAAAAxv4/irDsrRdiKHU/s320/2011-12-05+at+21-47-50.jpg" alt=""  /></a>
+![2011 LA DotNet December Meetup - 12](/images/blog/2011-12-05-at-21-47-50.jpg)

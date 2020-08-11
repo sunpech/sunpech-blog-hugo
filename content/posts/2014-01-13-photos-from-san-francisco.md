@@ -9,7 +9,7 @@ redirect_from: /2014/01/photos-from-san-francisco.html
 tags:
   - Photography
   - San Francisco
-thumbnail: https://4.bp.blogspot.com/-QAlcGfJnzzc/UqDAM7t7FBI/AAAAAAABlNw/IA-90HenTwA/s600/2013-11-30+at+19-37-15.jpg
+thumbnail: https://4.bp.blogspot.com/-QAlcGfJnzzc/UqDAM7t7FBI/AAAAAAABlNw/IA-90HenTwA/s800/2013-11-30+at+19-37-15.jpg
 title: Photos from San Francisco
 ---
 
@@ -22,16 +22,16 @@ Here are some of my favorite shots:
 
 #### Foggy Night
 Buy prints: <a href="https://500pxart.com/photo/54092228">https://500pxart.com/photo/54092228</a>
-<img   border="0" src="https://4.bp.blogspot.com/-QAlcGfJnzzc/UqDAM7t7FBI/AAAAAAABlNw/IA-90HenTwA/s600/2013-11-30+at+19-37-15.jpg" alt=""   />
+<img   border="0" src="https://4.bp.blogspot.com/-QAlcGfJnzzc/UqDAM7t7FBI/AAAAAAABlNw/IA-90HenTwA/s800/2013-11-30+at+19-37-15.jpg" alt=""   />
 
 #### Golden Gate Bridge's Fog
 Buy prints: <a href="https://500pxart.com/photo/54093138">https://500pxart.com/photo/54093138</a>
-<img   border="0" src="https://4.bp.blogspot.com/-MuTCkZbF-2g/UqDANww_bhI/AAAAAAABlN4/-0Qed5uJ8Lk/s600/2013-11-30+at+19-38-59.jpg" alt=""   />
+<img   border="0" src="https://4.bp.blogspot.com/-MuTCkZbF-2g/UqDANww_bhI/AAAAAAABlN4/-0Qed5uJ8Lk/s800/2013-11-30+at+19-38-59.jpg" alt=""   />
 
 #### Golden Gate Bridge Sunrise
 Buy prints: <a href="https://500pxart.com/photo/54112886">https://500pxart.com/photo/54112886</a>
-<img   border="0" src="https://2.bp.blogspot.com/-KK8sgIy9two/UqDAPJFtcvI/AAAAAAABlOA/HPAOHe-fqks/s600/2013-12-01+at+07-29-52.jpg" alt=""   />
+<img   border="0" src="https://2.bp.blogspot.com/-KK8sgIy9two/UqDAPJFtcvI/AAAAAAABlOA/HPAOHe-fqks/s800/2013-12-01+at+07-29-52.jpg" alt=""   />
 
 #### Golden Gate Bridge's Clear Night
 Buy prints: <a href="https://500pxart.com/photo/54143106">https://500pxart.com/photo/54143106</a>
-<img   border="0" src="https://3.bp.blogspot.com/-6HyDBOb58M4/UqDASrXWxRI/AAAAAAABlOk/gX8u1oseuvQ/s600/2013-12-01+at+18-25-04.jpg" alt=""   />
+<img   border="0" src="https://3.bp.blogspot.com/-6HyDBOb58M4/UqDASrXWxRI/AAAAAAABlOk/gX8u1oseuvQ/s800/2013-12-01+at+18-25-04.jpg" alt=""   />

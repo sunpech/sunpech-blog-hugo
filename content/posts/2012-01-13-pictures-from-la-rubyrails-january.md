@@ -10,7 +10,7 @@ tags:
   - Software Development
   - Los Angeles
   - Meetup
-thumbnail: https://1.bp.blogspot.com/-Yy58_MljGs0/Txok9EKT07I/AAAAAAAA24Q/0cJ6sUCHgMg/s600/2012-01-12+at+19-36-24.jpg
+thumbnail: https://1.bp.blogspot.com/-Yy58_MljGs0/Txok9EKT07I/AAAAAAAA24Q/0cJ6sUCHgMg/s800/2012-01-12+at+19-36-24.jpg
 title: Pictures from LA Ruby/Rails January Meetup
 ---
 
@@ -25,20 +25,20 @@ Some of the pictures I took are posted below. You can view the picture dump from
 
 As a reminder: <a href="https://www.larubyconf.com/">LA RubyConf</a> is coming up February 2-4, 2012.
 
-<a href="https://1.bp.blogspot.com/-Yy58_MljGs0/Txok9EKT07I/AAAAAAAA24Q/0cJ6sUCHgMg/s600/2012-01-12+at+19-36-24.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-Yy58_MljGs0/Txok9EKT07I/AAAAAAAA24Q/0cJ6sUCHgMg/s320/2012-01-12+at+19-36-24.jpg" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-Yy58_MljGs0/Txok9EKT07I/AAAAAAAA24Q/0cJ6sUCHgMg/s800/2012-01-12+at+19-36-24.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-Yy58_MljGs0/Txok9EKT07I/AAAAAAAA24Q/0cJ6sUCHgMg/s800/2012-01-12+at+19-36-24.jpg" alt=""  /></a>
 
-<a href="https://4.bp.blogspot.com/-b7NUTneaVwE/Txok-QtxLkI/AAAAAAAA27A/iVP1_JILtYo/s600/2012-01-12+at+19-39-07.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-b7NUTneaVwE/Txok-QtxLkI/AAAAAAAA27A/iVP1_JILtYo/s320/2012-01-12+at+19-39-07.jpg" alt=""  /></a>
+<a href="https://4.bp.blogspot.com/-b7NUTneaVwE/Txok-QtxLkI/AAAAAAAA27A/iVP1_JILtYo/s800/2012-01-12+at+19-39-07.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-b7NUTneaVwE/Txok-QtxLkI/AAAAAAAA27A/iVP1_JILtYo/s800/2012-01-12+at+19-39-07.jpg" alt=""  /></a>
 
-<a href="https://1.bp.blogspot.com/-ziBTqAzVbaY/TxolAv07zTI/AAAAAAAA244/9Ov8uScv2_Q/s600/2012-01-12+at+19-40-01.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-ziBTqAzVbaY/TxolAv07zTI/AAAAAAAA244/9Ov8uScv2_Q/s320/2012-01-12+at+19-40-01.jpg" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-ziBTqAzVbaY/TxolAv07zTI/AAAAAAAA244/9Ov8uScv2_Q/s800/2012-01-12+at+19-40-01.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-ziBTqAzVbaY/TxolAv07zTI/AAAAAAAA244/9Ov8uScv2_Q/s800/2012-01-12+at+19-40-01.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-C2iOKLHtq3E/Txok_2O6A1I/AAAAAAAA24w/ymaLQN4Sfdk/s600/2012-01-12+at+19-39-48.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-C2iOKLHtq3E/Txok_2O6A1I/AAAAAAAA24w/ymaLQN4Sfdk/s320/2012-01-12+at+19-39-48.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-C2iOKLHtq3E/Txok_2O6A1I/AAAAAAAA24w/ymaLQN4Sfdk/s800/2012-01-12+at+19-39-48.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-C2iOKLHtq3E/Txok_2O6A1I/AAAAAAAA24w/ymaLQN4Sfdk/s800/2012-01-12+at+19-39-48.jpg" alt=""  /></a>
 
-<a href="https://4.bp.blogspot.com/-RYGmIrnSHrE/TxolCKwWt2I/AAAAAAAA27Q/LgQ1tmAIObw/s600/2012-01-12+at+19-58-26.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-RYGmIrnSHrE/TxolCKwWt2I/AAAAAAAA27Q/LgQ1tmAIObw/s320/2012-01-12+at+19-58-26.jpg" alt=""  /></a>
+<a href="https://4.bp.blogspot.com/-RYGmIrnSHrE/TxolCKwWt2I/AAAAAAAA27Q/LgQ1tmAIObw/s800/2012-01-12+at+19-58-26.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-RYGmIrnSHrE/TxolCKwWt2I/AAAAAAAA27Q/LgQ1tmAIObw/s800/2012-01-12+at+19-58-26.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-NEXHgRuKNFI/TxolCu6U0NI/AAAAAAAA28E/jh2e5ZUYXSE/s600/2012-01-12+at+20-00-52.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-NEXHgRuKNFI/TxolCu6U0NI/AAAAAAAA28E/jh2e5ZUYXSE/s320/2012-01-12+at+20-00-52.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-NEXHgRuKNFI/TxolCu6U0NI/AAAAAAAA28E/jh2e5ZUYXSE/s800/2012-01-12+at+20-00-52.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-NEXHgRuKNFI/TxolCu6U0NI/AAAAAAAA28E/jh2e5ZUYXSE/s800/2012-01-12+at+20-00-52.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-MVKvBYcwsNk/TxolGQe1YTI/AAAAAAAA26Q/zebjnHvV2sw/s600/2012-01-12+at+20-38-54.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-MVKvBYcwsNk/TxolGQe1YTI/AAAAAAAA26Q/zebjnHvV2sw/s320/2012-01-12+at+20-38-54.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-MVKvBYcwsNk/TxolGQe1YTI/AAAAAAAA26Q/zebjnHvV2sw/s800/2012-01-12+at+20-38-54.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-MVKvBYcwsNk/TxolGQe1YTI/AAAAAAAA26Q/zebjnHvV2sw/s800/2012-01-12+at+20-38-54.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-eDtNjfmCO84/TxolG--_CYI/AAAAAAAA26Y/kToEKE9SxY8/s600/2012-01-12+at+20-49-37.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-eDtNjfmCO84/TxolG--_CYI/AAAAAAAA26Y/kToEKE9SxY8/s320/2012-01-12+at+20-49-37.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-eDtNjfmCO84/TxolG--_CYI/AAAAAAAA26Y/kToEKE9SxY8/s800/2012-01-12+at+20-49-37.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-eDtNjfmCO84/TxolG--_CYI/AAAAAAAA26Y/kToEKE9SxY8/s800/2012-01-12+at+20-49-37.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-ln-yY7hukh0/TxolI1wDcPI/AAAAAAAA264/urUwj2bqBmk/s600/2012-01-12+at+20-59-24.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-ln-yY7hukh0/TxolI1wDcPI/AAAAAAAA264/urUwj2bqBmk/s320/2012-01-12+at+20-59-24.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-ln-yY7hukh0/TxolI1wDcPI/AAAAAAAA264/urUwj2bqBmk/s800/2012-01-12+at+20-59-24.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-ln-yY7hukh0/TxolI1wDcPI/AAAAAAAA264/urUwj2bqBmk/s800/2012-01-12+at+20-59-24.jpg" alt=""  /></a>

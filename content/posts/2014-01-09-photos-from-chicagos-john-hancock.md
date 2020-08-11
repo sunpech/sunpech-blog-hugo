@@ -9,7 +9,7 @@ redirect_from: /2014/01/photos-from-chicagos-john-hancock.html
 tags:
   - Chicago
   - Photography
-thumbnail: https://4.bp.blogspot.com/-2EVzL7RoP7o/Us8C1EVO0WI/AAAAAAABly4/xWQXxmc-EHQ/s600/2014-01-08+at+21-37-31.jpg
+thumbnail: https://4.bp.blogspot.com/-2EVzL7RoP7o/Us8C1EVO0WI/AAAAAAABly4/xWQXxmc-EHQ/s800/2014-01-08+at+21-37-31.jpg
 title: Photos from Chicago's John Hancock Observatory
 ---
 
@@ -42,21 +42,21 @@ And of course, have fun. I wasn't ashamed at all about squatting down on my hand
 
 This is what my initial setup was like at the observatory. My DSLR was on a gorillapod with my coat on the railing trying to block out the light reflecting.
 
-<img   border="0" src="https://3.bp.blogspot.com/-imLnxNFUfI8/UteJYMzVPYI/AAAAAAABl48/dKidd7lAWwg/s600/2014-01-15+at+10-45-16.jpg" alt="" height="298"  />
+<img   border="0" src="https://3.bp.blogspot.com/-imLnxNFUfI8/UteJYMzVPYI/AAAAAAABl48/dKidd7lAWwg/s800/2014-01-15+at+10-45-16.jpg" alt="" height="298"  />
 
 Below are my pictures. They were all on taken on a GorillaPod on my <a href="https://www.amazon.com/gp/product/B007FGYZFI/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007FGYZFI&amp;linkCode=as2&amp;tag=sunpech-20">Canon 5D Mark III</a> with a <a href="https://www.amazon.com/gp/product/B000NP46K2/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000NP46K2&amp;linkCode=as2&amp;tag=sunpech-20">Canon 16-35mm f/2.8 L II</a> lens. They're all HDR photos, edited in Adobe Lightroom/Photoshop.
 
 #### Chicago Winter at John Hancock
 Buy prints: <a href="https://500pxart.com/photo/57253822">https://500pxart.com/photo/57253822</a>
-<img   border="0" src="https://4.bp.blogspot.com/-2EVzL7RoP7o/Us8C1EVO0WI/AAAAAAABly4/xWQXxmc-EHQ/s600/2014-01-08+at+21-37-31.jpg" alt=""   />
+<img   border="0" src="https://4.bp.blogspot.com/-2EVzL7RoP7o/Us8C1EVO0WI/AAAAAAABly4/xWQXxmc-EHQ/s800/2014-01-08+at+21-37-31.jpg" alt=""   />
 
 #### West of John Hancock
 Buy prints: <a href="https://500pxart.com/photo/57254424">https://500pxart.com/photo/57254424</a>
-<img   border="0" src="https://2.bp.blogspot.com/-EBrhJO_kK1g/Us8C27ohFkI/AAAAAAABlzA/ri6IqpMsefI/s600/2014-01-08+at+21-45-00.jpg" alt=""   />
+<img   border="0" src="https://2.bp.blogspot.com/-EBrhJO_kK1g/Us8C27ohFkI/AAAAAAABlzA/ri6IqpMsefI/s800/2014-01-08+at+21-45-00.jpg" alt=""   />
 
 #### Lake Shore Drive from John Hancock
 Buy prints: <a href="https://500pxart.com/photo/57254650">https://500pxart.com/photo/57254650</a>
-<img   border="0" src="https://4.bp.blogspot.com/-Q1Wwao-BF3k/Us8C4wBbxEI/AAAAAAABlzU/Ugu-rO482Ug/s600/2014-01-08+at+21-50-18.jpg" alt=""   />
+<img   border="0" src="https://4.bp.blogspot.com/-Q1Wwao-BF3k/Us8C4wBbxEI/AAAAAAABlzU/Ugu-rO482Ug/s800/2014-01-08+at+21-50-18.jpg" alt=""   />
 
 #### Navy Pier from John Hancock
-<img   border="0" src="https://1.bp.blogspot.com/-Pen32c6ld6Y/Us8CzOIqUMI/AAAAAAABlyw/GBUOqV2MOEk/s600/2014-01-08+at+21-14-37.jpg" alt=""   />
+<img   border="0" src="https://1.bp.blogspot.com/-Pen32c6ld6Y/Us8CzOIqUMI/AAAAAAABlyw/GBUOqV2MOEk/s800/2014-01-08+at+21-14-37.jpg" alt=""   />

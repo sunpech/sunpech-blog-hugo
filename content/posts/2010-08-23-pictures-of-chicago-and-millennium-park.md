@@ -9,7 +9,7 @@ redirect_from: /2010/08/pictures-of-chicago-and-millennium-park.html
 tags:
   - Chicago
   - Photography
-old_thumbnail: https://2.bp.blogspot.com/-UiNG3-k_BY0/TG4QoafrZsI/AAAAAAAAVJw/W3ld86ABlxs/s600/IMG_1883.jpg
+old_thumbnail: https://2.bp.blogspot.com/-UiNG3-k_BY0/TG4QoafrZsI/AAAAAAAAVJw/W3ld86ABlxs/s800/IMG_1883.jpg
 thumbnail: /images/blog/tn_chicago-bean.jpg
 title: Pictures of Chicago and the Millennium Park Bean
 ---

@@ -9,7 +9,7 @@ redirect_from: /2010/12/traveling-with-ebags.html
 tags:
   - Personal
   - Travel
-old_thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/TPZiwLFT7yI/AAAAAAAAezo/5Rj8fo8H0Y0/s600/IMG_20101005_164504.jpg
+old_thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/TPZiwLFT7yI/AAAAAAAAezo/5Rj8fo8H0Y0/s800/IMG_20101005_164504.jpg
 thumbnail: /images/blog/tn_2010-ebags.jpg
 title: Traveling with eBags
 ---

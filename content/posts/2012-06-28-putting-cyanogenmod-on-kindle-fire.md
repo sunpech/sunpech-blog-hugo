@@ -9,14 +9,14 @@ redirect_from: /2012/06/putting-cyanogenmod-on-kindle-fire.html
 tags:
   - Technology
   - Android
-thumbnail: https://1.bp.blogspot.com/-yU7gPhRWdPg/T-wtYgHP_BI/AAAAAAABOks/dvPzH189ZBg/s600/Nexus7_tablets.jpg
+thumbnail: https://1.bp.blogspot.com/-yU7gPhRWdPg/T-wtYgHP_BI/AAAAAAABOks/dvPzH189ZBg/s800/Nexus7_tablets.jpg
 title: Putting CyanogenMod on the Kindle Fire
 ---
 
 
 After seeing the <a href="https://www.engadget.com/2012/06/27/nexus-7-tablet-hands-on/">Nexus 7 tablet</a> make its debut at <a href="https://developers.google.com/events/io/">Google I/O</a> yesterday, it made me realize how my Kindle Fire (KF) is kind of lame. I <a href="/2011/11/kindle-fire-review">reviewed the Kindle Fire</a> back in November 2011.
 
-<a href="https://1.bp.blogspot.com/-yU7gPhRWdPg/T-wtYgHP_BI/AAAAAAABOks/dvPzH189ZBg/s600/Nexus7_tablets.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-yU7gPhRWdPg/T-wtYgHP_BI/AAAAAAABOks/dvPzH189ZBg/s400/Nexus7_tablets.jpg" alt=""  /></a>
+<a href="https://1.bp.blogspot.com/-yU7gPhRWdPg/T-wtYgHP_BI/AAAAAAABOks/dvPzH189ZBg/s800/Nexus7_tablets.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-yU7gPhRWdPg/T-wtYgHP_BI/AAAAAAABOks/dvPzH189ZBg/s400/Nexus7_tablets.jpg" alt=""  /></a>
 
 To be fair though, my needs have changed. When I initially purchased the KF, I didn't want an iPad2 or a 10" tablet. I just wanted a simple reading device that could browse the web a bit and play some games. And that's exactly what the KF was, and <i>still</i> is.
 
@@ -52,11 +52,11 @@ So, I was able to put Simple CM9 on my Kindle Fire using the instructions in the
 
 Here is a screenshot of my homescreen after some customizations.
 
-<a href="https://4.bp.blogspot.com/-9JkOUEYz448/T-wdudcS1AI/AAAAAAABOkM/9bI-Duke840/s600/KindleFIre_screenshot.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-9JkOUEYz448/T-wdudcS1AI/AAAAAAABOkM/9bI-Duke840/s400/KindleFIre_screenshot.jpg" alt=""  /></a>
+<a href="https://4.bp.blogspot.com/-9JkOUEYz448/T-wdudcS1AI/AAAAAAABOkM/9bI-Duke840/s800/KindleFIre_screenshot.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-9JkOUEYz448/T-wdudcS1AI/AAAAAAABOkM/9bI-Duke840/s400/KindleFIre_screenshot.jpg" alt=""  /></a>
 
 Another screenshot of the Settings and tablet information.
 
-<a href="https://3.bp.blogspot.com/-4CwSoFCK5UA/T-wocAEdv_I/AAAAAAABOkg/D4rvCf0SAX0/s600/KindleFire_screenshot_02.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-4CwSoFCK5UA/T-wocAEdv_I/AAAAAAABOkg/D4rvCf0SAX0/s400/KindleFire_screenshot_02.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-4CwSoFCK5UA/T-wocAEdv_I/AAAAAAABOkg/D4rvCf0SAX0/s800/KindleFire_screenshot_02.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-4CwSoFCK5UA/T-wocAEdv_I/AAAAAAABOkg/D4rvCf0SAX0/s400/KindleFire_screenshot_02.jpg" alt=""  /></a>
 
 Overall, it was a pretty simple process. Just follow the instructions. I was able to re-download my Kindle books again using Kindle app in the Google Play store. My Kindle Fire is just awesome now. Maybe I'm speaking too soon, as it hasn't even been a full twenty-four hours of running it just yet. I do notice that it sucks up the battery a lot more, but that should be obvious as I'm running a heavier UI and more apps.
 
@@ -72,4 +72,4 @@ Also, I switched to use <a href="https://forum.xda-developers.com/showthread.php
 
 A few weeks ago I switched back to using <a href="https://wiki.cyanogenmod.org/w/Otter_Info">Cyanogenmod on the Kindle Fire</a> (1st Generation). Overall it's been pretty good, but my KF is now my secondary tablet device since I got a <a href="https://www.google.com/nexus/7/">Nexus 7</a> (2nd Gen).
 
-<a href="https://4.bp.blogspot.com/-EhMga98kv8g/UgIfPMwrWSI/AAAAAAABhZs/WBJ6dUCSoOc/s600/cyanogenmod_KF.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-EhMga98kv8g/UgIfPMwrWSI/AAAAAAABhZs/WBJ6dUCSoOc/s400/cyanogenmod_KF.jpg" alt="" width="187" /></a>
+<a href="https://4.bp.blogspot.com/-EhMga98kv8g/UgIfPMwrWSI/AAAAAAABhZs/WBJ6dUCSoOc/s800/cyanogenmod_KF.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-EhMga98kv8g/UgIfPMwrWSI/AAAAAAABhZs/WBJ6dUCSoOc/s400/cyanogenmod_KF.jpg" alt="" width="187" /></a>

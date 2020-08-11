@@ -8,7 +8,7 @@ modified_time: '2012-01-03T03:54:09.849-06:00'
 redirect_from: /2008/10/installed-ubuntu-linux-onto-my-thinkpad.html
 tags:
   - Technology
-old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SQknkFkDphI/AAAAAAAAIQw/9D8L3k8Sdwg/s600/IMG_0076.JPG
+old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SQknkFkDphI/AAAAAAAAIQw/9D8L3k8Sdwg/s800/IMG_0076.JPG
 thumbnail: /images/blog/tn_IMG_0076.jpg
 title: Installed Ubuntu Linux onto my Thinkpad T60
 ---

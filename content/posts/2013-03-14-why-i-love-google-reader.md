@@ -10,7 +10,7 @@ tags:
   - Technology
   - Review
   - Google
-thumbnail: https://3.bp.blogspot.com/-m620JTXukHw/UUHa9S71IdI/AAAAAAABZdg/GRdIKXEEb6I/s600/GR_v_GPlus.jpg
+thumbnail: https://3.bp.blogspot.com/-m620JTXukHw/UUHa9S71IdI/AAAAAAABZdg/GRdIKXEEb6I/s800/GR_v_GPlus.jpg
 title: Why I love Google Reader
 ---
 

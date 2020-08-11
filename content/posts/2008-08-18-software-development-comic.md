@@ -9,7 +9,7 @@ redirect_from: /2008/08/software-development-comic.html
 tags:
   - Software Development
   - Funny
-old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SKm5e1gA9iI/AAAAAAAAAlg/crpgqO6Ooms/s600/software_development.jpg
+old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SKm5e1gA9iI/AAAAAAAAAlg/crpgqO6Ooms/s800/software_development.jpg
 thumbnail: /images/blog/tn_software-development.jpg
 title: Software Development Comic
 ---

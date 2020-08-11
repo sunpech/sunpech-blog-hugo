@@ -8,29 +8,33 @@ modified_time: '2014-08-18T09:02:37.781-05:00'
 redirect_from: /2011/05/trip-to-baltimore.html
 tags:
   - Travel
-thumbnail: https://3.bp.blogspot.com/-m2Js1R3pBLk/TdwEHwTmU1I/AAAAAAAAo38/KXGgdGHylxs/s600/IMG_20110516_015143.jpg
+old_thumbnail: https://3.bp.blogspot.com/-m2Js1R3pBLk/TdwEHwTmU1I/AAAAAAAAo38/KXGgdGHylxs/s800/IMG_20110516_015143.jpg
+thumbnail: /images/blog/tn_2011-baltimore-trip.jpg
 title: Trip to Baltimore
 ---
 
+I was out in Baltimore, Maryland for [RailsConf](https://www.railsconf.com/) last week. The conference was great, but this was also the first time I've been in Baltimore other than for a flight layover. For the most part I was there for the 4 day conference and eating.
 
-I was out in Baltimore, Maryland for <a href="https://www.railsconf.com/">RailsConf</a> last week. The conference was great, but this was also the first time I've been in Baltimore other than for a flight layover. For the most part I was there for the 4 day conference and eating.
-
-I must say that some of the neighborhoods in the evening/night didn't feel to safe to walk through. Also, the taxis there are so very expensive! I paid $22 (including tip) for a taxi to drive four miles. I'll be sure to have food pictures up on <a href="https://www.foodishappiness.com/">FoodIsHappiness.com</a> soon enough.
+I must say that some of the neighborhoods in the evening/night didn't feel to safe to walk through. Also, the taxis there are so very expensive! I paid $22 (including tip) for a taxi to drive four miles. I'll be sure to have food pictures up on [FoodIsHappiness.com](https://www.foodishappiness.com) soon enough.
 
 But this marks the end of my flying/adventuring for the time being. For the past month I've been on the plane 2-3 times per week, which has been tiring me out. I look forward to staying on the ground for a bit until I can make my way out to California.
 
 Here are a few of my favorite pictures:
 
 My busted bed when I arrived late Sunday night (no, I didn't break it...)
-<img   border="0" src="https://3.bp.blogspot.com/-m2Js1R3pBLk/TdwEHwTmU1I/AAAAAAAAo38/KXGgdGHylxs/s400/IMG_20110516_015143.jpg" alt="" />
+
+![2011 Baltimore Trip 1](/images/blog/IMG_20110516_015143.jpg)
 
 Harbor Place
-<img   border="0" src="https://4.bp.blogspot.com/-XZZh6elDims/TdH7dY5MSTI/AAAAAAAAoFk/-mHBMr9VVUc/s400/2011-05-16+at+11-07-01.jpg" alt=""   />
 
-<img   border="0" src="https://2.bp.blogspot.com/-WyEy4GOBkGU/TdH7f6bkjgI/AAAAAAAAoFw/-IoLv4LBeh0/s400/2011-05-16+at+11-08-10.jpg" alt=""   />
+![2011 Baltimore Trip 2](/images/blog/2011-05-16-at-11-07-01.jpg)
+
+![2011 Baltimore Trip 3](/images/blog/2011-05-16-at-11-08-10.jpg)
 
 I thought this B&amp;N was super interesting.
-<img   border="0" src="https://2.bp.blogspot.com/-iFcmrgACpus/TdH8GaG6vfI/AAAAAAAAoH8/NZap1pYIXjw/s400/2011-05-16+at+18-57-07.jpg" alt=""   />
+
+![2011 Baltimore Trip 4](/images/blog/2011-05-16-at-18-57-07.jpg)
 
 Hybrid buses. Fast, Friendly, and Free
-<img   border="0" src="https://1.bp.blogspot.com/-U15I6FzrBQg/TdSJte_LhMI/AAAAAAAAob4/_xKCeQbzEME/s400/2011-05-18+at+08-41-44.jpg" alt=""   />
+
+![2011 Baltimore Trip 5](/images/blog/2011-05-18-at-08-41-44.jpg)

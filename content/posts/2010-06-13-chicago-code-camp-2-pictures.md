@@ -10,7 +10,7 @@ tags:
   - Chicago
   - Software Development
   - Code Camp
-old_thumbnail: https://3.bp.blogspot.com/-Nke0rU7WhHw/S95NA89AsII/AAAAAAAAPmA/Xy74BEHWndk/s600/2010-05-01+08.48.30.jpg
+old_thumbnail: https://3.bp.blogspot.com/-Nke0rU7WhHw/S95NA89AsII/AAAAAAAAPmA/Xy74BEHWndk/s800/2010-05-01+08.48.30.jpg
 thumbnail: /images/blog/tn_chicago-code-camp-2.jpg
 title: Chicago Code Camp 2 Pictures
 ---

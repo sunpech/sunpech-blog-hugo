@@ -9,7 +9,7 @@ redirect_from: /2008/10/getting-g1-in-one-week.html
 tags:
   - Technology
   - Android
-old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SPU7xQYooGI/AAAAAAAAIIg/wbhjqnijWfE/s600/g1.jpg
+old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SPU7xQYooGI/AAAAAAAAIIg/wbhjqnijWfE/s800/g1.jpg
 thumbnail: /images/blog/tn_g1.jpg
 title: Getting the G1 in one week
 ---

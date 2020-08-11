@@ -10,12 +10,13 @@ tags:
   - Technology
   - Review
   - Android
-thumbnail: https://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s600/www-3.jpeg
+old_thumbnail: https://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s800/www-3.jpeg
+thumbnail: /images/blog/tn_2011-kindle-fire.jpg
 title: Kindle Fire Review
 ---
 
 
-I pre-ordered my <a href="https://www.amazon.com/gp/product/B0051VVOB2?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=shr&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B0051VVOB2&amp;ref_=amb_link_359054382_4">Kindle Fire</a> in early October. I've wanted an eReader device for a long time, ever since I've been traveling so much. Carrying books around is such a pain.
+I pre-ordered my [Kindle Fire](https://www.amazon.com/gp/product/B0051VVOB2?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=shr&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B0051VVOB2&amp;ref_=amb_link_359054382_4) in early October. I've wanted an eReader device for a long time, ever since I've been traveling so much. Carrying books around is such a pain.
 
 Like many others out there, I got my Kindle Fire on November 15, 2011. After a few weeks of using the Fire, I felt I could give it a good review. I've used it for playing Words With Friends, some basic browsing on Amazon, and I finished reading the Steve Jobs biography on it.
 
@@ -25,18 +26,18 @@ I'm a very happy Amazon Prime customer. I buy just about everything off Amazon a
 
 There are some improvements I'd like to see, both hardware and software.
 
-For hardware, the touchscreen isn't as smooth or responsive as on Apple's iPad2. This can be seen when touching the screen buttons. Often times I have to tap several times for it to register. There is no hardware volume controls. The volume is buried one level deep under the top right menu setting-- which is absurd from a user-interface perspective. Also, the power button, which is the <em>only</em> button, is located on the bottom of the device. It can be pushed accidently very easily.
+For hardware, the touchscreen isn't as smooth or responsive as on Apple's iPad2. This can be seen when touching the screen buttons. Often times I have to tap several times for it to register. There is no hardware volume controls. The volume is buried one level deep under the top right menu setting-- which is absurd from a user-interface perspective. Also, the power button, which is the *only* button, is located on the bottom of the device. It can be pushed accidently very easily.
 
 For software improvements, I'd like to see Amazon wishlist integration. Also, the bookshelf home screen doesn't sit well with me. I wish there was an option for the regular Android desktop feel. The Facebook app that is installed by default, isn't actually a Kindle app. It's actually is a link to the Facebook mobile site in a browser-- very disappointing. And finally, I'd like there to be a setting to lock landscape and portrait mode. I tend to lie on my side reading, and hate it when my Kindle reader app switches to landscape view.
 
-I know I've made comparisons to the iPad several times already. But I feel that I should formally say that <em>the Kindle Fire isn't quite an iPad competitor, let alone a full fledged tablet</em>. I think of it more as a really nice Kindle that has touchscreen, based on Android, and is cheap by today's standards.
+I know I've made comparisons to the iPad several times already. But I feel that I should formally say that *the Kindle Fire isn't quite an iPad competitor, let alone a full fledged tablet*. I think of it more as a really nice Kindle that has touchscreen, based on Android, and is cheap by today's standards.
 
 If you are looking for tablet with tons of apps, this device probably isn't for you. If you are looking for an eReader, love shopping on Amazon, and play only a few app games, and don't want to spend $300-700, then you should consider the Kindle Fire.
 
-<a href="https://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s600/www-3.jpeg"><img   border="0" src="https://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s320/www-3.jpeg"  /></a>
+![Kindle Fire 1](/images/blog/kindle-fire-1.jpeg)
 
-<a href="https://1.bp.blogspot.com/-9YQejrnjuRM/TxVmFfgn9_I/AAAAAAAA2p4/K0FZPy4wgOk/s600/www.jpeg"><img   border="0" src="https://1.bp.blogspot.com/-9YQejrnjuRM/TxVmFfgn9_I/AAAAAAAA2p4/K0FZPy4wgOk/s320/www.jpeg"  /></a>
+![Kindle Fire 2](/images/blog/kindle-fire-2.jpeg)
 
-<a href="https://1.bp.blogspot.com/-cwo4oE2HmJ8/TxVmDntlcbI/AAAAAAAA2pI/ejBvq7Pcjv8/s600/www-1.jpeg"><img   border="0" src="https://1.bp.blogspot.com/-cwo4oE2HmJ8/TxVmDntlcbI/AAAAAAAA2pI/ejBvq7Pcjv8/s320/www-1.jpeg"  width="300" /></a>
+![Kindle Fire 3](/images/blog/kindle-fire-3.jpeg)
 
-<a href="https://1.bp.blogspot.com/-tEucXHdMemg/TxVmDyZ_kzI/AAAAAAAA2pQ/C5ImPwIrfdg/s600/www-2.jpeg"><img   border="0" src="https://1.bp.blogspot.com/-tEucXHdMemg/TxVmDyZ_kzI/AAAAAAAA2pQ/C5ImPwIrfdg/s320/www-2.jpeg"  /></a>
+![Kindle Fire 4](/images/blog/kindle-fire-4.jpeg)

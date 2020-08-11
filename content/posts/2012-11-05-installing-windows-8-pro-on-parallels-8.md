@@ -9,7 +9,7 @@ redirect_from: /2012/11/installing-windows-8-pro-on-parallels-8.html
 tags:
   - Technology
   - Guide
-thumbnail: https://4.bp.blogspot.com/-l3pToD2O5l0/UJhCTG6KgvI/AAAAAAABVlQ/jYSsgAd8pow/s600/IMG_20121105_144324.jpeg
+thumbnail: https://4.bp.blogspot.com/-l3pToD2O5l0/UJhCTG6KgvI/AAAAAAABVlQ/jYSsgAd8pow/s800/IMG_20121105_144324.jpeg
 title: Installing Windows 8 Pro on Parallels Desktop 8
 ---
 

@@ -9,7 +9,7 @@ redirect_from: /2008/05/tech-cocktail-chicago-8.html
 tags:
   - Chicago
   - Meetup
-old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s600/112682035.jpg
+old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s800/112682035.jpg
 thumbnail: /images/blog/tn_techcocktail.jpg
 title: Tech Cocktail Chicago 8
 ---

@@ -8,7 +8,7 @@ modified_time: '2012-03-04T05:04:00.254-06:00'
 redirect_from: /2012/03/canon-5d-mark-3-announced.html
 tags:
   - Photography
-thumbnail: https://1.bp.blogspot.com/-WjZ3XJWGLf4/T1FvjdqGx4I/AAAAAAAA7QQ/mj03W3OqIKc/s600/canon_5d_mark3.png
+thumbnail: https://1.bp.blogspot.com/-WjZ3XJWGLf4/T1FvjdqGx4I/AAAAAAAA7QQ/mj03W3OqIKc/s800/canon_5d_mark3.png
 title: Canon 5D Mark 3 Announced
 ---
 

@@ -11,7 +11,7 @@ tags:
   - Review
   - Books
   - Apple
-thumbnail: https://3.bp.blogspot.com/-7MB6rrGMwsI/TwI19FKW7gI/AAAAAAAA2E8/ZFF4p7AnwoQ/s600/IMG_0088.JPG
+thumbnail: https://3.bp.blogspot.com/-7MB6rrGMwsI/TwI19FKW7gI/AAAAAAAA2E8/ZFF4p7AnwoQ/s800/IMG_0088.JPG
 title: Steve Jobs biography
 ---
 

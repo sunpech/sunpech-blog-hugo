@@ -11,41 +11,42 @@ tags:
   - Travel
   - Meetup
   - Bangkok
-thumbnail: https://1.bp.blogspot.com/-c2trlmdmRC8/TT8b8vGnfwI/AAAAAAAAfQ4/_6MYU9_qZfM/s600/IMG_4772.jpg
+old_thumbnail: https://1.bp.blogspot.com/-c2trlmdmRC8/TT8b8vGnfwI/AAAAAAAAfQ4/_6MYU9_qZfM/s800/IMG_4772.jpg
+thumbnail: /images/blog/tn_2011-january-bkk-web-meetup.jpg
 title: Pictures from January 2011 BKK Web Meetup
 ---
 
 
-A recent group I started to attend is <a href="https://www.meetup.com/bkk-web/">BKK Web Meetup</a> (short for Web Design, UX Design and Web Development Meetup Group in Bangkok).
+A recent group I started to attend is [BKK Web Meetup](https://www.meetup.com/bkk-web/) (short for Web Design, UX Design and Web Development Meetup Group in Bangkok).
 
-Below are the pictures I took from the <a href="https://www.meetup.com/bkk-web/events/15940959/">January Meetup: Computer Vision with Android</a>. The presentation is by Andrea Gagliardi La Gala.
+Below are the pictures I took from the [January Meetup: Computer Vision with Android](https://www.meetup.com/bkk-web/events/15940959/). The presentation is by Andrea Gagliardi La Gala.
 
-<a href="https://1.bp.blogspot.com/-c2trlmdmRC8/TT8b8vGnfwI/AAAAAAAAfQ4/_6MYU9_qZfM/s1600/IMG_4772.jpg" alt="" imageanchor="1"><img   border="0"  src="https://1.bp.blogspot.com/-c2trlmdmRC8/TT8b8vGnfwI/AAAAAAAAfQ4/_6MYU9_qZfM/s320/IMG_4772.jpg" alt=""  /></a>
+![2011 January BKK Web Meetup 1](/images/blog/IMG_4772.jpg)
 
-<a href="https://3.bp.blogspot.com/-FbYrNDzYxiI/TT8b_c5r04I/AAAAAAAAfRA/gEUuGt9qcpc/s1600/IMG_4773.jpg" alt="" imageanchor="1"><img   border="0"  src="https://3.bp.blogspot.com/-FbYrNDzYxiI/TT8b_c5r04I/AAAAAAAAfRA/gEUuGt9qcpc/s320/IMG_4773.jpg" alt=""  /></a>
+<a href="https://3.bp.blogspot.com/-FbYrNDzYxiI/TT8b_c5r04I/AAAAAAAAfRA/gEUuGt9qcpc/s800/IMG_4773.jpg" alt="" imageanchor="1"><img   border="0"  src="https://3.bp.blogspot.com/-FbYrNDzYxiI/TT8b_c5r04I/AAAAAAAAfRA/gEUuGt9qcpc/s800/IMG_4773.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-QfeqohOOGY0/TT8cC1FMf7I/AAAAAAAAfRQ/g6zvOLWY7Y0/s1600/IMG_4775.jpg" alt="" imageanchor="1"><img   border="0"  src="https://3.bp.blogspot.com/-QfeqohOOGY0/TT8cC1FMf7I/AAAAAAAAfRQ/g6zvOLWY7Y0/s320/IMG_4775.jpg" alt=""  /></a>
+![2011 January BKK Web Meetup 1](/images/blog/IMG_4775.jpg)
 
-<a href="https://4.bp.blogspot.com/-JS0T2s73jcY/TT8cEEj3iuI/AAAAAAAAfRY/KvxqFZ0JJ_0/s1600/IMG_4776.jpg" alt="" imageanchor="1"><img   border="0"  src="https://4.bp.blogspot.com/-JS0T2s73jcY/TT8cEEj3iuI/AAAAAAAAfRY/KvxqFZ0JJ_0/s320/IMG_4776.jpg" alt=""  /></a>
+![2011 January BKK Web Meetup 2](/images/blog/IMG_4776.jpg)
 
-<a href="https://3.bp.blogspot.com/-Nc2me4rfSmo/TT8cK9rAmAI/AAAAAAAAfR4/VQvtnWOQwlA/s1600/IMG_4780.jpg" alt="" imageanchor="1"><img   border="0"  src="https://3.bp.blogspot.com/-Nc2me4rfSmo/TT8cK9rAmAI/AAAAAAAAfR4/VQvtnWOQwlA/s320/IMG_4780.jpg" alt=""  /></a>
+![2011 January BKK Web Meetup 3](/images/blog/IMG_4780.jpg)
 
-<a href="https://4.bp.blogspot.com/-_5EsUmKoeg8/TT8cipM7QTI/AAAAAAAAfTY/y6_acnX4y7A/s1600/IMG_4791.jpg" alt="" imageanchor="1"><img   border="0"  src="https://4.bp.blogspot.com/-_5EsUmKoeg8/TT8cipM7QTI/AAAAAAAAfTY/y6_acnX4y7A/s320/IMG_4791.jpg" alt=""  /></a>
+![2011 January BKK Web Meetup 4](/images/blog/IMG_4791.jpg)
 
-<a href="https://4.bp.blogspot.com/-rwcsDH1ONSQ/TT8cqcgZMwI/AAAAAAAAfT4/Di7FleyaquU/s1600/IMG_4796.jpg" alt="" imageanchor="1"><img   border="0"  src="https://4.bp.blogspot.com/-rwcsDH1ONSQ/TT8cqcgZMwI/AAAAAAAAfT4/Di7FleyaquU/s320/IMG_4796.jpg" alt=""  /></a>
+![2011 January BKK Web Meetup 5](/images/blog/IMG_4796.jpg)
 
-Full album <a href="https://picasaweb.google.com/101693597219413173200/2011JanuaryBKKWebMeetup">here</a>.
+Full album [here](https://photos.app.goo.gl/6qGYuhoKkvCn3mot9).
 
 Some video links Andrea provided for those who couldn't attend:
-<ul>
-  <li><a href="https://www.youtube.com/watch?v=_8nYnyh767A">Optical recognition of ID documents with Android phone</a></li>
-  <li><a href="https://www.youtube.com/watch?v=b-m7SXDPTKs">Indoor monitoring with Android phone</a></li>
-</ul>
 
-Tonight there is a <a href="https://www.meetup.com/bkk-web/events/16339774/">BKK Web Meetup: Ruby on Rails Session</a>, by <a href="https://twitter.com/#!/ches">@ches</a>.
+* [Optical recognition of ID documents with Android phone](https://www.youtube.com/watch?v=_8nYnyh767A)
+* [Indoor monitoring with Android phone](https://www.youtube.com/watch?v=b-m7SXDPTKs)
+
+
+Tonight there is a [BKK Web Meetup: Ruby on Rails Session](https://www.meetup.com/bkk-web/events/16339774/), by [@ches](https://twitter.com/#!/ches).
 
 It's being held at (same as last month's):
 
-<a href="https://www.webcoursesbangkok.com/">Web Courses Bangkok</a><br />
-18th Floor, 253 Asoke Building, <br />
+[Web Courses Bangkok](https://www.webcoursesbangkok.com/)\
+18th Floor, 253 Asoke Building, \
 Sukhumvit 21 Bangkok

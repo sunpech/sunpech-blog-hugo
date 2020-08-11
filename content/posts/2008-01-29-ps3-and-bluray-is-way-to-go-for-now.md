@@ -8,7 +8,7 @@ modified_time: '2012-01-11T03:41:02.415-06:00'
 redirect_from: /2008/01/ps3-and-bluray-is-way-to-go-for-now.html
 tags:
   - Technology
-old_thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/R6E-JOQ-KLI/AAAAAAAAAcA/_w8mLZ-fudk/s600/bluray.jpg
+old_thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/R6E-JOQ-KLI/AAAAAAAAAcA/_w8mLZ-fudk/s800/bluray.jpg
 thumbnail: /images/blog/tn_bluray.jpg
 title: PS3 and Bluray is the way to go... for now
 ---

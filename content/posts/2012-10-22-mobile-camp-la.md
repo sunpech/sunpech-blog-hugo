@@ -10,7 +10,7 @@ tags:
   - Los Angeles
   - Events
   - Code Camp
-thumbnail: https://2.bp.blogspot.com/-NipS80fmeFk/UIIM1UjScTI/AAAAAAABVRs/O-DGSIDMLjM/s600/2012-10-18+at+11-24-25.jpg
+thumbnail: https://2.bp.blogspot.com/-NipS80fmeFk/UIIM1UjScTI/AAAAAAABVRs/O-DGSIDMLjM/s800/2012-10-18+at+11-24-25.jpg
 title: Mobile Camp LA
 ---
 

@@ -10,7 +10,7 @@ tags:
   - Technology
   - Android
   - Google
-old_thumbnail: https://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s600/IMG_0115.JPG
+old_thumbnail: https://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s800/IMG_0115.JPG
 thumbnail: /images/blog/tn_nexus-one.jpg
 title: 'My New Phone: Google''s Nexus One'
 ---

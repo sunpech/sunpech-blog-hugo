@@ -9,7 +9,7 @@ redirect_from: /2009/02/my-favorite-web-app-google-reader.html
 tags:
   - Technology
   - Google
-old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SaAN3S0UM7I/AAAAAAAAIlY/N6u2xBcHWg0/s600/google_reader_screenshot.png
+old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SaAN3S0UM7I/AAAAAAAAIlY/N6u2xBcHWg0/s800/google_reader_screenshot.png
 thumbnail: /images/tn_google_reader_screenshot.jpg
 title: 'My Favorite Web App: Google Reader'
 ---

@@ -7,7 +7,7 @@ modified_time: '2014-04-16T08:11:51.571-05:00'
 redirect_from: /2014/04/different-screen-resolutions-wallpaper.html
 tags:
   - Design
-thumbnail: https://3.bp.blogspot.com/-75gF8jF6mAU/U02pJ4uoXVI/AAAAAAABoHo/TQxJMKrEmFw/s600/2560x1440_wallpaper.jpg
+thumbnail: https://3.bp.blogspot.com/-75gF8jF6mAU/U02pJ4uoXVI/AAAAAAABoHo/TQxJMKrEmFw/s800/2560x1440_wallpaper.jpg
 title: Different Screen Resolutions Wallpaper Project
 ---
 
@@ -20,7 +20,7 @@ My screen is a 2560x1440 resolution 27" Mac display, so I made the wallpaper for
 
 Hope you enjoy it, it's free for everybody!
 
-<a href="https://www.pixelapse.com/sunpech/projects/Screen%20Resolution%20Wallpaper/2560x1440_wallpaper.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-75gF8jF6mAU/U02pJ4uoXVI/AAAAAAABoHo/TQxJMKrEmFw/s600/2560x1440_wallpaper.jpg" alt=""   /></a>
+<a href="https://www.pixelapse.com/sunpech/projects/Screen%20Resolution%20Wallpaper/2560x1440_wallpaper.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-75gF8jF6mAU/U02pJ4uoXVI/AAAAAAABoHo/TQxJMKrEmFw/s800/2560x1440_wallpaper.jpg" alt=""   /></a>
 
 Project: <a href="https://www.pixelapse.com/s/C6WYTKJ3FH6R7QR3Q">Screen Resolution Wallpaper</a> (contains PSD file and JPG)
 

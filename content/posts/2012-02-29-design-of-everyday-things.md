@@ -9,7 +9,7 @@ tags:
   - Review
   - Books
   - Design
-thumbnail: https://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s600/2012-02-29+at+12-22-53.jpg
+thumbnail: https://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s800/2012-02-29+at+12-22-53.jpg
 title: The Design of Everyday Things
 ---
 
