@@ -30,13 +30,13 @@ The array of tags should be in alphabetical order.
 
 ### Embedding a YouTube video
 
-You can embed an iframe into a post, but to get it so it's responsive, use the following div and class around the iframe:
+You can embed a youtube video, where the video link is https://www.youtube.com/watch?v=w7Ft2ymGmfc as:
 
 ```
-<div class="video-container">
-<iframe... </iframe>
-</div>
+{{< youtube w7Ft2ymGmfc >}}
 ```
+
+Source: https://discourse.gohugo.io/t/embed-youtube-video/2692
 
 ## Images and Photos
 
