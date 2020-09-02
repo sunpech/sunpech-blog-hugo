@@ -7,59 +7,61 @@ headerimage: /images/headers/old_cameras.jpg
 modified_time: '2014-08-07T16:21:33.272-05:00'
 redirect_from: /2012/03/light-chasers-artwalk-downtown.html
 tags:
-  - Photography
   - Los Angeles
   - Meetup
+  - Photography
   - Photowalk
-thumbnail: https://1.bp.blogspot.com/-S8eTy0FsAwA/T1ns0pEdC8I/AAAAAAAA7qk/VlH4yBH4Fng/s800/2012-03-08+at+19-03-56.jpg
+old_thumbnail: https://1.bp.blogspot.com/-S8eTy0FsAwA/T1ns0pEdC8I/AAAAAAAA7qk/VlH4yBH4Fng/s800/2012-03-08+at+19-03-56.jpg
+thumbnail: /images/blog/tn_2012-lightchasers-artwalk-downtown.jpg
 title: Light Chasers Artwalk Downtown
 ---
 
-
-Last night I attended the <a href="https://www.meetup.com/LightChasers/events/52841652/">Light Chasers Artwalk Downtown meetup</a>. I arrived early and walked to the <a href="https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall">Walt Disney Concert Hall</a> to do some HDR shots. Upon arriving there, I immediately regretted not bringing my <a href="https://www.amazon.com/gp/product/B000NP46K2/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000NP46K2">16-35mm f/2.8 L lens</a>. So made due with my recently purchased <a href="https://www.amazon.com/gp/product/B00513JCA0/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00513JCA0">24-105 f/4 L lens</a>, which I really haven't used that much yet.
+Last night I attended the [Light Chasers Artwalk Downtown meetup](https://www.meetup.com/LightChasers/events/52841652/). I arrived early and walked to the [Walt Disney Concert Hall](https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall) to do some HDR shots. Upon arriving there, I immediately regretted not bringing my [16-35mm f/2.8 L lens](https://www.amazon.com/gp/product/B000NP46K2/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000NP46K2). So made due with my recently purchased [24-105 f/4 L lens](https://www.amazon.com/gp/product/B00513JCA0/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00513JCA0), which I really haven't used that much yet.
 
 I spent most of the evening on my own going at my own pace to take pictures. It didn't seem like the best place to chit chat with other photographer enthusiasts, as it was crowded and loud. My favorite part of the night was really shooting at the Disney concert hall by myself, before everyone arrived. The art walk itself was just okay for me.
 
+Photo album: [2012 Light Chasers Artwalk](https://photos.app.goo.gl/LzFX5uZHoqCoUQgQ7)
+
 The HDR photos:
 
-<a href="https://1.bp.blogspot.com/-S8eTy0FsAwA/T1ns0pEdC8I/AAAAAAAA7qk/VlH4yBH4Fng/s800/2012-03-08+at+19-03-56.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-S8eTy0FsAwA/T1ns0pEdC8I/AAAAAAAA7qk/VlH4yBH4Fng/s400/2012-03-08+at+19-03-56.jpg" alt=""  /></a>
+![Walt Disney Concert Hall HDR Photo 1](/images/blog/2012-03-08-at-19-03-56.jpg)
 
-<a href="https://1.bp.blogspot.com/-R2lNv4M85k8/T1ns1gMKHFI/AAAAAAAA7qw/aHoNiFXPvB4/s800/2012-03-08+at+19-05-56.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-R2lNv4M85k8/T1ns1gMKHFI/AAAAAAAA7qw/aHoNiFXPvB4/s400/2012-03-08+at+19-05-56.jpg" alt=""  /></a>
+![Walt Disney Concert Hall HDR Photo 2](/images/blog/2012-03-08-at-19-05-56.jpg)
 
-<a href="https://4.bp.blogspot.com/-fw0KAAJxjTc/T1ns3VgbykI/AAAAAAAA7q4/6vilfYcXvmM/s800/2012-03-08+at+19-07-07.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-fw0KAAJxjTc/T1ns3VgbykI/AAAAAAAA7q4/6vilfYcXvmM/s400/2012-03-08+at+19-07-07.jpg" alt=""  /></a>
+![Walt Disney Concert Hall HDR Photo 3](/images/blog/2012-03-08-at-19-07-07.jpg)
 
-<a href="https://2.bp.blogspot.com/-zUG-iK5Oxdk/T1ns6FrF3BI/AAAAAAAA7rM/lmCTyYJif38/s800/2012-03-08+at+19-55-00.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-zUG-iK5Oxdk/T1ns6FrF3BI/AAAAAAAA7rM/lmCTyYJif38/s400/2012-03-08+at+19-55-00.jpg" alt="" /></a>
+![Walt Disney Concert Hall HDR Photo 4](/images/blog/2012-03-08-at-19-55-00.jpg)
 
 My favorites from the Artwalk:
 
-<a href="https://4.bp.blogspot.com/-fm6ybnmAfjQ/T1nukqdKTtI/AAAAAAAA7sE/dS3VD2B2PHk/s800/20120308-IMG_2046.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-fm6ybnmAfjQ/T1nukqdKTtI/AAAAAAAA7sE/dS3VD2B2PHk/s400/20120308-IMG_2046.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 1](/images/blog/20120308-IMG_2046.jpg)
 
-<a href="https://2.bp.blogspot.com/-PjrVRpjkqDQ/T1nu-ua82AI/AAAAAAAA7vE/e9b0ubnfe8g/s800/20120308-IMG_2093.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-PjrVRpjkqDQ/T1nu-ua82AI/AAAAAAAA7vE/e9b0ubnfe8g/s400/20120308-IMG_2093.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 2](/images/blog/20120308-IMG_2093.jpg)
 
-<a href="https://2.bp.blogspot.com/-orHt6_rvimI/T1nu_h_Z73I/AAAAAAAA7vM/JVPIYqXXB5o/s800/20120308-IMG_2094.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-orHt6_rvimI/T1nu_h_Z73I/AAAAAAAA7vM/JVPIYqXXB5o/s400/20120308-IMG_2094.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 3](/images/blog/20120308-IMG_2094.jpg)
 
-<a href="https://2.bp.blogspot.com/-HZWvwgADoTQ/T1nvBg7aTbI/AAAAAAAA7vc/3JGTJ0dtcVs/s800/20120308-IMG_2097.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-HZWvwgADoTQ/T1nvBg7aTbI/AAAAAAAA7vc/3JGTJ0dtcVs/s400/20120308-IMG_2097.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 4](/images/blog/20120308-IMG_2097.jpg)
 
-<a href="https://2.bp.blogspot.com/-tlO-q24XQrM/T1nvGSS7P0I/AAAAAAAA7wE/ScINQ1lS9_k/s800/20120308-IMG_2107.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-tlO-q24XQrM/T1nvGSS7P0I/AAAAAAAA7wE/ScINQ1lS9_k/s400/20120308-IMG_2107.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 5](/images/blog/20120308-IMG_2107.jpg)
 
-<a href="https://3.bp.blogspot.com/-ojWYzNrGGDM/T1nvKVXMAbI/AAAAAAAA7wk/wN8KasJyAf4/s800/20120308-IMG_2111.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-ojWYzNrGGDM/T1nvKVXMAbI/AAAAAAAA7wk/wN8KasJyAf4/s400/20120308-IMG_2111.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 6](/images/blog/20120308-IMG_2111.jpg)
 
-<a href="https://2.bp.blogspot.com/-fFxXvUyQaJI/T1nvMemFOoI/AAAAAAAA7w0/08vfgwZwk4E/s800/20120308-IMG_2116.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-fFxXvUyQaJI/T1nvMemFOoI/AAAAAAAA7w0/08vfgwZwk4E/s400/20120308-IMG_2116.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 7](/images/blog/20120308-IMG_2116.jpg)
 
-<a href="https://1.bp.blogspot.com/-EcDbw7RqyWY/T1nvcqeK0bI/AAAAAAAA7y0/EFIUHW_qF78/s800/20120308-IMG_2140.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-EcDbw7RqyWY/T1nvcqeK0bI/AAAAAAAA7y0/EFIUHW_qF78/s400/20120308-IMG_2140.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 8](/images/blog/20120308-IMG_2140.jpg)
 
-<a href="https://4.bp.blogspot.com/-4ueCPlyZWR8/T1nve-wrRpI/AAAAAAAA7y8/hd75O7Aay5U/s800/20120308-IMG_2141.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-4ueCPlyZWR8/T1nve-wrRpI/AAAAAAAA7y8/hd75O7Aay5U/s400/20120308-IMG_2141.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 9](/images/blog/20120308-IMG_2141.jpg)
 
-<a href="https://2.bp.blogspot.com/-toBGHMdB72c/T1nvgJkWpbI/AAAAAAAA7zE/_fdna5KFXzI/s800/20120308-IMG_2143.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-toBGHMdB72c/T1nvgJkWpbI/AAAAAAAA7zE/_fdna5KFXzI/s400/20120308-IMG_2143.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 10](/images/blog/20120308-IMG_2143.jpg)
 
-<a href="https://3.bp.blogspot.com/-XuvfUCjI4H4/T1nvvV0PRvI/AAAAAAAA708/VdcXIRg_vZ8/s800/20120308-IMG_2179.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-XuvfUCjI4H4/T1nvvV0PRvI/AAAAAAAA708/VdcXIRg_vZ8/s400/20120308-IMG_2179.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 11](/images/blog/20120308-IMG_2179.jpg)
 
-<a href="https://2.bp.blogspot.com/-PePOmuKNJgE/T1nv5P1Kb1I/AAAAAAAA72M/YCT2TNTe32o/s800/20120308-IMG_2195.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-PePOmuKNJgE/T1nv5P1Kb1I/AAAAAAAA72M/YCT2TNTe32o/s400/20120308-IMG_2195.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 12](/images/blog/20120308-IMG_2195.jpg)
 
-<a href="https://2.bp.blogspot.com/-4xit0sxkd-s/T1nv6hIfohI/AAAAAAAA72c/vgSh4d9VDKI/s800/20120308-IMG_2198.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-4xit0sxkd-s/T1nv6hIfohI/AAAAAAAA72c/vgSh4d9VDKI/s400/20120308-IMG_2198.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 13](/images/blog/20120308-IMG_2198.jpg)
 
-<a href="https://4.bp.blogspot.com/-nf1ROnxdnkw/T1nwAqelZaI/AAAAAAAA73M/CICDBbVzLoI/s800/20120308-IMG_2207.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-nf1ROnxdnkw/T1nwAqelZaI/AAAAAAAA73M/CICDBbVzLoI/s400/20120308-IMG_2207.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 14](/images/blog/20120308-IMG_2207.jpg)
 
-<a href="https://3.bp.blogspot.com/-Xi84FyxXylU/T1nwBLlw-aI/AAAAAAAA73U/3WKD6HVw0xE/s800/20120308-IMG_2208.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-Xi84FyxXylU/T1nwBLlw-aI/AAAAAAAA73U/3WKD6HVw0xE/s400/20120308-IMG_2208.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 15](/images/blog/20120308-IMG_2208.jpg)
 
-<a href="https://4.bp.blogspot.com/-yhjhcrc4nrU/T1nwGZHuVzI/AAAAAAAA738/v2vKQwIpzWE/s800/20120308-IMG_2216.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-yhjhcrc4nrU/T1nwGZHuVzI/AAAAAAAA738/v2vKQwIpzWE/s400/20120308-IMG_2216.jpg" alt=""  /></a>
+![Light Chasers Artwalk Downtown Photo 16](/images/blog/20120308-IMG_2216.jpg)

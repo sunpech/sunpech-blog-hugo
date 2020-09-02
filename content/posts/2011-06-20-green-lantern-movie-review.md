@@ -7,9 +7,9 @@ headerimage: /images/headers/best_graphic_novels.jpg
 modified_time: '2014-08-07T20:09:44.912-05:00'
 redirect_from: /2011/06/green-lantern-movie-review.html
 tags:
-  - Review
-  - Movies
   - Comics
+  - Movies
+  - Review
 old_thumbnail: https://2.bp.blogspot.com/-PraOGmGUarU/Tf99e3a7QWI/AAAAAAAApOU/dxpnXotOs6o/s800/Green+Lantern+Poster.jpeg
 thumbnail: /images/blog/tn_2011-green-lantern-movie.jpg
 title: Green Lantern Movie Review

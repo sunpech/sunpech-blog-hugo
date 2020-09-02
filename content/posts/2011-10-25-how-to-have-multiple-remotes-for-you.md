@@ -7,8 +7,8 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:51:54.686-05:00'
 redirect_from: /2011/10/how-to-have-multiple-remotes-for-you.html
 tags:
-  - Software Development
   - Guide
+  - Software Development
 thumbnail: /images/blog/tn_git-multiple-remotes.jpg
 title: How to have multiple remotes for you Git project
 ---

@@ -7,10 +7,10 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:23:36.273-05:00'
 redirect_from: /2011/09/pictures-from-los-angeles-rubyrails.html
 tags:
-  - Software Development
   - Los Angeles
   - Meetup
-old_thumbnail: https://1.bp.blogspot.com/-n_AlCTGRQ78/TmxS8JqYPvI/AAAAAAAAuV0/A1cQMkbqcx8/s800/2011-09-08-at-19-19-26.jpg
+  - Software Development
+old_thumbnail: https://1.bp.blogspot.com/-n_AlCTGRQ78/TmxS8JqYPvI/AAAAAAAAuV0/A1cQMkbqcx8/s800/2011-09-08+at+19-19-26.jpg
 thumbnail: /images/blog/tn_2011-la-ruby-coloft.jpg
 title: Pictures from Los Angeles Ruby/Rails Meetup
 ---

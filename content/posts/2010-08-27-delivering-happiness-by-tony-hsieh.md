@@ -6,8 +6,8 @@ date: '2010-08-27T09:00:00.003-05:00'
 modified_time: '2014-08-08T16:56:53.038-05:00'
 redirect_from: /2010/08/delivering-happiness-by-tony-hsieh.html
 tags:
-  - Review
   - Books
+  - Review
 thumbnail: /images/blog/tn_delivering-happiness-book.jpg
 title: Delivering Happiness by Tony Hsieh
 ---

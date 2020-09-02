@@ -7,10 +7,10 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:23:36.310-05:00'
 redirect_from: /2011/02/pictures-from-january-2011-bkk-web.html
 tags:
+  - Bangkok
+  - Meetup
   - Software Development
   - Travel
-  - Meetup
-  - Bangkok
 old_thumbnail: https://1.bp.blogspot.com/-c2trlmdmRC8/TT8b8vGnfwI/AAAAAAAAfQ4/_6MYU9_qZfM/s800/IMG_4772.jpg
 thumbnail: /images/blog/tn_2011-january-bkk-web-meetup.jpg
 title: Pictures from January 2011 BKK Web Meetup

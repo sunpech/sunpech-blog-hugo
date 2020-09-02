@@ -8,8 +8,8 @@ modified_time: '2014-08-07T16:23:36.332-05:00'
 redirect_from: /2010/10/pictures-from-october-tech-events-in.html
 tags:
   - Chicago
-  - Software Development
   - Meetup
+  - Software Development
 old_thumbnail: https://3.bp.blogspot.com/-O0lbvGCN9P0/TLZpPDAMokI/AAAAAAAAa1Y/p3lDcp2iYAk/s800/IMG_3133.jpg
 thumbnail: /images/blog/tn_2010-october-tech.jpg
 title: Pictures from October Tech Events in Chicago

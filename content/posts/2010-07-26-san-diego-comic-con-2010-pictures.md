@@ -7,10 +7,9 @@ headerimage: /images/headers/san_diego_comic_con.jpg
 modified_time: '2015-01-19T16:09:40.483-06:00'
 redirect_from: /2010/07/san-diego-comic-con-2010-pictures.html
 tags:
-  - San Diego Comic Con
   - Cosplay
-  - Comic Con
   - San Diego
+  - San Diego Comic Con
 old_thumbnail: https://2.bp.blogspot.com/-5Efz3YK1MKc/TEe39nW4D4I/AAAAAAAASi4/LPrSKE5oPl8/s800/IMG_0989.JPG
 thumbnail: /images/blog/tn_2010-sdcc.jpg
 title: San Diego Comic Con 2010

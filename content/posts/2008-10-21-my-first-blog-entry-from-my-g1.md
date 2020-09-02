@@ -7,8 +7,8 @@ headerimage: /images/headers/android.jpg
 modified_time: '2014-08-07T19:36:22.285-05:00'
 redirect_from: /2008/10/my-first-blog-entry-from-my-g1.html
 tags:
-  - Technology
   - Android
+  - Technology
 thumbnail: /images/blog/tn_default.jpg
 title: My First Blog Entry from my G1
 ---

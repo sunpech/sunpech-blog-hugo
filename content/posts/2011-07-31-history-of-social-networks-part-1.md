@@ -7,8 +7,8 @@ headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-09T20:02:59.428-05:00'
 redirect_from: /2011/07/history-of-social-networks-part-1.html
 tags:
-  - Technology
   - Social Media
+  - Technology
 old_thumbnail: https://3.bp.blogspot.com/-7HCppjKGTCY/TiE5fFqGMqI/AAAAAAAAsj4/Aa2FsIbulr4/s800/asian_avenue.png
 thumbnail: /images/blog/tn_asian-avenue.jpg
 title: The History of Social Networks Part 1

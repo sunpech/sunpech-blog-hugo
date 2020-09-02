@@ -7,62 +7,65 @@ headerimage: /images/headers/long_beach_comic_con.jpg
 modified_time: '2014-09-29T17:25:24.456-05:00'
 redirect_from: /2012/11/long-beach-comic-con-2012.html
 tags:
-  - Long Beach Comic Con
   - Cosplay
-  - Comic Con
-thumbnail: https://3.bp.blogspot.com/-3ArVU-G9lYU/UJjpm9yQ5fI/AAAAAAABVmM/axhhXKnhwYM/s800/2012-11-04+at+11-22-19.jpg
+  - Long Beach Comic Con
+old_thumbnail: https://3.bp.blogspot.com/-3ArVU-G9lYU/UJjpm9yQ5fI/AAAAAAABVmM/axhhXKnhwYM/s800/2012-11-04-at-11-22-19.jpg
+thumbnail: /images/blog/tn_2012-long-beach-comic-con.jpg
 title: Long Beach Comic Con 2012
 ---
 
-
-Over the weekend I attended <a href="https://www.longbeachcomiccon.com/">Long Beach Comic Con</a> held at the <a href="https://www.longbeachcc.com/">Long Beach Convention Center</a>. It's not as big as <a href="https://www.comic-con.org/cci/">San Diego Comic Con</a> nor <a href="https://comikazeexpo.com/">Comikaze Expo</a>, but it definitely had a more collector's paradise feel to it.
+Over the weekend I attended [Long Beach Comic Con](https://www.longbeachcomiccon.com/) held at the [Long Beach Convention Center](https://www.longbeachcc.com/) It's not as big as [San Diego Comic Con](https://www.comic-con.org/cci/) nor [Comikaze Expo](https://comikazeexpo.com/), but it definitely had a more collector's paradise feel to it.
 
 I actually didn't take too many pictures myself as I was head deep in the comic book bins looking for deals on actual comic books. Normally I'm more of a trade paperback (TPB) kind of comic reader, but recently started picking up some individual titles again. I'll try to have a blog post up covering some of my more recent readings.
 
 There also weren't too many people dressed up-- but then again I went only on Sunday, the day after the costume/masquerade party. I definitely missed taking pictures of some pretty nice costumes because I was mostly there for the comics, not panels or costumes really. Sorry to disappoint if that was what you were hoping for!
 
-Full album can be found <a href="https://picasaweb.google.com/101693597219413173200/2012LongBeachComicCon">here</a>.
+Full album can be found [here](https://photos.app.goo.gl/DoWysRnNDaVitov4A).
 
 ### Pictures
 
-<img   border="0" src="https://3.bp.blogspot.com/-3ArVU-G9lYU/UJjpm9yQ5fI/AAAAAAABVmM/axhhXKnhwYM/s800/2012-11-04+at+11-22-19.jpg" alt=""   />
+![2012 Long Beach Comic Con 1](/images/blog/2012-11-04-at-11-22-19.jpg)
 
-Went to the <a href="https://valiantuniverse.com/">Valiant Comics</a> panel.
+Went to the [Valiant Comics](https://valiantuniverse.com/) panel.
 
-<img   border="0" src="https://4.bp.blogspot.com/-wK8dlWDDvEk/UJjppRJYDkI/AAAAAAABVmc/OWy3slLwRFs/s800/2012-11-04+at+12-02-02.jpg" alt=""   />
+![2012 Long Beach Comic Con 2](/images/blog/2012-11-04-at-12-02-02.jpg)
 
 Dinesh Shamdasani, CCO of Valiant in the middle.
-<img   border="0" src="https://1.bp.blogspot.com/--R93VuzcHtA/UJjps0Q7YnI/AAAAAAABVm0/FjjA4OlYQhY/s800/2012-11-04+at+12-02-57.jpg" alt=""   />
 
-<a href="https://www.joshuadysart.com/wp/">Joshua Dysart</a>, the writer for Harbinger.
-<img   border="0" src="https://4.bp.blogspot.com/-7UZ7MWTl2Kw/UJjpt2zyG5I/AAAAAAABVm8/GpMaJnpQCsA/s800/2012-11-04+at+12-03-03.jpg" alt=""   />
+![2012 Long Beach Comic Con 3](/images/blog/2012-11-04-at-12-02-57.jpg)
 
-<img   border="0" src="https://1.bp.blogspot.com/-adC8x2hi9Gc/UJjpu92xUhI/AAAAAAABVnE/nJoX70EOVOQ/s800/2012-11-04+at+12-03-34.jpg" alt=""   />
+[Joshua Dysart](https://www.joshuadysart.com/wp/), the writer for Harbinger.
 
-<img   border="0" src="https://4.bp.blogspot.com/-YRIl6zxhjKY/UJjp1PGAAhI/AAAAAAABVns/FtJUVd5IZjc/s800/2012-11-04+at+12-51-46.jpg" alt=""   />
+![2012 Long Beach Comic Con 4](/images/blog/2012-11-04-at-12-03-03.jpg)
 
-<img   border="0" src="https://2.bp.blogspot.com/-3qTTTRLza6Q/UJjp2YneAnI/AAAAAAABVn0/0rDHTiaTiVE/s800/2012-11-04+at+12-59-54.jpg" alt=""   />
+![2012 Long Beach Comic Con 5](/images/blog/2012-11-04-at-12-03-34.jpg)
+
+![2012 Long Beach Comic Con 6](/images/blog/2012-11-04-at-12-51-46.jpg)
+
+![2012 Long Beach Comic Con 7](/images/blog/2012-11-04-at-12-59-54.jpg)
 
 Rocksteady!
-<img   border="0" src="https://3.bp.blogspot.com/-0Zgq3Fhp5bA/UJjp4-CHzLI/AAAAAAABVoE/CJ4XvGHnHm4/s800/2012-11-04+at+13-22-05.jpg" alt=""   />
 
-<img   border="0" src="https://4.bp.blogspot.com/-CRf_uJTtHB0/UJjp6Mj3wsI/AAAAAAABVoM/CUH-6SglcqE/s800/2012-11-04+at+13-52-14.jpg" alt=""   />
+![2012 Long Beach Comic Con 8](/images/blog/2012-11-04-at-13-22-05.jpg)
 
-<img   border="0" src="https://4.bp.blogspot.com/-PAwDJfQjvd0/UJjp-e8ZSnI/AAAAAAABVos/qIEodEPYdOw/s800/2012-11-04+at+14-09-33.jpg" alt=""   />
+![2012 Long Beach Comic Con 9](/images/blog/2012-11-04-at-13-52-14.jpg)
 
-<img   border="0" src="https://2.bp.blogspot.com/-ZjVbE5mKZkM/UJjqEcf5uLI/AAAAAAABVpc/eejkU6yV5a0/s800/2012-11-04+at+14-14-18.jpg" alt=""   />
+![2012 Long Beach Comic Con 10](/images/blog/2012-11-04-at-14-09-33.jpg)
 
-<img   border="0" src="https://4.bp.blogspot.com/-NK-VumWZNYU/UJjqF8zxKqI/AAAAAAABVpk/8nGZkoZ8DTo/s800/2012-11-04+at+14-14-25.jpg" alt=""   />
+![2012 Long Beach Comic Con 11](/images/blog/2012-11-04-at-14-14-18.jpg)
 
-Killer Klowns from Outer Space?! (Movie <a href="https://www.imdb.com/title/tt0095444/">reference</a>)
-<img   border="0" src="https://1.bp.blogspot.com/-XZcDyIGbmtA/UJjqJxoQVGI/AAAAAAABVp8/clFZMPdwSaU/s800/2012-11-04+at+14-47-57.jpg" alt=""   />
+![2012 Long Beach Comic Con 12](/images/blog/2012-11-04-at-14-14-25.jpg)
 
-<img   border="0" src="https://4.bp.blogspot.com/-EP_9oStDxsE/UJjqK-TGZ4I/AAAAAAABVqE/GM1HtKvbgNo/s800/2012-11-04+at+15-05-47.jpg" alt=""   />
+Killer Klowns from Outer Space?! (Movie [reference](https://www.imdb.com/title/tt0095444/))
 
-<img   border="0" src="https://4.bp.blogspot.com/-t-S12cBc3C4/UJjqMRfBBxI/AAAAAAABVqM/uncbslVqJ5M/s800/2012-11-04+at+15-10-44.jpg" alt=""   />
+![2012 Long Beach Comic Con 13](/images/blog/2012-11-04-at-14-47-57.jpg)
 
-<img   border="0" src="https://1.bp.blogspot.com/-ebl7oTa72lY/UJjqNVjAgEI/AAAAAAABVqU/R0_p9UAzbpQ/s800/2012-11-04+at+15-20-23.jpg" alt=""   />
+![2012 Long Beach Comic Con 14](/images/blog/2012-11-04-at-15-05-47.jpg)
 
-<img   border="0" src="https://3.bp.blogspot.com/-VZfzbe9UUOM/UJjqO0v-HOI/AAAAAAABVqc/IZW6oP7uyi8/s800/2012-11-04+at+15-47-39.jpg" alt=""   />
+![2012 Long Beach Comic Con 15](/images/blog/2012-11-04-at-15-10-44.jpg)
 
-<img   border="0" src="https://1.bp.blogspot.com/-MW-2wd5-aQo/UJjqQPBCM6I/AAAAAAABVqk/SIBi9mXohhI/s800/2012-11-04+at+15-50-37.jpg" alt=""   />
+![2012 Long Beach Comic Con 16](/images/blog/2012-11-04-at-15-20-23.jpg)
+
+![2012 Long Beach Comic Con 17](/images/blog/2012-11-04-at-15-47-39.jpg)
+
+![2012 Long Beach Comic Con 18](/images/blog/2012-11-04-at-15-50-37.jpg)

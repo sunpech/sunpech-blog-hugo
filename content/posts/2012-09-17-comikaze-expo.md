@@ -8,15 +8,14 @@ modified_time: '2015-01-19T16:09:40.464-06:00'
 redirect_from: /2012/09/comikaze-expo.html
 tags:
   - Comikaze Expo
-  - Los Angeles
   - Cosplay
-  - Comic Con
-thumbnail: https://2.bp.blogspot.com/-aQ1CJve_G_Q/UFasCiz-O-I/AAAAAAABUpk/HdBWXzud--4/s800/2012-09-16-79.jpg
+  - Los Angeles
+old_thumbnail: https://2.bp.blogspot.com/-aQ1CJve_G_Q/UFasCiz-O-I/AAAAAAABUpk/HdBWXzud--4/s800/2012-09-16-79.jpg
+thumbnail: /images/blog/tn_2012-comikaze-expo.jpg
 title: Comikaze Expo 2012
 ---
 
-
-Over the weekend I checked out the <a href="https://comikazeexpo.com/">Comikaze Expo</a> at the LA Convention Center (LACC). As far as I know, this was the first "real" comic con taking place in Los Angeles. The previous year's I heard took place in a parking structure or something. But this is a comic con for LA made by fans, for fans. That's their slogan more or less anyway.
+Over the weekend I checked out the [Comikaze Expo](https://comikazeexpo.com/) at the LA Convention Center (LACC). As far as I know, this was the first "real" comic con taking place in Los Angeles. The previous year's I heard took place in a parking structure or something. But this is a comic con for LA made by fans, for fans. That's their slogan more or less anyway.
 
 Anyway, I had fun and took a lot of pictures. I can now recognize a lot of familiar faces and costumes from other events. I must say that LA has a lot of creative fans that put a lot into making really awesome costumes.
 
@@ -24,15 +23,13 @@ Anyway, I had fun and took a lot of pictures. I can now recognize a lot of famil
 
 However, everything didn't go smoothly. Here's what I've seen, read, and/or heard were problems:
 
-<ol>
-  <li>Long lines for those who pre-purchased their tickets. No line for those who bought tickets the day of.</li>
-  <li>Inexperienced line coordinators.</li>
-  <li>Air conditioning problem. (It was a wee bit hot inside!)</li>
-  <li>Fire marshall had to turn people away who actually had tickets!</li>
-  <li>Wristbands instead of badges were given out.</li>
-  <li>Social media silence.</li>
-  <li>The main stage was also in the main hall with exhibitors.</li>
-</ol>
+1. Long lines for those who pre-purchased their tickets. No line for those who bought tickets the day of.
+2. Inexperienced line coordinators.
+3. Air conditioning problem. (It was a wee bit hot inside!)
+4. Fire marshall had to turn people away who actually had tickets!
+5. Wristbands instead of badges were given out.
+6. Social media silence.
+7. The main stage was also in the main hall with exhibitors.
 
 I'd like to share some of my input in regards to some of these.
 For the problems with lines (#1 and #2), things weren't that bad. I went early on Saturday around 9:30am and the lines weren't that bad. Doors supposedly open at 10am. However, those who came in the afternoon had problems as the line went right out the front. I've been to San Diego Comic Con (SDCC) and Anime Expo. The lines and attendane for those were much greater and wait sometimes much much longer than just an hour or two. Some fans should get a grip on the idea that these conventions have a lot of people going in a short period of time and lines are unavoidable.
@@ -45,11 +42,10 @@ In regards to tickets and wristbands (#4 and #5) the Comikaze staff also made a 
 
 The wristbands were also a poor choice. Honestly, the only events where I am given a wristband to wear are music concerts. It's a quick and dirty way to get people in and verify that badges are unlikely to be easily exchanged. But badges are way better, and here's why:
 
-<ul>
-  <li>They're more comfortable and be taken on/off. Wristbands are worn for 24-36 hours or however long the event goes for.</li>
-  <li>They show the event organizers care because badges can be kept afterwards. Wristbands are torn off and thrown away.</li>
-  <li>For fans in costumes where their arms and wrists are covered, badges can be clipped somewhere else other than the wrist.</li>
-</ul>
+
+* They're more comfortable and be taken on/off. Wristbands are worn for 24-36 hours or however long the event goes for.
+* They show the event organizers care because badges can be kept afterwards. Wristbands are torn off and thrown away.
+* For fans in costumes where their arms and wrists are covered, badges can be clipped somewhere else other than the wrist.
 
 The social media front (#6) is where they fell short initially, and is probably the hardest to do well. This isn't just about the Twitter and Facebook pages, but also communication that is accessible and easy to find. So many people, myself included, were wondering when the ticket booths would open on the first day. The event is set for 10am-6pm, but when is the earliest fans could get tickets? That was left out completely on their website and wasn't addressed in a timely fashion on Twitter/Facebook. Many other questions were also not addressed on the social networks. Which brings up, why bother being on a social network for an annual event if on the days leading up to and on the event, they're not on it addressing issues 24/7? I think fans can understand if the nine months after the event it were dormant, but the days of? No, not acceptable to only check it once a day.
 
@@ -62,99 +58,114 @@ Anyway, sorry for the long rant. I just wanted to share my thoughts on my past c
 
 ### Pictures
 
-Here are some of the pictures I took. Full album can be found <a href="https://picasaweb.google.com/101693597219413173200/2012Comikaze">here</a>.
+Here are some of the pictures I took. Full album can be found [here](https://photos.app.goo.gl/hnuJExDJ8r3Js9rb7).
 
-<img   border="0" src="https://2.bp.blogspot.com/-aQ1CJve_G_Q/UFasCiz-O-I/AAAAAAABUpk/HdBWXzud--4/s800/2012-09-16-79.jpg" alt="" />
+![2012 Comikaze Expo 1](/images/blog/2012-09-16-79.jpg)
 
-<img   border="0" src="https://1.bp.blogspot.com/-QD7mA82cSuI/UFaqXNdAQyI/AAAAAAABUcM/tJz5KouzHJI/s800/2012-09-15-490.jpg" alt="" />
+![2012 Comikaze Expo 2](/images/blog/2012-09-15-490.jpg)
 
-<img   border="0" src="https://3.bp.blogspot.com/-K0ayqwZMAvU/UFapXckBs1I/AAAAAAABUUM/md5vW4_GKGU/s800/2012-09-15-28.jpg" alt="" />
+![2012 Comikaze Expo 3](/images/blog/2012-09-15-28.jpg)
 
-<img   border="0" src="https://4.bp.blogspot.com/-mobHIpShlpY/UFapa0Nh3eI/AAAAAAABUUk/7I1o5jIeH6k/s800/2012-09-15-32.jpg" alt="" />
+![2012 Comikaze Expo 4](/images/blog/2012-09-15-32.jpg)
 
 Todd McFarlane signing
-<img   border="0" src="https://1.bp.blogspot.com/-Af8qTU4ITh0/UFapckvlmcI/AAAAAAABUU0/CLwpV9CpJGg/s800/2012-09-15-48.jpg" alt="" />
 
-<img   border="0" src="https://2.bp.blogspot.com/-TZm-cR4reGE/UFapitKClSI/AAAAAAABUVk/0lUkwWaDWxU/s800/2012-09-15-72.jpg" alt="" />
+![2012 Comikaze Expo 5](/images/blog/2012-09-15-48.jpg)
 
-<a href="https://www.batgirlspoiled.com/">BatGirl Spoiled</a>
-<img   border="0" src="https://3.bp.blogspot.com/-P18Jz7CT2yI/UFapqrViY7I/AAAAAAABUWc/FRz8HcGCq0M/s800/2012-09-15-125.jpg" alt="" />
+![2012 Comikaze Expo 6](/images/blog/2012-09-15-72.jpg)
+
+[BatGirl Spoiled](https://www.batgirlspoiled.com/)
+
+![2012 Comikaze Expo 7](/images/blog/2012-09-15-125.jpg)
 
 Adam West
-<img   border="0" src="https://4.bp.blogspot.com/-MKS1mVjKxhs/UFapsl-PrzI/AAAAAAABUWs/aAVhdjm7ugQ/s800/2012-09-15-134.jpg" alt="" />
 
-<a href="https://en.wikipedia.org/wiki/Julie_Newmar">Julie Newmar</a> aka Catwoman
-<img   border="0" src="https://1.bp.blogspot.com/-tse8ijZIqgc/UFapthzWdRI/AAAAAAABUW0/cgncHQCKcxw/s800/2012-09-15-139.jpg" alt="" />
+![2012 Comikaze Expo 8](/images/blog/2012-09-15-134.jpg)
 
-<a href="https://www.leeannavamp.com/">LeeAnna Vamp</a>
-<img   border="0" src="https://1.bp.blogspot.com/-uw2TSLC3Bdo/UFapxpdP5GI/AAAAAAABUXU/nKGhIbfIIWE/s800/2012-09-15-155.jpg" alt="" />
+[Julie Newmar](https://en.wikipedia.org/wiki/Julie_Newmar) aka Catwoman
+
+![2012 Comikaze Expo 9](/images/blog/2012-09-15-139.jpg)
+
+[LeeAnna Vamp](https://www.leeannavamp.com/)
+
+![2012 Comikaze Expo 10](/images/blog/2012-09-15-155.jpg)
 
 Wall-E
-<img   border="0" src="https://4.bp.blogspot.com/-9TNbSHNVK9Y/UFap4HIMoTI/AAAAAAABUYE/g_4jD72tc94/s800/2012-09-15-167.jpg" alt="" />
+
+![2012 Comikaze Expo 11](/images/blog/2012-09-15-167.jpg)
 
 They Live style Hooters girl
-<img   border="0" src="https://3.bp.blogspot.com/-_eIQMdEGNCg/UFap5RF1DxI/AAAAAAABUYM/_fHbovjBBvs/s800/2012-09-15-169.jpg" alt="" />
+
+![2012 Comikaze Expo 12](/images/blog/2012-09-15-169.jpg)
 
 Adrianne Curry
-<img   border="0" src="https://3.bp.blogspot.com/-lQhqcT0W1qs/UFap8AAeh1I/AAAAAAABUYk/UBBUjDNd0rI/s800/2012-09-15-185.jpg" alt="" />
 
-<a href="https://en.wikipedia.org/wiki/Noah_Hathaway">Noah Hathaway</a> - played <a href="https://en.wikipedia.org/wiki/Characters_of_The_Neverending_Story#Atreyu">Atreyu</a> in the Neverending Story
-<img   border="0" src="https://3.bp.blogspot.com/-kbwcqnnXUIw/UFaqBp5gy-I/AAAAAAABUZU/6NkNc1uZ820/s800/2012-09-15-210.jpg" alt="" />
+![2012 Comikaze Expo 13](/images/blog/2012-09-15-185.jpg)
+
+[Noah Hathaway](https://en.wikipedia.org/wiki/Noah_Hathaway) - played [Atreyu](https://en.wikipedia.org/wiki/Characters_of_The_Neverending_Story#Atreyu) in the Neverending Story
+
+![2012 Comikaze Expo 14](/images/blog/2012-09-15-210.jpg)
 
 McFarlane and Stan Lee on stage!
-<img   border="0" src="https://1.bp.blogspot.com/-uaKeEv7zcMA/UFaqGpr6d6I/AAAAAAABUZ8/kJ8ZddrkqPU/s800/2012-09-15-265.jpg" alt="" />
 
-<img   border="0" src="https://3.bp.blogspot.com/-0sn6qoEbWWk/UFaqF6s5KoI/AAAAAAABUZ0/SLrrPS5oFMY/s800/2012-09-15-257.jpg" alt="" />
+![2012 Comikaze Expo 15](/images/blog/2012-09-15-265.jpg)
 
-<img   border="0" src="https://4.bp.blogspot.com/-84HaDqJHmjw/UFaqHtuRlWI/AAAAAAABUaE/e4SCtveyDU4/s800/2012-09-15-269.jpg" alt="" />
+![2012 Comikaze Expo 16](/images/blog/2012-09-15-257.jpg)
 
-<img   border="0" src="https://3.bp.blogspot.com/-2xg_lqHdMx0/UFaqV9QrTZI/AAAAAAABUcE/XUnwUU1GHaw/s800/2012-09-15-489.jpg" alt="" />
+![2012 Comikaze Expo 17](/images/blog/2012-09-15-269.jpg)
+
+![2012 Comikaze Expo 18](/images/blog/2012-09-15-489.jpg)
 
 A contest was announced to win a signed Hulk #181- first appearance of Wolverine.
-<img   border="0" src="https://2.bp.blogspot.com/-AweGpXcwp6c/UFaqex9CuqI/AAAAAAABUdM/tnI0-kcI1ow/s800/2012-09-15-512.jpg" alt="" />
 
-<a href="https://en.wikipedia.org/wiki/Kevin_Smith">Kevin Smith</a> does <a href="https://smodcast.com/channels/fatman-on-batman/">Fatman on Batman</a> with Adam West
-<img   border="0" src="https://2.bp.blogspot.com/-2dgBv7V_gGk/UFaqhciBmeI/AAAAAAABUdk/V_z5Mq_PeRw/s800/2012-09-15-547.jpg" alt="" />
+![2012 Comikaze Expo 19](/images/blog/2012-09-15-512.jpg)
 
-<img   border="0" src="https://4.bp.blogspot.com/-nhXLC88z_84/UFaqvxrqUtI/AAAAAAABUfw/7HADd_Lf0Dg/s800/2012-09-15-723.jpg" alt="" />
+[Kevin Smith](https://en.wikipedia.org/wiki/Kevin_Smith) does [Fatman on Batman](https://smodcast.com/channels/fatman-on-batman/) with Adam West
 
-<img   border="0" src="https://1.bp.blogspot.com/-NPEBYHi-sbY/UFaqk1EzyZI/AAAAAAABUeE/fC7eXq77w3o/s800/2012-09-15-600.jpg" alt="" />
+![2012 Comikaze Expo 20](/images/blog/2012-09-15-547.jpg)
 
-<img   border="0" src="https://1.bp.blogspot.com/-r2XpzvD7hJg/UFaq5cltNxI/AAAAAAABUg0/gAFfHdcw76I/s800/2012-09-15-772.jpg" alt="" />
+![2012 Comikaze Expo 21](/images/blog/2012-09-15-723.jpg)
 
-<img   border="0" src="https://2.bp.blogspot.com/-9figCgT0uS8/UFaq8LpNksI/AAAAAAABUhM/VnTQce_LQD8/s800/2012-09-15-778.jpg" alt="" />
+![2012 Comikaze Expo 22](/images/blog/2012-09-15-600.jpg)
+
+![2012 Comikaze Expo 23](/images/blog/2012-09-15-772.jpg)
+
+![2012 Comikaze Expo 24](/images/blog/2012-09-15-778.jpg)
 
 Mark Hamil
-<img   border="0" src="https://4.bp.blogspot.com/-NraqC5LpP3I/UFarFINxlBI/AAAAAAABUic/0nSdh6E6DvU/s800/2012-09-15-813.jpg" alt="" />
 
-<img   border="0" src="https://3.bp.blogspot.com/-ms_Py7OW7fU/UFarHI4j0JI/AAAAAAABUis/TbNfiYgGwfk/s800/2012-09-15-818.jpg" alt="" />
+![2012 Comikaze Expo 25](/images/blog/2012-09-15-813.jpg)
 
-<img   border="0" src="https://4.bp.blogspot.com/-36Bf_Qbp8_U/UFarSbWi-kI/AAAAAAABUj8/UaOiptThVvk/s800/2012-09-15-850.jpg" alt="" />
+![2012 Comikaze Expo 26](/images/blog/2012-09-15-818.jpg)
 
-<img   border="0" src="https://3.bp.blogspot.com/-CwHSHVPfE7w/UFarWMy7TyI/AAAAAAABUkc/tlmgtCfVVuQ/s800/2012-09-15-878.jpg" alt="" />
+![2012 Comikaze Expo 27](/images/blog/2012-09-15-850.jpg)
 
-<img   border="0" src="https://4.bp.blogspot.com/-c07bND1KlEw/UFargWqV_CI/AAAAAAABUlk/V2pm-ca2GSo/s800/2012-09-15-891.jpg" alt="" />
+![2012 Comikaze Expo 28](/images/blog/2012-09-15-878.jpg)
 
-<img   border="0" src="https://2.bp.blogspot.com/-4TU77lAlIjE/UFarlOE6MAI/AAAAAAABUmE/eRM-rfnmygM/s800/2012-09-16-7.jpg" alt="" />
+![2012 Comikaze Expo 29](/images/blog/2012-09-15-891.jpg)
 
-<a href="https://en.wikipedia.org/wiki/James_Hong">James Hong</a>
-<img   border="0" src="https://2.bp.blogspot.com/-ySDg3ay7vss/UFarnI2oE2I/AAAAAAABUmU/fL_aETpiUsk/s800/2012-09-16-10.jpg" alt="" />
+![2012 Comikaze Expo 30](/images/blog/2012-09-16-7.jpg)
 
-<a href="https://en.wikipedia.org/wiki/List_of_30_Rock_characters#Dot_Com">DotCom</a>!
-<img   border="0" src="https://4.bp.blogspot.com/-r_f2hNrjuNA/UFarpcw1RII/AAAAAAABUmk/0aprOCxiesU/s800/2012-09-16-17.jpg" alt="" />
+[James Hong](https://en.wikipedia.org/wiki/James_Hong)
 
-<img   border="0" src="https://3.bp.blogspot.com/-iX5YJuYTZis/UFarybyYisI/AAAAAAABUnk/D51ldG9l6ms/s800/2012-09-16-29.jpg" alt="" />
+![2012 Comikaze Expo 31](/images/blog/2012-09-16-10.jpg)
 
-<img   border="0" src="https://1.bp.blogspot.com/-IqagrJEK1Sw/UFarzT6PrsI/AAAAAAABUns/7TOpOqNWisw/s800/2012-09-16-31.jpg" alt="" />
+[DotCom](https://en.wikipedia.org/wiki/List_of_30_Rock_characters#Dot_Com)!
 
-<img   border="0" src="https://4.bp.blogspot.com/-qVkzs794OAE/UFar0Ds273I/AAAAAAABUn0/WAjDL9WAC04/s800/2012-09-16-38.jpg" alt="" />
+![2012 Comikaze Expo 32](/images/blog/2012-09-16-17.jpg)
 
-<img   border="0" src="https://4.bp.blogspot.com/-0_L79hNC2nY/UFar1Ce3ImI/AAAAAAABUn8/VPvx-KiMmAk/s800/2012-09-16-43.jpg" alt="" />
+![2012 Comikaze Expo 33](/images/blog/2012-09-16-29.jpg)
 
-<img   border="0" src="https://2.bp.blogspot.com/-tj8tkM1wXpc/UFar2wgC3II/AAAAAAABUoE/fHimG1Teng0/s800/2012-09-16-47.jpg" alt="" />
+![2012 Comikaze Expo 34](/images/blog/2012-09-16-31.jpg)
 
-<img   border="0" src="https://4.bp.blogspot.com/-_6bTVXQ_BW4/UFar57cMkdI/AAAAAAABUoc/PphEeyC6k2A/s800/2012-09-16-53.jpg" alt="" />
+![2012 Comikaze Expo 35](/images/blog/2012-09-16-38.jpg)
 
-<img   border="0" src="https://1.bp.blogspot.com/-KtGsnjWZrdw/UFar99lETSI/AAAAAAABUo8/FZH4RydiV5Y/s800/2012-09-16-64.jpg" alt="" />
+![2012 Comikaze Expo 36](/images/blog/2012-09-16-43.jpg)
 
-<img   border="0" src="https://3.bp.blogspot.com/-8LQthKzzow8/UFar78GJ9_I/AAAAAAABUos/mXg7ugDcpEo/s800/2012-09-16-61.jpg" alt="" />
+![2012 Comikaze Expo 37](/images/blog/2012-09-16-47.jpg)
+
+![2012 Comikaze Expo 38](/images/blog/2012-09-16-53.jpg)
+
+![2012 Comikaze Expo 39](/images/blog/2012-09-16-64.jpg)
+
+![2012 Comikaze Expo 40](/images/blog/2012-09-16-61.jpg)

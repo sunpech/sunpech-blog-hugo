@@ -7,9 +7,9 @@ headerimage: /images/headers/apple_galaxy.jpg
 modified_time: '2014-08-09T20:26:05.491-05:00'
 redirect_from: /2011/01/my-journey-from-windows-to-mac.html
 tags:
-  - Technology
-  - Software Development
   - Apple
+  - Software Development
+  - Technology
 old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/TS1a-9DgV7I/AAAAAAAAfLg/B20G9RlSsFs/s800/IMG_2979.jpg
 thumbnail: /images/blog/tn_journey-windows-to-mac.jpg
 title: My journey from Windows to Mac

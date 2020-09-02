@@ -7,8 +7,8 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-18T09:07:47.251-05:00'
 redirect_from: /2010/02/programmer-cartoon-your-company-app.html
 tags:
-  - Software Development
   - Funny
+  - Software Development
 old_thumbnail: https://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s800/intapplications.jpg
 thumbnail: /images/blog/tn_your-company-app.jpg
 title: 'Programmer Cartoon: Your Company App'

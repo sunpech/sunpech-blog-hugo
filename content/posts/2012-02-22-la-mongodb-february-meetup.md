@@ -9,45 +9,49 @@ redirect_from: /2012/02/la-mongodb-february-meetup.html
 tags:
   - Los Angeles
   - Meetup
-thumbnail: https://4.bp.blogspot.com/-340-cksRhXc/T0SDaqOVMwI/AAAAAAAA6ZM/9jPe-nmBbHk/s800/2012-02-21+at+19-12-50.jpg
+old_thumbnail: https://4.bp.blogspot.com/-340-cksRhXc/T0SDaqOVMwI/AAAAAAAA6ZM/9jPe-nmBbHk/s800/2012-02-21-at-19-12-50.jpg
+thumbnail: /images/blog/tn_2012-la-moongodb-february-meetup.jpg
 title: LA MongoDB February Meetup
 ---
 
+Last night I went to my first [MongoDB meetup](https://www.meetup.com/Los-Angeles-MongoDB-User-Group/events/43674352/). They have a twitter account: [@lamongodb](https://twitter.com/lamongodb). The meetup was hosted at [Factual Inc](https://www.factual.com/).
 
-Last night I went to my first <a href="https://www.meetup.com/Los-Angeles-MongoDB-User-Group/events/43674352/">MongoDB meetup</a>. They have a twitter account: <a href="https://twitter.com/lamongodb">@lamongodb</a>. The meetup was hosted at <a href="https://www.factual.com/">Factual Inc</a>.
+Anand "Kumi" Nandakumar ([@kumi360](https://twitter.com/kumi360)) presented MongoDB + Node.js design decisions for [Jumpspoon](https://jumpspoon.com/). Nuri Halperin presented MongoDB vs. RDBMS.
 
-Anand "Kumi" Nandakumar (<a href="https://twitter.com/kumi360">@kumi360</a>) presented MongoDB + Node.js design decisions for <a href="https://jumpspoon.com/">Jumpspoon</a>. Nuri Halperin presented MongoDB vs. RDBMS.
+Overall a good group. I look forward to attend future meetups and learn more about how [mongodb](https://www.mongodb.org/) is being used.
 
-Overall a good group. I look forward to attend future meetups and learn more about how <a href="https://www.mongodb.org/">mongodb</a> is being used.
-
-You can find the pictures I took at meetups in 2012 in <a href="https://picasaweb.google.com/101693597219413173200/2012Meetups">this album</a>. Here are some of the pictures I took:
+You can find the pictures I took at meetups in 2012 in [this album](https://photos.app.goo.gl/ZGMY4vXSLDkCiRMt7). Here are some of the pictures I took:
 
 ### Pictures
 
-<a href="https://4.bp.blogspot.com/-340-cksRhXc/T0SDaqOVMwI/AAAAAAAA6ZM/9jPe-nmBbHk/s800/2012-02-21+at+19-12-50.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-340-cksRhXc/T0SDaqOVMwI/AAAAAAAA6ZM/9jPe-nmBbHk/s800/2012-02-21+at+19-12-50.jpg" alt=""  /></a>
+![2012 LA MongoDB February Meetup 1](/images/blog/2012-02-21-at-19-12-50.jpg)
 
-<a href="https://4.bp.blogspot.com/-1s6yT-e_Tu4/T0SDcLMOxSI/AAAAAAAA6ZQ/nsabsdVRTBA/s800/2012-02-21+at+19-12-54.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-1s6yT-e_Tu4/T0SDcLMOxSI/AAAAAAAA6ZQ/nsabsdVRTBA/s800/2012-02-21+at+19-12-54.jpg" alt=""  /></a>
+![2012 LA MongoDB February Meetup 2](/images/blog/2012-02-21-at-19-12-54.jpg)
 
-<a href="https://1.bp.blogspot.com/-RbdocDN9qNg/T0SDdDLkj1I/AAAAAAAA6ZU/peJ3xN8JGrI/s800/2012-02-21+at+19-33-30.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-RbdocDN9qNg/T0SDdDLkj1I/AAAAAAAA6ZU/peJ3xN8JGrI/s800/2012-02-21+at+19-33-30.jpg" alt=""  /></a>
+![2012 LA MongoDB February Meetup 3](/images/blog/2012-02-21-at-19-33-30.jpg)
 
-Joe Devon (<a href="https://twitter.com/joedevon">@joedevon</a>)
- <a href="https://1.bp.blogspot.com/-bFFJA6HwZck/T0SDg4HRt9I/AAAAAAAA6Zc/Qt_Bm5MS4iM/s800/2012-02-21+at+19-33-44.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-bFFJA6HwZck/T0SDg4HRt9I/AAAAAAAA6Zc/Qt_Bm5MS4iM/s800/2012-02-21+at+19-33-44.jpg" alt=""  /></a>
+Joe Devon ([@joedevon](https://twitter.com/joedevon))
 
-<a href="https://4.bp.blogspot.com/-2VU2JPQVM1c/T0SDhq5LlSI/AAAAAAAA6Zg/32g4vQldGaw/s800/2012-02-21+at+19-34-54.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-2VU2JPQVM1c/T0SDhq5LlSI/AAAAAAAA6Zg/32g4vQldGaw/s800/2012-02-21+at+19-34-54.jpg" alt=""  /></a>
+![2012 LA MongoDB February Meetup 4](/images/blog/2012-02-21-at-19-33-44.jpg)
 
-Anand<a href="https://2.bp.blogspot.com/-kwvGbpbRNpk/T0SDnvnQC7I/AAAAAAAA6Z4/-8MP0WkJxCk/s800/2012-02-21+at+19-39-29.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-kwvGbpbRNpk/T0SDnvnQC7I/AAAAAAAA6Z4/-8MP0WkJxCk/s800/2012-02-21+at+19-39-29.jpg" alt=""  /></a>
+![2012 LA MongoDB February Meetup 5](/images/blog/2012-02-21-at-19-34-54.jpg)
 
-<a href="https://4.bp.blogspot.com/-2MtIYWGFn2A/T0SDkJ_n8mI/AAAAAAAA6Zs/FsCYjy7hnxw/s800/2012-02-21+at+19-38-42.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-2MtIYWGFn2A/T0SDkJ_n8mI/AAAAAAAA6Zs/FsCYjy7hnxw/s800/2012-02-21+at+19-38-42.jpg" alt=""  /></a>
+Anand
 
-<a href="https://1.bp.blogspot.com/-PZfNFPHunAU/T0SDlwhdPtI/AAAAAAAA6Zw/cv66EIh7L-8/s800/2012-02-21+at+19-38-53.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-PZfNFPHunAU/T0SDlwhdPtI/AAAAAAAA6Zw/cv66EIh7L-8/s800/2012-02-21+at+19-38-53.jpg" alt=""  /></a>
+![2012 LA MongoDB February Meetup 6](/images/blog/2012-02-21-at-19-39-29.jpg)
+
+![2012 LA MongoDB February Meetup 7](/images/blog/2012-02-21-at-19-38-42.jpg)
+
+![2012 LA MongoDB February Meetup 8](/images/blog/2012-02-21-at-19-38-53.jpg)
 
 Nuri
-<a href="https://2.bp.blogspot.com/-I4NL_J6GE84/T0SDrfnEPHI/AAAAAAAA6aI/MEpvghEHVzA/s800/2012-02-21+at+19-47-59.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-I4NL_J6GE84/T0SDrfnEPHI/AAAAAAAA6aI/MEpvghEHVzA/s800/2012-02-21+at+19-47-59.jpg" alt=""  /></a>
 
-<a href="https://4.bp.blogspot.com/-D6eQX2tf_8M/T0SDu2eTa5I/AAAAAAAA6aU/-lUs7bnCxUs/s800/2012-02-21+at+19-50-40.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-D6eQX2tf_8M/T0SDu2eTa5I/AAAAAAAA6aU/-lUs7bnCxUs/s800/2012-02-21+at+19-50-40.jpg" alt=""  /></a>
+![2012 LA MongoDB February Meetup 9](/images/blog/2012-02-21-at-19-47-59.jpg)
 
-<a href="https://4.bp.blogspot.com/-CHdxciZkjQ8/T0SDvwKAjcI/AAAAAAAA6aY/q6U9vd57rI4/s800/2012-02-21+at+19-50-52.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-CHdxciZkjQ8/T0SDvwKAjcI/AAAAAAAA6aY/q6U9vd57rI4/s800/2012-02-21+at+19-50-52.jpg" alt=""  /></a>
+![2012 LA MongoDB February Meetup 10](/images/blog/2012-02-21-at-19-50-40.jpg)
 
-<a href="https://4.bp.blogspot.com/-yPaGw_2YRBQ/T0SDwo_jbjI/AAAAAAAA6ac/qAQe81BOFMg/s800/2012-02-21+at+19-51-01.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-yPaGw_2YRBQ/T0SDwo_jbjI/AAAAAAAA6ac/qAQe81BOFMg/s800/2012-02-21+at+19-51-01.jpg" alt=""  /></a>
+![2012 LA MongoDB February Meetup 11](/images/blog/2012-02-21-at-19-50-52.jpg)
 
-<a href="https://4.bp.blogspot.com/-PfIrsyVhmZk/T0SD0_Cg7-I/AAAAAAAA6as/-S4ZqSbaGN8/s800/2012-02-21+at+20-08-29.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-PfIrsyVhmZk/T0SD0_Cg7-I/AAAAAAAA6as/-S4ZqSbaGN8/s800/2012-02-21+at+20-08-29.jpg" alt=""  /></a>
+![2012 LA MongoDB February Meetup 12](/images/blog/2012-02-21-at-19-51-01.jpg)
+
+![2012 LA MongoDB February Meetup 13](/images/blog/2012-02-21-at-20-08-29.jpg)

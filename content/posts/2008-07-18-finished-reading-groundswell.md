@@ -7,9 +7,9 @@ headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T17:03:10.458-05:00'
 redirect_from: /2008/07/finished-reading-groundswell.html
 tags:
-  - Technology
-  - Review
   - Books
+  - Review
+  - Technology
 thumbnail: /images/blog/tn_groundswell.jpg
 title: Finished reading the Groundswell
 ---

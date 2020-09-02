@@ -8,8 +8,8 @@ modified_time: '2014-08-08T16:59:46.656-05:00'
 redirect_from: /2009/05/lala-better-alternative-to-itunes.html
 tags:
   - Music
-  - Technology
   - Review
+  - Technology
 old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/ShGPRxWqbBI/AAAAAAAAIn4/QkHHq1JcEFo/s800/screenshot_LALA.png
 thumbnail: /images/blog/tn_screenshot-lala.jpg
 title: 'LaLa.com: A Better Alternative to iTunes'

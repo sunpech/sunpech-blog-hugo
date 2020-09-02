@@ -7,9 +7,9 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:58:29.297-05:00'
 redirect_from: /2010/04/software-review-balsamiq-mockups.html
 tags:
-  - Technology
   - Review
   - Software Development
+  - Technology
 thumbnail: /images/blog/tn_default.jpg
 title: 'Software Review: Balsamiq Mockups'
 ---

@@ -7,8 +7,8 @@ headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T17:00:23.695-05:00'
 redirect_from: /2009/02/what-next-for-social-media-gps-enabled.html
 tags:
-  - Technology
   - Social Media
+  - Technology
 thumbnail: /images/blog/tn_default.jpg
 title: 'What''s next for Social Media?:  GPS-enabled applications'
 ---

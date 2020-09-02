@@ -7,9 +7,9 @@ headerimage: /images/headers/android.jpg
 modified_time: '2014-08-07T20:14:24.539-05:00'
 redirect_from: /2010/01/rooting-my-nexus-one-and-installing.html
 tags:
-  - Technology
   - Android
   - Guide
+  - Technology
 title: Rooting my Nexus One and installing Thai fonts
 ---
 

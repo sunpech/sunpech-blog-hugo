@@ -8,9 +8,9 @@ modified_time: '2014-08-08T17:02:47.589-05:00'
 redirect_from: /2008/10/tech-cocktail-chicago-9.html
 tags:
   - Chicago
-  - Review
-  - Personal
   - Meetup
+  - Personal
+  - Review
 old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s800/112682035.jpg
 thumbnail: /images/blog/techcocktail.jpg
 title: Tech Cocktail Chicago 9

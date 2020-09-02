@@ -9,39 +9,39 @@ redirect_from: /2012/03/weekend-chicago-hdr-photography.html
 tags:
   - Chicago
   - Photography
-thumbnail: https://4.bp.blogspot.com/-1mbREOOesug/T2eR0ZoprQI/AAAAAAAA81s/F6ZNs0DCUXw/s800/2012-03-18+at+03-48-06.jpg
+old_thumbnail: https://4.bp.blogspot.com/-1mbREOOesug/T2eR0ZoprQI/AAAAAAAA81s/F6ZNs0DCUXw/s800/2012-03-18+at+03-48-06.jpg
+thumbnail: /images/blog/tn_2012-chicago-hdr-photography.jpg
 title: Weekend Chicago HDR Photography
 ---
 
-
 Over the weekend I was in Chicago. I woke up early the morning following St. Patrick's Day to take some photos near the Adler Planetarium and Millennium Park. I got there with my sister just before sunrise around 6:30am.
 
-The tools I used: <a href="https://www.amazon.com/gp/product/B0040JHVCC/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0040JHVCC">Canon 60D</a>&nbsp;camera body with <a href="https://www.amazon.com/gp/product/B000NP46K2/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000NP46K2">Canon 16-35mm L wide lens</a>&nbsp;and&nbsp;<a href="https://www.amazon.com/gp/product/B00513JCA0/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00513JCA0">Canon 24-105mm L lens</a>&nbsp;along with my tripod. For post processing: <a href="https://www.apple.com/aperture/">Apple's Aperture</a> and <a href="https://www.hdrsoft.com/">Photomatix Pro</a>.
+The tools I used: [Canon 60D](https://www.amazon.com/gp/product/B0040JHVCC/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0040JHVCC) camera body with [Canon 16-35mm L wide lens](https://www.amazon.com/gp/product/B000NP46K2/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000NP46K2) and [Canon 24-105mm L lens](https://www.amazon.com/gp/product/B00513JCA0/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00513JCA0) along with my tripod. For post processing: [Apple's Aperture](https://www.apple.com/aperture) and [Photomatix Pro](https://www.hdrsoft.com).
 
 ### Pictures
 
-<a href="https://4.bp.blogspot.com/-1mbREOOesug/T2eR0ZoprQI/AAAAAAAA81s/F6ZNs0DCUXw/s800/2012-03-18+at+03-48-06.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-1mbREOOesug/T2eR0ZoprQI/AAAAAAAA81s/F6ZNs0DCUXw/s400/2012-03-18+at+03-48-06.jpg" alt=""  /></a>
+![Chicago HDR Photography 1](/images/blog/2012-03-18-at-03-48-06.jpg)
 
-<a href="https://3.bp.blogspot.com/-wxS_4EUJdMc/T2eR2hBoahI/AAAAAAAA814/JzK6BnxQ0D8/s800/2012-03-18+at+03-53-35.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-wxS_4EUJdMc/T2eR2hBoahI/AAAAAAAA814/JzK6BnxQ0D8/s400/2012-03-18+at+03-53-35.jpg" alt=""  /></a>
+![Chicago HDR Photography 2](/images/blog/2012-03-18-at-03-53-35.jpg)
 
-<a href="https://2.bp.blogspot.com/-ek1mjZevGG4/T2eR7m7rXYI/AAAAAAAA82A/zgPYB7mVqEY/s800/2012-03-18+at+04-00-53.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-ek1mjZevGG4/T2eR7m7rXYI/AAAAAAAA82A/zgPYB7mVqEY/s400/2012-03-18+at+04-00-53.jpg" alt=""  /></a>
+![Chicago HDR Photography 3](/images/blog//2012-03-18-at-04-00-53.jpg)
 
-<a href="https://2.bp.blogspot.com/-tE3X7AdfRBk/T2eR_dx6AvI/AAAAAAAA82Q/9tMK-ZNCvnQ/s800/2012-03-18+at+04-08-54.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-tE3X7AdfRBk/T2eR_dx6AvI/AAAAAAAA82Q/9tMK-ZNCvnQ/s400/2012-03-18+at+04-08-54.jpg" alt=""  /></a>
+![Chicago HDR Photography 4](/images/blog/2012-03-18-at-04-08-54.jpg)
 
-<a href="https://2.bp.blogspot.com/-V_KcegHASt0/T2eSDXJlylI/AAAAAAAA82g/elHskuLqx1M/s800/2012-03-18+at+04-10-35.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-V_KcegHASt0/T2eSDXJlylI/AAAAAAAA82g/elHskuLqx1M/s400/2012-03-18+at+04-10-35.jpg" alt=""  /></a>
+![Chicago HDR Photography 5](/images/blog/2012-03-18-at-04-10-35.jpg)
 
-<a href="https://2.bp.blogspot.com/-nyVWsdaG4vU/T2eSH1AdGsI/AAAAAAAA82w/G6qTNLRvpg4/s800/2012-03-18+at+04-17-29.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-nyVWsdaG4vU/T2eSH1AdGsI/AAAAAAAA82w/G6qTNLRvpg4/s400/2012-03-18+at+04-17-29.jpg" alt=""  /></a>
+![Chicago HDR Photography 6](/images/blog/2012-03-18-at-04-17-29.jpg)
 
-<a href="https://4.bp.blogspot.com/-FIzxxX_AoaA/T2eSKdoHiVI/AAAAAAAA824/QREibvijzls/s800/2012-03-18+at+04-19-25.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-FIzxxX_AoaA/T2eSKdoHiVI/AAAAAAAA824/QREibvijzls/s400/2012-03-18+at+04-19-25.jpg" alt=""  /></a>
+![Chicago HDR Photography 7](/images/blog/2012-03-18-at-04-19-25.jpg)
 
-<a href="https://1.bp.blogspot.com/-BnwumS_HpN0/T2eSMfD9tII/AAAAAAAA83A/jzvssGnff8o/s800/2012-03-18+at+04-22-59.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-BnwumS_HpN0/T2eSMfD9tII/AAAAAAAA83A/jzvssGnff8o/s400/2012-03-18+at+04-22-59.jpg" alt=""  /></a>
+![Chicago HDR Photography 8](/images/blog/2012-03-18-at-04-22-59.jpg)
 
-<a href="https://2.bp.blogspot.com/-an2DLAdMJcM/T2eSSURddZI/AAAAAAAA83Q/GxpshLfy-bY/s800/2012-03-18+at+04-43-44.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-an2DLAdMJcM/T2eSSURddZI/AAAAAAAA83Q/GxpshLfy-bY/s400/2012-03-18+at+04-43-44.jpg" alt=""  /></a>
+![Chicago HDR Photography 9](/images/blog/2012-03-18-at-04-43-44.jpg)
 
-<a href="https://4.bp.blogspot.com/-y_2q40STcm4/T2eSU2ohyqI/AAAAAAAA83Y/HLLDo8KsOBw/s800/2012-03-18+at+04-44-08.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-y_2q40STcm4/T2eSU2ohyqI/AAAAAAAA83Y/HLLDo8KsOBw/s400/2012-03-18+at+04-44-08.jpg" alt=""  /></a>
+![Chicago HDR Photography 10](/images/blog/2012-03-18-at-04-44-08.jpg)
 
-<a href="https://1.bp.blogspot.com/-XZnQQhSkNKw/T2eSX1Vmh5I/AAAAAAAA83g/D08dvkSGNNg/s800/2012-03-18+at+04-58-03.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-XZnQQhSkNKw/T2eSX1Vmh5I/AAAAAAAA83g/D08dvkSGNNg/s400/2012-03-18+at+04-58-03.jpg" alt=""  /></a>
+![Chicago HDR Photography 11](/images/blog/2012-03-18-at-04-58-03.jpg)
 
-<a href="https://3.bp.blogspot.com/-fb33f578iFo/T2eSau8-_6I/AAAAAAAA83o/bQDVkN-2Pow/s800/2012-03-18+at+05-05-49.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-fb33f578iFo/T2eSau8-_6I/AAAAAAAA83o/bQDVkN-2Pow/s400/2012-03-18+at+05-05-49.jpg" alt=""  /></a>
+![Chicago HDR Photography 12](/images/blog/2012-03-18-at-05-05-49.jpg)
 
-<a href="https://4.bp.blogspot.com/-Z0oN7Wi2SBc/T2eScgkbp4I/AAAAAAAA83w/C4pbAE5T5BI/s800/2012-03-18+at+05-24-42.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-Z0oN7Wi2SBc/T2eScgkbp4I/AAAAAAAA83w/C4pbAE5T5BI/s400/2012-03-18+at+05-24-42.jpg" alt=""  /></a>
+![Chicago HDR Photography 13](/images/blog/2012-03-18-at-05-24-42.jpg)

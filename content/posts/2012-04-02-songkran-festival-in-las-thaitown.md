@@ -7,92 +7,93 @@ headerimage: /images/headers/los_angeles.jpg
 modified_time: '2014-08-08T16:47:48.347-05:00'
 redirect_from: /2012/04/songkran-festival-in-las-thaitown.html
 tags:
-  - Photography
-  - Los Angeles
   - Events
-thumbnail: https://3.bp.blogspot.com/-9Cn53uE3Nso/T3kAPSmkN5I/AAAAAAAA_a4/6-CgD9nFMfY/s800/2012-04-01+at+10-52-11.jpg
+  - Los Angeles
+  - Photography
+old_thumbnail: https://3.bp.blogspot.com/-9Cn53uE3Nso/T3kAPSmkN5I/AAAAAAAA_a4/6-CgD9nFMfY/s800/2012-04-01+at+10-52-11.jpg
+thumbnail: /images/blog/tn_2012-songkran-la-thaitown.jpg
 title: Songkran Festival in LA's Thaitown
 ---
 
 
-This past weekend, on Sunday April 1, 2012, I went to <a href="https://en.wikipedia.org/wiki/Thai_Town,_Los_Angeles">LA's Thaitown</a> to check out the <a href="https://en.wikipedia.org/wiki/Songkran"><i>Songkran</i></a> (Thai New Year) celebrations along Hollywood Blvd. They closed Hollywood off from Western all the way to Normandie to have a street festival/parade. I arrived around 11am and spent about 30 minutes just trying to find parking. I ran along Hollywood just in time to catch the beginning of the parade.
+This past weekend, on Sunday April 1, 2012, I went to [LA's Thaitown](https://en.wikipedia.org/wiki/Thai_Town,_Los_Angeles) to check out the [Songkran](https://en.wikipedia.org/wiki/Songkran) (Thai New Year) celebrations along Hollywood Blvd. They closed Hollywood off from Western all the way to Normandie to have a street festival/parade. I arrived around 11am and spent about 30 minutes just trying to find parking. I ran along Hollywood just in time to catch the beginning of the parade.
 
-I enjoyed the celebrations, but nothing can be compared to actually being in Thailand for the real songkran celebrations. This year, it falls between April 12-15, 2012. I highly recommend the city of&nbsp;<a href="https://en.wikipedia.org/wiki/Chiang_Mai">Chiang Mai</a> if you are in Thailand for the celebrations.
+I enjoyed the celebrations, but nothing can be compared to actually being in Thailand for the real songkran celebrations. This year, it falls between April 12-15, 2012. I highly recommend the city of [Chiang Mai](https://en.wikipedia.org/wiki/Chiang_Mai) if you are in Thailand for the celebrations.
 
 I was a little disappointed in the street food available there. It seemed to cater to Thai-American style with mostly pad thai, fried rice, and egg rolls being served. A more true experience of Thai food can be found in the restaurants of Thaitown, honestly. But it was nice to be outdoors and seeing non-Thais enjoying a part of Thai culture with all the classical music, muay-thai, and beauty pageant going on.
 
-Full set of pictures I took here in LA's Songkran festival can be found <a href="https://picasaweb.google.com/101693597219413173200/2012SongkranInLAThaiTown">here</a>.
+Full set of pictures I took here in LA's Songkran festival can be found [here](https://photos.app.goo.gl/nbbCjQkhoo1jREXG6).
 
 ### Pictures
 
-<a href="https://3.bp.blogspot.com/-9Cn53uE3Nso/T3kAPSmkN5I/AAAAAAAA_a4/6-CgD9nFMfY/s800/2012-04-01+at+10-52-11.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-9Cn53uE3Nso/T3kAPSmkN5I/AAAAAAAA_a4/6-CgD9nFMfY/s400/2012-04-01+at+10-52-11.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 1](/images/blog/2012-04-01-at-10-52-11.jpg)
 
-<a href="https://2.bp.blogspot.com/-y8srqRmOIdI/T3kAdJkXs1I/AAAAAAAA_bo/HDrJ95GVHqc/s800/2012-04-01+at+10-55-00.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-y8srqRmOIdI/T3kAdJkXs1I/AAAAAAAA_bo/HDrJ95GVHqc/s400/2012-04-01+at+10-55-00.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 2](/images/blog/2012-04-01-at-10-55-00.jpg)
 
-<a href="https://4.bp.blogspot.com/-yp2r4SAyNmA/T3kAt4xpuFI/AAAAAAAA_dQ/_rdFNCPubgM/s800/2012-04-01+at+10-58-49.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-yp2r4SAyNmA/T3kAt4xpuFI/AAAAAAAA_dQ/_rdFNCPubgM/s400/2012-04-01+at+10-58-49.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 3](/images/blog/2012-04-01-at-10-58-49.jpg)
 
-<a href="https://3.bp.blogspot.com/-rCjBYrkI5SI/T3kAvXOIYLI/AAAAAAAA_dg/FipiItvyrLk/s800/2012-04-01+at+10-59-41.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-rCjBYrkI5SI/T3kAvXOIYLI/AAAAAAAA_dg/FipiItvyrLk/s400/2012-04-01+at+10-59-41.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 4](/images/blog/2012-04-01-at-10-59-41.jpg)
 
-<a href="https://3.bp.blogspot.com/-TbXIFs0dEAU/T3kA0ZzcZrI/AAAAAAAA_eI/qM77dhBMthg/s800/2012-04-01+at+11-00-44.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-TbXIFs0dEAU/T3kA0ZzcZrI/AAAAAAAA_eI/qM77dhBMthg/s400/2012-04-01+at+11-00-44.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 5](/images/blog/2012-04-01-at-11-00-44.jpg)
 
-<a href="https://4.bp.blogspot.com/-Tz8QOC8lfE8/T3kA2n1Fu1I/AAAAAAAA_eo/uCMOvBbizDU/s800/2012-04-01+at+11-01-16.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-Tz8QOC8lfE8/T3kA2n1Fu1I/AAAAAAAA_eo/uCMOvBbizDU/s400/2012-04-01+at+11-01-16.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 6](/images/blog/2012-04-01-at-11-01-16.jpg)
 
-<a href="https://2.bp.blogspot.com/-8wGOXJIn1Pg/T3kA_f2MFNI/AAAAAAAA_fg/AIyPG-NSCvo/s800/2012-04-01+at+11-02-46.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-8wGOXJIn1Pg/T3kA_f2MFNI/AAAAAAAA_fg/AIyPG-NSCvo/s400/2012-04-01+at+11-02-46.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 7](/images/blog/2012-04-01-at-11-02-46.jpg)
 
-<a href="https://2.bp.blogspot.com/-sngidA9004U/T3kBAMba44I/AAAAAAAA_fo/vehgFjdePRg/s800/2012-04-01+at+11-03-31.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-sngidA9004U/T3kBAMba44I/AAAAAAAA_fo/vehgFjdePRg/s400/2012-04-01+at+11-03-31.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 8](/images/blog/2012-04-01-at-11-03-31.jpg)
 
-<a href="https://3.bp.blogspot.com/-XpTJxAQTIeE/T3kBh8tcZ5I/AAAAAAAA_jY/9ZktJpNruu4/s800/2012-04-01+at+11-09-08.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-XpTJxAQTIeE/T3kBh8tcZ5I/AAAAAAAA_jY/9ZktJpNruu4/s400/2012-04-01+at+11-09-08.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 9](/images/blog/2012-04-01-at-11-09-08.jpg)
 
-<a href="https://2.bp.blogspot.com/-a9VP5KrZFVg/T3kBx2tojjI/AAAAAAAA_lM/xvUTV7P8Bio/s800/2012-04-01+at+11-21-20.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-a9VP5KrZFVg/T3kBx2tojjI/AAAAAAAA_lM/xvUTV7P8Bio/s400/2012-04-01+at+11-21-20.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 10](/images/blog/2012-04-01-at-11-21-20.jpg)
 
-<a href="https://4.bp.blogspot.com/-_3HgCoKq8Hs/T3kBzWvBDtI/AAAAAAAA_lY/xG_X881e7uQ/s800/2012-04-01+at+11-22-24.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-_3HgCoKq8Hs/T3kBzWvBDtI/AAAAAAAA_lY/xG_X881e7uQ/s400/2012-04-01+at+11-22-24.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 11](/images/blog/2012-04-01-at-11-22-24.jpg)
 
-<a href="https://4.bp.blogspot.com/-6bsXLoKZ7kU/T3kB7CT-7gI/AAAAAAAA_mQ/NgdyC8QAQ8w/s800/2012-04-01+at+11-25-02.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-6bsXLoKZ7kU/T3kB7CT-7gI/AAAAAAAA_mQ/NgdyC8QAQ8w/s400/2012-04-01+at+11-25-02.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 12](/images/blog/2012-04-01-at-11-25-02.jpg)
 
-<a href="https://3.bp.blogspot.com/-38Rbz7r06nI/T3kCABnfDNI/AAAAAAAA_mw/B7EvMsd1QM8/s800/2012-04-01+at+11-26-01.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-38Rbz7r06nI/T3kCABnfDNI/AAAAAAAA_mw/B7EvMsd1QM8/s400/2012-04-01+at+11-26-01.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 13](/images/blog/2012-04-01-at-11-26-01.jpg)
 
-<a href="https://3.bp.blogspot.com/-4qHqYtv_L1w/T3kCGSHJvMI/AAAAAAAA_ng/77lMqYpAkhg/s800/2012-04-01+at+11-27-04.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-4qHqYtv_L1w/T3kCGSHJvMI/AAAAAAAA_ng/77lMqYpAkhg/s400/2012-04-01+at+11-27-04.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 14](/images/blog/2012-04-01-at-11-27-04.jpg)
 
-<a href="https://1.bp.blogspot.com/-HLigX5GIzW8/T3kCKIv66wI/AAAAAAAA_n4/oCoJQU2eyUQ/s800/2012-04-01+at+11-27-53.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-HLigX5GIzW8/T3kCKIv66wI/AAAAAAAA_n4/oCoJQU2eyUQ/s400/2012-04-01+at+11-27-53.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 15](/images/blog/2012-04-01-at-11-27-53.jpg)
 
-<a href="https://4.bp.blogspot.com/-f6XNytQtSls/T3kCPWuBZFI/AAAAAAAA_oY/bukM2AlUu8Y/s800/2012-04-01+at+11-29-15.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-f6XNytQtSls/T3kCPWuBZFI/AAAAAAAA_oY/bukM2AlUu8Y/s400/2012-04-01+at+11-29-15.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 16](/images/blog/2012-04-01-at-11-29-15.jpg)
 
-<a href="https://3.bp.blogspot.com/-xVJFecPP2Wg/T3kCQH3_GRI/AAAAAAAA_og/FenF34oCJd8/s800/2012-04-01+at+11-29-25.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-xVJFecPP2Wg/T3kCQH3_GRI/AAAAAAAA_og/FenF34oCJd8/s400/2012-04-01+at+11-29-25.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 17](/images/blog/2012-04-01-at-11-29-25.jpg)
 
-<a href="https://1.bp.blogspot.com/-8NDsGAuNtMI/T3kCS__WVbI/AAAAAAAA_o4/CaQgdcWBDPQ/s800/2012-04-01+at+11-30-03.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-8NDsGAuNtMI/T3kCS__WVbI/AAAAAAAA_o4/CaQgdcWBDPQ/s400/2012-04-01+at+11-30-03.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 18](/images/blog/2012-04-01-at-11-30-03.jpg)
 
-<a href="https://4.bp.blogspot.com/-AgnQrxYsNx8/T3kCXoIo1lI/AAAAAAAA_pY/q3GfZnBd9ag/s800/2012-04-01+at+11-31-08.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-AgnQrxYsNx8/T3kCXoIo1lI/AAAAAAAA_pY/q3GfZnBd9ag/s400/2012-04-01+at+11-31-08.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 19](/images/blog/2012-04-01-at-11-31-08.jpg)
 
-<a href="https://1.bp.blogspot.com/-BCACTz5lwnA/T3kClvHuH3I/AAAAAAAA_rI/ndUxJ4yo-G0/s800/2012-04-01+at+11-36-46.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-BCACTz5lwnA/T3kClvHuH3I/AAAAAAAA_rI/ndUxJ4yo-G0/s400/2012-04-01+at+11-36-46.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 20](/images/blog/2012-04-01-at-11-36-46.jpg)
 
-<a href="https://1.bp.blogspot.com/-0aPrj30B8zQ/T3kCpX8ffYI/AAAAAAAA_rg/DlkbC6uNr4E/s800/2012-04-01+at+11-37-22.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-0aPrj30B8zQ/T3kCpX8ffYI/AAAAAAAA_rg/DlkbC6uNr4E/s400/2012-04-01+at+11-37-22.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 21](/images/blog/2012-04-01-at-11-37-22.jpg)
 
-<a href="https://3.bp.blogspot.com/-BMpTIdENvwc/T3kC1kKWnVI/AAAAAAAA_tA/CV6t3Ay7CdM/s800/2012-04-01+at+11-43-16.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-BMpTIdENvwc/T3kC1kKWnVI/AAAAAAAA_tA/CV6t3Ay7CdM/s400/2012-04-01+at+11-43-16.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 22](/images/blog/2012-04-01-at-11-43-16.jpg)
 
-<a href="https://4.bp.blogspot.com/-yNE9IooF4CM/T3kC8ry8roI/AAAAAAAA_t4/NdYqOqfaAns/s800/2012-04-01+at+11-46-58.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-yNE9IooF4CM/T3kC8ry8roI/AAAAAAAA_t4/NdYqOqfaAns/s400/2012-04-01+at+11-46-58.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 23](/images/blog/2012-04-01-at-11-46-58.jpg)
 
-<a href="https://2.bp.blogspot.com/-OWG3TtqLcVg/T3kDIbuYouI/AAAAAAAA_vI/b8XPsUeTTuQ/s800/2012-04-01+at+11-51-44.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-OWG3TtqLcVg/T3kDIbuYouI/AAAAAAAA_vI/b8XPsUeTTuQ/s400/2012-04-01+at+11-51-44.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 24](/images/blog/2012-04-01-at-11-51-44.jpg)
 
-<a href="https://2.bp.blogspot.com/--y1J1hQCvZI/T3kDQsWXBcI/AAAAAAAA_wI/Q1k5mLpcjIE/s800/2012-04-01+at+12-08-44.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/--y1J1hQCvZI/T3kDQsWXBcI/AAAAAAAA_wI/Q1k5mLpcjIE/s400/2012-04-01+at+12-08-44.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 25](/images/blog/2012-04-01-at-12-08-44.jpg)
 
-<a href="https://4.bp.blogspot.com/-6hEtGOZ8wnI/T3kDSHahuTI/AAAAAAAA_wY/ZPXXfYAM9nA/s800/2012-04-01+at+12-08-47+%25281%2529.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-6hEtGOZ8wnI/T3kDSHahuTI/AAAAAAAA_wY/ZPXXfYAM9nA/s400/2012-04-01+at+12-08-47+%25281%2529.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 26](/images/blog/2012-04-01-at-12-08-47.jpg)
 
-<a href="https://4.bp.blogspot.com/-7GHafRUvP_Y/T3kDU1wmadI/AAAAAAAA_ww/1mx0Sj6UWaY/s800/2012-04-01+at+12-09-19.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-7GHafRUvP_Y/T3kDU1wmadI/AAAAAAAA_ww/1mx0Sj6UWaY/s400/2012-04-01+at+12-09-19.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 27](/images/blog/2012-04-01-at-12-09-19.jpg)
 
-<a href="https://4.bp.blogspot.com/-BbQbaChL5HI/T3kDXbVwJWI/AAAAAAAA_xA/wshGsif_8Qg/s800/2012-04-01+at+12-12-00.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-BbQbaChL5HI/T3kDXbVwJWI/AAAAAAAA_xA/wshGsif_8Qg/s400/2012-04-01+at+12-12-00.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 28](/images/blog/2012-04-01-at-12-12-00.jpg)
 
-<a href="https://3.bp.blogspot.com/-F2lG60Xxt3E/T3kDbSl7Y1I/AAAAAAAA_xg/aDE602BdT_8/s800/2012-04-01+at+12-42-28.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-F2lG60Xxt3E/T3kDbSl7Y1I/AAAAAAAA_xg/aDE602BdT_8/s400/2012-04-01+at+12-42-28.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 29](/images/blog/2012-04-01-at-12-42-28.jpg)
 
-<a href="https://1.bp.blogspot.com/-0Tq_-lJwv2g/T3kDczh26FI/AAAAAAAA_xo/_-ev3-lsQvg/s800/2012-04-01+at+12-44-16.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-0Tq_-lJwv2g/T3kDczh26FI/AAAAAAAA_xo/_-ev3-lsQvg/s400/2012-04-01+at+12-44-16.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 30](/images/blog/2012-04-01-at-12-44-16.jpg)
 
-<a href="https://2.bp.blogspot.com/-NQnWRZRbGls/T3kDkk9-JPI/AAAAAAAA_yg/ULPILR4ZVa8/s800/2012-04-01+at+13-06-20.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-NQnWRZRbGls/T3kDkk9-JPI/AAAAAAAA_yg/ULPILR4ZVa8/s400/2012-04-01+at+13-06-20.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 31](/images/blog/2012-04-01-at-13-06-20.jpg)
 
-<a href="https://1.bp.blogspot.com/-T4_pZOel_-I/T3kDlrl1W-I/AAAAAAAA_yo/OrNDHln2Zd4/s800/2012-04-01+at+13-06-21.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-T4_pZOel_-I/T3kDlrl1W-I/AAAAAAAA_yo/OrNDHln2Zd4/s400/2012-04-01+at+13-06-21.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 32](/images/blog/2012-04-01-at-13-06-21.jpg)
 
-<a href="https://4.bp.blogspot.com/-M3Z05oUriJA/T3kDqgepgGI/AAAAAAAA_zQ/3-24HQoSiiA/s800/2012-04-01+at+13-06-45.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-M3Z05oUriJA/T3kDqgepgGI/AAAAAAAA_zQ/3-24HQoSiiA/s400/2012-04-01+at+13-06-45.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 33](/images/blog/2012-04-01-at-13-06-45.jpg)
 
-<a href="https://3.bp.blogspot.com/-JJyjaejnTTg/T3kDs_io1kI/AAAAAAAA_zg/oAwyRncDJ6g/s800/2012-04-01+at+13-21-29.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-JJyjaejnTTg/T3kDs_io1kI/AAAAAAAA_zg/oAwyRncDJ6g/s400/2012-04-01+at+13-21-29.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 34](/images/blog/2012-04-01-at-13-21-29.jpg)
 
-<a href="https://3.bp.blogspot.com/-ZZLcIUFqP4Q/T3kD5RSEumI/AAAAAAAA_0w/FVW1LgYG7jc/s800/2012-04-01+at+13-35-39+%25281%2529.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-ZZLcIUFqP4Q/T3kD5RSEumI/AAAAAAAA_0w/FVW1LgYG7jc/s400/2012-04-01+at+13-35-39+%25281%2529.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 35](/images/blog/2012-04-01-at-13-35-39.jpg)
 
-<a href="https://2.bp.blogspot.com/-9oIYsBiYNaE/T3kEE64TkPI/AAAAAAAA_2Q/5IChRJsNBn4/s800/2012-04-01+at+13-44-48.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-9oIYsBiYNaE/T3kEE64TkPI/AAAAAAAA_2Q/5IChRJsNBn4/s400/2012-04-01+at+13-44-48.jpg" alt=""  /></a>
+![2012 Songkran Festival in LA Thaitown - 36](/images/blog/2012-04-01-at-13-44-48.jpg)

@@ -7,9 +7,9 @@ headerimage: /images/headers/google_chicago.jpg
 modified_time: '2014-08-09T20:00:29.647-05:00'
 redirect_from: /2011/08/google-plus-is-for-geeks.html
 tags:
-  - Technology
-  - Social Media
   - Google
+  - Social Media
+  - Technology
 old_thumbnail: https://2.bp.blogspot.com/-PypiOuIp3sE/TxVmBkEDhxI/AAAAAAAA2oM/vnv1_j3PTY0/s800/GooglPlus_SocialNetworks.png
 thumbnail: /images/blog/tn_social-networks.jpg
 title: Google Plus is for Geeks

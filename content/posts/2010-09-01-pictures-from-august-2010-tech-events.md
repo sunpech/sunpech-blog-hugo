@@ -8,8 +8,8 @@ modified_time: '2014-08-07T16:23:46.032-05:00'
 redirect_from: /2010/09/pictures-from-august-2010-tech-events.html
 tags:
   - Chicago
-  - Software Development
   - Meetup
+  - Software Development
 old_thumbnail: https://4.bp.blogspot.com/-sc46VNkERnw/TFjFkiFetVI/AAAAAAAAUzc/qpO0N8edO9U/s800/IMG_1799.JPG
 thumbnail: /images/blog/tn_2010-tech-events.jpg
 title: Pictures from the August 2010 Tech Events in Chicago

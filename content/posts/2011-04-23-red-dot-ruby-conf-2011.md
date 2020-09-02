@@ -7,11 +7,11 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-18T09:04:54.624-05:00'
 redirect_from: /2011/04/red-dot-ruby-conf-2011.html
 tags:
-  - Software Development
   - Events
   - Travel
   - Singapore
-old_thumbnail: https://4.bp.blogspot.com/-94TOg8r0A2w/TbLxe-82AXI/AAAAAAAAmQI/gnzrrMj8CvE/s800/2011-04-22-at-08-17-45.jpg
+  - Software Development
+old_thumbnail: https://4.bp.blogspot.com/-94TOg8r0A2w/TbLxe-82AXI/AAAAAAAAmQI/gnzrrMj8CvE/s800/2011-04-22+at+08-17-45.jpg
 thumbnail: /images/blog/tn_2011-reddotrubyconf-matz.jpg
 title: Red Dot Ruby Conf 2011
 ---

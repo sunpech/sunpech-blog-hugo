@@ -7,9 +7,9 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-09T20:15:16.252-05:00'
 redirect_from: /2011/05/pictures-from-railsconf-2011.html
 tags:
-  - Software Development
   - Events
-old_thumbnail: https://3.bp.blogspot.com/-BP1lylbW4YA/TdH7PV3ZKnI/AAAAAAAAoE0/k9CP913T07g/s800/2011-05-16-at-14-29-18.jpg
+  - Software Development
+old_thumbnail: https://3.bp.blogspot.com/-BP1lylbW4YA/TdH7PV3ZKnI/AAAAAAAAoE0/k9CP913T07g/s800/2011-05-16+at+14-29-18.jpg
 thumbnail: /images/blog/tn_2011-railsconf-welcome.jpg
 title: Pictures from RailsConf 2011
 ---

@@ -9,7 +9,7 @@ redirect_from: /2011/07/barcamp-chicago-at-pumping-station-one.html
 tags:
  - Chicago
  - Meetup
-old_thumbnail: https://3.bp.blogspot.com/-JQi0iKrv5Js/ThpxKmxHdJI/AAAAAAAAscU/Ki9EZUFycQo/s800/2011-07-09-at-14-17-28.jpg
+old_thumbnail: https://3.bp.blogspot.com/-JQi0iKrv5Js/ThpxKmxHdJI/AAAAAAAAscU/Ki9EZUFycQo/s800/2011-07-09+at+14-17-28.jpg
 thumbnail: /images/blog/tn_2011-chicago-barcamp-pumping-station-one.jpg
 title: Barcamp Chicago at Pumping Station One
 ---

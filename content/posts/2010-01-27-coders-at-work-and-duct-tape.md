@@ -7,9 +7,9 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:58:51.881-05:00'
 redirect_from: /2010/01/coders-at-work-and-duct-tape.html
 tags:
+  - Books
   - Review
   - Software Development
-  - Books
 thumbnail: /images/blog/tn_coders-at-work.jpg
 title: Coders at Work and Duct Tape Programming
 ---

@@ -6,10 +6,10 @@ date: '2011-03-14T01:17:00.000-05:00'
 modified_time: '2014-08-09T20:24:25.121-05:00'
 redirect_from: /2011/03/tedxbkk-pictures.html
 tags:
+  - Bangkok
+  - Meetup
   - Personal
   - Travel
-  - Meetup
-  - Bangkok
 old_thumbnail: https://lh3.googleusercontent.com/-VjBD7Li-SdM/TX2vnTjIE6I/AAAAAAAAhxo/QvaAmkTLvpM/s800/IMG_20110303_134105.jpg
 thumbnail: /images/blog/tn_tedxbkk.jpg
 title: TEDxBKK Pictures

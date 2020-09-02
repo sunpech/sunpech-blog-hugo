@@ -10,7 +10,7 @@ tags:
   - San Francisco
   - Software Development
   - Meetup
-old_thumbnail: https://3.bp.blogspot.com/-BKXOiiJjuhM/TuHUhCE8KkI/AAAAAAAAxwk/Ec4lm6ePbjk/s800/2011-12-07-at-19-06-17.jpg
+old_thumbnail: https://3.bp.blogspot.com/-BKXOiiJjuhM/TuHUhCE8KkI/AAAAAAAAxwk/Ec4lm6ePbjk/s800/2011-12-07+at+19-06-17.jpg
 thumbnail: /images/blog/tn_2011-sf-ruby-december-meetup.jpg
 title: Pictures from SF Ruby December Meetup
 ---

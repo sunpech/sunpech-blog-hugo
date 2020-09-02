@@ -7,12 +7,12 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-09T20:25:28.423-05:00'
 redirect_from: /2011/01/tech-communities-in-bangkok.html
 tags:
-  - Technology
-  - Software Development
-  - Personal
-  - Travel
-  - Meetup
   - Bangkok
+  - Meetup
+  - Personal
+  - Software Development
+  - Technology
+  - Travel
 old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/TTLBFEe0h1I/AAAAAAAAfNc/7bkqHeyGPcg/s800/IMG_20101109_195137.jpg
 thumbnail: /images/blog/tn_tech-community-bkk.jpg
 title: Tech communities in Bangkok

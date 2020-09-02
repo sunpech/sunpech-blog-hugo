@@ -7,8 +7,8 @@ headerimage: /images/headers/android.jpg
 modified_time: '2014-08-07T19:36:22.297-05:00'
 redirect_from: /2010/04/linkedin-mobile-apps-no-love-for.html
 tags:
-  - Technology
   - Android
+  - Technology
 old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/S77EJIvaBsI/AAAAAAAAOIw/9EPHSPihs2s/s800/linkedin_mobile_no_love_for_android.png
 thumbnail: /images/blog/tn_linkedin_mobile_no_love_for_android.jpg
 title: 'LinkedIn Mobile Apps: No Love for Android'

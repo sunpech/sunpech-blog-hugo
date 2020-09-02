@@ -9,44 +9,51 @@ redirect_from: /2012/04/coworking-at-nextspace-la.html
 tags:
   - Los Angeles
   - Meetup
-thumbnail: https://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s800/2012-04-20+at+10-17-56.jpg
+old_thumbnail: https://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s800/2012-04-20+at+10-17-56.jpg
+thumbnail: /images/blog/tn_2012-nextspace-la.jpg
 title: Coworking at NextSpace LA
 ---
 
+[Jelly LA](https://www.meetup.com/jellyla) held a free coworking day at [NextSpace](https://nextspace.us/) in Culver City this [past Friday](https://www.meetup.com/jellyla/events/60148002/). I got a little tour of the place and was very impressed. I've been to a few coworking offices in LA already ([CoLoft](https://www.coloft.com/), [BlankSpaces](https://www.blankspaces.com/), and [Kleverdog](https://www.kleverdogcoworking.com/)), and I can honestly say that this is my favorite to cowork in. One, it's conveniently located in Culver City, where I currently live in. Two, it's got a great amount of space, offices, and little nooks to work in. And third, there are a ton of people that cowork here. It just feels like a great place to be at, very comfortable.
 
-<a href="https://www.meetup.com/jellyla/">Jelly LA</a> held a free coworking day at <a href="https://nextspace.us/">NextSpace</a> in Culver City this <a href="https://www.meetup.com/jellyla/events/60148002/">past Friday</a>. I got a little tour of the place and was very impressed. I've been to a few coworking offices in LA already (<a href="https://www.coloft.com/">CoLoft</a>, <a href="https://www.blankspaces.com/">BlankSpaces</a>, and <a href="https://www.kleverdogcoworking.com/">Kleverdog</a>), and I can honestly say that this is my favorite to cowork in. One, it's conveniently located in Culver City, where I currently live in. Two, it's got a great amount of space, offices, and little nooks to work in. And third, there are a ton of people that cowork here. It just feels like a great place to be at, very comfortable.
-
-<a href="https://nextspace.us/nextspace-los-angeles/">NextSpace LA</a>
-9415 Culver Boulevard
+[NextSpace LA](https://nextspace.us/nextspace-los-angeles/)\
+9415 Culver Boulevard\
 Culver City, CA 90232
 
 Some pictures I snapped:
 
 The outside of NextSpace LA
-<a href="https://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s800/2012-04-20+at+10-17-56.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s800/2012-04-20+at+10-17-56.jpg" alt=""  /></a>
+
+![NextSpace LA 1](/images/blog/2012-04-20-at-10-17-56.jpg)
 
 The entrance downstairs
-<a href="https://4.bp.blogspot.com/-1n6EqHViKgE/T5KQ3TvwAsI/AAAAAAABFhI/Zr8WBTINV4w/s800/2012-04-20+at+10-18-08.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-1n6EqHViKgE/T5KQ3TvwAsI/AAAAAAABFhI/Zr8WBTINV4w/s800/2012-04-20+at+10-18-08.jpg" alt=""  /></a>
 
-<a href="https://2.bp.blogspot.com/--MBWIuoHTlg/T5KQ4gTLPxI/AAAAAAABFhQ/bWSXW595Fzo/s800/2012-04-20+at+10-19-46.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/--MBWIuoHTlg/T5KQ4gTLPxI/AAAAAAABFhQ/bWSXW595Fzo/s800/2012-04-20+at+10-19-46.jpg" alt=""  /></a>
+![NextSpace LA 2](/images/blog/2012-04-20-at-10-18-08.jpg)
+
+![NextSpace LA 3](/images/blog/2012-04-20-at-10-19-46.jpg)
 
 Once you are up the stairs, some relaxing areas to sit.
-<a href="https://4.bp.blogspot.com/-ux_nWWuRtcw/T5KRAEUpoqI/AAAAAAABFig/1J10dCHnAPw/s800/2012-04-20+at+12-49-16.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-ux_nWWuRtcw/T5KRAEUpoqI/AAAAAAABFig/1J10dCHnAPw/s800/2012-04-20+at+12-49-16.jpg" alt=""  /></a>
 
-<a href="https://4.bp.blogspot.com/-CWJ_XsEE5VI/T5KQ_fDJ19I/AAAAAAABFiY/V8sbI5I-O1M/s800/2012-04-20+at+12-48-59.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-CWJ_XsEE5VI/T5KQ_fDJ19I/AAAAAAABFiY/V8sbI5I-O1M/s800/2012-04-20+at+12-48-59.jpg" alt=""  /></a>
+![NextSpace LA 4](/images/blog/2012-04-20-at-12-49-16.jpg)
+
+![NextSpace LA 5](/images/blog/2012-04-20-at-12-48-59.jpg)
 
 The main area.
-<a href="https://3.bp.blogspot.com/-I2wHsYDioi4/T5KQ7Wqyy0I/AAAAAAABFho/kaSrwq8gYEw/s800/2012-04-20+at+12-46-23.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-I2wHsYDioi4/T5KQ7Wqyy0I/AAAAAAABFho/kaSrwq8gYEw/s800/2012-04-20+at+12-46-23.jpg" alt=""  /></a>
+
+![NextSpace LA 6](/images/blog/2012-04-20-at-12-46-23.jpg)
 
 This is where I sat.
-<a href="https://2.bp.blogspot.com/-zk_eTr0ZQZI/T5KQ51cqhPI/AAAAAAABFhY/C0qMNkiUBHk/s800/2012-04-20+at+10-31-56.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-zk_eTr0ZQZI/T5KQ51cqhPI/AAAAAAABFhY/C0qMNkiUBHk/s800/2012-04-20+at+10-31-56.jpg" alt=""  /></a>
 
-<a href="https://2.bp.blogspot.com/-jlu78QwG7jA/T5KQ6nvi-fI/AAAAAAABFhg/4lxRg997nVE/s800/2012-04-20+at+12-46-15.jpg" alt="" ><img   border="0"  src="https://2.bp.blogspot.com/-jlu78QwG7jA/T5KQ6nvi-fI/AAAAAAABFhg/4lxRg997nVE/s800/2012-04-20+at+12-46-15.jpg" alt=""  /></a>
+![NextSpace LA 7](/images/blog/2012-04-20-at-10-31-56.jpg)
+
+![NextSpace LA 8](/images/blog/2012-04-20-at-12-46-15.jpg)
 
 The who's who at NextSpace LA.
-<a href="https://3.bp.blogspot.com/-CYHh0X2lyqo/T5KQ9J5CotI/AAAAAAABFh4/m3H9fCOOBYs/s800/2012-04-20+at+12-46-43.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-CYHh0X2lyqo/T5KQ9J5CotI/AAAAAAABFh4/m3H9fCOOBYs/s800/2012-04-20+at+12-46-43.jpg" alt=""  /></a>
+
+![NextSpace LA 9](/images/blog/2012-04-20-at-12-46-43.jpg)
 
 The back area.
-<a href="https://3.bp.blogspot.com/-ZegSp5lvWA4/T5KQ-ERAXxI/AAAAAAABFiI/e_LnXY13Ty0/s800/2012-04-20+at+12-47-08.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-ZegSp5lvWA4/T5KQ-ERAXxI/AAAAAAABFiI/e_LnXY13Ty0/s800/2012-04-20+at+12-47-08.jpg" alt=""  /></a>
 
-<a href="https://3.bp.blogspot.com/-xk6RvpQjtLA/T5KQ-pTP67I/AAAAAAABFiQ/u3Yn4TepyX8/s800/2012-04-20+at+12-47-19.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-xk6RvpQjtLA/T5KQ-pTP67I/AAAAAAABFiQ/u3Yn4TepyX8/s800/2012-04-20+at+12-47-19.jpg" alt=""  /></a>
+![NextSpace LA 10](/images/blog/2012-04-20-at-12-47-08.jpg)
+
+![NextSpace LA 11](/images/blog/2012-04-20-at-12-47-19.jpg)

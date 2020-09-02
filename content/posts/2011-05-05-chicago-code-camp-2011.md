@@ -8,8 +8,8 @@ modified_time: '2012-01-11T04:03:11.365-06:00'
 redirect_from: /2011/05/chicago-code-camp-2011.html
 tags:
   - Chicago
-  - Software Development
   - Code Camp
+  - Software Development
 old_thumbnail: https://4.bp.blogspot.com/-GO8zdM4suwo/TcwN0B7fOpI/AAAAAAAAnss/T1nD2L7lmJc/s800/logo-horizontal.png
 thumbnail: /images/blog/tn_2011-chicago-code-camp-logo.jpg
 title: Chicago Code Camp 2011

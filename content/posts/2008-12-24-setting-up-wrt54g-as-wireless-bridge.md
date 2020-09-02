@@ -7,8 +7,8 @@ headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T17:01:27.441-05:00'
 redirect_from: /2008/12/setting-up-wrt54g-as-wireless-bridge.html
 tags:
-  - Technology
   - Guide
+  - Technology
 old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SVMeq-RLbEI/AAAAAAAAIZk/b33sMkW_w9o/s800/linksys_wrt54g.jpg
 thumbnail: /images/blog/tn_linksys_wr54g.jpg
 title: Setting up WRT54G as a wireless bridge with DD-WRT

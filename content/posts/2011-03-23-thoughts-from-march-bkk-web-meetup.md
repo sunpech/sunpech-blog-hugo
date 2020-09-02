@@ -7,11 +7,11 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:23:36.318-05:00'
 redirect_from: /2011/03/thoughts-from-march-bkk-web-meetup.html
 tags:
-  - Software Development
-  - Personal
-  - Travel
-  - Meetup
   - Bangkok
+  - Meetup  
+  - Personal
+  - Software Development
+  - Travel
 old_thumbnail: https://1.bp.blogspot.com/-dBG2xj67XC8/TYl8qTHcaqI/AAAAAAAAkOU/60YDaID1JPw/s800/IMG_5097.JPG
 thumbnail: /images/blog/tn_2011-march-bkk-web-meetup.jpg
 title: Thoughts from the March BKK Web Meetup

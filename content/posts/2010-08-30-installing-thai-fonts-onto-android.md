@@ -7,9 +7,9 @@ headerimage: /images/headers/android.jpg
 modified_time: '2014-08-07T20:13:45.291-05:00'
 redirect_from: /2010/08/installing-thai-fonts-onto-android.html
 tags:
-  - Technology
   - Android
   - Guide
+  - Technology
 old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/THt8iBDVVQI/AAAAAAAAWWA/ppE6gy3cFIw/s800/Screen+shot+2010-08-30+at+4.40.01+AM.png
 thumbnail: /images/blog/tn_install-thai-fonts-android.jpg
 title: Installing Thai fonts onto an Android device

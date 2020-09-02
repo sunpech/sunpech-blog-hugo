@@ -7,9 +7,9 @@ headerimage: /images/headers/android.jpg
 modified_time: '2014-08-08T17:01:45.552-05:00'
 redirect_from: /2008/11/my-impressions-of-g1-running-android.html
 tags:
-  - Technology
-  - Review
   - Android
+  - Review
+  - Technology
 old_thumbnail: https://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s800/g1officialnewnew.jpg
 thumbnail: /images/blog/tn_g1officialnewnew.jpg
 title: My Impressions of the G1 running Android

@@ -7,9 +7,9 @@ headerimage: /images/headers/android.jpg
 modified_time: '2014-08-07T19:36:22.317-05:00'
 redirect_from: /2010/08/android-photoshoot-with-my-new-camera.html
 tags:
-  - Technology
-  - Photography
   - Android
+  - Photography
+  - Technology
 old_thumbnail: https://2.bp.blogspot.com/-il8rnMQNWH0/THW4cqvg3KI/AAAAAAAAV_Y/J5s28A1dNks/s800/daylight-2141.jpg
 thumbnail: /images/blog/tn_android-photoshoot.jpg
 title: An Android Photoshoot with my new Camera Lens

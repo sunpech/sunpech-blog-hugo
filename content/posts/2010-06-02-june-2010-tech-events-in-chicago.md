@@ -8,8 +8,8 @@ modified_time: '2012-01-11T03:43:33.639-06:00'
 redirect_from: /2010/06/june-2010-tech-events-in-chicago.html
 tags:
   - Chicago
-  - Software Development
   - Meetup
+  - Software Development
 thumbnail: /images/blog/tn_default.jpg
 title: June 2010 Tech Events in Chicago
 ---

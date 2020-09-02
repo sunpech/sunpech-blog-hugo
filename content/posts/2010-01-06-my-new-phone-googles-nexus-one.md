@@ -7,9 +7,9 @@ headerimage: /images/headers/android.jpg
 modified_time: '2014-08-09T09:26:10.883-05:00'
 redirect_from: /2010/01/my-new-phone-googles-nexus-one.html
 tags:
-  - Technology
   - Android
   - Google
+  - Technology
 old_thumbnail: https://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s800/IMG_0115.JPG
 thumbnail: /images/blog/tn_nexus-one.jpg
 title: 'My New Phone: Google''s Nexus One'

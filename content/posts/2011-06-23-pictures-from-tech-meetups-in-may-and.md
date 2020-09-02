@@ -8,9 +8,9 @@ modified_time: '2014-08-21T02:19:18.877-05:00'
 redirect_from: /2011/06/pictures-from-tech-meetups-in-may-and.html
 tags:
   - Chicago
-  - Software Development
   - Meetup
-old_thumbnail: https://4.bp.blogspot.com/-ZTq8a5zkdh8/TgL6yQ66bZI/AAAAAAAApPc/v386yfypqi4/s800/2011-05-25-at-19-13-45.jpg
+  - Software Development
+old_thumbnail: https://4.bp.blogspot.com/-ZTq8a5zkdh8/TgL6yQ66bZI/AAAAAAAApPc/v386yfypqi4/s800/2011-05-25+at+19-13-45.jpg
 thumbnail: /images/blog/tn_2011-tech-meetup-may-june.jpg
 title: Pictures from Tech Meetups in May and June
 ---

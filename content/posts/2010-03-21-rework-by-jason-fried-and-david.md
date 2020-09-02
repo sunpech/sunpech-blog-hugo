@@ -6,8 +6,8 @@ date: '2010-03-21T14:18:00.003-05:00'
 modified_time: '2014-08-08T16:59:01.585-05:00'
 redirect_from: /2010/03/rework-by-jason-fried-and-david.html
 tags:
-  - Review
   - Books
+  - Review
 thumbnail: /images/blog/tn_rework.jpg
 title: Rework by Jason Fried and David Heinemeier Hansson
 ---

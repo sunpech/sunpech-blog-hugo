@@ -7,41 +7,47 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:21:11.827-05:00'
 redirect_from: /2012/10/socal-code-camp-at-usc.html
 tags:
-  - Los Angeles
-  - Events
   - Code Camp
-thumbnail: https://3.bp.blogspot.com/-c0HUzw7CqWw/UIIIhnLmWBI/AAAAAAABVOc/J2Fu10yEWNc/s800/2012-10-14+at+09-35-38.jpg
+  - Los Angeles
+old_thumbnail: https://3.bp.blogspot.com/-c0HUzw7CqWw/UIIIhnLmWBI/AAAAAAABVOc/J2Fu10yEWNc/s800/2012-10-14-at-09-35-38.jpg
+thumbnail: /images/blog/tn_2012-socal-code-camp-usc.jpg
 title: SoCal Code Camp at USC
 ---
 
-
-Last weekend I attended <a href="https://www.socalcodecamp.com/">SoCal Code Camp</a> held at <a href="https://www.usc.edu/">University of Southern California</a> (USC). Had a good time learning about new stuff as usual. The prizes here are pretty spectacular, but once again I won absolutely nothing. Nothing!
+Last weekend I attended [SoCal Code Camp](https://www.socalcodecamp.com/) held at [University of Southern California](https://www.usc.edu/) (USC). Had a good time learning about new stuff as usual. The prizes here are pretty spectacular, but once again I won absolutely nothing. Nothing!
 
 Like the one I went to earlier this year, this one was also a bit heavy on the .Net side of technology with little representation from Android and iOS, and nothing from Ruby/Rails/Java/etc. Not that I'm saying it's the organizer's fault or anything, they actually did a great job. Sometimes I wonder if other tech communities here in Los Angeles care to organize something under one event/banner at all, as each tend to have their own community to care for. Oh well right?
 
-<img   border="0" src="https://3.bp.blogspot.com/-c0HUzw7CqWw/UIIIhnLmWBI/AAAAAAABVOc/J2Fu10yEWNc/s400/2012-10-14+at+09-35-38.jpg" alt="" />
+![2012 SoCal Code Camp USC 1](/images/blog/2012-10-14-at-09-35-38.jpg)
 
 Dylan Campbell, one of the organizers I talk to.
-<img   border="0" src="https://3.bp.blogspot.com/-y8JGemV56MQ/UIIIjFJCuZI/AAAAAAABVOk/-tadCujYqPc/s400/2012-10-14+at+09-43-40.jpg" alt=""  />
+
+![2012 SoCal Code Camp USC 2](/images/blog/2012-10-14-at-09-43-40.jpg)
 
 Hattan Shobokshi presenting on ASP.net MVC Topics: The Model Binder
-<img   border="0" src="https://3.bp.blogspot.com/-hMbafc6Of9U/UIIIkB7-h0I/AAAAAAABVOs/EM2Vf_jXRFY/s400/2012-10-14+at+10-30-36.jpg" alt="" />
 
-<img   border="0" src="https://1.bp.blogspot.com/-rFxCQ8WFDZ8/UIIInS1INnI/AAAAAAABVPE/awijjudLlek/s400/2012-10-14+at+10-31-29.jpg" alt="" />
+![2012 SoCal Code Camp USC 3](/images/blog/2012-10-14-at-10-30-36.jpg)
+
+![2012 SoCal Code Camp USC 4](/images/blog/2012-10-14-at-10-31-29.jpg)
 
 Free tacos for lunch
-<img   border="0" src="https://3.bp.blogspot.com/-ODJPCYLHnQc/UIIIoko7IXI/AAAAAAABVPM/MWATL0uyF2o/s400/2012-10-14+at+11-18-10.jpg" alt="" />
+
+![2012 SoCal Code Camp USC 5](/images/blog/2012-10-14-at-11-18-10.jpg)
 
 Prize and schwag giveaway at lunch. There was another giveaway at the end of the day.
-<img   border="0" src="https://4.bp.blogspot.com/-6WU12Kn21X8/UIIIp6nvLBI/AAAAAAABVPU/kxHw7td0nlg/s400/2012-10-14+at+11-44-01.jpg" alt="" />
 
-<img   border="0" src="https://1.bp.blogspot.com/-mBMElt0GyBM/UIIIrFZ4OYI/AAAAAAABVPc/VzJwcR6UVNI/s400/2012-10-14+at+11-44-49.jpg" alt=""  />
+![2012 SoCal Code Camp USC 6](/images/blog/2012-10-14-at-11-44-01.jpg)
+
+![2012 SoCal Code Camp USC 7](/images/blog/2012-10-14-at-11-44-49.jpg)
 
 Joe Enos on Improving your ASP.NET build and deployment process with build scripts and continuous integration.
-<img   border="0" src="https://2.bp.blogspot.com/-bONYS-gSyss/UIIIsEhFueI/AAAAAAABVPk/be4OXF21Czk/s400/2012-10-14+at+12-27-14.jpg" alt="" />
+
+![2012 SoCal Code Camp USC 8](/images/blog/2012-10-14-at-12-27-14.jpg)
 
 Jon Flanders presenting Native iOS programming for .Net developers
-<img   border="0" src="https://1.bp.blogspot.com/-U5W-VkKztlc/UIIItA76-TI/AAAAAAABVPs/L9owOho_mc4/s400/2012-10-14+at+13-42-47.jpg" alt=""  />
+
+![2012 SoCal Code Camp USC 9](/images/blog/2012-10-14-at-13-42-47.jpg)
 
 Lee Salazar on From Codemonkey to CEO.
-<img   border="0" src="https://3.bp.blogspot.com/-GYkfN6Jibvk/UIIIvnRrF8I/AAAAAAABVQE/QtZ8guEYNpo/s400/2012-10-14+at+14-56-39.jpg" alt="" />
+
+![2012 SoCal Code Camp USC 10](/images/blog/2012-10-14-at-14-56-39.jpg)

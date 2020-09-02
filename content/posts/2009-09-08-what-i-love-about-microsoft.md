@@ -7,8 +7,8 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:59:36.881-05:00'
 redirect_from: /2009/09/what-i-love-about-microsoft.html
 tags:
-  - Technology
   - Software Development
+  - Technology
 thumbnail: /images/blog/tn_default.jpg
 title: What I love about Microsoft
 ---
@@ -21,7 +21,6 @@ Now, to the point of my blog.
 I love how Microsoft treats college students so well. Over my undergraduate years (1997-2001), more and more terminals were turning into Windows NT/2000 workstations, donated of course by Microsoft. There were group meetings that they setup on campus to promote their products and give away free software and development tools such Visual Studio 6.0 and Windows 2000 Professional beta.
 
 Present day: Hundreds and thousands of dollars worth of software are still being distributed. Check out the following sites that offer students (high school through graduate level students at colleges/universities) free Microsoft software:
-
 
 * [MSDN Academic Alliance](https://msdn.microsoft.com/en-us/academic/default.aspx)
 * [Microsoft DreamSpark](https://www.dreamspark.com/)

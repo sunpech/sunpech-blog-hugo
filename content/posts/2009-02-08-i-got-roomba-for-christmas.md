@@ -7,8 +7,8 @@ headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T17:00:33.265-05:00'
 redirect_from: /2009/02/i-got-roomba-for-christmas.html
 tags:
-  - Technology
   - Personal
+  - Technology
 old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SY-8UnHUnsI/AAAAAAAAIhs/iXyFIUA2EJ0/s800/nintendo_power_set.png
 thumbnail: /images/blog/tn_1234155883757.jpg
 title: I got  a Roomba for Christmas

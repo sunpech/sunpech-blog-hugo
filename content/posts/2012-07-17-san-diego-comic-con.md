@@ -7,171 +7,191 @@ headerimage: /images/headers/san_diego_comic_con.jpg
 modified_time: '2015-01-19T16:09:40.457-06:00'
 redirect_from: /2012/07/san-diego-comic-con.html
 tags:
-  - Photography
-  - San Diego Comic Con
   - Cosplay
-  - Comic Con
+  - Photography
   - San Diego
-thumbnail: https://4.bp.blogspot.com/-o3QWHkq9UKw/UATSbXIBiII/AAAAAAABQBo/FS8166mfs2g/s800/2012-07-13+at+17-49-31.jpg
+  - San Diego Comic Con
+old_thumbnail: https://4.bp.blogspot.com/-o3QWHkq9UKw/UATSbXIBiII/AAAAAAABQBo/FS8166mfs2g/s800/2012-07-13-at-17-49-31.jpg
+thumbnail: /images/blog/tn_2012-san-diego-comic-con.jpg
 title: San Diego Comic Con 2012
 ---
 
+Last week I went to the [San Diego Comic Con](https://comic-con.org/) (SDCC) and had a blast. The last time I went was back in 2010, which I blogged about [here](/2010/07/san-diego-comic-con-2010) I took quite a few photos, but only post-processed a fraction of them. I may choose to post-process more of them at a later date. You can view the full album [here](https://photos.app.goo.gl/7d547GwK9Nz2zyAQA).
 
-Last week I went to the <a href="https://comic-con.org/">San Diego Comic Con</a> (SDCC) and had a blast. The last time I went was back in 2010, which I blogged about <a href="/2010/07/san-diego-comic-con-2010-pictures">here</a>. I took quite a few photos, but only post-processed a fraction of them. I may choose to post-process more of them at a later date. You can view the full album <a href="https://picasaweb.google.com/101693597219413173200/2012SanDiegoComicCon">here</a>.
-
-I attended SDCC with a 4-day pass along with preview night. So the dates for this convention were July 11-15, 2012. We stayed at the <a href="https://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=127">Sheraton San Diego Hotel &amp; Marina</a> near the airport, and took the shuttle bus to the <a href="https://www.visitsandiego.com/">San Diego Convention Center</a>.
+I attended SDCC with a 4-day pass along with preview night. So the dates for this convention were July 11-15, 2012. We stayed at the [Sheraton San Diego Hotel &amp; Marina](https://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=127) near the airport, and took the shuttle bus to the [San Diego Convention Center](https://www.visitsandiego.com/).
 
 This is going to be a big post. I have several sections to this blog with photos.
 
-<ul>
-  <li>General Pictures</li>
-  <li>Statues and Toys</li>
-  <li>Celebrities</li>
-  <li>Costumes</li>
-  <li>Panels</li>
-  <li>Some Thoughts</li>
-</ul>
+* General Pictures
+* Statues and Toys
+* Celebrities
+* Costumes
+* Panels
+* Some Thoughts
 
-<a href="https://4.bp.blogspot.com/-o3QWHkq9UKw/UATSbXIBiII/AAAAAAABQBo/FS8166mfs2g/s800/2012-07-13+at+17-49-31.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-o3QWHkq9UKw/UATSbXIBiII/AAAAAAABQBo/FS8166mfs2g/s800/2012-07-13+at+17-49-31.jpg" alt="" /></a>
+![2012 San Diego Comic Con 1](/images/blog/2012-07-13-at-17-49-31.jpg)
 
 ### General Pictures
 
 Here I am all packed for my road trip from Los Angeles to San Diego on Wednesday for Preview night. The Chopper plush and hat I bought at Anime Expo a few weeks ago for my sister.
-<a href="https://4.bp.blogspot.com/-oZtoPtAEcrc/UATQruejUgI/AAAAAAABP2Y/8mb4JSYXjDc/s800/2012-07-11+at+12-28-28.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-oZtoPtAEcrc/UATQruejUgI/AAAAAAABP2Y/8mb4JSYXjDc/s800/2012-07-11+at+12-28-28.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 2](/images/blog/2012-07-11-at-12-28-28.jpg)
 
 Some girls that couldn't get tickets into the con outside the convention center.
-<a href="https://3.bp.blogspot.com/-etu8vFHMoZo/UATQsgo8WAI/AAAAAAABP2g/GrXUJ6zmeHo/s800/2012-07-11+at+17-29-36.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-etu8vFHMoZo/UATQsgo8WAI/AAAAAAABP2g/GrXUJ6zmeHo/s800/2012-07-11+at+17-29-36.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 3](/images/blog/2012-07-11-at-17-29-36.jpg)
 
 The local <a href="https://www.ralphs.com/">Ralph's</a> nearby was all decorated for SDCC fans. All the local restaurants and stores catered to the comic book fans-- it made it seem like a huge geek festival all five days!
-<a href="https://1.bp.blogspot.com/-kePRi7d5P64/UATQ3pQdmBI/AAAAAAABP3Y/t9174DrOqNQ/s800/2012-07-11+at+22-47-06.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-kePRi7d5P64/UATQ3pQdmBI/AAAAAAABP3Y/t9174DrOqNQ/s800/2012-07-11+at+22-47-06.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 4](/images/blog/2012-07-11-at-22-47-06.jpg)
 
 Some snacks we bought at Ralph's.
-<a href="https://3.bp.blogspot.com/-_S_MVTPgzk0/UATQ6EiQmcI/AAAAAAABP3o/W10dszHVML0/s800/2012-07-11+at+23-01-12.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-_S_MVTPgzk0/UATQ6EiQmcI/AAAAAAABP3o/W10dszHVML0/s800/2012-07-11+at+23-01-12.jpg" alt="" /></a>
 
-The next three photos are from the line on Friday to get into Hall H. I'd say roughly 10,000 people lined up for a room that could only fit 6,500. The line went all the way to the wharf and wrapped a few times there! We got there at 8:30am, and still couldn't get in!<a href="https://1.bp.blogspot.com/-dUoksyFCPI0/UATR6KgacvI/AAAAAAABP-Q/-gR442AECws/s800/2012-07-13+at+10-30-01.jpg" alt="" ><br class="Apple-interchange-newline" /><img   border="0" src="https://1.bp.blogspot.com/-dUoksyFCPI0/UATR6KgacvI/AAAAAAABP-Q/-gR442AECws/s800/2012-07-13+at+10-30-01.jpg" alt="" /></a>
+![2012 San Diego Comic Con 5](/images/blog/2012-07-11-at-23-01-12.jpg)
 
-<a href="https://4.bp.blogspot.com/-2Wa1958DWRU/UATR7CFmdrI/AAAAAAABP-Y/hJr1VjBJxl4/s800/2012-07-13+at+10-33-40.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-2Wa1958DWRU/UATR7CFmdrI/AAAAAAABP-Y/hJr1VjBJxl4/s800/2012-07-13+at+10-33-40.jpg" alt="" /></a>
+The next three photos are from the line on Friday to get into Hall H. I'd say roughly 10,000 people lined up for a room that could only fit 6,500. The line went all the way to the wharf and wrapped a few times there! We got there at 8:30am, and still couldn't get in!
 
-<a href="https://4.bp.blogspot.com/-sBYybuxPx1I/UATR8eWvWhI/AAAAAAABP-g/76q7oNRprQk/s800/2012-07-13+at+10-54-29.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-sBYybuxPx1I/UATR8eWvWhI/AAAAAAABP-g/76q7oNRprQk/s800/2012-07-13+at+10-54-29.jpg" alt="" /></a>
+![2012 San Diego Comic Con 6](/images/blog/2012-07-13-at-10-30-01.jpg)
 
-The <i>Jesus freaks</i> as I call them, were also there outside preaching all day and night.
-<a href="https://4.bp.blogspot.com/-V2nMcePRwhY/UATSAFho1MI/AAAAAAABP-4/6IJLpCj0aJ0/s800/2012-07-13+at+13-29-43.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-V2nMcePRwhY/UATSAFho1MI/AAAAAAABP-4/6IJLpCj0aJ0/s800/2012-07-13+at+13-29-43.jpg" alt="" /></a>
+![2012 San Diego Comic Con 7](/images/blog/2012-07-13-at-10-33-40.jpg)
 
-<a href="https://2.bp.blogspot.com/-Vrfi2T1ziqw/UATTg0iKgNI/AAAAAAABQJg/cyuDMGR0P5o/s800/2012-07-15+at+12-07-29.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-Vrfi2T1ziqw/UATTg0iKgNI/AAAAAAABQJg/cyuDMGR0P5o/s800/2012-07-15+at+12-07-29.jpg" alt="" /></a>
+![2012 San Diego Comic Con 8](/images/blog/2012-07-13-at-10-54-29.jpg)
 
-<a href="https://2.bp.blogspot.com/-_PCZDxouc38/UATTiHqcUXI/AAAAAAABQJo/1i3upkSycmc/s800/2012-07-15+at+12-07-48.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-_PCZDxouc38/UATTiHqcUXI/AAAAAAABQJo/1i3upkSycmc/s800/2012-07-15+at+12-07-48.jpg" alt="" /></a>
+The *Jesus freaks* as I call them, were also there outside preaching all day and night.
 
-<a href="https://1.bp.blogspot.com/-6tZbizAhgCM/UATTBvtQ3zI/AAAAAAABQFg/vi-GwLPPmjg/s800/2012-07-14+at+13-45-46.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-6tZbizAhgCM/UATTBvtQ3zI/AAAAAAABQFg/vi-GwLPPmjg/s800/2012-07-14+at+13-45-46.jpg" alt="" /></a>
+![2012 San Diego Comic Con 9](/images/blog/2012-07-13-at-13-29-43.jpg)
+
+![2012 San Diego Comic Con 10](/images/blog/2012-07-15-at-12-07-29.jpg)
+
+![2012 San Diego Comic Con 11](/images/blog/2012-07-15-at-12-07-48.jpg)
+
+![2012 San Diego Comic Con 12](/images/blog/2012-07-14-at-13-45-46.jpg)
 
 A view of the Gaslamp district from the convention center.
-<a href="https://1.bp.blogspot.com/-R2KhO8fetjs/UATTFYmb2qI/AAAAAAABQFw/vA3yEeZ8h4I/s800/2012-07-14+at+14-30-32.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-R2KhO8fetjs/UATTFYmb2qI/AAAAAAABQFw/vA3yEeZ8h4I/s800/2012-07-14+at+14-30-32.jpg" alt="" /></a>
 
-<a href="https://3.bp.blogspot.com/-davhvB1zVwE/UATRhTa2ffI/AAAAAAABP7w/LrcbESaJyMg/s800/2012-07-12+at+13-17-41.jpg" alt="" ><img   border="0"  src="https://3.bp.blogspot.com/-davhvB1zVwE/UATRhTa2ffI/AAAAAAABP7w/LrcbESaJyMg/s800/2012-07-12+at+13-17-41.jpg" alt="" /></a>
+![2012 San Diego Comic Con 13](/images/blog/2012-07-14-at-14-30-32.jpg)
+
+![2012 San Diego Comic Con 14](/images/blog/2012-07-12-at-13-17-41.jpg)
 
 
 ### Statues and Toys
 
 Here are the pictures I took of some of the sculptures and statues on the main exhibit floor.
-<a href="https://1.bp.blogspot.com/-NwB0XSOx69o/UATQ2nfSlyI/AAAAAAABP3Q/vJLtaNdCDCg/s800/2012-07-11+at+19-47-31.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-NwB0XSOx69o/UATQ2nfSlyI/AAAAAAABP3Q/vJLtaNdCDCg/s800/2012-07-11+at+19-47-31.jpg" alt="" /></a>
 
-<a href="https://3.bp.blogspot.com/-HbqWskFQzHw/UATQzU95-ZI/AAAAAAABP3A/-vZ-ZA-35dQ/s800/2012-07-11+at+19-46-12.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-HbqWskFQzHw/UATQzU95-ZI/AAAAAAABP3A/-vZ-ZA-35dQ/s800/2012-07-11+at+19-46-12.jpg" alt="" /></a>
+![2012 San Diego Comic Con 15](/images/blog/2012-07-11-at-19-47-31.jpg)
 
-<a href="https://2.bp.blogspot.com/-cv6p-B9XvHw/UATRe06ZekI/AAAAAAABP7g/pfUxv5ZN3cI/s800/2012-07-12+at+12-25-29.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-cv6p-B9XvHw/UATRe06ZekI/AAAAAAABP7g/pfUxv5ZN3cI/s800/2012-07-12+at+12-25-29.jpg" alt="" /></a>
+![2012 San Diego Comic Con 16](/images/blog/2012-07-11-at-19-46-12.jpg)
 
-<a href="https://1.bp.blogspot.com/-raHu2dvAzAA/UATRAtMRqJI/AAAAAAABP4Y/L0IYV6m55to/s800/2012-07-12+at+10-54-13.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-raHu2dvAzAA/UATRAtMRqJI/AAAAAAABP4Y/L0IYV6m55to/s800/2012-07-12+at+10-54-13.jpg" alt="" /></a>
+![2012 San Diego Comic Con 17](/images/blog/2012-07-12-at-12-25-29.jpg)
+
+![2012 San Diego Comic Con 18](/images/blog/2012-07-12-at-10-54-13.jpg)
 
 A customized Walking Dead (WD) vehicle for getting through zombie crowds. There were quite a few booths just for WD. They had a huge presence at SDCC!
-<a href="https://2.bp.blogspot.com/-M7SpebWf0H4/UATRX22EhBI/AAAAAAABP64/VApOd3gvEgU/s800/2012-07-12+at+11-50-15.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-M7SpebWf0H4/UATRX22EhBI/AAAAAAABP64/VApOd3gvEgU/s800/2012-07-12+at+11-50-15.jpg" alt="" /></a>
-<a href="https://1.bp.blogspot.com/-Da7J5luPgr8/UATQ-uekUdI/AAAAAAABP4I/GbhQqVlR3Po/s800/2012-07-12+at+10-36-30.jpg" alt="" ><br class="Apple-interchange-newline" /><img   border="0"  src="https://1.bp.blogspot.com/-Da7J5luPgr8/UATQ-uekUdI/AAAAAAABP4I/GbhQqVlR3Po/s800/2012-07-12+at+10-36-30.jpg" alt="" /></a>
 
-<a href="https://2.bp.blogspot.com/-bg0HD0EZhUA/UATRLeKVz-I/AAAAAAABP5g/65fqwo5aehA/s800/2012-07-12+at+11-02-24.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-bg0HD0EZhUA/UATRLeKVz-I/AAAAAAABP5g/65fqwo5aehA/s800/2012-07-12+at+11-02-24.jpg" alt="" /></a>
+![2012 San Diego Comic Con 19](/images/blog/2012-07-12-at-11-50-15.jpg)
 
+![2012 San Diego Comic Con 20](/images/blog/2012-07-12-at-10-36-30.jpg)
+
+![2012 San Diego Comic Con 21](/images/blog/2012-07-12-at-11-02-24.jpg)
 
 ### Celebrities
 
 I spotted quite a few celebrities in the exhibit hall. I wasn't able to produce great pictures of some of them due to the crowds and how quickly they were moving with security. Here are the ones that came out okay.
 
 Lucy Liu looks much better in person than on TV or the big screen.
-<a href="https://3.bp.blogspot.com/-I9PFKjPDSxc/UATRbm_kZtI/AAAAAAABP7Q/NtpzgOYWzW0/s800/2012-07-12+at+12-16-18.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-I9PFKjPDSxc/UATRbm_kZtI/AAAAAAABP7Q/NtpzgOYWzW0/s800/2012-07-12+at+12-16-18.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 22](/images/blog/2012-07-12-at-12-16-18.jpg)
 
 Elijah Wood
-<a href="https://4.bp.blogspot.com/-tzBkeCmZQmo/UATRqDnRDVI/AAAAAAABP8w/I44ErZUqz4w/s800/2012-07-12+at+13-37-04.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-tzBkeCmZQmo/UATRqDnRDVI/AAAAAAABP8w/I44ErZUqz4w/s800/2012-07-12+at+13-37-04.jpg" alt="" /></a>
 
-<strike>Not sure who she is</strike>. Yvonne Strahovski
-<a href="https://3.bp.blogspot.com/-4xkbJZUqE2o/UATRrFhmGvI/AAAAAAABP84/GFC50YE-uHA/s800/2012-07-12+at+13-40-16.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-4xkbJZUqE2o/UATRrFhmGvI/AAAAAAABP84/GFC50YE-uHA/s800/2012-07-12+at+13-40-16.jpg" alt="" /></a>
+![2012 San Diego Comic Con 23](/images/blog/2012-07-12-at-13-37-04.jpg)
+
+Yvonne Strahovski
+
+![2012 San Diego Comic Con 24](/images/blog/2012-07-12-at-13-40-16.jpg)
 
 Orlando Jones
-<a href="https://1.bp.blogspot.com/-DCvwIClFJ_g/UATSBLdrh0I/AAAAAAABP_A/HQvqXysbV7A/s800/2012-07-13+at+14-10-25.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-DCvwIClFJ_g/UATSBLdrh0I/AAAAAAABP_A/HQvqXysbV7A/s800/2012-07-13+at+14-10-25.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 25](/images/blog/2012-07-13-at-14-10-25.jpg)
 
 Star Trek TNG guys
-<a href="https://2.bp.blogspot.com/-1U5LNGky5Aw/UATSCQMlQ3I/AAAAAAABP_I/cKMLwqD-Kgk/s800/2012-07-13+at+14-12-33.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-1U5LNGky5Aw/UATSCQMlQ3I/AAAAAAABP_I/cKMLwqD-Kgk/s800/2012-07-13+at+14-12-33.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 26](/images/blog/2012-07-13-at-14-12-33.jpg)
 
 Rachel Taylor
-<a href="https://4.bp.blogspot.com/-I4cIByw7YVE/UATSL7J-JjI/AAAAAAABQAA/KoBJF7IA5uA/s800/2012-07-13+at+14-41-41.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-I4cIByw7YVE/UATSL7J-JjI/AAAAAAABQAA/KoBJF7IA5uA/s800/2012-07-13+at+14-41-41.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 27](/images/blog/2012-07-13-at-14-41-41.jpg)
 
 Vanessa Williams
-<a href="https://2.bp.blogspot.com/-HnO6EAaR-r8/UATSNOQ7QnI/AAAAAAABQAI/9zCRp0E69W0/s800/2012-07-13+at+14-41-52.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-HnO6EAaR-r8/UATSNOQ7QnI/AAAAAAABQAI/9zCRp0E69W0/s800/2012-07-13+at+14-41-52.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 28](/images/blog/2012-07-13-at-14-41-52.jpg)
 
 Terry O'Quinn
-<a href="https://3.bp.blogspot.com/-7pzXHD18G9I/UATSOJqORRI/AAAAAAABQAQ/uY2nCmJi_oo/s800/2012-07-13+at+14-42-22.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-7pzXHD18G9I/UATSOJqORRI/AAAAAAABQAQ/uY2nCmJi_oo/s800/2012-07-13+at+14-42-22.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 29](/images/blog/2012-07-13-at-14-42-22.jpg)
 
 David Hasselhoff (aka Knight Rider)
-<a href="https://1.bp.blogspot.com/-Op774zVN8oI/UATSO6sN1zI/AAAAAAABQAY/BP1pcqNYK3c/s800/2012-07-13+at+14-49-42.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-Op774zVN8oI/UATSO6sN1zI/AAAAAAABQAY/BP1pcqNYK3c/s800/2012-07-13+at+14-49-42.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 30](/images/blog/2012-07-13-at-14-49-42.jpg)
 
 Hercules
-<a href="https://1.bp.blogspot.com/-bBbkQ-oBhw4/UATSsOaariI/AAAAAAABQDY/n8Hh0HyJra4/s800/2012-07-14+at+11-46-07.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-bBbkQ-oBhw4/UATSsOaariI/AAAAAAABQDY/n8Hh0HyJra4/s800/2012-07-14+at+11-46-07.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 31](/images/blog/2012-07-14-at-11-46-07.jpg)
 
 Sarah Underwood
-<a href="https://1.bp.blogspot.com/-WITbT-Xvl_0/UATSzmJg3wI/AAAAAAABQEI/idyM9BSmaQs/s800/2012-07-14+at+12-43-56.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-WITbT-Xvl_0/UATSzmJg3wI/AAAAAAABQEI/idyM9BSmaQs/s800/2012-07-14+at+12-43-56.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 32](/images/blog/2012-07-14-at-12-43-56.jpg)
 
 Anthony Bourdain
-<a href="https://2.bp.blogspot.com/-pdZqyxbL5QM/UATS10-iTuI/AAAAAAABQEY/9VpdH46ptTA/s800/2012-07-14+at+13-04-03.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-pdZqyxbL5QM/UATS10-iTuI/AAAAAAABQEY/9VpdH46ptTA/s800/2012-07-14+at+13-04-03.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 33](/images/blog/2012-07-14-at-13-04-03.jpg)
 
 Andy Serkis, aka Gollum.
-<a href="https://4.bp.blogspot.com/-wfk2VOqVnrA/UATSuI2i_eI/AAAAAAABQDo/NkUKVS5qp-0/s800/2012-07-14+at+11-51-27.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-wfk2VOqVnrA/UATSuI2i_eI/AAAAAAABQDo/NkUKVS5qp-0/s800/2012-07-14+at+11-51-27.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 34](/images/blog/2012-07-14-at-11-51-27.jpg)
 
 Kristian Nairn, aka Hodor from Game of Thrones.
-<a href="https://4.bp.blogspot.com/-yvaB_PgeL3g/UATR_LPLKlI/AAAAAAABP-w/OEbNt6iDbco/s800/2012-07-13+at+11-39-58.jpg" alt="" ><img   border="0"  src="https://4.bp.blogspot.com/-yvaB_PgeL3g/UATR_LPLKlI/AAAAAAABP-w/OEbNt6iDbco/s800/2012-07-13+at+11-39-58.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 35](/images/blog/2012-07-13-at-11-39-58.jpg)
 
 
 ### Costumes
 
 There were a lot of diverse costumes this year, just like in 2010. I did notice a trend with a lot of girls dressed as Loki from Thor, and a few guys dressed as female characters such as the Super Mario princesses and one slave Leia from Star Wars. Of course it was all in good fun.
 
-<a href="https://3.bp.blogspot.com/-UzGpoCbCyv8/UATRgEo68lI/AAAAAAABP7o/6iqTtwX_Vug/s800/2012-07-12+at+12-28-55.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-UzGpoCbCyv8/UATRgEo68lI/AAAAAAABP7o/6iqTtwX_Vug/s800/2012-07-12+at+12-28-55.jpg" alt="" /></a>
+![2012 San Diego Comic Con 36](/images/blog/2012-07-12-at-12-28-55.jpg)
 
-<a href="https://4.bp.blogspot.com/-MoX69ZvchMg/UATR0MlyVgI/AAAAAAABP9o/obrl-jz_QZk/s800/2012-07-12+at+15-56-04.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-MoX69ZvchMg/UATR0MlyVgI/AAAAAAABP9o/obrl-jz_QZk/s800/2012-07-12+at+15-56-04.jpg" alt="" /></a>
+![2012 San Diego Comic Con 37](/images/blog/2012-07-12-at-15-56-04.jpg)
 
-<a href="https://1.bp.blogspot.com/-XT22uJmN37c/UATR2x_bWzI/AAAAAAABP94/EMdFZNxs-Hs/s800/2012-07-12+at+19-09-06.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-XT22uJmN37c/UATR2x_bWzI/AAAAAAABP94/EMdFZNxs-Hs/s800/2012-07-12+at+19-09-06.jpg" alt="" /></a>
+![2012 San Diego Comic Con 38](/images/blog/2012-07-12-at-19-09-06.jpg)
 
-<a href="https://3.bp.blogspot.com/-jgK8vSWXrac/UATR36Kkm_I/AAAAAAABP-A/bRJEgEddlhk/s800/2012-07-12+at+19-16-05.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-jgK8vSWXrac/UATR36Kkm_I/AAAAAAABP-A/bRJEgEddlhk/s800/2012-07-12+at+19-16-05.jpg" alt="" /></a>
+![2012 San Diego Comic Con 39](/images/blog/2012-07-12-at-19-16-05.jpg)
 
+![2012 San Diego Comic Con 40](/images/blog/2012-07-13-at-14-33-18.jpg)
 
-<a href="https://3.bp.blogspot.com/-8pUzaMnP-Jo/UATSKz7uqYI/AAAAAAABP_4/t6RaN3KBG7Q/s800/2012-07-13+at+14-33-18.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-8pUzaMnP-Jo/UATSKz7uqYI/AAAAAAABP_4/t6RaN3KBG7Q/s800/2012-07-13+at+14-33-18.jpg" alt="" /></a>
+![2012 San Diego Comic Con 41](/images/blog/2012-07-13-at-15-13-39.jpg)
 
-<a href="https://2.bp.blogspot.com/-KiiXLu7fWcM/UATSRdwzC2I/AAAAAAABQAo/KvXdDhaQm7w/s800/2012-07-13+at+15-13-39.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-KiiXLu7fWcM/UATSRdwzC2I/AAAAAAABQAo/KvXdDhaQm7w/s800/2012-07-13+at+15-13-39.jpg" alt="" /></a>
+![2012 San Diego Comic Con 42](/images/blog/2012-07-13-at-16-11-09.jpg)
 
-<a href="https://4.bp.blogspot.com/-ZCHUejsWLbk/UATSVedq89I/AAAAAAABQBA/pBCnsb1j2cM/s800/2012-07-13+at+16-11-09.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-ZCHUejsWLbk/UATSVedq89I/AAAAAAABQBA/pBCnsb1j2cM/s800/2012-07-13+at+16-11-09.jpg" alt="" /></a>
+![2012 San Diego Comic Con 43](/images/blog/2012-07-13-at-17-39-37.jpg)
 
-<a href="https://1.bp.blogspot.com/-z3vOiYR7PKE/UATSX0Mxm3I/AAAAAAABQBQ/cbAxSDpxyIg/s800/2012-07-13+at+17-39-37.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-z3vOiYR7PKE/UATSX0Mxm3I/AAAAAAABQBQ/cbAxSDpxyIg/s800/2012-07-13+at+17-39-37.jpg" alt="" /></a>
+![2012 San Diego Comic Con 44](/images/blog/2012-07-13-at-16-18-08.jpg)
 
-<a href="https://1.bp.blogspot.com/-qjXA4Ig25pQ/UATSWgeYr6I/AAAAAAABQBI/1ex_XiwTbnc/s800/2012-07-13+at+16-18-08.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-qjXA4Ig25pQ/UATSWgeYr6I/AAAAAAABQBI/1ex_XiwTbnc/s800/2012-07-13+at+16-18-08.jpg" alt="" /></a>
+![2012 San Diego Comic Con 45](/images/blog/2012-07-13-at-17-51-08.jpg)
 
-<a href="https://4.bp.blogspot.com/-F1gmn2dbmns/UATSdbf0AMI/AAAAAAABQBw/q6OJFMK1lOU/s800/2012-07-13+at+17-51-08.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-F1gmn2dbmns/UATSdbf0AMI/AAAAAAABQBw/q6OJFMK1lOU/s800/2012-07-13+at+17-51-08.jpg" alt="" /></a>
+![2012 San Diego Comic Con 46](/images/blog/2012-07-14-at-11-26-45.jpg)
 
-<a href="https://1.bp.blogspot.com/-hDoRebKCYvs/UATSnwGEhmI/AAAAAAABQDA/HLq5jDWB4_k/s800/2012-07-14+at+11-26-45.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-hDoRebKCYvs/UATSnwGEhmI/AAAAAAABQDA/HLq5jDWB4_k/s800/2012-07-14+at+11-26-45.jpg" alt="" /></a>
+![2012 San Diego Comic Con 47](/images/blog/2012-07-14-at-11-30-36.jpg)
 
-<a href="https://1.bp.blogspot.com/-5A-w01OZxgQ/UATSo69DuOI/AAAAAAABQDI/m8vhsRHEpsY/s800/2012-07-14+at+11-30-36.jpg" alt="" ><img   border="0"  src="https://1.bp.blogspot.com/-5A-w01OZxgQ/UATSo69DuOI/AAAAAAABQDI/m8vhsRHEpsY/s800/2012-07-14+at+11-30-36.jpg" alt="" /></a>
+![2012 San Diego Comic Con 48](/images/blog/2012-07-14-at-13-05-43.jpg)
 
-<a href="https://2.bp.blogspot.com/-hs4V2sqmZ4c/UATS4nRH9-I/AAAAAAABQEo/o0S-xKrPw64/s800/2012-07-14+at+13-05-43.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-hs4V2sqmZ4c/UATS4nRH9-I/AAAAAAABQEo/o0S-xKrPw64/s800/2012-07-14+at+13-05-43.jpg" alt="" /></a>
+![2012 San Diego Comic Con 49](/images/blog/2012-07-14-at-13-14-31.jpg)
 
-<a href="https://3.bp.blogspot.com/-K-ckbIuE0go/UATS9uXo4kI/AAAAAAABQFI/lUimaRjBYeQ/s800/2012-07-14+at+13-14-31.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-K-ckbIuE0go/UATS9uXo4kI/AAAAAAABQFI/lUimaRjBYeQ/s800/2012-07-14+at+13-14-31.jpg" alt="" /></a>
+![2012 San Diego Comic Con 50](/images/blog/2012-07-15-at-11-58-32.jpg)
 
-<a href="https://3.bp.blogspot.com/-WDE1NKfjXyk/UATTeqpiVDI/AAAAAAABQJQ/LWN8q2UKPEw/s800/2012-07-15+at+11-58-32.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-WDE1NKfjXyk/UATTeqpiVDI/AAAAAAABQJQ/LWN8q2UKPEw/s800/2012-07-15+at+11-58-32.jpg" alt="" /></a>
+![2012 San Diego Comic Con 51](/images/blog/2012-07-15-at-12-05-55.jpg)
 
-<a href="https://2.bp.blogspot.com/-i_BuxSHQNZM/UATTf-mboVI/AAAAAAABQJY/vYS2YtMkXSo/s800/2012-07-15+at+12-05-55.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-i_BuxSHQNZM/UATTf-mboVI/AAAAAAABQJY/vYS2YtMkXSo/s800/2012-07-15+at+12-05-55.jpg" alt="" /></a>
-
-<a href="https://2.bp.blogspot.com/--4I5sA2446Q/UATTrRBd7UI/AAAAAAABQKY/S1e_GruWYIk/s800/2012-07-15+at+12-31-33.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/--4I5sA2446Q/UATTrRBd7UI/AAAAAAABQKY/S1e_GruWYIk/s800/2012-07-15+at+12-31-33.jpg" alt="" /></a>
+![2012 San Diego Comic Con 52](/images/blog/2012-07-15-at-12-31-33.jpg)
 
 
 ### Panels
@@ -179,39 +199,50 @@ There were a lot of diverse costumes this year, just like in 2010. I did notice 
 I wasn't able to attend the panels I wanted to on Friday due to the huge lines. But one of the nice things is that to get into some of the other panels, you end up going early and sitting through other panels-- which lets you discover other interesting things you may not have known about.
 
 Avengers vs X-Men panel
-<a href="https://4.bp.blogspot.com/-jobHIv_PAvY/UATTGCOUopI/AAAAAAABQF4/6UvM07CpuBg/s800/2012-07-14+at+15-03-56.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-jobHIv_PAvY/UATTGCOUopI/AAAAAAABQF4/6UvM07CpuBg/s800/2012-07-14+at+15-03-56.jpg" alt="" /></a>
 
-<a href="https://www.imdb.com/title/tt2071645/">The Following</a> panel
-<a href="https://2.bp.blogspot.com/-vyjYuZ8Hto8/UATTHrDOoDI/AAAAAAABQGI/0LqdM8CjIu0/s800/2012-07-14+at+16-48-31.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-vyjYuZ8Hto8/UATTHrDOoDI/AAAAAAABQGI/0LqdM8CjIu0/s800/2012-07-14+at+16-48-31.jpg" alt="" /></a>
+![2012 San Diego Comic Con 53](/images/blog/2012-07-14-at-15-03-56.jpg)
 
-<a href="https://www.imdb.com/title/tt1839578/">Person of Interest</a> panel
-<a href="https://1.bp.blogspot.com/-RHnuUAA1U4o/UATTJU56rXI/AAAAAAABQGY/_4tEwDmOVug/s800/2012-07-14+at+17-24-19.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-RHnuUAA1U4o/UATTJU56rXI/AAAAAAABQGY/_4tEwDmOVug/s800/2012-07-14+at+17-24-19.jpg" alt="" /></a>
+[The Following](https://www.imdb.com/title/tt2071645/) panel
 
-Director <a href="https://en.wikipedia.org/wiki/Jon_Favreau">Jon Favreau</a> introducing the panel for Revolution.
-<a href="https://2.bp.blogspot.com/-btPR3pfbnE8/UATTJ_X0guI/AAAAAAABQGg/MzyK6OpiE2w/s800/2012-07-14+at+18-00-57.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-btPR3pfbnE8/UATTJ_X0guI/AAAAAAABQGg/MzyK6OpiE2w/s800/2012-07-14+at+18-00-57.jpg" alt="" /></a>
+![2012 San Diego Comic Con 54](/images/blog/2012-07-14-at-16-48-31.jpg)
 
-<a href="https://www.imdb.com/title/tt2070791/">Revolution</a> panel.
-<a href="https://4.bp.blogspot.com/-hRhKd90qvvw/UATTKe3viGI/AAAAAAABQGo/e06R0C4Mfko/s800/2012-07-14+at+18-51-01.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-hRhKd90qvvw/UATTKe3viGI/AAAAAAABQGo/e06R0C4Mfko/s800/2012-07-14+at+18-51-01.jpg" alt="" /></a>
+[Person of Interest](https://www.imdb.com/title/tt1839578/) panel
 
-<a href="https://www.imdb.com/title/tt0383126/">Mythbusters</a> panel was easily my favorite. I love the show, the cast, and the content. Very entertaining and great fans in the crowd to make it even better.
+![2012 San Diego Comic Con 55](/images/blog/2012-07-14-at-17-24-19.jpg)
 
-<a href="https://www.imdb.com/name/nm0000484/">John Landis</a> as moderator.
-<a href="https://2.bp.blogspot.com/-Cqgp_DUYJVk/UATTN56eZkI/AAAAAAABQHA/Cly5ZsIZ_Qo/s800/2012-07-14+at+19-22-15.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-Cqgp_DUYJVk/UATTN56eZkI/AAAAAAABQHA/Cly5ZsIZ_Qo/s800/2012-07-14+at+19-22-15.jpg" alt="" /></a>
+Director [Jon Favreau](https://en.wikipedia.org/wiki/Jon_Favreau) introducing the panel for Revolution.
+
+![2012 San Diego Comic Con 56](/images/blog/2012-07-14-at-18-00-57.jpg)
+
+[Revolution](https://www.imdb.com/title/tt2070791/) panel.
+
+![2012 San Diego Comic Con 57](/images/blog/2012-07-14-at-18-51-01.jpg)
+
+[Mythbusters](https://www.imdb.com/title/tt0383126/) panel was easily my favorite. I love the show, the cast, and the content. Very entertaining and great fans in the crowd to make it even better.
+
+[John Landis](https://www.imdb.com/name/nm0000484/) as moderator.
+
+![2012 San Diego Comic Con 58](/images/blog/2012-07-14-at-19-22-15.jpg)
 
 Tory Belleci
-<a href="https://4.bp.blogspot.com/-w1C8nLT_iZc/UATTOmElN2I/AAAAAAABQHI/sFmv9cjKgmE/s800/2012-07-14+at+19-22-32.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-w1C8nLT_iZc/UATTOmElN2I/AAAAAAABQHI/sFmv9cjKgmE/s800/2012-07-14+at+19-22-32.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 59](/images/blog/2012-07-14-at-19-22-32.jpg)
 
 Kari Byron
-<a href="https://1.bp.blogspot.com/-fzqf0pEWb2s/UATTPl-lhvI/AAAAAAABQHQ/-LykG8TnRFQ/s800/2012-07-14+at+19-22-43.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-fzqf0pEWb2s/UATTPl-lhvI/AAAAAAABQHQ/-LykG8TnRFQ/s800/2012-07-14+at+19-22-43.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 60](/images/blog/2012-07-14-at-19-22-43.jpg)
 
 Jamie Hyneman
-<a href="https://1.bp.blogspot.com/-HIcjzWq-O-A/UATTQLIfnaI/AAAAAAABQHY/-KJ-qQfi9qY/s800/2012-07-14+at+19-22-50.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-HIcjzWq-O-A/UATTQLIfnaI/AAAAAAABQHY/-KJ-qQfi9qY/s800/2012-07-14+at+19-22-50.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 61](/images/blog/2012-07-14-at-19-22-50.jpg)
 
 Grant Imahara
-<a href="https://1.bp.blogspot.com/-MyDJj-Nsj54/UATTRAeuzHI/AAAAAAABQHg/IBalByQMofo/s800/2012-07-14+at+19-22-56.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-MyDJj-Nsj54/UATTRAeuzHI/AAAAAAABQHg/IBalByQMofo/s800/2012-07-14+at+19-22-56.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 62](/images/blog/2012-07-14-at-19-22-56.jpg)
 
 Adam Savage
-<a href="https://4.bp.blogspot.com/-xGQnxKWrtuk/UATTR5fWS4I/AAAAAAABQHo/z4hJ43DZoEs/s800/2012-07-14+at+19-23-06.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-xGQnxKWrtuk/UATTR5fWS4I/AAAAAAABQHo/z4hJ43DZoEs/s800/2012-07-14+at+19-23-06.jpg" alt="" /></a>
+
+![2012 San Diego Comic Con 63](/images/blog/2012-07-14-at-19-23-06.jpg)
 
 ### Some Thoughts
 
@@ -221,10 +252,10 @@ The good thing is that big money is making its way in. There's great free schwag
 
 The bad thing is that it's not easy to get tickets, hotel, and the lines are very very long. I often joke that it's more of a line-con than a comic-con. I stood in line for one hour just to get SDCC t-shirts! It would make way more sense to have these available to order online before or after the con. There is a lot more mainstream demand to get into this. I'm sure that there are people in the thousands, if not tens of thousands that are upset that they couldn't get tickets.
 
-That all said, <i>Comic Con has outgrown the convention center there</i>. <i>It needs a bigger venue</i>. It's really sad how only the super fans that sleep overnight in line are the ones that can get into Hall H or Ballroom 20, the two biggest rooms at the convention center. Also, scheduling is a big factor. On Friday I wanted to see Walking Dead, Game of Thrones, and Sony Pictures-- which were all scheduled back to back. You probably needed to wait at least six hours in line to be one of the last set of people to fill Hall H. SIX HOURS. It shouldn't be like that. The popular panels should be spread out across more days or more rooms, so people have to choose one or the other. It just seemed to me that more people were waiting outside to get into Hall H than it could hold.
+That all said, *Comic Con has outgrown the convention center there*. *It needs a bigger venue*. It's really sad how only the super fans that sleep overnight in line are the ones that can get into Hall H or Ballroom 20, the two biggest rooms at the convention center. Also, scheduling is a big factor. On Friday I wanted to see Walking Dead, Game of Thrones, and Sony Pictures-- which were all scheduled back to back. You probably needed to wait at least six hours in line to be one of the last set of people to fill Hall H. SIX HOURS. It shouldn't be like that. The popular panels should be spread out across more days or more rooms, so people have to choose one or the other. It just seemed to me that more people were waiting outside to get into Hall H than it could hold.
 
-As for deals on comic books and TPBs, it's gotten better. What I didn't like about shopping on the floor two years ago was that the deals I found weren't all that great. Same with <a href="https://www.anime-expo.org/">Anime Expo</a>. Unless what you were buying was a exclusive item or hard to find, it's just better to buy it online. This year the deals on the last day were spectacular. After my initial research, they were much better than what's offered <i>anywhere</i>.
+As for deals on comic books and TPBs, it's gotten better. What I didn't like about shopping on the floor two years ago was that the deals I found weren't all that great. Same with [Anime Expo](https://www.anime-expo.org/). Unless what you were buying was a exclusive item or hard to find, it's just better to buy it online. This year the deals on the last day were spectacular. After my initial research, they were much better than what's offered *anywhere*.
 
-<a href="https://2.bp.blogspot.com/-dJPi5QCeLgM/UATTmklXsfI/AAAAAAABQKA/A9WPlBDSdPQ/s800/2012-07-15+at+12-20-31.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-dJPi5QCeLgM/UATTmklXsfI/AAAAAAABQKA/A9WPlBDSdPQ/s800/2012-07-15+at+12-20-31.jpg" alt="" /></a>
+![2012 San Diego Comic Con 64](/images/blog/2012-07-15-at-12-20-31.jpg)
 
 I only criticize because I love. I want Comic Con to get better and make the attendees happy. I do plan to make this a regular thing every year with my sisters. It really is fun, but I think I'll avoid some of the bigger panels unless they schedule things really well. Until next year!

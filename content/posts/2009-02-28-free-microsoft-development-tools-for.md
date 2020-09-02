@@ -7,8 +7,8 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-03T03:54:09.869-06:00'
 redirect_from: /2009/02/free-microsoft-development-tools-for.html
 tags:
-  - Technology
   - Software Development
+  - Technology
 old_thumbnail: https://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s800/microsoft_dreamspark.png
 thumbnail: /images/blog/tn_microsoft_dreamspark.jpg
 title: Free Microsoft Development Tools for Students on DreamSpark

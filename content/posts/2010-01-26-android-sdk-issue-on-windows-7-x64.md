@@ -7,10 +7,10 @@ headerimage: /images/headers/android.jpg
 modified_time: '2014-08-07T20:14:24.526-05:00'
 redirect_from: /2010/01/android-sdk-issue-on-windows-7-x64.html
 tags:
-  - Technology
-  - Software Development
   - Android
   - Guide
+  - Software Development
+  - Technology
 old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/S1-JuvXb-TI/AAAAAAAAOEc/-7CpDZMLDBA/s800/Android_error_message_64bit.jpg
 thumbnail: /images/blog/tn_default.jpg
 title: Android SDK issue on Windows 7 x64

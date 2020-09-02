@@ -8,8 +8,8 @@ modified_time: '2014-08-08T17:00:46.863-05:00'
 redirect_from: /2009/02/vending-machine-at-work.html
 tags:
   - Chicago
-  - Personal
   - Funny
+  - Personal
 old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SZzbaX6EZ2I/AAAAAAAAIks/UHThbD6zBb0/s800/vending_machine.jpg
 thumbnail: /images/blog/tn_vending_machine.jpg
 title: The Vending Machine at Work

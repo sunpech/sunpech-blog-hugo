@@ -7,8 +7,8 @@ headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T17:02:47.593-05:00'
 redirect_from: /2008/08/best-free-software-recommendations-for.html
 tags:
-  - Technology
   - Review
+  - Technology
 thumbnail: /images/blog/tn_default.jpg
 title: Best Free Software Recommendations for 2008
 ---

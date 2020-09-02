@@ -7,11 +7,11 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:23:36.299-05:00'
 redirect_from: /2011/02/pictures-from-february-2011-bkk-web.html
 tags:
-  - Software Development
-  - Personal
-  - Travel
-  - Meetup
   - Bangkok
+  - Meetup
+  - Personal
+  - Software Development
+  - Travel
 old_thumbnail: https://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s800/IMG_4802.JPG
 thumbnail: /images/blog/tn_2011-bkk-web-meetup.jpg
 title: Pictures from February 2011 BKK Web Meetup

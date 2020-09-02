@@ -7,10 +7,10 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-08T16:55:17.684-05:00'
 redirect_from: /2011/04/stack-overflow-meetup-in-bangkok.html
 tags:
+  - Bangkok
+  - Meetup
   - Software Development
   - Travel
-  - Meetup
-  - Bangkok
 old_thumbnail: https://1.bp.blogspot.com/-rLGnZkN3LLU/TZyzokx6FbI/AAAAAAAAlKU/Jef39GJ7jWk/s800/IMG_5316.JPG
 thumbnail: /images/blog/tn_2011-stackoverflow-meetup-bkk.jpg
 title: Stack Overflow Meetup in Bangkok

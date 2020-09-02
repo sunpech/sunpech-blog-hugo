@@ -8,8 +8,8 @@ modified_time: '2012-01-11T03:43:33.686-06:00'
 redirect_from: /2010/08/september-2010-tech-events-in-chicago.html
 tags:
   - Chicago
-  - Software Development
   - Meetup
+  - Software Development
 thumbnail: /images/blog/tn_default.jpg
 title: September 2010 Tech Events in Chicago
 ---

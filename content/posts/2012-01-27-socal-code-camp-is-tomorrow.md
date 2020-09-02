@@ -7,63 +7,64 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2012-01-30T07:49:29.140-06:00'
 redirect_from: /2012/01/socal-code-camp-is-tomorrow.html
 tags:
-  - Software Development
   - Code Camp
+  - Software Development
+thumbnail: /images/blog/tn_default.jpg
 title: SoCal Code Camp is tomorrow
 ---
 
 
-<a href="https://www.socalcodecamp.com/">SoCal Code Camp</a> is tomorrow. <a href="https://www.socalcodecamp.com/sessions.aspx">Sessions</a> have been posted, as well as the <a href="https://www.socalcodecamp.com/schedule.aspx">schedule</a>. It's a two day event, January 28 and 29 (Saturday and Sunday), full of sessions on a variety of software development topics.
+[SoCal Code Camp](https://www.socalcodecamp.com) is tomorrow. [Sessions](https://www.socalcodecamp.com/sessions.aspx) have been posted, as well as the [schedule](https://www.socalcodecamp.com/schedule.aspx). It's a two day event, January 28 and 29 (Saturday and Sunday), full of sessions on a variety of software development topics.
 
 Did I mention that it's FREE?!
 
-It will be hosted at <a href="https://fullerton.edu/">California State University Fullerton</a>. Here is a <a href="https://www.fullerton.edu/campusmap/CampusMap.htm">campus map</a> to help you.
+It will be hosted at [California State University Fullerton](https://fullerton.edu). Here is a [campus map](https://www.fullerton.edu/campusmap/CampusMap.htm) to help you.
 
 I will be there bright and early volunteering and probably taking photos. Should be a good time!
 
 The sessions I'm interested in checking out:
 
 #### Jan 28 Sessions:
-<span style="font-family: 'Courier New', Courier, monospace;">08:45am</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- CSS3 for Web Designers - Let's Design a Visually Appealing Website</span>
+08:45am
+- CSS3 for Web Designers - Let's Design a Visually Appealing Website
 
-<span style="font-family: 'Courier New', Courier, monospace;">- Working for Startups - What you need to know</span>
+- Working for Startups - What you need to know
 
-<span style="font-family: 'Courier New', Courier, monospace;">10:00am</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- Grid Systems - Picking the right CSS Framework for your Website</span>
+10:00am
+- Grid Systems - Picking the right CSS Framework for your Website
 
-<span style="font-family: 'Courier New', Courier, monospace;">12:15pm</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- Free</span>
+12:15pm
+- Free
 
-<span style="font-family: 'Courier New', Courier, monospace;">01:30pm</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- Volunteering</span>
+01:30pm
+- Volunteering
 
-<span style="font-family: 'Courier New', Courier, monospace;">02:45pm</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- Volunteering</span>
+02:45pm
+- Volunteering
 
-<span style="font-family: 'Courier New', Courier, monospace;">04:00pm</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- Writing Maintainable Javascript (Part 1)</span>
+04:00pm
+- Writing Maintainable Javascript (Part 1)
 
-<span style="font-family: 'Courier New', Courier, monospace;">- BI/Big Data - Is it really all about the Cloud?</span>
+- BI/Big Data - Is it really all about the Cloud?
 
 #### Jan 29 Sessions:
 
-<span style="font-family: 'Courier New', Courier, monospace;">09:00am</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- It is Time to Rev your Javascript Skill</span>
+09:00am
+- It is Time to Rev your Javascript Skill
 
-<span style="font-family: 'Courier New', Courier, monospace;">10:15am</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- Quick and Dirty jQuery</span>
+10:15am
+- Quick and Dirty jQuery
 
-<span style="font-family: 'Courier New', Courier, monospace;">12:30pm</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- Introduction to Node.js</span>
+12:30pm
+- Introduction to Node.js
 
-<span style="font-family: 'Courier New', Courier, monospace;">- Intro to Mobile Development for Web, iOS, and Android Native Apps using PhoneGap and HTML5</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- NoSQL for Beginners - Part 1</span>
+- Intro to Mobile Development for Web, iOS, and Android Native Apps using PhoneGap and HTML5
+- NoSQL for Beginners - Part 1
 
-<span style="font-family: 'Courier New', Courier, monospace;">01:45pm</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- From CodeMonkey to CEO: Part 1 Leadership 101</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- NoSQL for Beginngers - Part 2</span>
+01:45pm
+- From CodeMonkey to CEO: Part 1 Leadership 101
+- NoSQL for Beginngers - Part 2
 
-<span style="font-family: 'Courier New', Courier, monospace;">03:00pm</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- How to Survive the Technical Interview</span>
-<span style="font-family: 'Courier New', Courier, monospace;">- From CodeMonkey to CEO - Part 2 Innovation Literacy</span>
+03:00pm
+- How to Survive the Technical Interview
+- From CodeMonkey to CEO - Part 2 Innovation Literacy

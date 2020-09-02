@@ -8,9 +8,9 @@ modified_time: '2014-08-09T20:09:43.391-05:00'
 redirect_from: /2011/07/pictures-from-july-refresh-and-ignite.html
 tags:
   - Chicago
-  - Software Development
   - Meetup
-old_thumbnail: https://1.bp.blogspot.com/-3c9eM45Hc24/TjDjycmckJI/AAAAAAAAsrY/goiIaQnBwi0/s800/2011-07-27-at-18-34-09.jpg
+  - Software Development
+old_thumbnail: https://1.bp.blogspot.com/-3c9eM45Hc24/TjDjycmckJI/AAAAAAAAsrY/goiIaQnBwi0/s800/2011-07-27+at+18-34-09.jpg
 thumbnail: /images/blog/tn_2011-july-refresh-ignite-chicago.jpg
 title: Pictures from July's Refresh and Ignite Chicago
 ---

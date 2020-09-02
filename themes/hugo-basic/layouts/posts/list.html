@@ -5,7 +5,10 @@
     <h2>{{ .Key }}</h2>
     <ul>
       {{ range .Pages }}  
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date.Format "January 2, 2006" }}</li>
+      <li>
+        <!--<img src="{{ .Params.thumbnail }}" alt="" /> -->
+        <a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date.Format "January 2, 2006" }}
+      </li>
       {{ end }}
     </ul>
   {{ end }}

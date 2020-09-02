@@ -8,8 +8,8 @@ modified_time: '2012-01-11T03:46:58.328-06:00'
 redirect_from: /2008/07/event-social-dev-camp-chicago.html
 tags:
   - Chicago
-  - Software Development
   - Meetup
+  - Software Development
 thumbnail: /images/blog/tn_default.jpg
 title: 'Event: Social Dev Camp Chicago'
 ---

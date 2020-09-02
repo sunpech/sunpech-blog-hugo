@@ -7,9 +7,9 @@ headerimage: /images/headers/android.jpg
 modified_time: '2014-08-09T19:58:26.361-05:00'
 redirect_from: /2011/11/kindle-fire-review.html
 tags:
-  - Technology
-  - Review
   - Android
+  - Review
+  - Technology
 old_thumbnail: https://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s800/www-3.jpeg
 thumbnail: /images/blog/tn_2011-kindle-fire.jpg
 title: Kindle Fire Review

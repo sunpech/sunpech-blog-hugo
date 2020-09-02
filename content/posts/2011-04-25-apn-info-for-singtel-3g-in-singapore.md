@@ -7,8 +7,8 @@ headerimage: /images/headers/joshua_tree.jpg
 modified_time: '2014-08-08T16:54:58.656-05:00'
 redirect_from: /2011/04/apn-info-for-singtel-3g-in-singapore.html
 tags:
-  - Travel
   - Singapore
+  - Travel
 old_thumbnail: https://4.bp.blogspot.com/-GPlnDEX8OyY/TbTb--h4vBI/AAAAAAAAnCg/6u5Y_2GY-Bw/s800/IMG_20110425_102052.jpg
 thumbnail: /images/blog/tn_2011-singtel-card.jpg
 title: APN Info for Singtel's 3G in Singapore

@@ -7,56 +7,56 @@ headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-07T16:21:33.212-05:00'
 redirect_from: /2012/01/designers-hub-meet-and-greet.html
 tags:
-  - Technology
   - Los Angeles
   - Meetup
-thumbnail: https://1.bp.blogspot.com/-Kcp9ikdCPh0/TxlS9ycaiCI/AAAAAAAA2sA/HHwSnU_FCbk/s800/2012-01-19+at+19-50-48.jpg
+  - Technology
+old_thumbnail: https://1.bp.blogspot.com/-Kcp9ikdCPh0/TxlS9ycaiCI/AAAAAAAA2sA/HHwSnU_FCbk/s800/2012-01-19+at+19-50-48.jpg
+thumbnail: /images/blog/tn_2012-kleverdog-coworking.jpg
 title: Designer's Hub Meet and Greet
 ---
 
-
-Last night I went to LA's <a href="https://www.meetup.com/Designers-Hub/events/48232482/">Designer's Hub Meet and Greet event</a>
+Last night I went to LA's [Designer's Hub Meet and Greet event](https://www.meetup.com/Designers-Hub/events/48232482/)
  hosted at Kleverdog, a co-working space located in Chinatown. This was their first event. It was a very nice meetup about essentially building a community of designers. There were a lot of ideas thrown out about what the group could be about. I personally would like to have a community to turn to, in-person, for me to learn more about the tools and techniques in graphics design-- notably Photoshop, Lightroom, and Aperture.
 
 I had a great time and look forward to the next meetup that I can attend. Thanks to Kleverdog for hosting and sponsoring the pizza!
 
-<a href="https://kleverdogcoworking.com/">Kleverdog Coworking</a><br/>
-418 Bamboo Lane, Suite A<br />
+[Kleverdog Coworking](https://kleverdogcoworking.com/)\
+418 Bamboo Lane, Suite A\
 Los Angeles, CA 90012
 
-A picture dump of all pictures I take at meetups this year can be found <a href="https://picasaweb.google.com/101693597219413173200/2012Meetups">here</a>
+A picture dump of all pictures I take at meetups this year can be found [here](https://photos.app.goo.gl/ZGMY4vXSLDkCiRMt7)
 .
 
 ### Pictures
 
-<a href="https://1.bp.blogspot.com/-Kcp9ikdCPh0/TxlS9ycaiCI/AAAAAAAA2sA/HHwSnU_FCbk/s800/2012-01-19+at+19-50-48.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-Kcp9ikdCPh0/TxlS9ycaiCI/AAAAAAAA2sA/HHwSnU_FCbk/s800/2012-01-19+at+19-50-48.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-19-50-48.jpg)
 
-<a href="https://2.bp.blogspot.com/-XXSqiR7kfzo/TxlS-6VqlnI/AAAAAAAA2sI/hFsH7ePzKfo/s800/2012-01-19+at+19-51-09.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-XXSqiR7kfzo/TxlS-6VqlnI/AAAAAAAA2sI/hFsH7ePzKfo/s800/2012-01-19+at+19-51-09.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-19-51-09.jpg)
 
-<a href="https://2.bp.blogspot.com/-ChxWbFuOpyY/TxlS_Q2YfqI/AAAAAAAA2sQ/q0CszirAXDE/s800/2012-01-19+at+19-51-33.jpg" alt=""><img   border="0"  src="https://2.bp.blogspot.com/-ChxWbFuOpyY/TxlS_Q2YfqI/AAAAAAAA2sQ/q0CszirAXDE/s800/2012-01-19+at+19-51-33.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-19-51-33.jpg)
 
-<a href="https://4.bp.blogspot.com/-60XzlvW9lJk/TxlTAFkRVHI/AAAAAAAA2sY/xplVLaDqnv8/s800/2012-01-19+at+19-54-52.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-60XzlvW9lJk/TxlTAFkRVHI/AAAAAAAA2sY/xplVLaDqnv8/s800/2012-01-19+at+19-54-52.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-19-54-52.jpg)
 
-<a href="https://1.bp.blogspot.com/-TZpEgZ80N-w/TxlTCKvPoeI/AAAAAAAA2sw/r2aupuwYFkw/s800/2012-01-19+at+20-11-07.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-TZpEgZ80N-w/TxlTCKvPoeI/AAAAAAAA2sw/r2aupuwYFkw/s800/2012-01-19+at+20-11-07.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-20-11-07.jpg)
 
-<a href="https://3.bp.blogspot.com/-ZwkYBW8Ozgk/TxlTCh97BoI/AAAAAAAA2s4/0ELJ1sR-al0/s800/2012-01-19+at+20-12-15.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-ZwkYBW8Ozgk/TxlTCh97BoI/AAAAAAAA2s4/0ELJ1sR-al0/s800/2012-01-19+at+20-12-15.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-20-12-15.jpg)
 
-<a href="https://3.bp.blogspot.com/-iVEh7wr2oUk/TxlTFJ94d9I/AAAAAAAA2tY/o-pYRBV0EkM/s800/2012-01-19+at+20-23-59.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-iVEh7wr2oUk/TxlTFJ94d9I/AAAAAAAA2tY/o-pYRBV0EkM/s800/2012-01-19+at+20-23-59.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-20-23-59.jpg)
 
-<a href="https://4.bp.blogspot.com/-jlMLnwnymOw/TxlTFu5EVOI/AAAAAAAA2tg/SbsI_7uWAkI/s800/2012-01-19+at+20-31-36.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-jlMLnwnymOw/TxlTFu5EVOI/AAAAAAAA2tg/SbsI_7uWAkI/s800/2012-01-19+at+20-31-36.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-20-31-36.jpg)
 
-<a href="https://3.bp.blogspot.com/-_kHCRYlk88Q/TxlTGRu_1AI/AAAAAAAA2to/8E_WnXLj-iQ/s800/2012-01-19+at+20-37-45.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-_kHCRYlk88Q/TxlTGRu_1AI/AAAAAAAA2to/8E_WnXLj-iQ/s800/2012-01-19+at+20-37-45.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-20-37-45.jpg)
 
-<a href="https://3.bp.blogspot.com/-rxqd6Bz0wS0/TxlTG70IsNI/AAAAAAAA2tw/IPXJy7c67fc/s800/2012-01-19+at+20-52-43.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-rxqd6Bz0wS0/TxlTG70IsNI/AAAAAAAA2tw/IPXJy7c67fc/s800/2012-01-19+at+20-52-43.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-20-52-43.jpg)
 
-<a href="https://3.bp.blogspot.com/-oIz8Cn3ncUg/TxlTIWWFIdI/AAAAAAAA2uA/XpN1QQQFO60/s800/2012-01-19+at+20-56-13.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-oIz8Cn3ncUg/TxlTIWWFIdI/AAAAAAAA2uA/XpN1QQQFO60/s800/2012-01-19+at+20-56-13.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-20-56-13.jpg)
 
-<a href="https://4.bp.blogspot.com/-v8_1cdleiPQ/TxlTJ_DjDwI/AAAAAAAA2uQ/HwffxOo_WtM/s800/2012-01-19+at+21-09-35.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-v8_1cdleiPQ/TxlTJ_DjDwI/AAAAAAAA2uQ/HwffxOo_WtM/s800/2012-01-19+at+21-09-35.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-21-09-35.jpg)
 
-<a href="https://3.bp.blogspot.com/-8AtQalIs-bM/TxlTKsF7vZI/AAAAAAAA2uY/75RKcffVjmw/s800/2012-01-19+at+21-09-51.jpg" alt=""><img   border="0"  src="https://3.bp.blogspot.com/-8AtQalIs-bM/TxlTKsF7vZI/AAAAAAAA2uY/75RKcffVjmw/s800/2012-01-19+at+21-09-51.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-21-09-51.jpg)
 
-<a href="https://1.bp.blogspot.com/-LUXbNJqbPEM/TxlTL2rqYuI/AAAAAAAA2uo/Qyh93sDf4HI/s800/2012-01-19+at+21-10-05.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-LUXbNJqbPEM/TxlTL2rqYuI/AAAAAAAA2uo/Qyh93sDf4HI/s800/2012-01-19+at+21-10-05.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-21-10-05.jpg)
 
-<a href="https://1.bp.blogspot.com/-oVwG8AZYlIY/TxlTMZCtPFI/AAAAAAAA2uw/_J9rjt_Y4bw/s800/2012-01-19+at+21-10-16.jpg" alt=""><img   border="0"  src="https://1.bp.blogspot.com/-oVwG8AZYlIY/TxlTMZCtPFI/AAAAAAAA2uw/_J9rjt_Y4bw/s800/2012-01-19+at+21-10-16.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-21-10-16.jpg)
 
-<a href="https://4.bp.blogspot.com/-py0JANEIoKI/TxlTMwDSUjI/AAAAAAAA2u4/Hg8RDhxWaHo/s800/2012-01-19+at+21-10-36.jpg" alt=""><img   border="0"  src="https://4.bp.blogspot.com/-py0JANEIoKI/TxlTMwDSUjI/AAAAAAAA2u4/Hg8RDhxWaHo/s800/2012-01-19+at+21-10-36.jpg" alt=""  /></a>
+![2012 Designers Hub Meet and Greet - 1](/images/blog/2012-01-19-at-21-10-36.jpg)

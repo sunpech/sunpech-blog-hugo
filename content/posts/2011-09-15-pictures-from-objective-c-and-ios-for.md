@@ -8,9 +8,9 @@ modified_time: '2014-08-07T16:23:36.292-05:00'
 redirect_from: /2011/09/pictures-from-objective-c-and-ios-for.html
 tags:
   - Chicago
-  - Software Development
   - Meetup
-old_thumbnail: https://1.bp.blogspot.com/-mQ_mE8LWKKM/TnGB6qLKqnI/AAAAAAAAucU/7ElGf42YqLY/s800/2011-09-14-at-16-28-37.jpg
+  - Software Development
+old_thumbnail: https://1.bp.blogspot.com/-mQ_mE8LWKKM/TnGB6qLKqnI/AAAAAAAAucU/7ElGf42YqLY/s800/2011-09-14+at+16-28-37.jpg
 thumbnail: /images/blog/tn_2011-objective-c-ios-net-developers.jpg
 title: Pictures from Objective-C and iOS for .NET Developers
 ---

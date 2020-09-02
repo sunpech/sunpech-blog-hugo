@@ -7,8 +7,8 @@ headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-08T16:59:54.574-05:00'
 redirect_from: /2009/02/tropicanas-new-logo-design.html
 tags:
-  - Technology
   - Design
+  - Technology
 old_thumbnail: https://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s800/1235483922047.jpg
 thumbnail: /images/blog/tn_1235483922047.jpg
 title: Tropicana's New Logo Design

@@ -8,8 +8,8 @@ modified_time: '2012-01-11T03:43:33.692-06:00'
 redirect_from: /2011/05/upcoming-meetups-for-spring-and-summer.html
 tags:
   - Chicago
-  - Software Development
   - Meetup
+  - Software Development
 thumbnail: /images/blog/tn_default.jpg
 title: Upcoming Meetups for Spring and Summer 2011
 ---

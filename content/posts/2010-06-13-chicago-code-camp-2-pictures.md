@@ -8,8 +8,8 @@ modified_time: '2014-08-08T16:58:10.417-05:00'
 redirect_from: /2010/06/chicago-code-camp-2-pictures.html
 tags:
   - Chicago
-  - Software Development
   - Code Camp
+  - Software Development
 old_thumbnail: https://3.bp.blogspot.com/-Nke0rU7WhHw/S95NA89AsII/AAAAAAAAPmA/Xy74BEHWndk/s800/2010-05-01+08.48.30.jpg
 thumbnail: /images/blog/tn_chicago-code-camp-2.jpg
 title: Chicago Code Camp 2 Pictures

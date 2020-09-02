@@ -8,9 +8,9 @@ modified_time: '2014-08-18T09:11:55.771-05:00'
 redirect_from: /2011/05/pictures-from-chicago-code-camp-2011.html
 tags:
   - Chicago
-  - Software Development
   - Code Camp
-old_thumbnail: https://4.bp.blogspot.com/-rmrocbUzGGI/Tc9CXwGtkvI/AAAAAAAAnxQ/FCmoXpNe_bM/s800/2011-05-14-at-08-29-25.jpg
+  - Software Development
+old_thumbnail: https://4.bp.blogspot.com/-rmrocbUzGGI/Tc9CXwGtkvI/AAAAAAAAnxQ/FCmoXpNe_bM/s800/2011-05-14+at+08-29-25.jpg
 thumbnail: /images/blog/tn_2011-chicago-code-camp-schedule.jpg
 title: Pictures from Chicago Code Camp 2011
 ---

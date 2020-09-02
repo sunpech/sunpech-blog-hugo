@@ -7,8 +7,8 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-18T09:09:49.959-05:00'
 redirect_from: /2008/08/software-development-comic.html
 tags:
-  - Software Development
   - Funny
+  - Software Development
 old_thumbnail: https://3.bp.blogspot.com/_7U5MdumP-no/SKm5e1gA9iI/AAAAAAAAAlg/crpgqO6Ooms/s800/software_development.jpg
 thumbnail: /images/blog/tn_software-development.jpg
 title: Software Development Comic

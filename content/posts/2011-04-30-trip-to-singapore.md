@@ -8,8 +8,8 @@ modified_time: '2014-08-09T20:20:34.081-05:00'
 redirect_from: /2011/05/trip-to-singapore.html
 tags:
   - Personal
-  - Travel
   - Singapore
+  - Travel
 old_thumbnail: https://3.bp.blogspot.com/-YqGssZIltHs/TbQt1qQRk0I/AAAAAAAAm6U/lJ3I9xCjPxg/s800/IMG_6276.JPG
 thumbnail: /images/blog/tn_2011-singapore-trip.jpg
 title: Trip to Singapore

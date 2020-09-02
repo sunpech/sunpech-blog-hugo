@@ -8,9 +8,9 @@ modified_time: '2014-08-07T16:23:36.281-05:00'
 redirect_from: /2011/08/pictures-from-chicago-altnet.html
 tags:
   - Chicago
-  - Software Development
   - Meetup
-old_thumbnail: https://2.bp.blogspot.com/-N_2PXu0zwmE/TkM-aoAp9nI/AAAAAAAAtNI/yorZqGndvo0/s800/2011-08-10-at-18-34-11.jpg
+  - Software Development
+old_thumbnail: https://2.bp.blogspot.com/-N_2PXu0zwmE/TkM-aoAp9nI/AAAAAAAAtNI/yorZqGndvo0/s800/2011-08-10+at+18-34-11.jpg
 thumbnail: /images/blog/tn_2011-chicago-alt-net-coffeescript.jpg
 title: 'Pictures from Chicago Alt.net: Coffeescript'
 ---

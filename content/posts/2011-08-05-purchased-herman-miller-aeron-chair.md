@@ -7,9 +7,9 @@ headerimage: /images/headers/technology.jpg
 modified_time: '2014-08-09T20:01:11.513-05:00'
 redirect_from: /2011/08/purchased-herman-miller-aeron-chair.html
 tags:
-  - Technology
-  - Review
   - Personal
+  - Review
+  - Technology
 old_thumbnail: https://2.bp.blogspot.com/-6D5Og5RH0Ig/TxVmC40SSpI/AAAAAAAA2os/kWZWK6GL8y4/s800/JfGCq.jpeg
 thumbnail: /images/blog/tn_herman-miller-aeron-chair.jpg
 title: Purchased a Herman Miller Aeron Chair

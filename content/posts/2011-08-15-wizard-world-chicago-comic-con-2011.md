@@ -9,8 +9,8 @@ redirect_from: /2011/08/wizard-world-chicago-comic-con-2011.html
 tags:
   - Chicago
   - Cosplay
-  - Comic Con
-old_thumbnail: https://2.bp.blogspot.com/-DpM_DZxtaiw/TkdDIQLUtuI/AAAAAAAAtRM/dO48OHyomiI/s800/2011-08-13-at-11-47-40.jpg
+  - Wizard World Chicago
+old_thumbnail: https://2.bp.blogspot.com/-DpM_DZxtaiw/TkdDIQLUtuI/AAAAAAAAtRM/dO48OHyomiI/s800/2011-08-13+at+11-47-40.jpg
 thumbnail: /images/blog/tn_2011-wizard-world-chicago.jpg
 title: Wizard World Chicago Comic Con 2011
 ---

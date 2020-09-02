@@ -7,10 +7,10 @@ headerimage: /images/headers/software_development.jpg
 modified_time: '2014-08-07T16:21:33.251-05:00'
 redirect_from: /2011/12/pictures-from-la-dotnet-december-meetup.html
 tags:
-  - Software Development
   - Los Angeles
   - Meetup
-old_thumbnail: https://2.bp.blogspot.com/-pCkOKh6JiaQ/Tt25R0BSYTI/AAAAAAAAxtg/4ZTwhQ45MVM/s800/2011-12-05-at-19-31-47.jpg
+  - Software Development
+old_thumbnail: https://2.bp.blogspot.com/-pCkOKh6JiaQ/Tt25R0BSYTI/AAAAAAAAxtg/4ZTwhQ45MVM/s800/2011-12-05+at+19-31-47.jpg
 thumbnail: /images/blog/tn_2011-la-dotnet-december-meetup.jpg
 title: Pictures from LA DotNet December Meetup
 ---
