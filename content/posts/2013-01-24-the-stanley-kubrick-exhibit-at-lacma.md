@@ -7,37 +7,40 @@ headerimage: /images/headers/los_angeles.jpg
 modified_time: '2014-08-07T16:21:11.871-05:00'
 redirect_from: /2013/01/the-stanley-kubrick-exhibit-at-lacma.html
 tags:
-  - Los Angeles
   - Events
-thumbnail: https://2.bp.blogspot.com/-9E3ZzvtHbTk/UQHd5KVuODI/AAAAAAABYZU/oAVNDhWpGGI/s800/IMG_20130124_163545.jpg
+  - Los Angeles
+  - Photography
+old_thumbnail: https://2.bp.blogspot.com/-9E3ZzvtHbTk/UQHd5KVuODI/AAAAAAABYZU/oAVNDhWpGGI/s800/IMG_20130124_163545.jpg
+thumbnail: /images/blog/tn_2013-stanley-kubrick-lacma.jpg
 title: The Stanley Kubrick Exhibit at LACMA
 ---
 
+Today I checked out the [Stanley Kubrick Exhibit](https://www.lacma.org/art/exhibition/stanley-kubrick) at the [Los Angeles County Museum of Art (LACMA)](https://www.lacma.org/). To be honest, I'm not all too familiar with [Stanley Kubrick's](https://en.wikipedia.org/wiki/Stanley_Kubrick) work. There are only two of his movies that I can say I watched entirely: [Eyes Wide Shut](https://www.imdb.com/title/tt0120663/) and [A.I. Artificial Intelligence](https://www.imdb.com/title/tt0212720/). The latter being more Spielberg than Kubrick anyway.
 
-Today I checked out the <a href="https://www.lacma.org/art/exhibition/stanley-kubrick">Stanley Kubrick Exhibit</a> at the <a href="https://www.lacma.org/">Los Angeles County Museum of Art (LACMA)</a>. To be honest, I'm not all too familiar with <a href="https://en.wikipedia.org/wiki/Stanley_Kubrick">Stanley Kubrick's</a> work. There are only two of his movies that I can say I watched entirely: <a href="https://www.imdb.com/title/tt0120663/">Eyes Wide Shut</a> and <a href="https://www.imdb.com/title/tt0212720/">A.I. Artificial Intelligence</a>. The latter being more Spielberg than Kubrick anyway.
-
-I hear that a lot of people either really like Kubrick's films, or really dislike them. I've seen bits and pieces of his movies for the most part-- <a href="https://www.imdb.com/title/tt0081505/">The Shining</a>, <a href="https://www.imdb.com/title/tt0062622">2001: A Space Odyssey</a>, <a href="https://www.imdb.com/title/tt0057012">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</a>, <a href="https://www.imdb.com/title/tt0093058">Full Metal Jacket</a>, and <a href="https://www.imdb.com/title/tt0054331">Spartacus</a>. I've always found his films to be unsettling and erie. I'm just never in the mood to watch them in it's entirety.
+I hear that a lot of people either really like Kubrick's films, or really dislike them. I've seen bits and pieces of his movies for the most part-- [The Shining](https://www.imdb.com/title/tt0081505/), [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622), [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](https://www.imdb.com/title/tt0057012), [Full Metal Jacket](https://www.imdb.com/title/tt0093058), and [Spartacus](https://www.imdb.com/title/tt0054331). I've always found his films to be unsettling and erie. I'm just never in the mood to watch them in it's entirety.
 
 After seeing this exhibit, and enjoying it so much, has me considering giving his movies another try. In all likely hood, I'll fall asleep watching his films.
 
 I took the pictures below with my Galaxy Nexus Android phone. I didn't post-process or re-crop them at all, they are straight from the device.
 
-Full set of pictures can be found <a href="https://picasaweb.google.com/101693597219413173200/2013StanleyKubrickExhibitAtLACMA">here</a>.
+Full set of pictures can be found [here](https://photos.app.goo.gl/Xtz13YJoUwKpiWXg6).
 
-<img   border="0" src="https://2.bp.blogspot.com/-9E3ZzvtHbTk/UQHd5KVuODI/AAAAAAABYZU/oAVNDhWpGGI/s400/IMG_20130124_163545.jpg" alt="" />
+### Pictures
 
-<img   border="0" src="https://3.bp.blogspot.com/-sE6TjJQow0E/UQHd8bzGl3I/AAAAAAABYaE/3XOahgPJ5Zw/s400/IMG_20130124_161317.jpg" alt="" />
+![Stanley Kubrick Exhibit at LACMA 1](/images/blog/IMG_20130124_163545.jpg)
 
-<img   border="0"  src="https://3.bp.blogspot.com/-S1VUVWv80V0/UQHd9-xCAEI/AAAAAAABYac/cIBBiKMgpWY/s400/IMG_20130124_161943.jpg" alt="" />
+![Stanley Kubrick Exhibit at LACMA 2](/images/blog/IMG_20130124_161317.jpg)
 
-<img   border="0" src="https://3.bp.blogspot.com/-cUw1poVOpsk/UQHd_CUhBTI/AAAAAAABYas/5ctiBzL-R6E/s400/IMG_20130124_155118.jpg" alt="" />
+![Stanley Kubrick Exhibit at LACMA 3](/images/blog/IMG_20130124_161943.jpg)
 
-<img   border="0" src="https://1.bp.blogspot.com/-PL3LerGaQ0U/UQHd_8NfLnI/AAAAAAABYa0/BoAUgUE9VnU/s400/IMG_20130124_155133.jpg" alt="" />
+![Stanley Kubrick Exhibit at LACMA 4](/images/blog/IMG_20130124_155118.jpg)
 
-<img   border="0"  src="https://2.bp.blogspot.com/-xXbXtyw5oog/UQHeAyLlMKI/AAAAAAABYbE/aUnWvS_BxwA/s400/IMG_20130124_155449.jpg" alt="" />
+![Stanley Kubrick Exhibit at LACMA 5](/images/blog/IMG_20130124_155133.jpg)
 
-<img   border="0" src="https://2.bp.blogspot.com/-M8eD4wdV9rk/UQHeC-l7ImI/AAAAAAABYbk/4DHUV8-THVE/s400/IMG_20130124_160603.jpg" alt="" />
+![Stanley Kubrick Exhibit at LACMA 6](/images/blog/IMG_20130124_155449.jpg)
 
-<img   border="0"  src="https://2.bp.blogspot.com/-UwGxOMse7rU/UQHeFalPLpI/AAAAAAABYcE/xw2cLWeYkwk/s400/IMG_20130124_161031.jpg" alt="" />
+![Stanley Kubrick Exhibit at LACMA 7](/images/blog/IMG_20130124_160603.jpg)
 
-<img   border="0" src="https://4.bp.blogspot.com/-oC9QK0093sU/UQHeMvD4GrI/AAAAAAABYd8/HXdtTK56aio/s400/IMG_20130124_163048.jpg" alt="" />
+![Stanley Kubrick Exhibit at LACMA 8](/images/blog/IMG_20130124_161031.jpg)
+
+![Stanley Kubrick Exhibit at LACMA 9](/images/blog/IMG_20130124_163048.jpg)

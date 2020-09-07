@@ -7,39 +7,44 @@ headerimage: /images/headers/old_cameras.jpg
 modified_time: '2013-05-31T20:16:04.500-05:00'
 redirect_from: /2013/05/my-first-drink-and-click-la-event.html
 tags:
-  - Photography
   - Los Angeles
+  - Photography
   - Photowalk
-thumbnail: https://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s800/2013-05-30+at+19-48-35.jpg
+old_thumbnail: https://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s800/2013-05-30-at-19-48-35.jpg
+thumbnail: /images/blog/tn_2013-drink-and-click-la-group-shot.jpg
 title: My First Drink and Click LA Event
 ---
 
+Yesterday I attended my first [Drink and Click LA](https://plus.google.com/100658561128477270166/posts) event. I've been a member of the group for a while, but just never got around to attending one of their get-togethers. I really had fun talking shop with other photography enthusiasts from beginner to professionals levels. There was time to do some street photos, a little drinking, some eating, and lots of talking.
 
-Yesterday I attended my first <a href="https://plus.google.com/100658561128477270166/posts">Drink and Click LA</a> event. I've been a member of the group for a while, but just never got around to attending one of their get-togethers. I really had fun talking shop with other photography enthusiasts from beginner to professionals levels. There was time to do some street photos, a little drinking, some eating, and lots of talking.
-
-It's been a while since I attended a photography meetup of any kind. Last year I attended the <a href="/2012/05/google-plus-photographers-conference">G+ Photographer's Conference</a> up in San Francisco. There was a <a href="/2012/05/google-plus-photographers-photowalk-at">photowalk with Scott Kelby</a> I attended the day before that event, which was certainly fun. Other photowalks I attended last year were <a href="/2012/03/light-chasers-artwalk-downtown">Light Chasers Artwalk in Downtown LA</a> and <a href="/2012/02/la-photowalk-with-trey-ratcliff-and-tom">Santa Monica Photowalk with Trey Ratcliff and mySpace Tom</a>. Both fun and good learning experiences.
+It's been a while since I attended a photography meetup of any kind. Last year I attended the [G+ Photographer's Conference](/2012/05/google-plus-photographers-conference/) up in San Francisco. There was a [photowalk with Scott Kelby](/2012/05/google-plus-photographers-photowalk-at-golden-gate-park/) I attended the day before that event, which was certainly fun. Other photowalks I attended last year were [Light Chasers Artwalk in Downtown LA](/2012/03/light-chasers-artwalk-downtown) and [Santa Monica Photowalk with Trey Ratcliff and mySpace Tom](/2012/02/la-photowalk-with-trey-ratcliff-and-tom-anderson/). Both fun and good learning experiences.
 
 So as the name of the group implies, it's about getting some drinks and taking photos together. Alcohol is quite optional and there was some appetizers/food too. The point being it's a social event for photography enthusiasts that's based off the G+ social network. The group was very friendly and I look forward to future events!
 
 We made three stops throughout the evening and into the night:
-<ol>
-  <li><a href="https://www.lolasla.com/">Lola's</a></li>
-  <li><a href="https://www.surlygoat.com/">The Surly Goat</a></li>
-  <li><a href="https://www.cantersdeli.com/">Canter's Deli</a></li>
-</ol>
 
-My full set of pictures I took can be found <a href="https://plus.google.com/photos/101693597219413173200/albums/5884138675860285265">here</a>.
+1. [Lola's](https://www.lolasla.com/)
+2. [The Surly Goat](https://www.surlygoat.com/)
+3. [Canter's Deli](https://www.cantersdeli.com/)
+
+### Pictures
+
+My full set of pictures I took can be found [here](https://photos.app.goo.gl/V8qrg54h2qpBwuUA8).
 
 Here is a group picture I took at Lola's.
-<img   border="0"  src="https://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s640/2013-05-30+at+19-48-35.jpg" alt=""  />
+
+![Drink and Click Event LA 1](/images/blog/2013-05-30-at-19-48-35.jpg)
 
 On our way to Santa Monica Blvd, I took this shot of one of the group member who obliged to get back in this position he was in earlier.
-<img   border="0"  src="https://1.bp.blogspot.com/-RHAWmT2n2k8/UaipIjOSa0I/AAAAAAABc44/lSHGVzY9zHU/s400/2013-05-30+at+19-59-51.jpg" alt="" />
 
-<img   border="0" height="285" src="https://4.bp.blogspot.com/-V_xmsZIzu7c/UaipKSKjPUI/AAAAAAABc5A/AxpH9uwlANM/s400/2013-05-30+at+20-00-14.jpg" alt=""  />
+![Drink and Click Event LA 2](/images/blog/2013-05-30-at-19-59-51.jpg)
+
+![Drink and Click Event LA 3](/images/blog/2013-05-30-at-20-00-14.jpg)
 
 Playing with the shutter speed to paint some light.
-<img   border="0"  src="https://2.bp.blogspot.com/-FFJBe_D2mHg/UaipR_1VDcI/AAAAAAABc5o/lLwv9dpX8dw/s400/2013-05-30+at+21-21-35.jpg" alt=""  />
+
+![Drink and Click Event LA 4](/images/blog/2013-05-30-at-21-21-35.jpg)
 
 I liked this stack of newspapers at Canter's Deli.
-<img   border="0"  src="https://1.bp.blogspot.com/-azm8jLucaQY/UaipheOQ4vI/AAAAAAABc64/67qdIZFtWHc/s400/2013-05-30+at+23-47-45.jpg" alt=""  />
+
+![Drink and Click Event LA 5](/images/blog/2013-05-30-at-23-47-45.jpg)

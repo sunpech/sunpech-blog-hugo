@@ -10,7 +10,8 @@ tags:
   - Apple
   - Review
   - Technology
-thumbnail: https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s800/Screen+Shot+2013-06-13+at+1.26.39+AM.png
+old_thumbnail: https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s800/Screen-Shot-2013-06-13-at-1.26.39-AM.png
+thumbnail: /images/blog/tn_apple-hdd-overpriced.jpg
 title: Apple Compatible External Hard Drives Are Over-Priced
 ---
 
@@ -22,41 +23,48 @@ I'd like to focus on the external hard drives, since they are currently priced d
 Comparing 1TB and 2TB external USB 3. 0 Hard Drives for Macs from Amazon and Apple's web stores:
 
 #### 1TB: $116 (Amazon)
-<a href="https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s800/Screen+Shot+2013-06-13+at+1.26.39+AM.png" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s400/Screen+Shot+2013-06-13+at+1.26.39+AM.png" alt="" /></a>
 
-<i>(Note: above product not sold directly from Amazon, but a reseller)</i>
+![External Hard Drive 1](/images/blog/Screen-Shot-2013-06-13-at-1.26.39-AM.png)
 
-#### 1TB: $120 (Apple)
-<a href="https://2.bp.blogspot.com/-UF3F3jI50qA/UbmVlw4WGXI/AAAAAAABdPk/mysMjE5gNUk/s800/Screen+Shot+2013-06-13+at+2.48.30+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-UF3F3jI50qA/UbmVlw4WGXI/AAAAAAABdPk/mysMjE5gNUk/s400/Screen+Shot+2013-06-13+at+2.48.30+AM.png" alt=""  /></a>
+*(Note: above product not sold directly from Amazon, but a reseller)*
 
 #### 1TB: $120 (Apple)
-<a href="https://2.bp.blogspot.com/-i5hFfdZicUY/UbmWvBRPznI/AAAAAAABdP4/S5ShtM83E64/s800/Screen+Shot+2013-06-13+at+2.53.42+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-i5hFfdZicUY/UbmWvBRPznI/AAAAAAABdP4/S5ShtM83E64/s400/Screen+Shot+2013-06-13+at+2.53.42+AM.png" alt=""  /></a>
+
+![External Hard Drive 2](/images/blog/Screen-Shot-2013-06-13-at-2.48.30-AM.png)
+
+#### 1TB: $120 (Apple)
+
+![External Hard Drive 3](/images/blog/Screen-Shot-2013-06-13-at-2.53.42-AM.png)
 
 #### 2TB: $135 (Amazon)
-<a href="https://4.bp.blogspot.com/-iXouvBn2Tk0/UbmJ29TI4oI/AAAAAAABdOs/0EgkGrvNg1o/s800/Screen+Shot+2013-06-13+at+1.23.50+AM.png" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-iXouvBn2Tk0/UbmJ29TI4oI/AAAAAAABdOs/0EgkGrvNg1o/s400/Screen+Shot+2013-06-13+at+1.23.50+AM.png" alt="" /></a>
+
+![External Hard Drive 4](/images/blog/Screen-Shot-2013-06-13-at-1.23.50-AM.png)
 
 #### 2TB: $150 (Apple)
-<a href="https://2.bp.blogspot.com/-fHPnQ7UeyWA/UbmWu_589oI/AAAAAAABdP0/dq7adFE0Hik/s800/Screen+Shot+2013-06-13+at+2.53.04+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-fHPnQ7UeyWA/UbmWu_589oI/AAAAAAABdP0/dq7adFE0Hik/s400/Screen+Shot+2013-06-13+at+2.53.04+AM.png" alt=""  /></a>
+
+![External Hard Drive 5](/images/blog/Screen-Shot-2013-06-13-at-2.53.04-AM.png)
 
 Comparing 1TB and 2TB external USB 3.0 Hard Drives for Windows:
 
 #### 1TB: $80 (Amazon)
-<a href="https://1.bp.blogspot.com/-C20nFhyKiuo/UbmJ3YGUYjI/AAAAAAABdO4/wVD9x5-4HcQ/s800/Screen+Shot+2013-06-13+at+1.26.49+AM.png" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-C20nFhyKiuo/UbmJ3YGUYjI/AAAAAAABdO4/wVD9x5-4HcQ/s400/Screen+Shot+2013-06-13+at+1.26.49+AM.png" alt=""  /></a>
+
+![External Hard Drive 6](/images/blog/Screen-Shot-2013-06-13-at-1.26.49-AM.png)
 
 #### 2TB: $128 (Amazon)
-<a href="https://2.bp.blogspot.com/-7MwqxcNV1x0/UbmJ20RPEwI/AAAAAAABdO0/ekHUDm9zEOc/s800/Screen+Shot+2013-06-13+at+1.23.38+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-7MwqxcNV1x0/UbmJ20RPEwI/AAAAAAABdO0/ekHUDm9zEOc/s400/Screen+Shot+2013-06-13+at+1.23.38+AM.png" alt=""  /></a>
 
-<i>Note the screenshots of the prices above were taken on June 13, 2013.</i>
+![External Hard Drive 7](/images/blog/Screen-Shot-2013-06-13-at-1.23.38-AM.png)
+
+*Note the screenshots of the prices above were taken on June 13, 2013.*
 
 ### Results
 
-The 1TB Mac drive is <i>45-50% more expensive</i> than the comparable PC drive.
+The 1TB Mac drive is *45-50% more expensive* than the comparable PC drive.
 
-The 2TB Mac drive is <i>5-17% more expensive</i>.
+The 2TB Mac drive is *5-17% more expensive*.
 
 Comparing them, they are the same size and basically do the same things. It's just this Mac compatible product is priced at a premium.
 
-Well, yes the file system for Macs, HFS+ Journal, is different than Windows' NTFS. But here's the kicker, <b>Mac OS X can format NTFS drives to HFS+</b>. Simply formatting it will make it function just like the marketed Mac compatible product.
+Well, yes the file system for Macs, HFS+ Journal, is different than Windows' NTFS. But here's the kicker, **Mac OS X can format NTFS drives to HFS+**. Simply formatting it will make it function just like the marketed Mac compatible product.
 
 I verified this with an Apple genius when I asked what difference would be between a 1TB external hard drive sold at the Apple store, and a 1TB external hard drive with the same specs sold for a PC, but formatted into HFS+ Journal in Mac OS X. He sighed and said, "None".
 
@@ -64,13 +72,14 @@ I just don't think an intelligent person should spend $10-40 more on something j
 
 ### Formatting Your External Drive
 
-After connecting the external drive to your Mac, open up Utilities -&gt; <b>Disk Utility</b>, and find the drive and select <b>Partition</b> tab, and choose Format <b>Mac OS Extended (Journaled)</b>.
+After connecting the external drive to your Mac, open up Utilities -&gt; **Disk Utility**, and find the drive and select **Partition** tab, and choose Format **Mac OS Extended (Journaled)**.
 
 A screenshot of my system with my external drive(s) already formatted:
-<img   border="0" src="https://1.bp.blogspot.com/-JjhINuEeObE/UbmTRDOZuaI/AAAAAAABdPU/oxq2SFspDbk/s640/Screen+Shot+2013-06-13+at+2.38.57+AM.png" alt=""   />
 
-If you want to have an external hard drive that is compatible with both Mac OS X and Windows operating systems (OS), choose to format in <a href="https://en.wikipedia.org/wiki/ExFAT">exFAT</a> in this program. Both OSes will be able to read/write to this type of partition without any third party program.
+![External Hard Drive 1](/images/blog/Screen-Shot-2013-06-13-at-2.38.57-AM.png)
+
+If you want to have an external hard drive that is compatible with both Mac OS X and Windows operating systems (OS), choose to format in [exFAT](https://en.wikipedia.org/wiki/ExFAT) in this program. Both OSes will be able to read/write to this type of partition without any third party program.
 
 This is just like how geeks wouldn't let their friends/family, or anyone really, buy Monster brand HDMI cables at Best Buy, when they're so much cheaper to buy online. The marketing is misleading and is trying to part more money from you than it should.
 
-So in a nutshell, these Apple compatible external hard drives are over-priced. They're <i>functionally equivalent</i> drives that does the same exact thing that's much cheaper.
+So in a nutshell, these Apple compatible external hard drives are over-priced. They're *functionally equivalent* drives that does the same exact thing that's much cheaper.

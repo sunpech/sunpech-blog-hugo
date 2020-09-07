@@ -10,40 +10,41 @@ tags:
   - Comics
   - Movies
   - Review
-thumbnail: https://2.bp.blogspot.com/-b7Y5eWJwih0/Ub7XDQr14EI/AAAAAAABeaw/Kbe3Jp2udyY/s800/Screen+Shot+2013-06-17+at+2.29.29+AM.png
+old_thumbnail: https://2.bp.blogspot.com/-b7Y5eWJwih0/Ub7XDQr14EI/AAAAAAABeaw/Kbe3Jp2udyY/s800/Screen+Shot+2013-06-17+at+2.29.29+AM.png
+thumbnail: /images/blog/tn_man-of-steel-review.jpg
 title: Man of Steel Review
 ---
 
 
-<a href="https://www.imdb.com/title/tt0770828/">Man of Steel</a> is the best take on <a href="https://www.imdb.com/title/tt0078346/">Superman</a> movie since <a href="https://en.wikipedia.org/wiki/Christopher_Reeve">Christopher Reeve</a> donned the role. For me, he set the bar as to what Superman was before anything. Immediately after watching the movie, I said I liked it. But after sleeping on it and thinking about it more and more, I've come to like it less and less.
+[Man of Steel](https://www.imdb.com/title/tt0770828/) is the best take on [Superman](https://www.imdb.com/title/tt0078346/) movie since [Christopher Reeve](https://en.wikipedia.org/wiki/Christopher_Reeve) donned the role. For me, he set the bar as to what Superman was before anything. Immediately after watching the movie, I said I liked it. But after sleeping on it and thinking about it more and more, I've come to like it less and less.
 
-<b>SPOILERS below. You have been warned.</b>
+**SPOILERS below. You have been warned.**
 
-<img   border="0" src="https://2.bp.blogspot.com/-b7Y5eWJwih0/Ub7XDQr14EI/AAAAAAABeaw/Kbe3Jp2udyY/s640/Screen+Shot+2013-06-17+at+2.29.29+AM.png" alt="" />
+![Man of Steel](/images/blog/Screen-Shot-2013-06-17-at-2.29.29-AM.png)
 
 ### What I liked:
 
-It's <i>a new take on Superman</i>. It's a slightly darker, more gloomier Krypton/Metropolis/Smallville world which we are introduced to. We get a much richer view of Krypton as a technologically advanced civilization unlike before. This helps emphasize that Superman is an alien, from another planet. It has a sci-fi feel to it, and the movie isn't a campy superhero movie.
+It's *a new take on Superman*. It's a slightly darker, more gloomier Krypton/Metropolis/Smallville world which we are introduced to. We get a much richer view of Krypton as a technologically advanced civilization unlike before. This helps emphasize that Superman is an alien, from another planet. It has a sci-fi feel to it, and the movie isn't a campy superhero movie.
 
 The action sequences are also very good. Only in the animated cartoons do fans see Superman take such punishment time after time. It's nice to see a movie fully imagine someone with god-like powers fight on this planet.
 
 The first act, covering the origin on Krypton and Smallville-- everything before General Zod's appearance on Earth is very good. I almost cried.
 
-How Lois first meets the Man of Steel is reversed from traditional canon. In the movie, she meets him before he even dons the uniform, and even before he is goes to the Daily Planet as Clark Kent. I'm open to this idea-- we saw this spin already in the <a href="https://en.wikipedia.org/wiki/Smallville">Smallville TV show</a>.
+How Lois first meets the Man of Steel is reversed from traditional canon. In the movie, she meets him before he even dons the uniform, and even before he is goes to the Daily Planet as Clark Kent. I'm open to this idea-- we saw this spin already in the [Smallville TV show](https://en.wikipedia.org/wiki/Smallville).
 
-Similar to <a href="https://www.imdb.com/title/tt0348150/">Superman Returns</a>, there is a touch of loneliness that Superman feels, that he doesn't know where he came from, who his people were, his parents etc. I liked how they touched on that once again. In the animated TV show, this is rarely touched upon. Superman is always expected to always be strong, save people, do the right thing, and just appear to be happy with his god-like powers.
+Similar to [Superman Returns](https://www.imdb.com/title/tt0348150/), there is a touch of loneliness that Superman feels, that he doesn't know where he came from, who his people were, his parents etc. I liked how they touched on that once again. In the animated TV show, this is rarely touched upon. Superman is always expected to always be strong, save people, do the right thing, and just appear to be happy with his god-like powers.
 
-The father/son relationship between Kal-El (Superman) and Jor-El is solid. I'm a sucker for father/son relationship stories. <a href="https://www.imdb.com/name/nm0000128/">Russell Crowe</a> nailed it as Jor-El. <a href="https://www.imdb.com/name/nm0000126/">Kevin Costner </a>is just okay as Jonathan Kent.
+The father/son relationship between Kal-El (Superman) and Jor-El is solid. I'm a sucker for father/son relationship stories. [Russell Crowe](https://www.imdb.com/name/nm0000128/) nailed it as Jor-El. [Kevin Costner](https://www.imdb.com/name/nm0000126/) is just okay as Jonathan Kent.
 
-<img   border="0" src="https://1.bp.blogspot.com/-swmomOz89a0/Ub7dWhkT65I/AAAAAAABebA/eF4cSbB3KCg/s800/Screen+Shot+2013-06-17+at+2.55.49+AM.png" alt="" />
+![Russell Crowe as Jor-El](/images/blog/Screen-Shot-2013-06-17-at-2.55.49-AM.png)
 
-Their choice of the Man of Steel, <a href="https://www.imdb.com/name/nm0147147/">Henry Cavill</a> is fantastic. I really believe he is Superman. He does look a bit like <a href="https://en.wikipedia.org/wiki/Tom_Welling">Tom Welling</a> from Smallville, but way more buff and grittier. No doubt Cavill's role in <a href="https://www.imdb.com/title/tt1253864/">Immortals</a> may have something to do with it.
+Their choice of the Man of Steel, [Henry Cavill](https://www.imdb.com/name/nm0147147) is fantastic. I really believe he is Superman. He does look a bit like [Tom Welling](https://en.wikipedia.org/wiki/Tom_Welling) from Smallville, but way more buff and grittier. No doubt Cavill's role in [Immortals](https://www.imdb.com/title/tt1253864/) may have something to do with it.
 
-<img   border="0" src="https://1.bp.blogspot.com/-vBs9avXTh5I/Ub7QnjvityI/AAAAAAABeag/oJUICHJLur4/s800/man_of_steel.jpg" alt="" />
+![Henry Cavill as Superman](/images/blog/man_of_steel.jpg)
 
 ### What I didn't like:
 
-Lois and Clark's relationship just wasn't deep or strong. Maybe this had something to do with the editing. The way the movie ended maybe really is just to say that there's more between them to look forward to, which is good. But if that's so, then maybe their relationship in <i>this movie </i>should have been a bit more platonic.
+Lois and Clark's relationship just wasn't deep or strong. Maybe this had something to do with the editing. The way the movie ended maybe really is just to say that there's more between them to look forward to, which is good. But if that's so, then maybe their relationship in *this movie *should have been a bit more platonic.
 
 Choppy editing throughout third act, and some degree throughout the movie. This is endemic in the movie industry now, where the trailer leads us to believe that the movie is super awesome, when really, it's just that one clip, chosen, if not created specifically for the trailer.
 
@@ -57,9 +58,9 @@ The movie is a little too bleak. The colors throughout the movie matches the col
 
 ### Conclusion
 
-Overall, I liked the movie. It's not a bad movie by any means. It very much diverts from the traditional Superman stories. I would describe it as <b>Sci-Fi Superman</b>, which it succeeds at.
+Overall, I liked the movie. It's not a bad movie by any means. It very much diverts from the traditional Superman stories. I would describe it as **Sci-Fi Superman**, which it succeeds at.
 
-I'm being critical of one my favorite superheroes. Up to this point, my generation has had a Superman that is more lively and colorful than presented in this film. I wonder now, for the first time not only in this movie, but in some comics and video game, we are seeing a more darker Superman. See <a href="https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us">Injustice: Gods Among Us</a> (although it deals with another universes's villainous Superman).
+I'm being critical of one my favorite superheroes. Up to this point, my generation has had a Superman that is more lively and colorful than presented in this film. I wonder now, for the first time not only in this movie, but in some comics and video game, we are seeing a more darker Superman. See [Injustice: Gods Among Us](https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us) (although it deals with another universes's villainous Superman).
 
 Superman is the modern-day mythology's hero. He says a lot about us as humans, what we wish for; incredible powers, strength, speed, invulnerability, compassion, truth, justice, etc. But it seems that there are portions of the movie, coming from Jonathan Kent of all people, that he should somehow not act on what Clark thinks is right, out of some concern that people will not accept or fear him-- that the world isn't ready.
 
