@@ -7,70 +7,69 @@ headerimage: /images/headers/san_diego_comic_con.jpg
 modified_time: '2014-09-29T17:25:24.475-05:00'
 redirect_from: /2014/07/san-diego-comic-con-2014.html
 tags:
-  - Comic Con
   - Cosplay
   - San Diego
   - San Diego Comic Con
-thumbnail: https://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s800/2014-07-23+at+13-48-44.jpg
+old_thumbnail: https://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s800/2014-07-23-at-13-48-44.jpg
+thumbnail: /images/blog/tn_2014-sdcc.jpg
 title: San Diego Comic Con 2014
 ---
 
+Last week I as in San Diego for [Comic Con](https://www.comic-con.org/cci) (SDCC). This visit marks my fourth visit to San Diego's Comic Con, with *next year (2015) marking twenty years since I attended my first comic con in Chicago*. I cannot believe it's been that long since I first ventured into a convention
 
-Last week I as in San Diego for <a href="https://www.comic-con.org/cci">Comic Con</a> (SDCC). This visit marks my fourth visit to San Diego's Comic Con, with <i>next year (2015) marking twenty years since I attended my first comic con in Chicago</i>. I cannot believe it's been that long since I first ventured into a convention
+![2014 San Diego Comic Con - 1](/images/blog/2014-07-23-at-13-48-44.jpg)
 
-<a href="https://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s800/2014-07-23+at+13-48-44.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s800/2014-07-23+at+13-48-44.jpg" alt=""   /></a>
+This year I didn't take as many pictures as I did in previous years. I think it's mostly because I'm more interested in attending panels and enjoying myself. Just a few weeks ago I was at [Anime Expo 2014](/2014/07/anime-expo-2014) (AX) and took a lot of photos of cosplayers. AX honestly has the best cosplay I've ever seen. Although SDCC has a greater number of attendees and ultimately cosplayers, the quality of craftsmanship of AX cosplayers is unmatched except maybe for [DragonCon](https://www.dragoncon.org/).
 
-This year I didn't take as many pictures as I did in previous years. I think it's mostly because I'm more interested in attending panels and enjoying myself. Just a few weeks ago I was at <a href="/2014/07/anime-expo-2014">Anime Expo 2014</a> (AX) and took a lot of photos of cosplayers. AX honestly has the best cosplay I've ever seen. Although SDCC has a greater number of attendees and ultimately cosplayers, the quality of craftsmanship of AX cosplayers is unmatched except maybe for <a href="https://www.dragoncon.org/">DragonCon</a>.
-
-<a href="https://www.tested.com/">Tested</a> has a nice set of cosplay pictures <a href="https://www.tested.com/art/makers/462936-comic-con-2014-cosplay-gallery-750-photos/">here</a>, 750+ photos.
+[Tested](https://www.tested.com/) has a nice set of cosplay pictures [here](https://www.tested.com/art/makers/462936-comic-con-2014-cosplay-gallery-750-photos/), 750- photos.
 
 ## Comic Con: The Good
 
-I like how <b>there's a variety of celebrities, panels, and activities</b> across so many genres such as Sci-Fi, Fantasy, Comics, Writers, Artists, Movies, TV shows, Anime fans, Video games, Toy collectors, etc. It truly is the ultimate geek playground for such a wide range of interests. Comic Con gets better and better at this every year.
+I like how **there's a variety of celebrities, panels, and activities** across so many genres such as Sci-Fi, Fantasy, Comics, Writers, Artists, Movies, TV shows, Anime fans, Video games, Toy collectors, etc. It truly is the ultimate geek playground for such a wide range of interests. Comic Con gets better and better at this every year.
 
 #### Celebrities
 
-<a href="https://2.bp.blogspot.com/-_tD7GHSBnCI/U9l-0M6b02I/AAAAAAABv0k/XLEYqL4Lhv4/s800/2014+SDCC+-+Celebrities+Collage.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-_tD7GHSBnCI/U9l-0M6b02I/AAAAAAABv0k/XLEYqL4Lhv4/s800/2014+SDCC+-+Celebrities+Collage.jpg" alt=""   /></a>
+![2014 SDCC Celebrities Collage](/images/blog/2014-SDCC---Celebrities-Collage.jpg)
 
 #### Toys, toys, toys
 
-<a href="https://4.bp.blogspot.com/-ma7hgQrjHTc/U9mJiP6gkCI/AAAAAAABv1U/uqCm9BB4xLE/s800/2014+SDCC+-+Toys+Collage.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-ma7hgQrjHTc/U9mJiP6gkCI/AAAAAAABv1U/uqCm9BB4xLE/s800/2014+SDCC+-+Toys+Collage.jpg" alt=""   /></a>
+![2014 SDCC Toys Collage](/images/blog/2014-SDCC---Toys-Collage.jpg)
 
 #### Events and booths
 
-<a href="https://2.bp.blogspot.com/-O-8GrdGRIi4/U9mHnKdikOI/AAAAAAABv1A/njn7nI23gEA/s800/2014+SDCC+-+Events.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-O-8GrdGRIi4/U9mHnKdikOI/AAAAAAABv1A/njn7nI23gEA/s800/2014+SDCC+-+Events.jpg" alt=""   /></a>
+![2014 SDCC Events](/images/blog/2014-SDCC---Events.jpg)
 
 #### Gotham Zip Line
 
-<a href="https://3.bp.blogspot.com/-uqN9YfGp2Ww/U9dIp3CoygI/AAAAAAABvYM/SU93Z5K5Pvg/s800/2014-07-25+at+11-28-23.jpg" alt="" ><img   border="0" src="https://3.bp.blogspot.com/-uqN9YfGp2Ww/U9dIp3CoygI/AAAAAAABvYM/SU93Z5K5Pvg/s800/2014-07-25+at+11-28-23.jpg" alt="" height="286"  /></a>
+![Gotham zip line](/images/blog/2014-07-25-at-11-28-23.jpg)
 
-Picking up tickets is really easy if you pick it up on Wednesday or Thursday-- especially if you have Preview Night. <b>There's virtually no wait in line</b>, just walk the 2-3 minutes up the escalator straight to one of the many service desks.
+Picking up tickets is really easy if you pick it up on Wednesday or Thursday-- especially if you have Preview Night. **There's virtually no wait in line**, just walk the 2-3 minutes up the escalator straight to one of the many service desks.
 
 The industry has a strong influence to give out freebies, put together sneak peaks of upcoming movies and TV shows, as well as have the big name directors/actors show up and do panels. There's no other convention that comes close to what is now pop-culture and media is at Comic Con.
 
 ## Comic Con: The Bad
 
-As fun as Comic Con is, there are many problems that occur given the size, popularity, and nature of a convention. For one, <b>Comic Con is too big now</b>. Big as in, it's not comfortable to do a lot of things. The big panels for Hall H and Ballroom 20 require dedication like no other just to get in now. Before maybe getting in line at 4-5am would have been enough, but with <a href="https://sdccblog.com/2014/07/comic-con-international-issuing-wristbands-for-hall-h-entry/">this year's wristband system</a>, many were camping out the evening before!
+As fun as Comic Con is, there are many problems that occur given the size, popularity, and nature of a convention. For one, **Comic Con is too big now**. Big as in, it's not comfortable to do a lot of things. The big panels for Hall H and Ballroom 20 require dedication like no other just to get in now. Before maybe getting in line at 4-5am would have been enough, but with [this year's wristband system](https://sdccblog.com/2014/07/comic-con-international-issuing-wristbands-for-hall-h-entry/), many were camping out the evening before!
 
-Also see: <a href="https://www.theverge.com/2014/7/29/5948157/can-we-talk-about-comic-con-and-hall-h-for-a-second">Can we talk about the awful side of Comic-Con and Hall H for a second?</a>
+Also see: [Can we talk about the awful side of Comic-Con and Hall H for a second?](https://www.theverge.com/2014/7/29/5948157/can-we-talk-about-comic-con-and-hall-h-for-a-second)
 
 Not to mention the confusion, safety issues, and just plain bad management of the huge lines.
 
-Here's a story where someone outright lied to my face. On <i>Friday</i> near the Batman zip line, I asked some people sitting down eating in what appeared to be a line, what they were in line for. I was curious because I read that <i>there's not supposed to be any official line for Saturday's Hall H panels during the day</i>. Well, these guys told me they weren't in line, just sitting there for a picnic. I later found out in <a href="https://www.conshark.com/2014/i-no-longer-write-for-the-san-diego-comic-con-unofficial-blog-heres-why/">an article</a> that <b>some people took it upon themselves to line up in a secret unofficial line</b>, basically cheating the announcement and system that was in place.
+Here's a story where someone outright lied to my face. On *Friday* near the Batman zip line, I asked some people sitting down eating in what appeared to be a line, what they were in line for. I was curious because I read that *there's not supposed to be any official line for Saturday's Hall H panels during the day*. Well, these guys told me they weren't in line, just sitting there for a picnic. I later found out in [an article](https://www.conshark.com/2014/i-no-longer-write-for-the-san-diego-comic-con-unofficial-blog-heres-why/) that **some people took it upon themselves to line up in a secret unofficial line**, basically cheating the announcement and system that was in place.
 
-Check out the <a href="https://public.tableausoftware.com/profile/kuangkeng#!/vizhome/shared/KM2MYTDM6">Comic Con Attendance 1970-2014</a> (graph shown below).
+Check out the [Comic Con Attendance 1970-2014](https://public.tableausoftware.com/profile/kuangkeng#!/vizhome/shared/KM2MYTDM6) (graph shown below).
 
-<a href="https://2.bp.blogspot.com/-u8bTjMDz3as/U9j7L946SmI/AAAAAAABvyM/CW36sIIBZno/s800/Screen+Shot+2014-07-30+at+7.02.51+AM.png" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-u8bTjMDz3as/U9j7L946SmI/AAAAAAABvyM/CW36sIIBZno/s800/Screen+Shot+2014-07-30+at+7.02.51+AM.png" alt="" height="468"  /></a>
+![Comic Con History](/images/blog/Screen-Shot-2014-07-30-at-7.02.51-AM.png)
 
 The numbers of attendees grew from roughly 150 people in 1970 to 150,000 people this year! That's nearly a 1000% growth!
 
-<b>The shopping experience is also a mess</b>. Everyday from preview night to the last day of the con, there's people lined up to buy exclusives and other merchandise nearly the entire time. Rest assured that merchandising is not dead-- there are people spending in the thousands of dollars, just not as much on comics until the last day.
+**The shopping experience is also a mess**. Everyday from preview night to the last day of the con, there's people lined up to buy exclusives and other merchandise nearly the entire time. Rest assured that merchandising is not dead-- there are people spending in the thousands of dollars, just not as much on comics until the last day.
 
-There's also been <b>a lot of reports of sexual harassment of female cosplayers</b>. See: <a href="https://www.planetplatypus.com/adrianne-curry-defends-cosplayer/">Adrianne Curry Defends Cosplayer from Sexual Assault at Comic Con</a>. Although I've never seen anything like that at SDCC, I did see something inappropriate at AX involving a photographer and a cosplayer tying her shoe. What happened was wrong and I feel ashamed for not calling it out when I saw right when I did.
+There's also been **a lot of reports of sexual harassment of female cosplayers**. See: [Adrianne Curry Defends Cosplayer from Sexual Assault at Comic Con](https://www.planetplatypus.com/adrianne-curry-defends-cosplayer/). Although I've never seen anything like that at SDCC, I did see something inappropriate at AX involving a photographer and a cosplayer tying her shoe. What happened was wrong and I feel ashamed for not calling it out when I saw right when I did.
 
-The streets are filled with tens of thousands of pedestrians walking to and from the <a href="https://www.sdccc.org/">San Diego Convention Center</a>. Although there are many officers and marked signs to help to manage the traffic, <b>there's not nearly enough police to keep people safe</b>.
+The streets are filled with tens of thousands of pedestrians walking to and from the [San Diego Convention Center](https://www.sdccc.org/). Although there are many officers and marked signs to help to manage the traffic, **there's not nearly enough police to keep people safe**.
 
-See: <a href="https://www.youtube.com/watch?v=p1W6s5179uM&amp;feature=youtu.be">Zombie Walk 2014 Hit and Run Accident</a>
+See: [Zombie Walk 2014 Hit and Run Accident](https://www.youtube.com/watch?v=p1W6s5179uM&amp;feature=youtu.be)
 
 ### Panel Playbacks
 
@@ -82,38 +81,38 @@ However, there's still the problem with playbacks not able to show any on screen
 
 Here are the collection of picture albums from all five days (including Preview Night):
 
-<ul>
-  <li><a href="https://www.facebook.com/media/set/?set=a.732763986788628.1073741866.408588035872893&amp;type=1">San Diego Comic Con - Day 0 (Preview Night)</a></li>
-  <li><a href="https://www.facebook.com/media/set/?set=a.732774293454264.1073741867.408588035872893&amp;type=1">San Diego Comic Con - Day 1</a></li>
-  <li><a href="https://www.facebook.com/media/set/?set=a.732977446767282.1073741868.408588035872893&amp;type=1">San Diego Comic Con - Day 2</a></li>
-  <li><a href="https://www.facebook.com/media/set/?set=a.733043936760633.1073741869.408588035872893&amp;type=1">San Diego Comic Con - Day 3</a></li>
-  <li><a href="https://www.facebook.com/media/set/?set=a.733058993425794.1073741870.408588035872893&amp;type=1">San Diego Comic Con - Day 4</a></li>
-</ul>
+
+* [San Diego Comic Con - Day 0 (Preview Night)](https://www.facebook.com/media/set/?set=a.732763986788628.1073741866.408588035872893&amp;type=1)
+* [San Diego Comic Con - Day 1](https://www.facebook.com/media/set/?set=a.732774293454264.1073741867.408588035872893&amp;type=1)
+* [San Diego Comic Con - Day 2](https://www.facebook.com/media/set/?set=a.732977446767282.1073741868.408588035872893&amp;type=1)
+* [San Diego Comic Con - Day 3](https://www.facebook.com/media/set/?set=a.733043936760633.1073741869.408588035872893&amp;type=1)
+* [San Diego Comic Con - Day 4](https://www.facebook.com/media/set/?set=a.733058993425794.1073741870.408588035872893&amp;type=1)
+
 
 #### Cosplay
 
-<a href="https://1.bp.blogspot.com/-lASjSQtMVzo/U9mIhHQzCzI/AAAAAAABv1M/agagsMoVD9E/s800/2014+SDCC+-+Cosplay+Collage.jpg" alt="" ><img   border="0" src="https://1.bp.blogspot.com/-lASjSQtMVzo/U9mIhHQzCzI/AAAAAAABv1M/agagsMoVD9E/s800/2014+SDCC+-+Cosplay+Collage.jpg" alt=""   /></a>
+![2014 SDCC Cosplay Collage](/images/blog/2014-SDCC---Cosplay-Collage.jpg)
 
-Please check out <a href="https://www.cinemamakeup.com/">Cinema Makeup School</a>. They had a booth there where they showed how they assembled and applied all the makeup on many great cosplayers.
+Please check out [Cinema Makeup School](https://www.cinemamakeup.com/). They had a booth there where they showed how they assembled and applied all the makeup on many great cosplayers.
 
 Apocalypse being put together.
 
-<a href="https://4.bp.blogspot.com/-EiDcTGZKrP8/U9dIiUtcuwI/AAAAAAABvXM/thhu56ydPck/s800/2014-07-25+at+10-44-34.jpg" alt="" ><img   border="0" src="https://4.bp.blogspot.com/-EiDcTGZKrP8/U9dIiUtcuwI/AAAAAAABvXM/thhu56ydPck/s800/2014-07-25+at+10-44-34.jpg" alt=""   /></a>
+![SDCC Apocalpyse](/images/blog/2014-07-25-at-10-44-34.jpg)
 
-I am on Instagram at: <a href="https://instagram.com/sunpech">https://instagram.com/sunpech</a>. I tend to post quick edits up there first, so follow me there if you want an almost daily-instant photos I take.
+I am on Instagram at: [instagram.com/sunpech](https://instagram.com/sunpech). I tend to post quick edits up there first, so follow me there if you want an almost daily-instant photos I take.
 
 ## Final Thoughts
 
-<a href="https://2.bp.blogspot.com/-4YI5s6JfjIU/U9dGjIvNkwI/AAAAAAABvGM/M8pXiNolBI4/s800/2014-07-23+at+14-38-43.jpg" alt="" ><img   border="0" src="https://2.bp.blogspot.com/-4YI5s6JfjIU/U9dGjIvNkwI/AAAAAAABvGM/M8pXiNolBI4/s800/2014-07-23+at+14-38-43.jpg" alt="" height="358"  /></a>
+![2014 SDCC Convention Center](/images/blog/2014-07-23-at-14-38-43.jpg)
 
 Let's face it. Comic con is not so much about comics anymore. It's mostly for Hollywood and industries to promote their new movies, shows, games, and other over-priced gimmicky exclusives. The panels that are actually about comics are the ones that area easy to get into and mostly don't even fill up completely.
 
 Also see: <a href="https://comics-x-aminer.com/2014/07/27/mile-high-comics-to-not-return-to-sdcc/">Mile High Comics To Not Return To SDCC</a>.
 
-Someone mentioned on <a href="https://www.reddit.com/r/comiccon/">/r/comiccon</a> subreddit: <a href="https://www.reddit.com/r/comiccon/comments/2bqqpf/why_doesnt_sdcc_do_something_similar_to_blizzcons/">Why doesn't SDCC do something similar to Blizzcon's "virtual ticket"?</a> Yes the logistics would be difficult, as there are many studios and companies involved, but given the popularity and demand, I think <i>there's money to be made worldwide</i> from this. There's already so much coverage by the press, bloggers, and all the social media savvy attendees that <i>everything is virtually livestreamed anyway</i>. <b>Instead of Hollywood trying to fight all the leaked footage, why not embrace it and/or even profit from it?</b>
+Someone mentioned on [/r/comiccon](https://www.reddit.com/r/comiccon/) subreddit: [Why doesn't SDCC do something similar to Blizzcon's "virtual ticket"?](https://www.reddit.com/r/comiccon/comments/2bqqpf/why_doesnt_sdcc_do_something_similar_to_blizzcons/) Yes the logistics would be difficult, as there are many studios and companies involved, but given the popularity and demand, I think *there's money to be made worldwide* from this. There's already so much coverage by the press, bloggers, and all the social media savvy attendees that *everything is virtually livestreamed anyway*. **Instead of Hollywood trying to fight all the leaked footage, why not embrace it and/or even profit from it?**
 
 I'd like to see a Comic Con offer a pay-per-view event livestream in the future. It would certainly help cut back on the craziness that's happening there if fans could watch it from the comfort of their own home-- and still feel connected to all that's going on. But given the backwards nature of corporations on embracing new media, I don't see this happening anytime soon.
 
-<b>A more realistic solution to the massive popularity of Comic Con, is to have more comic conventions and events</b>. SDCC can't be the only game in town to house all the studios and entertainment. There just needs to be more events that serve a niche crowd and interest(s), all throughout the year. For example AX is doing a good job-- their only problem is that they're outgrowing the LA Convention Center.
+**A more realistic solution to the massive popularity of Comic Con, is to have more comic conventions and events**. SDCC can't be the only game in town to house all the studios and entertainment. There just needs to be more events that serve a niche crowd and interest(s), all throughout the year. For example AX is doing a good job-- their only problem is that they're outgrowing the LA Convention Center.
 
-Even with all the negative reviews of SDCC from myself and others, I still plan to go next year. The next convention I plan to attend this year is <a href="https://comikazeexpo.com/">Comikaze Expo</a>, Oct 31-Nov 2, 2014. This will be their fourth con and they are improving greatly each year.
+Even with all the negative reviews of SDCC from myself and others, I still plan to go next year. The next convention I plan to attend this year is [Comikaze Expo](https://comikazeexpo.com/), Oct 31-Nov 2, 2014. This will be their fourth con and they are improving greatly each year.

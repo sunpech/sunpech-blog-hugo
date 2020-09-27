@@ -9,26 +9,32 @@ redirect_from: /2014/02/photos-from-griffith-observatory.html
 tags:
   - Los Angeles
   - Photography
-thumbnail: https://2.bp.blogspot.com/-NkvvpZOgOgE/UvCCLn6JzVI/AAAAAAABmNA/4fjFbzC6Smc/s800/2014-02-03+at+06-15-00.jpg
+old_thumbnail: https://2.bp.blogspot.com/-NkvvpZOgOgE/UvCCLn6JzVI/AAAAAAABmNA/4fjFbzC6Smc/s800/2014-02-03-at-06-15-00.jpg
+thumbnail: /images/blog/tn_2014-griffith-observatory.jpg
 title: Photos from Griffith Observatory
 ---
 
+I use [500px](https://500px.com) to do research on where I want to go take pictures and what kind of shots to do. [One in particular](https://500px.com/photo/44626440) compelled me to go to Griffith Park to get a shot of the [Griffith Observatory](https://www.griffithobs.org) as well as LA's skyline.
 
-I use <a href="https://500px.com/">500px</a> to do research on where I want to go take pictures and what kind of shots to do. <a href="https://500px.com/photo/44626440">One in particular </a>compelled me to go to Griffith Park to get a shot of the <a href="https://www.griffithobs.org/">Griffith Observatory</a> as well as LA's skyline.
+### Griffith Observatory Before Sunrise
 
-#### Griffith Observatory Before Sunrise
-Buy print: <a href="https://500pxart.com/photo/59933986">https://500pxart.com/photo/59933986</a>
-<img   border="0" src="https://2.bp.blogspot.com/-NkvvpZOgOgE/UvCCLn6JzVI/AAAAAAABmNA/4fjFbzC6Smc/s800/2014-02-03+at+06-15-00.jpg" alt=""   />
+Buy print: [https://500px.com/photo/59933986](https://500px.com/photo/59933986)
 
-#### Griffith Observatory (After Sunrise)
-Buy print: <a href="https://500pxart.com/photo/59957370">https://500pxart.com/photo/59957370</a>
-<img   border="0" src="https://2.bp.blogspot.com/-ZOsIDNyLfco/UvDB3jba6WI/AAAAAAABmOA/FkG5ZB8s3Vw/s800/2014-02-03+at+07-08-48.jpg" alt=""   />
+![Griffith Observatory 1](/images/blog/2014-02-03-at-06-15-00.jpg)
+
+### Griffith Observatory (After Sunrise)
+
+Buy print: [https://500px.com/photo/59957370](https://500px.com/photo/59957370)
+
+![Griffith Observatory 1](/images/blog/2014-02-03-at-07-08-48.jpg)
 
 I went on a different day and night to get a night shot of the Observatory as well as LA's skyline (see below). This is my favorite shot, as I consider LA to be more of a city lights kind of city. Any daylight photos would be better served on the beaches of LA.
 
-#### Griffith Observatory at Night
-Buy print:<a href="https://500pxart.com/photo/60086824">https://500pxart.com/photo/60086824</a>
-<img   border="0" src="https://4.bp.blogspot.com/-xPQT8reE-QE/UvH262pHTdI/AAAAAAABmO0/0Jg_Wk-9Tkk/s800/2014-02-04+at+20-37-54.jpg" alt=""   />
+### Griffith Observatory at Night
+
+Buy print: [https://500px.com/photo/60086824](https://500px.com/photo/60086824)
+
+![Griffith Observatory 2](/images/blog/2014-02-04-at-20-37-54.jpg)
 
 ### On Getting Lost
 
@@ -42,22 +48,24 @@ The third time was the charm. I went even earlier, at 5:40am. Took the Mt. Holly
 
 Below is the map of the area and the paths I took:
 
-<span style="color: #ea9999;">Pink</span>, is the original, planned path I wanted to go on.
-<span style="color: #b6d7a8;">Green</span>, is the actual path I went on today. Looks more like I went almost 4 times the distance!
-<span style="color: #6fa8dc;">Blue</span>, is the last path I went on that actually took me to the spot I wanted.
+* <span style="color: #ea9999;">Pink</span>, is the original, planned path I wanted to go on.
+* <span style="color: #b6d7a8;">Green</span>, is the actual path I went on today. Looks more like I went almost 4 times the distance!
+* <span style="color: #6fa8dc;">Blue</span>, is the last path I went on that actually took me to the spot I wanted.
 
-<img   border="0" src="https://2.bp.blogspot.com/-8EuOO-f91Ik/UuzOV4Xb_pI/AAAAAAABmJs/mn3_XOXq4s0/s800/Screen_Shot_2014-01-31_at_6_49_20_PM.jpg" alt=""   />
+![Griffith Observatory 3](/images/blog/Screen_Shot_2014-01-31_at_6_49_20_PM.jpg)
 
 Here is another shot of Griffith Observatory with all the trailers and sets from the Glee crew:
-<img   border="0" src="https://3.bp.blogspot.com/-VWKt5ZeWMMU/UvDrzKPJAlI/AAAAAAABmOQ/R4kubdI5EM4/s800/2014-02-03+at+06-59-26.jpg" alt=""   />
+
+![Griffith Observatory 4](/images/blog/2014-02-03-at-06-59-26.jpg)
 
 Some observations I've made about going to Griffith Park:
-<ol>
-  <li>It can be a bit scary hiking in the morning when there's no sunlight. I did end up purchasing a <a href="https://www.amazon.com/gp/product/B002MFK7H2/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B002MFK7H2&amp;linkCode=as2&amp;tag=sunpech-20">Energizer Pro 7 LED Headlamp</a>.</li>
-  <li>No matter how early you get to Griffith Park, someone will be there hiking even earlier.</li>
-  <li>Many Koreans and elderly folks are there walking in groups or even as couples.</li>
-  <li>There are tons of hiking/biking trails in Griffith Park. I definitely want to go back there with friends.</li>
-  <li>At night, there aren't as many hikers as in the morning.</li>
-</ol>
 
-To see other pictures I've take in 2014 in the Los Angeles area, <a href="https://plus.google.com/photos/101693597219413173200/albums/5971477409792464481">click here</a>.
+1. It can be a bit scary hiking in the morning when there's no sunlight. I did end up purchasing a [Energizer Pro 7 LED Headlamp](https://www.amazon.com/gp/product/B002MFK7H2/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B002MFK7H2&amp;linkCode=as2&amp;tag=sunpech-20)
+2. No matter how early you get to Griffith Park, someone will be there hiking even earlier.
+3. Many Koreans and elderly folks are there walking in groups or even as couples.
+4. There are tons of hiking/biking trails in Griffith Park. I definitely want to go back there with friends.
+5. At night, there aren't as many hikers as in the morning.
+
+To see other pictures I've take in 2014 in the Los Angeles area, [click here](https://photos.app.goo.gl/TBogJFS3KQFrqfjVA).
+
+*Update September 10, 2020 - Changed 500pxart.com links to 500px.com*
